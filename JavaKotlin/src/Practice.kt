@@ -1,3 +1,3 @@
 fun main() {
-    print("asdf")
+    print(7/2)
 }
