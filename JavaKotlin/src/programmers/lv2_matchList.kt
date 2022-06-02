@@ -1,3 +1,5 @@
+package programmers
+
 class Solution4 {
     fun solution(n: Int, a: Int, b: Int): Int {
 

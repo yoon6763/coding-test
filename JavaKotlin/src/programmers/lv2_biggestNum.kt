@@ -1,3 +1,5 @@
+package programmers
+
 fun main() {
     val solution = Solution2()
     print(solution.solution(intArrayOf(3, 30, 34, 5, 9)))
