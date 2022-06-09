@@ -1,4 +1,4 @@
-package baekjoon.g1
+package baekjoon.gold.g5
 
 import kotlin.math.abs
 

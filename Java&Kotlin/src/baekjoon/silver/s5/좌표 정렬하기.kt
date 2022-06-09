@@ -1,4 +1,4 @@
-package baekjoon.s5
+package baekjoon.silver.s5
 
 data class Node (val x: Int, val y:Int)
 
