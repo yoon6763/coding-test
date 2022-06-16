@@ -1,42 +1,41 @@
 package baekjoon.silver.s3
 
-import java.util.LinkedList
-import java.util.Queue
+import java.util.*
 
 fun main() {
     val n = readLine()!!.toInt()
     val bridgeCnt = readLine()!!.toInt()
 
-    val bridge = Array(bridgeCnt) { Array(2) { 0 } }
+    val map = Array(n + 1) { Array(n + 1) { false } }
 
     repeat(bridgeCnt) {
         val input = readLine()!!.split(" ")
-        bridge[it][0] = input[0].toInt() -1
-        bridge[it][1] = input[1].toInt() - 1
+        val x = input[0].toInt()
+        val y = input[1].toInt()
+        map[x][y] = true
+        map[y][x] = true
     }
 
-    bridge.sortBy { it[0] }
-
-    bfs(n, bridge)
+    bfs(n, map)
 }
 
-fun bfs(n: Int, bridge: Array<Array<Int>>) {
+fun bfs(n: Int, map: Array<Array<Boolean>>) {
 
     val q: Queue<Int> = LinkedList()
-    val visited = Array(n) { false }
-    visited[0] = true
+    val visited = Array(n + 1) { false }
+    visited[1] = true
 
-    q.offer(bridge[0][0])
+    q.offer(1)
 
     var cnt = 0
 
     while (q.isNotEmpty()) {
         val target = q.poll()
 
-        for (b in bridge.filter { it[0] == target }) {
-            if (!visited[b[1]]) {
-                q.offer(b[1])
-                visited[b[1]] = true
+        for(i in map.indices) {
+            if(!visited[i] && map[target][i]) {
+                q.offer(i)
+                visited[i] = true
                 cnt++
             }
         }
