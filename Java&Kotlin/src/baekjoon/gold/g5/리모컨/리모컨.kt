@@ -1,4 +1,4 @@
-package baekjoon.gold.g5
+package baekjoon.gold.g5.리모컨
 
 import java.io.BufferedReader
 import java.io.InputStreamReader
@@ -35,17 +35,17 @@ fun main() {
     while (true) {
 
         if (cnt + upperBtn.toString().length >= usePlusAndMinus && cnt + lowerBtn.toString().length >= usePlusAndMinus) {
-            println(min(usePlusAndMinus, min(cnt + upperBtn.toString().length, cnt + lowerBtn.toString().length)))
+            println(usePlusAndMinus)
             break
         }
 
         if (isAble(lowerBtn) && lowerBtn >= 0) {
-            println(min(usePlusAndMinus, cnt + lowerBtn.toString().length))
+            println(cnt + lowerBtn.toString().length)
             break
         }
 
         if (isAble(upperBtn)) {
-            println(min(usePlusAndMinus, cnt + upperBtn.toString().length))
+            println(cnt + upperBtn.toString().length)
             break
         }
 
