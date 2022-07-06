@@ -2,298 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="469e06f2-c5f4-4bc4-a3f3-57d13ecb217b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/JavaKotlin.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/out/production/JavaKotlin/META-INF/JavaKotlin.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/out/production/JavaKotlin/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/out/production/JavaKotlin/PracticeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/out/production/JavaKotlin/_1181Kt$main$$inlined$sortBy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/out/production/JavaKotlin/_1181Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/Count.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/Practice.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/bronze/b1/최대공약수와 최소공배수.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/bronze/b1/팰린드롬수.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/bronze/b2/Hashing.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/bronze/b2/문자열 분석.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/bronze/b2/분해합.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/bronze/b2/인생 점수.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/bronze/b3/세 수.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/bronze/b3/오븐 시계.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/bronze/b4/주사위 세개.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/bronze/b5/꼬마 정민.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/bronze/b5/등록.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/bronze/b5/새싹.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/bronze/b5/오늘 날짜.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/bronze/b5/피보나치 수 5.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/gold/g3/아기 상어.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/gold/g4/DSLR.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/gold/g4/민트 초코.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/gold/g4/이중 우선순위 큐.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/gold/g5/AC.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/gold/g5/두 용액.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/gold/g5/리모컨/리모컨.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/gold/g5/뱀과 사다리 게임.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/gold/g5/인구 이동.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/gold/g5/적록색약/적록색약.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/gold/g5/테트로미노/테트로미노.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/gold/g5/토마토/토마토.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/gold/g5/토마토2/토마토.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/gold/g5/톱니바퀴.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s1/IOIOI.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s1/Z.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s1/경로 찾기.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s1/단지번호붙이기/단지번호붙이기.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s1/미로 탐색.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s1/숨바꼭질/숨바꼭질.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s1/전쟁 - 전투.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s1/절대값 힙.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s1/카잉 달력.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s1/케빈베이컨의6단계법칙/케빈 베이컨의 6단계 법칙.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s1/쿼드트리.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s1/회의실 배정.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s2/DFS와 BFS.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s2/가장 긴 증가하는 부분 수열.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s2/나무 자르기.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s2/마인크래프트.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s2/색종이 만들기.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s2/연결 요소의 개수.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s2/유기농배추/유기농 배추.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s2/잃어버린 괄호.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s2/종이의 개수.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s2/좌표 압축.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s2/좌표 정렬하기 2.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s2/최대 힙.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s2/최소 힙.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s2/트리의부모찾기/트리의 부모 찾기.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/1, 2, 3 더하기.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/1로 만들기.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/2×n 타일링 2.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/2×n 타일링.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/Four Squares.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/N과_M_1/N과 M (1).kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/N과_M_10/N과 M (10).kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/N과_M_11/N과 M (11).kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/N과_M_12/N과 M (12).kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/N과_M_2/N과 M (2).kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/N과_M_3/N과 M (3).kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/N과_M_4/N과 M (4).kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/N과_M_5/N과 M (5).kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/N과_M_6/N과 M (6)_.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/N과_M_7/N과 M (7).kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/N과_M_8/N과 M (8).kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/N과_M_9/N과 M (9).kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/계단 오르기.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/구간 합 구하기 4.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/바이러스.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/스택 수열.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/통계학.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/파도반 수열.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/패션왕 신해빈.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/프린터 큐.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s3/피보나치 함수.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s4/괄호.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s4/균형잡힌 세상.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s4/나는야 포켓몬 마스터 이다솜.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s4/덱.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s4/동전 0.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s4/듣보잡.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s4/비밀번호 찾기.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s4/수 찾기.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s4/숫자 카드 2.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s4/체스판 다시 칠하기.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s4/큐.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s5/나이순 정렬.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s5/덩치.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s5/수 정렬하기 2.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s5/요세푸스 문제 0.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s5/좌표 정렬하기.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s5/집합.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/silver/s5/팩토리얼 0의 개수.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/baekjoon/unscored/타노스.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/base64Decoder.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/programmers/lv1_getNoticeResult.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/programmers/lv1_최소직사각형.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/programmers/lv2_biggestNum.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/programmers/lv2_matchList.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/programmers/lv2_printer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java&amp;Kotlin/src/programmers/lv2_printer.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-reflect.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-test.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingTest/baekjoon/gold/g4/DSLRKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingTest/baekjoon/gold/g4/MapPath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingTest/baekjoon/gold/g4/민트_초코Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingTest/baekjoon/silver/s1/카잉_달력Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Base64DecoderKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CountKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/CodingTest.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PracticeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/bronze/b2/HashingKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/bronze/b2/문자열_분석Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/bronze/b2/분해합Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/bronze/b2/인생_점수Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/bronze/b3/세_수Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/bronze/b3/오븐_시계Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/bronze/b4/주사위_세개Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/bronze/b5/꼬마_정민Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/bronze/b5/등록Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/bronze/b5/새싹Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/bronze/b5/오늘_날짜Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/bronze/b5/피보나치_수_5Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g3/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g3/아기_상어Kt$bfs$$inlined$compareBy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g3/아기_상어Kt$bfs$$inlined$thenBy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g3/아기_상어Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g4/DSLRKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g4/MapPath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g4/민트_초코Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g4/이중_우선순위_큐Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g5/ACKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g5/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g5/두_용액Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g5/리모컨/리모컨Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g5/뱀과_사다리_게임Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g5/인구_이동Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g5/적록색약/적록색약Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g5/테트로미노/테트로미노Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g5/토마토/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g5/토마토/토마토Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g5/토마토2/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g5/토마토2/토마토Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/gold/g5/톱니바퀴Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s1/IOIOIKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s1/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s1/ZKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s1/경로_찾기Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s1/단지번호붙이기/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s1/단지번호붙이기/단지번호붙이기Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s1/미로_탐색Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s1/숨바꼭질/숨바꼭질Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s1/절대값_힙Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s1/카잉_달력Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s1/케빈베이컨의6단계법칙/케빈_베이컨의_6단계_법칙Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s1/쿼드트리Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s1/회의실_배정Kt$main$$inlined$compareBy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s1/회의실_배정Kt$main$$inlined$thenBy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s1/회의실_배정Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/DFS와_BFSKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/가장_긴_증가하는_부분_수열Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/나무_자르기Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/마인크래프트Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/색종이_만들기Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/연결_요소의_개수Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/유기농배추/유기농_배추Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/잃어버린_괄호Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/종이의_개수Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/좌표_압축Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/좌표_정렬하기_2Kt$main$$inlined$compareBy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/좌표_정렬하기_2Kt$main$$inlined$thenBy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/좌표_정렬하기_2Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/최대_힙Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/최소_힙Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s2/트리의부모찾기/트리의_부모_찾기Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/Docu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/Four_SquaresKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/NumWithCnt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/N과_M_1/N과_M__1_Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/N과_M_10/N과_M__10_Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/N과_M_11/N과_M__11_Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/N과_M_12/N과_M__12_Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/N과_M_2/N과_M__2_Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/N과_M_3/N과_M__3_Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/N과_M_4/N과_M__4_Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/N과_M_5/N과_M__5_Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/N과_M_6/N과_M__6__Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/N과_M_7/N과_M__7_Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/N과_M_8/N과_M__8_Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/N과_M_9/N과_M__9_Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/_1__2__3_더하기Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/_1로_만들기Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/_2_n_타일링Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/_2_n_타일링_2Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/계단_오르기Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/구간_합_구하기_4Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/바이러스Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/스택_수열Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/통계학Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/파도반_수열Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/패션왕_신해빈Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/프린터_큐Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s3/피보나치_함수Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s4/괄호Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s4/균형잡힌_세상Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s4/나는야_포켓몬_마스터_이다솜Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s4/덱Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s4/동전_0Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s4/듣보잡Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s4/비밀번호_찾기Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s4/숫자_카드_2Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s4/체스판_다시_칠하기Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s4/큐Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s5/Body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s5/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s5/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s5/나이순_정렬Kt$main$$inlined$sortBy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s5/나이순_정렬Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s5/덩치Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s5/수_정렬하기_2Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s5/요세푸스_문제_0Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s5/좌표_정렬하기Kt$main$$inlined$compareBy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s5/좌표_정렬하기Kt$main$$inlined$thenBy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s5/좌표_정렬하기Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s5/집합Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/silver/s5/팩토리얼_0의_개수Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/unscored/타노스Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/수_찾기Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/전쟁___전투Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/최대공약수와_최소공배수Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/팰린드롬수Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programmers/Lv1_getNoticeResultKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programmers/Lv2_biggestNumKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programmers/Lv2_matchListKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programmers/Lv2_printerKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programmers/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programmers/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programmers/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programmers/Solution4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programmers/lv1_최소직사각형.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programmers/lv2_printer$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/programmers/lv2_printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingTest/baekjoon/silver/s1/RGB거리Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingTest/baekjoon/silver/s1/RGB거리Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/silver/s1/RGB거리.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/silver/s1/RGB거리.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -302,6 +25,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BYJmnEErd1xCkwrTUSMsCczHrD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -342,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657077250301</updated>
-      <workItem from="1657077253661" duration="1116000" />
+      <workItem from="1657077253661" duration="3796000" />
     </task>
     <servers />
   </component>
