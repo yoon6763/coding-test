@@ -4,7 +4,7 @@ import java.io.BufferedReader
 import java.io.InputStreamReader
 
 fun main() {
-    val vowel = arrayOf('a', 'e', 'i', 'o', 'u')
+    val vowel = arrayOf('a', 'e', 'i', 'o', 'u','A','E','I','O','U')
     val br = BufferedReader(InputStreamReader(System.`in`))
     while (true) {
         val line = br.readLine()
