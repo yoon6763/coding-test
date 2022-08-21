@@ -1,4 +1,5 @@
 fun main() {
 
-    println("ASsdfgsㄴㅇㅀㄴㅇㄹㅇ라아아아dg")
+    val string = "ASDFGSDFGFD"
+    println("Z" in string)
 }
