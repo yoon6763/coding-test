@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="469e06f2-c5f4-4bc4-a3f3-57d13ecb217b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BYJmnEErd1xCkwrTUSMsCczHrD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/icu4j-4_8_2.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Kotlin.카드_게임Kt">
+    <configuration name="문자열Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.b5.문자열Kt" />
+      <module name="CodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="영수증Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.b5.영수증Kt" />
+      <module name="CodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="모음의_개수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.b4.모음의_개수Kt" />
+      <module name="CodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="카드_게임Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.b5.카드_게임Kt" />
+      <module name="CodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="뜨거운_붕어빵Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.b4.뜨거운_붕어빵Kt" />
+      <module name="CodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="마이크로소프트_로고Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.b5.마이크로소프트_로고Kt" />
+      <module name="CodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="아_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.b5.아_Kt" />
+      <module name="CodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="이상한_기호Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.b5.이상한_기호Kt" />
+      <module name="CodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="치킨_배달Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.gold.g5.치킨배달.치킨_배달Kt" />
+      <module name="CodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="미세먼지_안녕_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.gold.g4.미세먼지_안녕_Kt" />
+      <module name="CodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="과제_안_내신_분Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.b5.과제_안_내신_분Kt" />
+      <module name="CodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.카드_게임Kt" />
+        <item itemvalue="Kotlin.문자열Kt" />
+        <item itemvalue="Kotlin.과제_안_내신_분Kt" />
+        <item itemvalue="Kotlin.모음의_개수Kt" />
+        <item itemvalue="Kotlin.미세먼지_안녕_Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="469e06f2-c5f4-4bc4-a3f3-57d13ecb217b" name="Changes" comment="" />
+      <created>1657077250301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657077250301</updated>
+      <workItem from="1657077253661" duration="3796000" />
+      <workItem from="1657112671040" duration="9614000" />
+      <workItem from="1657125491248" duration="1038000" />
+      <workItem from="1657158723671" duration="5417000" />
+      <workItem from="1657180572774" duration="5000" />
+      <workItem from="1657239277145" duration="411000" />
+      <workItem from="1657268533645" duration="595000" />
+      <workItem from="1657282196310" duration="5649000" />
+      <workItem from="1657365878891" duration="8740000" />
+      <workItem from="1657425764838" duration="53000" />
+      <workItem from="1657440456584" duration="611000" />
+      <workItem from="1657457439736" duration="47000" />
+      <workItem from="1657501773023" duration="4767000" />
+      <workItem from="1657716572689" duration="581000" />
+      <workItem from="1657782923651" duration="850000" />
+      <workItem from="1657801371508" duration="711000" />
+      <workItem from="1657874248079" duration="1098000" />
+      <workItem from="1657891045220" duration="633000" />
+      <workItem from="1657947880359" duration="9438000" />
+      <workItem from="1657975699861" duration="1539000" />
+      <workItem from="1658046365553" duration="5815000" />
+      <workItem from="1658059850116" duration="75000" />
+      <workItem from="1658065526969" duration="2273000" />
+      <workItem from="1658123168016" duration="1692000" />
+      <workItem from="1658142022555" duration="9431000" />
+      <workItem from="1658158736535" duration="9000" />
+      <workItem from="1658194843306" duration="4984000" />
+      <workItem from="1658287297438" duration="29000" />
+      <workItem from="1658287523546" duration="5415000" />
+      <workItem from="1658365565523" duration="1959000" />
+      <workItem from="1658375074285" duration="478000" />
+      <workItem from="1658454517764" duration="3852000" />
+      <workItem from="1658660328982" duration="308000" />
+      <workItem from="1658715293836" duration="2791000" />
+      <workItem from="1658751730806" duration="2236000" />
+      <workItem from="1658831240836" duration="4445000" />
+      <workItem from="1658887380799" duration="3372000" />
+      <workItem from="1658971359421" duration="8869000" />
+      <workItem from="1659002466067" duration="8584000" />
+      <workItem from="1659057104093" duration="293000" />
+      <workItem from="1659057442569" duration="42000" />
+      <workItem from="1659188556800" duration="214000" />
+      <workItem from="1659274403985" duration="203000" />
+      <workItem from="1659337092118" duration="5546000" />
+      <workItem from="1659350771225" duration="883000" />
+      <workItem from="1659447787124" duration="428000" />
+      <workItem from="1659526061468" duration="156000" />
+      <workItem from="1659614288149" duration="170000" />
+      <workItem from="1659755781216" duration="79000" />
+      <workItem from="1659860077669" duration="223000" />
+      <workItem from="1659956099828" duration="217000" />
+      <workItem from="1660054376244" duration="189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
