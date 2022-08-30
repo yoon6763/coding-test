@@ -1,5 +1,7 @@
+import java.util.PriorityQueue
+import kotlin.math.pow
+
 fun main() {
 
-    val string = "ASDFGSDFGFD"
-    println("Z" in string)
+    println(2.0.pow(5))
 }
