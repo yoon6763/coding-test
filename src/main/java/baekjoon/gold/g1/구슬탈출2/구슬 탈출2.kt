@@ -1,10 +1,9 @@
-package baekjoon.gold.g2.구슬탈출2
+package baekjoon.gold.g1.구슬탈출2
 
 import java.io.BufferedReader
 import java.io.InputStreamReader
 import java.util.LinkedList
 import java.util.Queue
-import kotlin.math.abs
 
 data class Node(var rx: Int, var ry: Int, var bx: Int, var by: Int, var depth: Int)
 
