@@ -1,4 +1,4 @@
-package programmers
+package programmers.lv1
 
 class Solution {
     fun solution(id_list: Array<String>, report: Array<String>, k: Int): IntArray {

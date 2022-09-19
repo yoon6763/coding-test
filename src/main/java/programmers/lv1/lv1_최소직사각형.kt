@@ -1,4 +1,4 @@
-package programmers
+package programmers.lv1
 
 class lv1_최소직사각형 {
     fun main() {

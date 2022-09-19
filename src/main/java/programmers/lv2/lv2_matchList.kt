@@ -1,4 +1,4 @@
-package programmers
+package programmers.lv2
 
 class Solution4 {
     fun solution(n: Int, a: Int, b: Int): Int {
