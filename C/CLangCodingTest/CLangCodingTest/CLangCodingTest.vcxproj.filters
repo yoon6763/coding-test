@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\bronze\b4">
       <UniqueIdentifier>{f3b1a479-0709-44a2-8ff0-15f9121f6100}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\bronze\b1">
+      <UniqueIdentifier>{e86a4265-b080-48ad-afb3-b69edb871ebe}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="큰 수 A+B.cpp">
@@ -65,6 +68,9 @@
     </ClCompile>
     <ClCompile Include="MBTI.c">
       <Filter>소스 파일\bronze\b4</Filter>
+    </ClCompile>
+    <ClCompile Include="쉽게 푸는 문제.c">
+      <Filter>소스 파일\bronze\b1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
