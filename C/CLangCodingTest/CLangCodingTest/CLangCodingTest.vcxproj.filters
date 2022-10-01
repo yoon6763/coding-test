@@ -13,10 +13,58 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\bronze">
+      <UniqueIdentifier>{0c5c0c7c-72cf-4e8d-bd6d-f9228183e779}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\bronze\b5">
+      <UniqueIdentifier>{ee8431d6-d9d5-45c2-9cc5-3bc54c83f7af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\silver">
+      <UniqueIdentifier>{d725c146-2078-4e40-bb40-6d3f2603e47a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\silver\s5">
+      <UniqueIdentifier>{9cd795f1-ea29-4bbb-b1b8-181cc189a882}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\bronze\b2">
+      <UniqueIdentifier>{b4441775-e8b6-4fc6-9ad6-a3917bd9a6ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\bronze\b4">
+      <UniqueIdentifier>{f3b1a479-0709-44a2-8ff0-15f9121f6100}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="큰 수 A+B.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="소수.c">
+      <Filter>소스 파일\silver\s5</Filter>
+    </ClCompile>
+    <ClCompile Include="A+B.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="A-B.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="Hello World.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="We love kriii.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="별 찍기 - 1.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="A+B - 2.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="분산처리.cpp">
+      <Filter>소스 파일\bronze\b2</Filter>
+    </ClCompile>
+    <ClCompile Include="A+B - 3.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
     <ClCompile Include="MBTI.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\bronze\b4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
