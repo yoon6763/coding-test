@@ -72,5 +72,8 @@
     <ClCompile Include="쉽게 푸는 문제.c">
       <Filter>소스 파일\bronze\b1</Filter>
     </ClCompile>
+    <ClCompile Include="햄버거 만들기.c">
+      <Filter>소스 파일\bronze\b4</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
