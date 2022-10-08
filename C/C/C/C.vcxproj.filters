@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\bronze">
+      <UniqueIdentifier>{6a7e5cf0-4c78-4f0b-8412-ef03ff0a7e78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\bronze\b5">
+      <UniqueIdentifier>{622e3d20-6ec8-439c-945e-706b3fef8764}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\bronze\b2">
+      <UniqueIdentifier>{8189027f-e33b-4da9-bb69-08e4ebb79ca5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\bronze\b4">
+      <UniqueIdentifier>{503aa939-a0ed-4a2e-bde7-c647652d58fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\bronze\b1">
+      <UniqueIdentifier>{b988da80-5259-4d86-9658-66c8631c6e5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\silver">
+      <UniqueIdentifier>{d4b5230d-5b2d-43a8-be66-e5fb00f8b784}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\silver\s5">
+      <UniqueIdentifier>{c8518602-81c8-4431-b63b-f1ffb65d46d1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="A+B.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="A-B.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="Hello World.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="We love kriii.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="별 찍기 - 1.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="A+B - 2.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="분산처리.cpp">
+      <Filter>소스 파일\bronze\b2</Filter>
+    </ClCompile>
+    <ClCompile Include="A+B - 3.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="큰 수 A+B.cpp">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 공부.c">
+      <Filter>소스 파일\bronze\b4</Filter>
+    </ClCompile>
+    <ClCompile Include="햄버거 만들기.c">
+      <Filter>소스 파일\bronze\b4</Filter>
+    </ClCompile>
+    <ClCompile Include="쉽게 푸는 문제.c">
+      <Filter>소스 파일\bronze\b1</Filter>
+    </ClCompile>
+    <ClCompile Include="MBTI.c">
+      <Filter>소스 파일\bronze\b4</Filter>
+    </ClCompile>
+    <ClCompile Include="소수.c">
+      <Filter>소스 파일\silver\s5</Filter>
+    </ClCompile>
+    <ClCompile Include="조별과제를 하려는데 조장이 사라졌다.c">
+      <Filter>소스 파일\bronze\b5</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
