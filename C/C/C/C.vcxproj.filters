@@ -81,5 +81,8 @@
     <ClCompile Include="조별과제를 하려는데 조장이 사라졌다.c">
       <Filter>소스 파일\bronze\b5</Filter>
     </ClCompile>
+    <ClCompile Include="운동장 한 바퀴.c">
+      <Filter>소스 파일\bronze\b4</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -6,7 +6,7 @@ import java.io.InputStreamReader
 data class BUS(var from: Int, var to: Int, var weight: Int)
 
 val MAX_VALUE = 10000000
-lateinit var distinct: Array<Long>
+lateinit var distance: Array<Long>
 lateinit var busList: Array<BUS?>
 var n = 0
 var m = 0
@@ -19,7 +19,7 @@ fun main() {
     m = nm[1]
 
     busList = Array(m) { null }
-    distinct = Array(n + 1) { MAX_VALUE.toLong() } // 최단 거리 테이블. 최대값으로 초기화
+    distance = Array(n + 1) { MAX_VALUE.toLong() } // 최단 거리 테이블. 최대값으로 초기화
 
     // 간선 정보 입력
     repeat(m) {
@@ -33,10 +33,10 @@ fun main() {
     } else {
         for (i in 2..n) {
             // 가는 경로가 없을 때 -1 출력
-            if (distinct[i] == MAX_VALUE.toLong()) {
+            if (distance[i] == MAX_VALUE.toLong()) {
                 println(-1)
             } else {
-                println(distinct[i])
+                println(distance[i])
             }
         }
     }
@@ -44,15 +44,15 @@ fun main() {
 
 
 fun bellmanFord(start: Int): Boolean {
-    distinct[start] = 0 // 시작 노드로 가는 비용은 0
+    distance[start] = 0 // 시작 노드로 가는 비용은 0
 
     for (i in 1 until n) {
         for (j in 0 until m) {
             val targetBus = busList[j]!!
 
             // 현재 수행중인 간선을 타고 다른 노드로 가는 cost 가 더 적을 경우 테이블 갱신
-            if (distinct[targetBus.from] != MAX_VALUE.toLong() && distinct[targetBus.to] > distinct[targetBus.from] + targetBus.weight) {
-                distinct[targetBus.to] = distinct[targetBus.from] + targetBus.weight
+            if (distance[targetBus.from] != MAX_VALUE.toLong() && distance[targetBus.to] > distance[targetBus.from] + targetBus.weight) {
+                distance[targetBus.to] = distance[targetBus.from] + targetBus.weight
             }
         }
     }
@@ -60,7 +60,7 @@ fun bellmanFord(start: Int): Boolean {
     // 만약 이때 경로가 더 짧은 경로로 갱신된다면 음의 사이클이 발생한 것
     for (i in 0 until m) {
         val targetBus = busList[i]!!
-        if (distinct[targetBus.from] != MAX_VALUE.toLong() && distinct[targetBus.to] > distinct[targetBus.from] + targetBus.weight) return true
+        if (distance[targetBus.from] != MAX_VALUE.toLong() && distance[targetBus.to] > distance[targetBus.from] + targetBus.weight) return true
     }
     return false
 }
