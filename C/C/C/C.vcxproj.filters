@@ -84,5 +84,8 @@
     <ClCompile Include="운동장 한 바퀴.c">
       <Filter>소스 파일\bronze\b4</Filter>
     </ClCompile>
+    <ClCompile Include="피보나치 수.c">
+      <Filter>소스 파일\bronze\b2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
