@@ -1,2 +1,4 @@
-﻿  피보나치 수.c
+﻿  소스.c
+C:\workspace\CodingTest\C\C\C\소스.c(11,15): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[80]'입니다.
+C:\workspace\CodingTest\C\C\C\소스.c(16,39): warning C4133: '함수': 'int [80]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
   C.vcxproj -> C:\workspace\CodingTest\C\C\x64\Debug\C.exe

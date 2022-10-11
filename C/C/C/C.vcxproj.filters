@@ -87,5 +87,8 @@
     <ClCompile Include="피보나치 수.c">
       <Filter>소스 파일\bronze\b2</Filter>
     </ClCompile>
+    <ClCompile Include="소스.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
