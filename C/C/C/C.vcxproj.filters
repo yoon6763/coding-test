@@ -34,64 +34,109 @@
     <Filter Include="소스 파일\silver\s5">
       <UniqueIdentifier>{c8518602-81c8-4431-b63b-f1ffb65d46d1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\멘토링 주차별 분류">
+      <UniqueIdentifier>{a9db687b-29a6-4a91-947b-17f96aedac18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\멘토링 주차별 분류\1주차">
+      <UniqueIdentifier>{36cae57d-0274-4f5a-b6b1-de59e80e3984}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="A+B.cpp">
+    <ClCompile Include="b5\A+B.cpp">
       <Filter>소스 파일\bronze\b5</Filter>
     </ClCompile>
-    <ClCompile Include="A-B.cpp">
+    <ClCompile Include="b5\A-B.cpp">
       <Filter>소스 파일\bronze\b5</Filter>
     </ClCompile>
-    <ClCompile Include="Hello World.cpp">
+    <ClCompile Include="b5\Hello World.cpp">
       <Filter>소스 파일\bronze\b5</Filter>
     </ClCompile>
-    <ClCompile Include="We love kriii.cpp">
+    <ClCompile Include="b5\We love kriii.cpp">
       <Filter>소스 파일\bronze\b5</Filter>
     </ClCompile>
-    <ClCompile Include="별 찍기 - 1.cpp">
+    <ClCompile Include="b5\별 찍기 - 1.cpp">
       <Filter>소스 파일\bronze\b5</Filter>
     </ClCompile>
-    <ClCompile Include="A+B - 2.cpp">
+    <ClCompile Include="b5\A+B - 2.cpp">
       <Filter>소스 파일\bronze\b5</Filter>
     </ClCompile>
-    <ClCompile Include="분산처리.cpp">
+    <ClCompile Include="b2\분산처리.cpp">
       <Filter>소스 파일\bronze\b2</Filter>
     </ClCompile>
-    <ClCompile Include="A+B - 3.cpp">
+    <ClCompile Include="b5\A+B - 3.cpp">
       <Filter>소스 파일\bronze\b5</Filter>
     </ClCompile>
-    <ClCompile Include="큰 수 A+B.cpp">
+    <ClCompile Include="b5\큰 수 A+B.cpp">
       <Filter>소스 파일\bronze\b5</Filter>
     </ClCompile>
-    <ClCompile Include="포인터 공부.c">
+    <ClCompile Include="b4\포인터 공부.c">
       <Filter>소스 파일\bronze\b4</Filter>
     </ClCompile>
-    <ClCompile Include="햄버거 만들기.c">
+    <ClCompile Include="b4\햄버거 만들기.c">
       <Filter>소스 파일\bronze\b4</Filter>
     </ClCompile>
-    <ClCompile Include="쉽게 푸는 문제.c">
+    <ClCompile Include="b1\쉽게 푸는 문제.c">
       <Filter>소스 파일\bronze\b1</Filter>
     </ClCompile>
-    <ClCompile Include="MBTI.c">
+    <ClCompile Include="b4\MBTI.c">
       <Filter>소스 파일\bronze\b4</Filter>
     </ClCompile>
-    <ClCompile Include="소수.c">
+    <ClCompile Include="s5\소수.c">
       <Filter>소스 파일\silver\s5</Filter>
     </ClCompile>
-    <ClCompile Include="조별과제를 하려는데 조장이 사라졌다.c">
+    <ClCompile Include="b5\조별과제를 하려는데 조장이 사라졌다.c">
       <Filter>소스 파일\bronze\b5</Filter>
     </ClCompile>
-    <ClCompile Include="운동장 한 바퀴.c">
+    <ClCompile Include="b4\운동장 한 바퀴.c">
       <Filter>소스 파일\bronze\b4</Filter>
     </ClCompile>
-    <ClCompile Include="피보나치 수.c">
+    <ClCompile Include="b2\피보나치 수.c">
       <Filter>소스 파일\bronze\b2</Filter>
     </ClCompile>
     <ClCompile Include="소스.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="피보나치 수 2.c">
+    <ClCompile Include="b1\피보나치 수 2.c">
       <Filter>소스 파일\bronze\b1</Filter>
+    </ClCompile>
+    <ClCompile Include="b2\다이얼.c">
+      <Filter>소스 파일\bronze\b2</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\1주차\다이얼.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\1주차\분수찾기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="b1\분수찾기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s5\수들의 합.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\1주차\수들의 합.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\2주차\경로당펑크 2077.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="b2\경로당펑크 2077.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\2주차\Total Circle.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="b1\Total Circle.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s5\돌 게임2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s5\돌 게임.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\2주차\돌 게임2.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
