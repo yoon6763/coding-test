@@ -102,10 +102,10 @@
     <ClCompile Include="b2\다이얼.c">
       <Filter>소스 파일\bronze\b2</Filter>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\1주차\다이얼.c">
+    <ClCompile Include="멘토링 주차별 문제\1주차 백준\다이얼.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\1주차\분수찾기.c">
+    <ClCompile Include="멘토링 주차별 문제\1주차 백준\분수찾기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="b1\분수찾기.c">
@@ -114,16 +114,16 @@
     <ClCompile Include="s5\수들의 합.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\1주차\수들의 합.c">
+    <ClCompile Include="멘토링 주차별 문제\1주차 백준\수들의 합.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\2주차\경로당펑크 2077.c">
+    <ClCompile Include="멘토링 주차별 문제\2주차 백준\경로당펑크 2077.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="b2\경로당펑크 2077.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\2주차\Total Circle.c">
+    <ClCompile Include="멘토링 주차별 문제\2주차 백준\Total Circle.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="b1\Total Circle.c">
@@ -135,7 +135,25 @@
     <ClCompile Include="s5\돌 게임.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\2주차\돌 게임2.c">
+    <ClCompile Include="멘토링 주차별 문제\2주차 백준\돌 게임2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\1주차 교수님\1번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\1주차 교수님\2번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\1주차 교수님\3번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\2주차 교수님\1번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\2주차 교수님\2번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\2주차 교수님\3번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

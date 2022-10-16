@@ -178,22 +178,40 @@
     <ClCompile Include="s5\수들의 합.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\1주차\다이얼.c">
+    <ClCompile Include="멘토링 주차별 문제\1주차 교수님\1번.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\1주차\분수찾기.c">
+    <ClCompile Include="멘토링 주차별 문제\1주차 교수님\2번.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\1주차\수들의 합.c">
+    <ClCompile Include="멘토링 주차별 문제\1주차 교수님\3번.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\2주차\Total Circle.c">
+    <ClCompile Include="멘토링 주차별 문제\1주차 백준\다이얼.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\2주차\경로당펑크 2077.c">
+    <ClCompile Include="멘토링 주차별 문제\1주차 백준\분수찾기.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\2주차\돌 게임2.c">
+    <ClCompile Include="멘토링 주차별 문제\1주차 백준\수들의 합.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\2주차 교수님\1번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\2주차 교수님\2번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\2주차 교수님\3번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\2주차 백준\Total Circle.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\2주차 백준\경로당펑크 2077.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\2주차 백준\돌 게임2.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="소스.c">
