@@ -1,4 +1,4 @@
-package baekjoon.gold.g4.스도쿠
+package baekjoon.gold.g4.스도쿠2239
 
 import java.io.BufferedReader
 import java.io.InputStreamReader
