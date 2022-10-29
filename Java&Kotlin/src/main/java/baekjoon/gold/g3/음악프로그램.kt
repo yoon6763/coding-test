@@ -18,7 +18,7 @@ fun main() {
     val connectedNode = Array(n + 1) { ArrayList<Int>() }
 
     for (i in 1..m) {
-        val line = br.readLine().split(" ").map { it.toInt() }
+        val line = br.readLine().split(" ").map { it.toInt() } // 출연 순서
 
         for (j in 2..line[0]) {
             inDegree[line[j]]++
