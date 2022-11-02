@@ -27,20 +27,25 @@ fun main() {
         val uf = oldFloor + up
         val df = oldFloor - down
 
+        // 큐에서 꺼낸게 목표 층일때 종료
         if (oldFloor == goal) {
             println(visited[oldFloor])
             return
         }
 
+        // 위 층으로 이동
         if (uf in 1..n && visited[uf] == -1) {
             visited[uf] = visited[oldFloor] + 1
             q.offer(uf)
         }
 
+        // 아래 층으로 이동
         if (df in 1..n && visited[df] == -1) {
             visited[df] = visited[oldFloor] + 1
             q.offer(df)
         }
     }
+
+    // 큐가 다 빌때까지 찾지 못하면 갈 수 없는 경로
     println("use the stairs")
 }
