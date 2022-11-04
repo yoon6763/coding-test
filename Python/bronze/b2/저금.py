@@ -1,12 +1,7 @@
 while True:
     try:
         line = input()
-
-        if line == EOFError:
-            break
-
         nmb = list(map(float, line.split(" ")))
-
         cnt = 0
 
         while nmb[2] > nmb[0]:
