@@ -12,48 +12,43 @@ struct NODE {
 
 
 int main() {
-	int flag = 1;
-	int input;
-	struct NODE* head;
-	struct NODE* last;
-	struct NODE* node;
+	struct NODE* root;
+	struct NODE* now_node;
 
-	head = NULL;
-	last = NULL;
+	root = NULL;
+	now_node = NULL;
 
 	while (1) {
-		char temp_name[MAX_LEN];
-		int temp_cnt;
-
-		node = (struct NODE*)malloc(sizeof(struct NODE));
+		struct NODE* temp_node = (struct NODE*)malloc(sizeof(struct NODE));
 
 		printf("품목 입력(종료는 Q 또는 q) : ");
-		scanf("%s", node->name);
+		scanf("%s", temp_node->name);
 
-		if (strcmp(node->name, "Q") == 0 || strcmp(node->name, "q") == 0) {
+		if (strcmp(temp_node->name, "Q") == 0 || strcmp(temp_node->name, "q") == 0) {
 			break;
 		}
-		scanf("%d", &node->count);
+		printf("수량 입력 : ");
+		scanf("%d", &temp_node->count);
 
 
-		node->next = NULL;
+		temp_node->next = NULL;
 
-		if (head == NULL)
+		if (root == NULL)
 		{
-			head = node;
+			root = temp_node;
 		}
 		else
 		{
-			last->next = node;
+			now_node->next = temp_node;
 		}
-		last = node;
+		now_node = temp_node;
 	}
 
-	struct NODE* temp = head;
+	now_node = root;
 
-	while (temp != NULL)
+	while (now_node != NULL)
 	{
-		printf("[%s %d] ", temp->name, temp->count);
-		temp = temp->next;
+		printf("[%s %d] ", now_node->name, now_node->count);
+		now_node = now_node->next;
 	}
 }

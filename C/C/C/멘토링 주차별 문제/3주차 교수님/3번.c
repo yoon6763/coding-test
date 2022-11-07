@@ -12,8 +12,9 @@ void main() {
 	arr[0] = 100;
 	arr[1] = 200;
 	arr[2] = 300;
+	
+	realloc(arr, sizeof(int) * 5);
 
-	arr = (int*)malloc(sizeof(int) * 5);
 	arr[3] = 400;
 	arr[4] = 500;
 
