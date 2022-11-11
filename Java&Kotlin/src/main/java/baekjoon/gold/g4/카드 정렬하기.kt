@@ -16,9 +16,9 @@ fun main() {
     while (cards.isNotEmpty()) {
         val a = cards.poll()
         if (cards.isNotEmpty()) {
-            val b = cards.poll()
-            total += a + b
-            cards.add(a + b)
+            val sum = a + cards.poll()
+            total += sum
+            cards.add(sum)
         }
     }
 
