@@ -1,1 +1,3 @@
-﻿  C_Practice.vcxproj -> C:\workspace\CodingTest\C\C_Practice\x64\Debug\C_Practice.exe
+﻿  1번.c
+C:\workspace\CodingTest\C\C_Practice\C_Practice\멘토링 주차별 문제\4주차 백준\1번.c(9,30): warning C4133: '함수': 'int [10]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+  C_Practice.vcxproj -> C:\workspace\CodingTest\C\C_Practice\x64\Debug\C_Practice.exe
