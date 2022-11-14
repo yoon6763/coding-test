@@ -1,4 +1,4 @@
-package baekjoon.gold.g3
+package baekjoon.gold.g3.아기상어
 
 import java.io.BufferedReader
 import java.io.InputStreamReader
