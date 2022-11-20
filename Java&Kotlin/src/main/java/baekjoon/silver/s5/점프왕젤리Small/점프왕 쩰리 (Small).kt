@@ -14,6 +14,7 @@ fun main() {
     map = Array(n) { Array(n) { 0 } }
     visited = Array(n) { Array(n) { false } }
 
+    // 값 세팅
     repeat(n) { x ->
         val st = StringTokenizer(br.readLine())
         repeat(n) { y ->
@@ -28,11 +29,13 @@ fun main() {
 }
 
 fun dfs(x: Int, y: Int) {
+    // 목표점 도살 시 프로그램 종료
     if (x == n - 1 && y == n - 1) {
         println("HaruHaru")
         exitProcess(0)
     }
 
+    // 현재 위치 + 현재 칸 숫자
     val nx = arrayOf(x, x + map[x][y])
     val ny = arrayOf(y + map[x][y], y)
 
