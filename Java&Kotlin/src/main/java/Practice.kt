@@ -1,12 +1,7 @@
-import java.util.PriorityQueue
-import java.util.Random
-import java.util.StringTokenizer
+import java.util.*
 import kotlin.math.pow
 
 fun main() {
-
-    val str = "19981204"
-
-    println(str.substring(4,6))
-
+    val date = Date()
+    println("${date.year}  ${date.month}   ${date.date}")
 }
