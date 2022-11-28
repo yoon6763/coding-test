@@ -2,31 +2,46 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef struct customer {
-	char name[30];
-	int sum;
-}Customer;
+struct Medal {
+    int country;
+    int gold;
+    int silver;
+    int bronze;
+}; // 메달 수 구조체 선언
 
 int main() {
-	int n, i;
+    int n, k;
+    scanf_s("%d %d", &n, &k);
 
-	printf("n을 입력하세요 : ");
-	scanf_s("%d", &n);
+    struct Medal* medals = malloc(n * sizeof(struct Medal));
+    int targetCountry = 0;
 
-	Customer* ct;
-	ct = (struct customer*)malloc(n * sizeof(struct customer));
+    for (int i = 0; i < n; i++) {
+        scanf_s("%d %d %d %d", &medals[i].country, &medals[i].gold, &medals[i].silver, &medals[i].bronze);
+        if (medals[i].country == k) {
+            targetCountry = i;
+        }
+    }
 
-	for (i = 0; i < n; i++) {
-		printf("%d번째 고객의 이름 : ", i + 1);
-		getchar();
-		gets_s((ct + i)->name, 30);
-		printf("%d번째 고객의 구매기록 총합 : ", i + 1);
-		scanf_s("%d", &(ct + i)->sum);
-	}
+    int rank = 0;
 
-	printf("\n\n모든 고객 정보 출력\n\n");
+    for (int i = 0; i < n; i++) {
+        if (i != targetCountry) {
+            if (medals[i].gold > medals[targetCountry].gold) {
+                rank++;
+            }
+            else if (medals[i].gold == medals[targetCountry].gold) {
+                if (medals[i].silver > medals[targetCountry].silver) {
+                    rank++;
+                }
+                else if (medals[i].silver == medals[targetCountry].silver) {
+                    if (medals[i].bronze > medals[targetCountry].bronze) {
+                        rank++;
+                    }
+                }
+            }
+        }
+    }
 
-	for (i = 0; i < n; i++) {
-		printf("\"%s\"고객의 구매기록 총합은 %d원 입니다.\n", (ct + i)->name, (ct + i)->sum);
-	}
+    printf("%d", rank + 1);
 }

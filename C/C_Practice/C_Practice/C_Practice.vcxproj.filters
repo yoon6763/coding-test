@@ -174,5 +174,14 @@
     <ClCompile Include="멘토링 주차별 문제\5주차 교수님\3번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\5주차 응용\1번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\5주차 응용\2번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\5주차 응용\3번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
