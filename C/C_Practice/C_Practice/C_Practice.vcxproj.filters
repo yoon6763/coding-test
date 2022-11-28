@@ -183,5 +183,23 @@
     <ClCompile Include="멘토링 주차별 문제\5주차 응용\3번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="b2\팬케이크 사랑.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\6주차 백준\팬케이크 사랑.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="b1\버그왕.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\6주차 백준\버그왕.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s5\CD.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\6주차 백준\CD.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
