@@ -2,46 +2,33 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-struct Medal {
-    int country;
-    int gold;
-    int silver;
-    int bronze;
-}; // 메달 수 구조체 선언
+typedef struct country { // country 구조체 선언
+    int num;
+    int medal;
+}country;
 
-int main() {
-    int n, k;
-    scanf_s("%d %d", &n, &k);
+int main(void) {
+    int N, M, t, cnt = 0;
+    int g, s, b; // 메달
+    country* ct;
 
-    struct Medal* medals = malloc(n * sizeof(struct Medal));
-    int targetCountry = 0;
+    scanf("%d %d", &N, &M); // 국가의 수, 등수를 알고 싶은 수 입력
+    ct = (country*)malloc(sizeof(country) * N); // 동적 할당 사용
 
-    for (int i = 0; i < n; i++) {
-        scanf_s("%d %d %d %d", &medals[i].country, &medals[i].gold, &medals[i].silver, &medals[i].bronze);
-        if (medals[i].country == k) {
-            targetCountry = i;
-        }
+    for (int i = 0; i < N; i++) { // 국가의 수, 메달의 수 입력
+        scanf("%d %d %d %d", &ct[i].num, &g, &s, &b);
+        ct[i].medal = 100 * g + 10 * s + b; // 금메달에 100, 은메달에 10 곱하여 저장
     }
 
-    int rank = 0;
-
-    for (int i = 0; i < n; i++) {
-        if (i != targetCountry) {
-            if (medals[i].gold > medals[targetCountry].gold) {
-                rank++;
-            }
-            else if (medals[i].gold == medals[targetCountry].gold) {
-                if (medals[i].silver > medals[targetCountry].silver) {
-                    rank++;
-                }
-                else if (medals[i].silver == medals[targetCountry].silver) {
-                    if (medals[i].bronze > medals[targetCountry].bronze) {
-                        rank++;
-                    }
-                }
-            }
-        }
+    for (int i = 0; i < N; i++) { // 국가의 수만큼 반복
+        if (ct[i].num == M) // 국가의 수가 등수를 알고 싶은 수에 도달했을 때
+            t = i; // i의 값을 t에 대입 해준다
     }
 
-    printf("%d", rank + 1);
+    for (int i = 0; i < N; i++) {
+        if (ct[i].medal > ct[t].medal) // 메달의 수 비교
+            cnt++;
+    }
+    printf("%d\n", cnt + 1); // 한 국가의 등수: 자신보다 더 잘한 나라 수 + 1
+    return 0;
 }
