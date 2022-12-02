@@ -201,5 +201,23 @@
     <ClCompile Include="멘토링 주차별 문제\6주차 백준\CD.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\7주차 백준\맥주 냉장고.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\7주차 백준\2의 보수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="b1\2의 보수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="b2\맥주 냉장고.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\7주차 백준\속도 위반.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s5\속도 위반.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
