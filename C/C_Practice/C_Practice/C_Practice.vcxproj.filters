@@ -228,5 +228,14 @@
     <ClCompile Include="멘토링 주차별 문제\7주차 교수님\3번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\6주차 교수님\1번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\6주차 교수님\2번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멘토링 주차별 문제\6주차 교수님\3번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
