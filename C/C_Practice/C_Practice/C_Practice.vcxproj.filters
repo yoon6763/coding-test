@@ -108,15 +108,6 @@
     <ClCompile Include="멘토링 주차별 문제\1주차 교수님\2번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\1주차 백준\다이얼.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\1주차 백준\분수찾기.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\1주차 백준\수들의 합.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="멘토링 주차별 문제\2주차 교수님\2번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -124,15 +115,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="멘토링 주차별 문제\2주차 교수님\3번.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\2주차 백준\Total Circle.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\2주차 백준\경로당펑크 2077.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\2주차 백준\돌 게임2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="멘토링 주차별 문제\3주차 교수님\3번.c">
@@ -156,15 +138,6 @@
     <ClCompile Include="멘토링 주차별 문제\4주차 교수님\3번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\4주차 백준\3번.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\4주차 백준\2번.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\4주차 백준\1번.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="멘토링 주차별 문제\5주차 교수님\1번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -186,34 +159,16 @@
     <ClCompile Include="b2\팬케이크 사랑.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\6주차 백준\팬케이크 사랑.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="b1\버그왕.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\6주차 백준\버그왕.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="s5\CD.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\6주차 백준\CD.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\7주차 백준\맥주 냉장고.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\7주차 백준\2의 보수.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="b1\2의 보수.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="b2\맥주 냉장고.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="멘토링 주차별 문제\7주차 백준\속도 위반.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="s5\속도 위반.c">
