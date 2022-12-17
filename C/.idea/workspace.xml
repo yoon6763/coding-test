@@ -10,10 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40c6fc68-298f-457c-bf09-57a43a4d4ab9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/C/.vs/C/FileContentIndex/bd1b5359-4d57-4db7-84f0-e83613ac41d5.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C/.vs/C/FileContentIndex/e5e932de-0c59-43cf-b076-e3b2113d6049.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C/.vs/C/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/C/.vs/C/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C/.vs/C/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/C/.vs/C/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +53,7 @@
       <updated>1665367930135</updated>
       <workItem from="1665367931563" duration="31000" />
       <workItem from="1665367969563" duration="22000" />
+      <workItem from="1671015278177" duration="52000" />
     </task>
     <servers />
   </component>

@@ -1,1 +1,8 @@
-﻿  C_Practice.vcxproj -> C:\workspace\CodingTest\C\C_Practice\x64\Debug\C_Practice.exe
+﻿  소스.c
+C:\workspace\CodingTest\C\C_Practice\C_Practice\소스.c(11,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\CodingTest\C\C_Practice\C_Practice\소스.c(74,13): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\workspace\CodingTest\C\C_Practice\C_Practice\소스.c(135,21): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\workspace\CodingTest\C\C_Practice\C_Practice\소스.c(135,21): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\workspace\CodingTest\C\C_Practice\C_Practice\소스.c(135,21): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\workspace\CodingTest\C\C_Practice\C_Practice\소스.c(135,21): message : 이 인수는 버퍼 크기로 사용됩니다.
+  C_Practice.vcxproj -> C:\workspace\CodingTest\C\C_Practice\x64\Debug\C_Practice.exe

@@ -1,34 +1,139 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
+#include <string.h>
 
-typedef struct country { // country 구조체 선언
-    int num;
-    int medal;
-}country;
+int main() {
 
-int main(void) {
-    int N, M, t, cnt = 0;
-    int g, s, b; // 메달
-    country* ct;
+    int arr[5][5];
 
-    scanf("%d %d", &N, &M); // 국가의 수, 등수를 알고 싶은 수 입력
-    ct = (country*)malloc(sizeof(country) * N); // 동적 할당 사용
+    srand(time(NULL));
 
-    for (int i = 0; i < N; i++) { // 국가의 수, 메달의 수 입력
-        scanf("%d %d %d %d", &ct[i].num, &g, &s, &b);
-        ct[i].medal = 100 * g + 10 * s + b; // 금메달에 100, 은메달에 10 곱하여 저장
+    char order = '0';
+    while (order != 'q') {
+
+        int count[10] = { 0, }; // 각각 몇 번 등장했는지 카운트
+
+        for (int i = 0; i < 5; ++i) {   // 행렬 값 채우기
+            for (int j = 0; j < 5; ++j) {
+                arr[i][j] = rand() % 10;
+                count[arr[i][j]]++;
+            }
+        }
+
+        int max = -1;
+        int min = 26;
+        for (int i = 0; i < 10; ++i) {  // 최대값과 최소값 구하기
+            if (count[i] > max)
+                max = count[i];
+            if (count[i] < min)
+                min = count[i];
+        }
+
+        int max_list[10] = { 0, };
+        int min_list[10] = { 0, };
+
+        for (int i = 0; i < 10; ++i) {
+            if (count[i] == max) {
+                max_list[i] = 1;
+            }
+            if (count[i] == min) {
+                min_list[i] = 1;
+            }
+        }
+
+
+        printf("다음 정방행렬에서 가장 많이 나타난 숫자와 가장 적게 나타난 숫자를 맞추세요.\n");
+
+        for (int i = 0; i < 5; ++i) {   // 행렬 출력
+            for (int j = 0; j < 5; ++j) {
+                printf("%d ", arr[i][j]);
+            }
+            printf("\n");
+        }
+
+        printf("count : ");
+        for (int i = 0; i < 10; ++i) {
+            printf("%d ", count[i]);
+        }
+
+        int check_max = 0;
+        int check_min = 0;
+        int start = clock();
+
+        while (!check_max || !check_min && (int)((clock() - start) / CLOCKS_PER_SEC) <= 10) {
+            int copy[10];
+            char m[100];
+
+            for (int i = 0; i < 10; ++i) {
+                copy[i] = max_list[i];
+            }
+
+            printf("\n가장 많이 나타난 수를 입력해주세요 (복수라면 띄어쓰기 구분)\n");
+            gets(m);
+
+            char* tok;
+            tok = strtok(m, " ");
+            check_max = 1;
+            while (tok != NULL) {
+                if (count[atoi(tok)] != max) break;
+                copy[atoi(tok)] = 0;
+                tok = strtok(NULL, " ");
+            }
+
+            for (int i = 0; i < 10; ++i) {
+                if (copy[i] == 1) {
+                    check_max = 0;
+                    break;
+                }
+            }
+
+            if (check_max == 0) {
+                printf("틀렸습니다. 다시 입력하세요.");
+                continue;
+            }
+
+            for (int i = 0; i < 10; ++i) {
+                copy[i] = min_list[i];
+            }
+
+            printf("\n가장 적게 나타난 수를 입력해주세요 (복수라면 띄어쓰기 구분)\n");
+            gets(m);
+
+            tok = strtok(m, " ");
+            check_min = 1;
+            while (tok != NULL) {
+                if (count[atoi(tok)] != min) break;
+                copy[atoi(tok)] = 0;
+                tok = strtok(NULL, " ");
+            }
+
+            for (int i = 0; i < 10; ++i) {
+                if (copy[i] == 1) {
+                    check_min = 0;
+                    break;
+                }
+            }
+
+            if (check_min == 0) {
+                printf("틀렸습니다. 다시 입력하세요.");
+                continue;
+            }
+        }
+
+        if (check_max && check_min) {
+            printf("\n모두 맞았습니다!! 프로그램을 종료합니다.\n");
+            break;
+        }
+        else if ((int)((clock() - start) / CLOCKS_PER_SEC) > 10) {
+            printf("\n시간 초과입니다.");
+            break;
+        }
+        else {
+            printf("틀렸습니다. 다시 시도하려면 아무키나 누르세요.(종료는 q)");
+            scanf_s("%c", &order);
+        }
+
     }
-
-    for (int i = 0; i < N; i++) { // 국가의 수만큼 반복
-        if (ct[i].num == M) // 국가의 수가 등수를 알고 싶은 수에 도달했을 때
-            t = i; // i의 값을 t에 대입 해준다
-    }
-
-    for (int i = 0; i < N; i++) {
-        if (ct[i].medal > ct[t].medal) // 메달의 수 비교
-            cnt++;
-    }
-    printf("%d\n", cnt + 1); // 한 국가의 등수: 자신보다 더 잘한 나라 수 + 1
-    return 0;
 }
