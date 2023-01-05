@@ -2,144 +2,127 @@ package baekjoon.gold.g1.낚시왕
 
 import java.util.StringTokenizer
 
-enum class Direction {
-    UP, DOWN, RIGHT, LEFT
-}
+data class Shark(val idx: Int, val speed: Int, var direction: Int, val size: Int)
 
-data class Shark(var x: Int, var y: Int, val speed: Int, var d: Direction, val size: Int)
+lateinit var map: Array<Array<ArrayList<Shark>>>
+var r = 0
+var c = 0
 
 fun main(): Unit = with(System.`in`.bufferedReader()) {
-    val (r, c, m) = readLine().split(" ").map { it.toInt() }
+    val rcm = readLine().split(" ").map { it.toInt() }
+    r = rcm[0]
+    c = rcm[1]
+    val m = rcm[2]
 
-    val map = Array(r + 1) { Array(c + 1) { 0 } }
+    map = Array(r + 1) { Array(c + 1) { ArrayList() } }
 
-    val sharks = Array<Shark?>(m + 1) { null }
-
-    for (i in 1..m) {
+    repeat(m) {
         val st = StringTokenizer(readLine())
+        val x = st.nextToken().toInt()
+        val y = st.nextToken().toInt()
+        val speed = st.nextToken().toInt()
+        val direction = st.nextToken().toInt()
+        val size = st.nextToken().toInt()
 
-        sharks[i] = Shark(
-            st.nextToken().toInt(), st.nextToken().toInt(), st.nextToken().toInt(), when (st.nextToken().toInt()) {
-                1 -> Direction.UP
-                2 -> Direction.DOWN
-                3 -> Direction.RIGHT
-                4 -> Direction.LEFT
-                else -> Direction.LEFT
-            }, st.nextToken().toInt()
-        )
-
-        map[sharks[i]!!.x][sharks[i]!!.y] = i
+        map[x][y].add(Shark(it, speed, direction, size))
+        eatShark(map)
     }
 
     var cnt = 0
+    val direction = arrayOf(0, -1, 1, 1, -1)
 
-    // 열 개수만큼 반복
-    for (i in 1..c) {
-
+    for (j in 1..c) {
         // 상어 잡기
-        for (j in 1..r) {
-            if (map[j][i] != 0) {
-                cnt += sharks[map[j][i]]?.size ?: 0
-                sharks[map[j][i]] = null
-                map[j][i] = 0
+        for (i in 1..r) {
+            if (map[i][j].isNotEmpty()) {
+                cnt += map[i][j][0].size
+                map[i][j].removeAt(0)
                 break
             }
         }
 
-        // 상어 이동
-        for (k in 1 .. m) {
-            if (sharks[k] != null) {
-                val shark = sharks[k]!!
-                map[shark.x][shark.y] = 0
+        val copyMap = Array(r + 1) { Array(c + 1) { ArrayList<Shark>() } }
 
-                when (shark.d) {
-                    Direction.UP -> {
-                        var ny = shark.y + shark.speed
-                        if ((ny / r) % 2 == 0) {
-                            shark.d = Direction.UP
-                        } else {
-                            shark.d = Direction.DOWN
-                        }
-                        ny %= r
+        for (x in 1..r) {
+            for (y in 1..c) {
+                if (map[x][y].isNotEmpty()) {
+                    val shark = map[x][y][0]
 
-                        if (map[shark.x][ny] == 0) {
-                            map[shark.x][ny] = k
+                    var nx = x
+                    var ny = y
+
+                    if (shark.direction == 1 || shark.direction == 2) {
+                        // 상 하
+                        if (x + shark.speed * direction[shark.direction] in 1..r) {
+                            copyMap[x + shark.speed * direction[shark.direction]][y].add(shark)
                         } else {
-                            if (sharks[map[shark.x][ny]]!!.size > shark.size) {
-                                sharks[k] = null
-                            } else {
-                                sharks[map[shark.x][ny]] = null
-                                map[shark.x][ny] = k
+                            val moveDistance = shark.speed % ((r - 1) * 2)
+
+                            for (k in 0 until moveDistance) {
+                                nx += direction[shark.direction]
+
+                                if (nx == 0) {
+                                    nx = 2
+                                    shark.direction = 2
+                                } else if (nx == r + 1) {
+                                    nx = r - 1
+                                    shark.direction = 1
+                                }
                             }
+                            copyMap[nx][ny].add(shark)
                         }
-                    }
-                    Direction.DOWN -> {
-                        var ny = shark.y + shark.speed
-                        if ((ny / r) % 2 == 0) {
-                            shark.d = Direction.DOWN
+                    } else {
+                        // 3 - 오른쪽 4 - 왼쪽
+                        if (y + shark.speed * direction[shark.direction] in 1..c) {
+                            copyMap[x][y + shark.speed * direction[shark.direction]].add(shark)
                         } else {
-                            shark.d = Direction.UP
-                        }
-                        ny %= r
+                            val moveDistance = shark.speed % ((c - 1) * 2)
 
-                        if (map[shark.x][ny] == 0) {
-                            map[shark.x][ny] = k
-                        } else {
-                            if (sharks[map[shark.x][ny]]!!.size > shark.size) {
-                                sharks[k] = null
-                            } else {
-                                sharks[map[shark.x][ny]] = null
-                                map[shark.x][ny] = k
+                            for (k in 0 until moveDistance) {
+                                ny += direction[shark.direction]
+
+                                if (ny == 0) {
+                                    ny = 2
+                                    shark.direction = 3
+                                } else if (ny == c + 1) {
+                                    ny = c - 1
+                                    shark.direction = 4
+                                }
                             }
-                        }
-                    }
-
-                    Direction.LEFT -> {
-                        var nx = shark.x + shark.speed
-                        if ((nx / c) % 2 == 0) {
-                            shark.d = Direction.LEFT
-                        } else {
-                            shark.d = Direction.RIGHT
-                        }
-                        nx %= c
-
-
-                        if (map[nx][shark.y] == 0) {
-                            map[nx][shark.y] = k
-                        } else {
-                            if (sharks[map[nx][shark.y]]!!.size > shark.size) {
-                                sharks[k] = null
-                            } else {
-                                sharks[map[nx][shark.y]] = null
-                                map[nx][shark.y] = k
-                            }
-                        }
-                    }
-
-                    Direction.RIGHT -> {
-                        var nx = shark.x + shark.speed
-                        if ((nx / c) % 2 == 0) {
-                            shark.d = Direction.RIGHT
-                        } else {
-                            shark.d = Direction.LEFT
-                        }
-                        nx %= c
-
-                        if (map[nx][shark.y] == 0) {
-                            map[nx][shark.y] = k
-                        } else {
-                            if (sharks[map[nx][shark.y]]!!.size > shark.size) {
-                                sharks[k] = null
-                            } else {
-                                sharks[map[nx][shark.y]] = null
-                                map[nx][shark.y] = k
-                            }
+                            copyMap[nx][ny].add(shark)
                         }
                     }
                 }
             }
         }
+        eatShark(copyMap)
+
+        for (x in 1..r) {
+            for (y in 1..c) {
+                if (map[x][y].isNotEmpty()) map[x][y].removeAt(0)
+                if (copyMap[x][y].isNotEmpty()) map[x][y].add(copyMap[x][y][0])
+            }
+        }
     }
 
     println(cnt)
+}
+
+fun eatShark(map: Array<Array<ArrayList<Shark>>>) {
+    for (i in 1..r) {
+        for (j in 1..c) {
+            if (map[i][j].size >= 2) {
+                val maxSize = map[i][j].maxBy { it.size }
+
+                var ptr = 0
+                while (ptr < map[i][j].size) {
+                    if (maxSize != map[i][j][ptr]) {
+                        map[i][j].removeAt(ptr)
+                    } else {
+                        ptr++
+                    }
+                }
+            }
+        }
+    }
 }
