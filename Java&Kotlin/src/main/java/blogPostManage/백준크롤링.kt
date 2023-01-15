@@ -46,8 +46,11 @@ fun main() {
             val title = tistoryHtml.title()
             if (title.startsWith("[백준 ")) {
                 val problem = title.split("]")[0].filter { it.isDigit() }.toInt()
-                postedProblems.add(problem)
-                postedProblemFile.appendText("$problem\n")
+
+                if(problem !in postedProblems) {
+                    postedProblems.add(problem)
+                    postedProblemFile.appendText("$problem\n")
+                }
             }
 
             lastPostIdx = idx
