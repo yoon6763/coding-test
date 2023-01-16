@@ -77,14 +77,14 @@ fun main() {
 
     val rdProblems = ArrayList<Int>()
 
-    while (rdProblems.size < 11) {
+    while (rdProblems.size < 7) {
         val rd = notPostedProblems.random()
         if (rd !in rdProblems) {
             rdProblems.add(rd)
         }
     }
 
-    println("\n\n랜덤 10문제")
+    println("\n\n랜덤 7문제")
     rdProblems.forEach {
         println(it)
     }
