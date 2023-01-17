@@ -1,4 +1,4 @@
-package baekjoon.gold.g3.치즈
+package baekjoon.gold.g3.치즈2638
 
 import java.io.BufferedReader
 import java.io.InputStreamReader
