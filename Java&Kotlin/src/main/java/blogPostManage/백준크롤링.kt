@@ -35,7 +35,7 @@ fun main() {
     var exceptionCnt = 0
 
     while (true) {
-        if (exceptionCnt > 10) break
+        if (exceptionCnt > 5) break
 
         try {
             println("티스토리 탐색 - $idx")
@@ -54,6 +54,7 @@ fun main() {
             }
 
             lastPostIdx = idx
+            exceptionCnt = 0
 
         } catch (e: Exception) {
             println("오류페이지 => $idx")
