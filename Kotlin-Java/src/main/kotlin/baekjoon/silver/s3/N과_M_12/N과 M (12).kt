@@ -5,7 +5,6 @@ import java.io.InputStreamReader
 import java.util.StringTokenizer
 
 
-lateinit var visited: Array<Boolean>
 lateinit var arr: Array<Int>
 
 var n = 0
@@ -28,8 +27,6 @@ fun main() {
     }
     arr = arr.sortedArray()
 
-    visited = Array(n + 1) { false }
-
 
     dfs(1, 0, "")
     print(sb.toString())
@@ -45,16 +42,12 @@ fun dfs(idx: Int, len: Int, str: String) {
 
     for (i in idx..n) {
         if (temp != arr[i]) {
-            visited[i] = true
-
             temp = arr[i]
 
             if (len == 0)
                 dfs(i, 1, arr[i].toString())
             else
                 dfs(i, len + 1, "$str ${arr[i]}")
-
-            visited[i] = false
         }
     }
 }
