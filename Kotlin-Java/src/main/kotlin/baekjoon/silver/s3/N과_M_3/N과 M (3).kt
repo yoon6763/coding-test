@@ -1,5 +1,6 @@
 package baekjoon.silver.s3.N과_M_3
 
+lateinit var visited: Array<Boolean>
 lateinit var arr: Array<Int>
 
 var n = 0
@@ -12,6 +13,7 @@ fun main() {
     n = nm[0].toInt()
 
     arr = Array(n + 1) { i -> i }
+    visited = Array(n + 1) { false }
 
     dfs(1, 0, "")
     print(sb.toString())
