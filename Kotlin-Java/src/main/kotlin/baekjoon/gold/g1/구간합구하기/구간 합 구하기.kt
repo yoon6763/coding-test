@@ -1,4 +1,4 @@
-package baekjoon.gold.g1
+package baekjoon.gold.g1.구간합구하기
 
 import java.util.*
 
