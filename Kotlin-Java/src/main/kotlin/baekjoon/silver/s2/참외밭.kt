@@ -1,4 +1,4 @@
-package baekjoon.bronze.b2
+package baekjoon.silver.s2
 
 fun main(): Unit = with(System.`in`.bufferedReader()) {
     val n = readLine().toLong() // 참외 개수
@@ -12,9 +12,8 @@ fun main(): Unit = with(System.`in`.bufferedReader()) {
 
     for (i in 3 until 12) {
         if (dirLen[i].first == dirLen[i - 2].first && dirLen[i - 1].first == dirLen[i - 3].first) {
-            // 전체 넓이 = 전체 사각형 - 빈 넓이
-            
-            println((dirLen[i + 1].second * dirLen[i + 2].second - dirLen[i - 2].second * dirLen[i - 1].second) * n)
+            // 전체 넓이 =
+            println((dirLen[i + 1].second * dirLen[i + 2].second - dirLen[i-2].second * dirLen[i - 1].second) * n)
             break
         }
     }
