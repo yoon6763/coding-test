@@ -2,16 +2,18 @@ package baekjoon.gold.g3.파티
 
 import java.io.BufferedReader
 import java.io.InputStreamReader
-import java.util.StringTokenizer
+import java.util.*
 import kotlin.math.max
 
 val MAX = 1000000000
 var n = 0
-lateinit var distance: Array<Int>
-lateinit var reverseDistance: Array<Int>
-lateinit var visited: Array<Boolean>
-lateinit var weight: Array<Array<Int>>
-lateinit var reverseWeight: Array<Array<Int>>
+
+class Node(val node: Int, val weight: Int) : Comparable<Node> {
+    override fun compareTo(other: Node): Int {
+        return (this.weight - other.weight)
+    }
+}
+
 
 fun main() {
     val br = BufferedReader(InputStreamReader(System.`in`))
@@ -19,77 +21,51 @@ fun main() {
     val nmx = br.readLine().split(" ").map { it.toInt() } // n - 학생 수, m - 간선 수, x - 목표 마을
     n = nmx[0]
     val m = nmx[1]
-    val x = nmx[2] - 1
+    val x = nmx[2]
 
-    distance = Array(n) { MAX }
-    reverseDistance = Array(n) { MAX }
-    visited = Array(n) { false }
-
-    weight = Array(n) { Array(n) { MAX } }
-    reverseWeight = Array(n) { Array(n) { MAX } }
-
-    repeat(n) {
-        weight[it][it] = 0
-        reverseWeight[it][it] = 0
-    }
+    val connected = Array(n + 1) { ArrayList<Node>() }
+    val reversedConnected = Array(n + 1) { ArrayList<Node>() }
 
     repeat(m) {
         val st = StringTokenizer(br.readLine(), " ")
-        val from = st.nextToken().toInt() - 1
-        val to = st.nextToken().toInt() - 1
-        val w = st.nextToken().toInt()
-        weight[from][to] = w
-        reverseWeight[to][from] = w
+        val (from, to, w) = Array(3) { st.nextToken().toInt() }
+        connected[from].add(Node(to, w))
+        reversedConnected[to].add(Node(from, w))
     }
+
+    val distance = dijkstra(x, connected)
+    val reverseDistance = dijkstra(x, reversedConnected)
 
     var result = 0
-
-    dijkstra(x, false)
-    repeat(n) { visited[it] = false }
-    dijkstra(x, true)
-
-    repeat(n) {
-        result = max(result, distance[it] + reverseDistance[it])
-    }
+    for (i in 1..n) result = max(result, distance[i] + reverseDistance[i])
 
     println(result)
 }
 
 
-private fun getSmallIndex(isReverse: Boolean): Int {
-    var min = MAX
-    var index = 0
+private fun dijkstra(start: Int, connection: Array<ArrayList<Node>>): Array<Int> {
+    val pq = PriorityQueue<Node>()
+    val distance = Array(n + 1) { MAX }
+    val visited = Array(n + 1) { false }
 
-    val distance = if (!isReverse) distance else reverseDistance
+    distance[start] = 0
+    pq.offer(Node(start, 0))
 
-    for (i in 0 until n) {
-        if (distance[i] < min && !visited[i]) {
-            min = distance[i]
-            index = i
-        }
-    }
-    return index
-}
+    while (pq.isNotEmpty()) {
+        val target = pq.poll()
 
-private fun dijkstra(start: Int, isReverse: Boolean) {
+        if (visited[target.node]) continue
+        visited[target.node] = true
 
-    val weight = if (!isReverse) weight else reverseWeight
-    val distance = if (!isReverse) distance else reverseDistance
-
-    for (i in 0 until n) distance[i] = weight[start][i]
-
-    visited[start] = true
-
-    for (i in 0 until n - 2) {
-        val current = getSmallIndex(isReverse)
-        visited[current] = true
-
-        for (j in 0 until n) {
-            if (!visited[j] && (distance[current] + weight[current][j] < distance[j])) {
-                distance[j] = distance[current] + weight[current][j]
+        connection[target.node].forEach { next ->
+            if (distance[next.node] > next.weight + target.weight) {
+                distance[next.node] = next.weight + target.weight
+                pq.offer(Node(next.node, distance[next.node]))
             }
         }
     }
+
+    return distance
 }
 
 /*
