@@ -5,10 +5,10 @@ import kotlin.math.min
 
 data class CCTV(val type: Int, val x: Int, val y: Int)
 
+lateinit var originMap: Array<Array<Int>>
 val cctv = ArrayList<CCTV>()
 var n = 0
 var m = 0
-lateinit var originMap: Array<Array<Int>>
 var min = Int.MAX_VALUE
 
 fun main() = with(System.`in`.bufferedReader()) {
@@ -32,19 +32,15 @@ fun main() = with(System.`in`.bufferedReader()) {
 
 fun backTracking(depth: Int, currentMap: Array<Array<Int>>) {
     if (depth == cctv.size) {
-        var sum = 0
-        currentMap.forEach { sum += it.count { it == 0 } }
-
+        val sum = currentMap.sumOf { it.count { it2 -> it2 == 0 } }
         min = min(min, sum)
         return
     }
 
     val cctvType = cctv[depth].type
     val maxDegree = when (cctvType) {
-        1 -> 4
+        1, 3, 4 -> 4
         2 -> 2
-        3 -> 4
-        4 -> 4
         5 -> 1
         else -> -1
     }
@@ -57,217 +53,133 @@ fun backTracking(depth: Int, currentMap: Array<Array<Int>>) {
             2 -> cctvType2(cctv[depth], copiedMap, degree)
             3 -> cctvType3(cctv[depth], copiedMap, degree)
             4 -> cctvType4(cctv[depth], copiedMap, degree)
-            5 -> cctvType5(cctv[depth], copiedMap, degree)
+            5 -> cctvType5(cctv[depth], copiedMap)
         }
         backTracking(depth + 1, copiedMap)
     }
 }
 
-fun cctvType1(point: CCTV, map: Array<Array<Int>>, degree: Int): Array<Array<Int>> {
+fun cctvType1(point: CCTV, map: Array<Array<Int>>, degree: Int) {
     when (degree) {
         // 오른쪽
-        0 -> {
-            for (y in point.y until m) {
-                if (map[point.x][y] == 6) break
-                map[point.x][y] = -1
-            }
-        }
-
+        0 -> watchRight(point, map)
         // 아래
-        1 -> {
-            for (x in point.x until n) {
-                if (map[x][point.y] == 6) break
-                map[x][point.y] = -1
-            }
-        }
-
+        1 -> watchDown(point, map)
         // 왼쪽
-        2 -> {
-            for (y in point.y downTo 0) {
-                if (map[point.x][y] == 6) break
-                map[point.x][y] = -1
-            }
-        }
-
+        2 -> watchLeft(point, map)
         // 위
-        3 -> {
-            for (x in point.x downTo 0) {
-                if (map[x][point.y] == 6) break
-                map[x][point.y] = -1
-            }
-        }
+        3 -> watchUp(point, map)
     }
-
-    return map
 }
 
 
-fun cctvType2(point: CCTV, map: Array<Array<Int>>, degree: Int): Array<Array<Int>> {
+fun cctvType2(point: CCTV, map: Array<Array<Int>>, degree: Int) {
     when (degree) {
+        // 가로
         0 -> {
-            for (y in point.y until m) {
-                if (map[point.x][y] == 6) break
-                map[point.x][y] = -1
-            }
-            for (y in point.y downTo 0) {
-                if (map[point.x][y] == 6) break
-                map[point.x][y] = -1
-            }
+            watchRight(point, map)
+            watchLeft(point, map)
         }
 
+        // 세로
         1 -> {
-            for (x in point.x until n) {
-                if (map[x][point.y] == 6) break
-                map[x][point.y] = -1
-            }
-            for (x in point.x downTo 0) {
-                if (map[x][point.y] == 6) break
-                map[x][point.y] = -1
-            }
+            watchUp(point, map)
+            watchDown(point, map)
         }
     }
-
-    return map
 }
 
-fun cctvType3(point: CCTV, map: Array<Array<Int>>, degree: Int): Array<Array<Int>> {
+fun cctvType3(point: CCTV, map: Array<Array<Int>>, degree: Int) {
     when (degree) {
         // 위, 오른쪽
         0 -> {
-            for (y in point.y until m) {
-                if (map[point.x][y] == 6) break
-                map[point.x][y] = -1
-            }
-            for (x in point.x downTo 0) {
-                if (map[x][point.y] == 6) break
-                map[x][point.y] = -1
-            }
+            watchRight(point, map)
+            watchUp(point, map)
         }
 
         // 오른쪽, 아래
         1 -> {
-            for (y in point.y until m) {
-                if (map[point.x][y] == 6) break
-                map[point.x][y] = -1
-            }
-            for (x in point.x until n) {
-                if (map[x][point.y] == 6) break
-                map[x][point.y] = -1
-            }
+            watchRight(point, map)
+            watchDown(point, map)
         }
 
         // 아래, 왼쪽
         2 -> {
-            for (x in point.x until n) {
-                if (map[x][point.y] == 6) break
-                map[x][point.y] = -1
-            }
-            for (y in point.y downTo 0) {
-                if (map[point.x][y] == 6) break
-                map[point.x][y] = -1
-            }
+            watchDown(point, map)
+            watchLeft(point, map)
         }
 
         // 왼쪽, 위
         3 -> {
-            for (y in point.y downTo 0) {
-                if (map[point.x][y] == 6) break
-                map[point.x][y] = -1
-            }
-            for (x in point.x downTo 0) {
-                if (map[x][point.y] == 6) break
-                map[x][point.y] = -1
-            }
+            watchLeft(point, map)
+            watchUp(point, map)
         }
     }
-    return map
 }
 
-fun cctvType4(point: CCTV, map: Array<Array<Int>>, degree: Int): Array<Array<Int>> {
+fun cctvType4(point: CCTV, map: Array<Array<Int>>, degree: Int) {
     when (degree) {
         // 오른쪽, 위, 아래
         0 -> {
-            for (y in point.y until m) {
-                if (map[point.x][y] == 6) break
-                map[point.x][y] = -1
-            }
-            for (x in point.x until n) {
-                if (map[x][point.y] == 6) break
-                map[x][point.y] = -1
-            }
-            for (x in point.x downTo 0) {
-                if (map[x][point.y] == 6) break
-                map[x][point.y] = -1
-            }
+            watchRight(point, map)
+            watchUp(point, map)
+            watchDown(point, map)
         }
 
         // 왼쪽, 오른쪽, 아래
         1 -> {
-            for (y in point.y until m) {
-                if (map[point.x][y] == 6) break
-                map[point.x][y] = -1
-            }
-            for (x in point.x until n) {
-                if (map[x][point.y] == 6) break
-                map[x][point.y] = -1
-            }
-            for (y in point.y downTo 0) {
-                if (map[point.x][y] == 6) break
-                map[point.x][y] = -1
-            }
+            watchLeft(point, map)
+            watchRight(point, map)
+            watchDown(point, map)
         }
 
         // 왼쪽, 위, 아래
         2 -> {
-            for (x in point.x until n) {
-                if (map[x][point.y] == 6) break
-                map[x][point.y] = -1
-            }
-            for (y in point.y downTo 0) {
-                if (map[point.x][y] == 6) break
-                map[point.x][y] = -1
-            }
-            for (x in point.x downTo 0) {
-                if (map[x][point.y] == 6) break
-                map[x][point.y] = -1
-            }
+            watchLeft(point, map)
+            watchUp(point, map)
+            watchDown(point, map)
         }
 
         // 위, 왼쪽, 오른쪽
         3 -> {
-            for (y in point.y until m) {
-                if (map[point.x][y] == 6) break
-                map[point.x][y] = -1
-            }
-            for (y in point.y downTo 0) {
-                if (map[point.x][y] == 6) break
-                map[point.x][y] = -1
-            }
-            for (x in point.x downTo 0) {
-                if (map[x][point.y] == 6) break
-                map[x][point.y] = -1
-            }
+            watchUp(point, map)
+            watchLeft(point, map)
+            watchRight(point, map)
         }
     }
-    return map
 }
 
-fun cctvType5(point: CCTV, map: Array<Array<Int>>, degree: Int): Array<Array<Int>> {
-    for (y in point.y until m) {
-        if (map[point.x][y] == 6) break
-        map[point.x][y] = -1
+fun cctvType5(point: CCTV, map: Array<Array<Int>>) {
+    watchRight(point, map)
+    watchLeft(point, map)
+    watchUp(point, map)
+    watchDown(point, map)
+}
+
+fun watchRight(p: CCTV, map: Array<Array<Int>>) {
+    for (y in p.y until m) {
+        if (map[p.x][y] == 6) break
+        map[p.x][y] = -1
     }
-    for (x in point.x until n) {
-        if (map[x][point.y] == 6) break
-        map[x][point.y] = -1
+}
+
+fun watchLeft(p: CCTV, map: Array<Array<Int>>) {
+    for (y in p.y downTo 0) {
+        if (map[p.x][y] == 6) break
+        map[p.x][y] = -1
     }
-    for (y in point.y downTo 0) {
-        if (map[point.x][y] == 6) break
-        map[point.x][y] = -1
+}
+
+fun watchUp(p: CCTV, map: Array<Array<Int>>) {
+    for (x in p.x downTo 0) {
+        if (map[x][p.y] == 6) break
+        map[x][p.y] = -1
     }
-    for (x in point.x downTo 0) {
-        if (map[x][point.y] == 6) break
-        map[x][point.y] = -1
+}
+
+fun watchDown(p: CCTV, map: Array<Array<Int>>) {
+    for (x in p.x until n) {
+        if (map[x][p.y] == 6) break
+        map[x][p.y] = -1
     }
-    return map
 }
