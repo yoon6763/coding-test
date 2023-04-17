@@ -1,4 +1,4 @@
-package baekjoon.gold.g5
+package baekjoon.gold.g5.다각형의면적
 
 import java.io.BufferedReader
 import java.io.InputStreamReader

@@ -1,4 +1,4 @@
-package baekjoon.gold.g5
+package baekjoon.gold.g5.인구이동
 
 import java.util.LinkedList
 import java.util.Queue
