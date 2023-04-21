@@ -1,4 +1,4 @@
-package baekjoon.platinum.K번째최단경로찾기
+package baekjoon.platinum.p4.K번째최단경로찾기
 
 import java.util.*
 
