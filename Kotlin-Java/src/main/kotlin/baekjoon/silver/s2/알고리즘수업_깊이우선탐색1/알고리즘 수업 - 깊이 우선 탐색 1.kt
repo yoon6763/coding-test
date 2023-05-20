@@ -11,11 +11,13 @@ fun main() = with(System.`in`.bufferedReader()) {
     val (n, m, r) = readLine().split(" ").map { it.toInt() }
 
     connected = Array(n + 1) { ArrayList() }
-    visited = Array(n + 1) { -1 }
+    visited = Array(n + 1) { 0 }
 
     repeat(m) {
         val st = StringTokenizer(readLine())
-        connected[st.nextToken().toInt()].add(st.nextToken().toInt())
+        val (v1, v2) = Array(2) { st.nextToken().toInt() }
+        connected[v1].add(v2)
+        connected[v2].add(v1)
     }
 
     connected.forEach { it.sort() }
@@ -23,18 +25,18 @@ fun main() = with(System.`in`.bufferedReader()) {
     dfs(r)
 
     for (i in 1..n) {
-        sb.append(if (visited[i] == -1) 0 else visited[i]).append("\n")
+        sb.append(visited[i]).append("\n")
     }
+
     print(sb)
 }
 
 fun dfs(idx: Int) {
-    if (visited[idx] != -1) return
+    if (visited[idx] != 0) return
 
     visited[idx] = cnt++
 
     connected[idx].forEach { next ->
         dfs(next)
     }
-
 }
