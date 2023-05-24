@@ -1,18 +1,16 @@
 package baekjoon.silver.s2
 
-fun main() {
-    val nm = readLine()!!.split(" ")
-    val treeCnt = nm[0].toLong()
+fun main() = with(System.`in`.bufferedReader()) {
+    val nm = readLine().split(" ")
     val need = nm[1].toLong()
 
-    val trees = readLine()!!.split(" ").map { it.toLong() }.toLongArray()
+    val trees = readLine().split(" ").map { it.toLong() }.toLongArray()
 
     var min = 0L
     var max = trees.maxOrNull()!!
-    var mid = (max / 2).toLong()
 
     while (min <= max) {
-        mid = (min + max) / 2
+        val mid = (min + max) / 2
         val get = meter(trees, mid)
 
         if (get >= need) {
@@ -28,7 +26,7 @@ fun main() {
 fun meter(arr: LongArray, h: Long): Long {
     var result = 0L
     arr.forEach {
-        if(it > h) result += it - h
+        if (it > h) result += it - h
     }
     return result
 }
