@@ -6,7 +6,7 @@ fun main() = with(System.`in`.bufferedReader()) {
 
     for (i in 0 until n) {
         val line = readLine()
-        if (line in set || line.reversed() in set) {
+        if (line == line.reversed() || line in set || line.reversed() in set) {
             println("${line.length} ${line[line.length / 2]}")
             break
         } else {
