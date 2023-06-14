@@ -30,14 +30,14 @@ fun main() = with(System.`in`.bufferedReader()) {
                     lowQ.offer(nums[col])
                 }
 
-                if (cnt++ % 2 == 1) {
+                while (lowQ.size < highQ.size) {
+                    lowQ.offer(highQ.poll())
+                }
+                while (lowQ.size - 1 > highQ.size) {
+                    highQ.offer(lowQ.poll())
+                }
 
-                    while (lowQ.size <= highQ.size) {
-                        lowQ.offer(highQ.poll())
-                    }
-                    while (lowQ.size - 1 > highQ.size) {
-                        highQ.offer(lowQ.poll())
-                    }
+                if (cnt++ % 2 == 1) {
                     sb.append(lowQ.peek()).append(" ")
                 }
             }
