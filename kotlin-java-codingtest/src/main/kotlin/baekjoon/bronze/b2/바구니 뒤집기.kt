@@ -6,7 +6,7 @@ fun main() = with(System.`in`.bufferedReader()) {
 
     repeat(m) {
         val (i, j) = readLine().split(" ").map { it.toInt() - 1 }
-        arr.reverse(i, j)
+        arr.reverse(i, j + 1)
     }
 
     print(arr.joinToString(" "))
