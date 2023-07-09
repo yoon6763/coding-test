@@ -1,13 +1,15 @@
-package baekjoon.silver.s1
+package baekjoon.silver.s1.하노이탑
 
 import java.lang.StringBuilder
+import java.math.BigInteger
 
 val sb = StringBuilder()
 
 fun main() {
     val n = readln().toInt()
-    sb.append("${(1 shl n) - 1}\n")
-    hanoi(n, 1, 2, 3)
+    val cnt = BigInteger("2").pow(n) - BigInteger("1")
+    sb.append("$cnt\n")
+    if (n <= 20) hanoi(n, 1, 2, 3)
     print(sb)
 }
 
