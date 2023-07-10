@@ -1,36 +1,27 @@
 package baekjoon.silver.s4
 
-fun main() {
-    while (true) {
-        val line = readLine()!!
-        if (line == ".")
-            break
+import java.util.Stack
 
-        val stack = ArrayList<Char>()
+fun main() = with(System.`in`.bufferedReader()) {
+    val sb = StringBuilder()
+    while (true) {
+        var line = readLine()
+        if (line == ".") break
+        // 괄호만 남기기
+        line = line.filter { it in "([)]" }
+
+        val stack = Stack<Char>()
 
         for (i in line) {
             when (i) {
-                '(', ')', '[', ']' -> {
-                    stack.add(i)
-
-                    while (stack.size >= 2) {
-                        if ((stack[stack.size - 1] == ']' && stack[stack.size - 2] == '[') ||
-                            ((stack[stack.size - 1] == ')' && stack[stack.size - 2] == '('))
-                        ) {
-                            stack.removeLast()
-                            stack.removeLast()
-                        } else {
-                            break
-                        }
-                    }
-                }
+                '(', '[' -> stack.add(i)
+                ')' -> if (stack.isNotEmpty() && stack.peek() == '(') stack.pop() else stack.add(i)
+                ']' -> if (stack.isNotEmpty() && stack.peek() == '[') stack.pop() else stack.add(i)
             }
         }
 
-        if(stack.isEmpty()) {
-            println("yes")
-        } else {
-            println("no")
-        }
+        sb.append(if (stack.isEmpty()) "yes" else "no").append("\n")
     }
+
+    print(sb)
 }
