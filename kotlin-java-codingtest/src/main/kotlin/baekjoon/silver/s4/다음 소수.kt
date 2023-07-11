@@ -1,4 +1,4 @@
-package baekjoon.silver.s4.다음소수
+package baekjoon.silver.s4
 
 fun main() = repeat(readln().toInt()) {
     val bigInteger = readln().toBigInteger()
