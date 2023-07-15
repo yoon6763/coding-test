@@ -4,8 +4,8 @@ import java.util.Deque
 import java.util.LinkedList
 
 fun main() {
-    val nk = readLine()!!.split(" ")
-    var n = nk[0].toInt() // 내 위치
+    val nk = readln().split(" ")
+    val n = nk[0].toInt() // 내 위치
     val k = nk[1].toInt() // 목표 위치
 
     if (n == k) {
@@ -22,8 +22,8 @@ fun main() {
     while (dq.isNotEmpty()) {
         val target = dq.pollFirst()
 
-        val nx1 = target + 1
-        val nx2 = target - 1
+        val nx1 = target - 1
+        val nx2 = target + 1
         val nx3 = target * 2
 
         if (nx3 in 0 until visited.size && visited[nx3] == -1) {

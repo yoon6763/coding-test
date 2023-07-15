@@ -33,15 +33,13 @@ fun main() {
 
     for (i in 0 until size) {
         val node = pq.poll()
-        val to = find(node.to)
-        val from = find(node.from)
 
-        if (!isSameParent(to, from)) {
+        if (cnt == n - 2) break
+
+        if (union(node.to, node.from)) {
             total += node.weight
             cnt++
-            union(node.to, node.from)
         }
-        if (cnt == n - 2) break
     }
     println(total)
 }
@@ -54,16 +52,11 @@ fun find(x: Int): Int {
     }
 }
 
-fun union(x: Int, y: Int) {
+fun union(x: Int, y: Int): Boolean {
     val nx = find(x)
     val ny = find(y)
-    if (nx != ny) {
+    return if (nx != ny) {
         parent[ny] = nx
-    }
-}
-
-fun isSameParent(x: Int, y: Int): Boolean {
-    val nx = find(x)
-    val ny = find(y)
-    return nx == ny
+        true
+    } else false
 }
