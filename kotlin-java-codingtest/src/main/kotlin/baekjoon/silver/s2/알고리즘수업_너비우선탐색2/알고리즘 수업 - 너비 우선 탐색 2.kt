@@ -1,4 +1,4 @@
-package baekjoon.silver.s2
+package baekjoon.silver.s2.알고리즘수업_너비우선탐색2
 
 import java.util.*
 
@@ -12,7 +12,7 @@ fun main() {
         graph[b].add(a)
     }
 
-    graph.forEach { it.sort() }
+    graph.forEach { it.sortDescending() }
 
     val visited = IntArray(n + 1)
 
