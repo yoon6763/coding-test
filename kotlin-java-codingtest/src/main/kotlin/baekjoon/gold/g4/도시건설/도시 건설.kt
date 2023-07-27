@@ -1,4 +1,4 @@
-package baekjoon.gold.g4.`도시 건설`
+package baekjoon.gold.g4.도시건설
 
 import java.io.BufferedReader
 import java.io.InputStreamReader

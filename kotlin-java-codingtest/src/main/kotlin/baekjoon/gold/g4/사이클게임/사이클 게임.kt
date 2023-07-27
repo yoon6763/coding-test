@@ -1,4 +1,4 @@
-package baekjoon.gold.g4.`사이클 게임`
+package baekjoon.gold.g4.사이클게임
 
 import java.util.StringTokenizer
 

@@ -1,4 +1,4 @@
-package baekjoon.gold.g4.`불!`
+package baekjoon.gold.g4.불
 
 import java.util.LinkedList
 import java.util.Queue
