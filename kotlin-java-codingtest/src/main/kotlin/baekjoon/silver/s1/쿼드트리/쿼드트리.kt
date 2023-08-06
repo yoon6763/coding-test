@@ -1,4 +1,4 @@
-package baekjoon.silver.s1
+package baekjoon.silver.s1.쿼드트리
 
 import java.io.BufferedReader
 import java.io.InputStreamReader
