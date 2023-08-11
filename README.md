@@ -6,4 +6,5 @@ C, C++, Python 등 새 언어를 배우거나 활용해야 할 일이 생길 때
 
 
 백준 아이디 - yoon6763 <br>
-Profile - https://www.acmicpc.net/user/yoon6763
+(Backjoon)  Profile - https://www.acmicpc.net/user/yoon6763 <br>
+(Solved.ac) Profile - https://solved.ac/profile/yoon6763
