@@ -1,60 +1,44 @@
 package baekjoon.gold.g4
 
-import java.io.BufferedReader
-import java.io.InputStreamReader
 import java.util.StringTokenizer
 import kotlin.math.abs
-import kotlin.math.sqrt
 
-lateinit var prime: Array<Int>
+val primes = IntArray(100002) { it }
+val appearCnt = IntArray(100002)
 
-fun main() {
-    val br = BufferedReader(InputStreamReader(System.`in`))
-    val n = br.readLine().toInt()
-    val st = StringTokenizer(br.readLine(), " ")
+fun main() = with(System.`in`.bufferedReader()) {
+    val n = readLine().toInt()
 
-    prime = Array<Int>(100001) { 0 }
-    factorization(st.nextToken().toInt(), true)
-
-    while (st.hasMoreTokens()) {
-        val oper = st.nextToken()
-        val num = abs(st.nextToken().toInt())
-
-        if (oper == "*") {
-            if (num == 0) {
-                println("mint chocolate")
-                return
+    for (i in 2 until primes.size) {
+        if (primes[i] == i) {
+            for (j in i + i until primes.size step i) {
+                primes[j] = i
             }
-            factorization(num, true)
-        } else {
-            factorization(num, false)
         }
     }
 
-    for (i in 2..100000) {
-        if (prime[i] < 0) {
+    val st = StringTokenizer(readLine())
+
+    repeat(n) {
+        val oper = if (it == 0 || st.nextToken() == "*") 1 else -1
+        var num = abs(st.nextToken().toInt())
+        if (num == 0) {
+            println("mint chocolate")
+            return@with
+        }
+
+        while (num > 1) {
+            val prime = primes[num]
+            appearCnt[prime] += oper
+            num /= prime
+        }
+    }
+
+    for (i in 2..100001) {
+        if (appearCnt[i] < 0) {
             println("toothpaste")
-            return
+            return@with
         }
     }
     println("mint chocolate")
 }
-
-// 소인수분해
-fun factorization(n: Int, isMulti: Boolean) {
-    val sign = if (isMulti) 1 else -1
-
-    var i = 2
-    var num = n
-
-    while (i <= num) {
-        while (num % i == 0) {
-            prime[i] += sign
-            num /= i
-        }
-        i++
-    }
-}
-
-// 정수 -> mint chocolate
-// 유리수 -> toothpaste
