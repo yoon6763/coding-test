@@ -1,11 +1,11 @@
-package baekjoon.gold.g1.구슬탈출2
+package baekjoon.gold.g1.구슬탈출3
 
 import java.io.BufferedReader
 import java.io.InputStreamReader
 import java.util.LinkedList
 import java.util.Queue
 
-data class Node(var rx: Int, var ry: Int, var bx: Int, var by: Int, var depth: Int)
+data class Node(var rx: Int, var ry: Int, var bx: Int, var by: Int, var depth: Int, var loads:String)
 
 val dx = arrayOf(-1, 0, 1, 0)
 val dy = arrayOf(0, 1, 0, -1)
@@ -39,18 +39,18 @@ fun main() {
     }
 
     val q = LinkedList<Node>() as Queue<Node>
-    q.offer(Node(startRX, startRY, startBX, startBY, 1))
+    q.offer(Node(startRX, startRY, startBX, startBY, 1, ""))
     visited[startRX][startRY][startBX][startBY] = true
 
     while (q.isNotEmpty()) {
         val target = q.poll()
 
-        if(target.depth > 10) {
+        if (target.depth > 10) {
             println(-1)
             return
         }
 
-        for(i in 0 until 4) {
+        for (i in 0 until 4) {
             var nrx = target.rx
             var nry = target.ry
             var nbx = target.bx
@@ -63,7 +63,7 @@ fun main() {
                 nbx += dx[i]
                 nby += dy[i]
 
-                if(map[nbx][nby] == 'O') {
+                if (map[nbx][nby] == 'O') {
                     blueGoal = true
                     break
                 }
@@ -73,42 +73,61 @@ fun main() {
                 nrx += dx[i]
                 nry += dy[i]
 
-                if(map[nrx][nry] == 'O') {
+                if (map[nrx][nry] == 'O') {
                     redGoal = true
                     break
                 }
             }
 
-            if(blueGoal) continue
-            if(redGoal) {
+            if (blueGoal) continue
+            if (redGoal) {
                 println(target.depth)
+                println(target.loads + when (i) {
+                    0 -> "U"
+                    1 -> "R"
+                    2 -> "D"
+                    3 -> "L"
+                    else -> ""
+                })
                 return
             }
 
-            if(nrx == nbx && nry == nby) {
+            if (nrx == nbx && nry == nby) {
                 when (i) {
                     0 -> {
-                        if(target.rx > target.bx) nrx -= dx[i]
+                        if (target.rx > target.bx) nrx -= dx[i]
                         else nbx -= dx[i]
                     }
+
                     1 -> {
-                        if(target.ry < target.by) nry -= dy[i]
+                        if (target.ry < target.by) nry -= dy[i]
                         else nby -= dy[i]
                     }
+
                     2 -> {
-                        if(target.rx < target.bx) nrx -= dx[i]
+                        if (target.rx < target.bx) nrx -= dx[i]
                         else nbx -= dx[i]
                     }
+
                     3 -> {
-                        if(target.ry > target.by) nry -= dy[i]
+                        if (target.ry > target.by) nry -= dy[i]
                         else nby -= dy[i]
                     }
                 }
             }
 
-            if(!visited[nrx][nry][nbx][nby]) {
+            if (!visited[nrx][nry][nbx][nby]) {
                 visited[nrx][nry][nbx][nby] = true
-                q.offer(Node(nrx,nry,nbx,nby, target.depth + 1))
+
+                val load = when (i) {
+                    0 -> "U"
+                    1 -> "R"
+                    2 -> "D"
+                    3 -> "L"
+                    else -> ""
+                }
+
+                q.offer(Node(nrx, nry, nbx, nby, target.depth + 1, target.loads + load))
             }
         }
     }

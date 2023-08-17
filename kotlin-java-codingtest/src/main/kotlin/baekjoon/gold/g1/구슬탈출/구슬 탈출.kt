@@ -1,4 +1,4 @@
-package baekjoon.gold.g1.구슬탈출2
+package baekjoon.gold.g1.구슬탈출
 
 import java.io.BufferedReader
 import java.io.InputStreamReader
@@ -46,7 +46,7 @@ fun main() {
         val target = q.poll()
 
         if(target.depth > 10) {
-            println(-1)
+            println(0)
             return
         }
 
@@ -81,7 +81,7 @@ fun main() {
 
             if(blueGoal) continue
             if(redGoal) {
-                println(target.depth)
+                println(1)
                 return
             }
 
@@ -113,5 +113,5 @@ fun main() {
         }
     }
 
-    println(-1)
+    println(0)
 }
