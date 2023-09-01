@@ -7,9 +7,12 @@ fun main() {
     var n = readln().toInt()
     val sb = StringBuilder()
 
-    while (n != 1) {
-        sb.append(abs(n % -2))
-        n = ceil(n.toDouble() / -2).toInt()
+
+    if (n != 0) {
+        while (n != 1) {
+            sb.append(abs(n % -2))
+            n = ceil(n.toDouble() / -2).toInt()
+        }
     }
     sb.append(n)
 
