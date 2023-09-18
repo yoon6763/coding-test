@@ -36,9 +36,9 @@ class GroomthonChallenge : Platform {
         sb.appendLine("Groomthon Challenge")
 
         problems.groupBy { it.level }.forEach { (level, problems) ->
-            sb.appendLine("\tLevel $level")
+            sb.appendLine("  Level $level")
             problems.forEach { problem ->
-                sb.appendLine("\t\t[${problem.language}] ${problem.title}")
+                sb.appendLine("    [${problem.language}] ${problem.title}")
             }
             sb.appendLine()
         }
