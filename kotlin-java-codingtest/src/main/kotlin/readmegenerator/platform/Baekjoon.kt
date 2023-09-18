@@ -1,0 +1,71 @@
+package readmegenerator.platform
+
+import readmegenerator.Config
+import readmegenerator.platform.data.BaekjoonProblem
+import java.io.File
+
+class Baekjoon : Platform {
+
+    override val platformName: String = "baekjoon"
+    private val problems = mutableListOf<BaekjoonProblem>()
+    private val tierList = listOf("diamond", "platinum", "gold", "silver", "bronze", "unrated")
+
+    override fun problemAdd(file: File): Boolean {
+        val path = file.path
+        return isValidate(path)
+    }
+
+    override fun isValidate(path: String): Boolean {
+        val pathList = path.split("\\")
+        if (platformName !in path) return false
+
+        val extension = pathList.last().split(".").last()
+        if (extension !in Config.supportLanguage) return false
+
+        val tier = pathList[pathList.indexOf(platformName) + 1]
+        if (tier !in tierList) return false
+
+        val level = pathList[pathList.indexOf(platformName) + 2].filter { it.isDigit() }.toIntOrNull() ?: return false
+
+        val language = Config.supportLanguage[extension] ?: return false
+        val title = pathList.last().split(".").first()
+
+        problems.add(BaekjoonProblem(title, tier, level, language))
+        return true
+    }
+
+    override fun generateReadmeContent(): String {
+        sortProblemList()
+
+        val sb = StringBuilder()
+        sb.appendLine(platformName)
+
+        problems.groupBy { it.tier }.forEach { (tier, problems) ->
+            sb.appendLine("\t$tier")
+            problems.groupBy { it.level }.forEach { (level, problems) ->
+                sb.appendLine("\t\t${tier[0]}$level")
+                problems.forEach { problem ->
+                    sb.appendLine("\t\t\t[${problem.language}] ${problem.title}")
+                }
+            }
+            sb.appendLine()
+        }
+
+        return sb.toString()
+    }
+
+    override fun sortProblemList() {
+        val languageCount = mutableMapOf<String, Int>()
+        val tierPriority = Array(tierList.size) { Pair(tierList[it], it) }.toMap()
+
+        problems.forEach {
+            languageCount[it.language] = languageCount.getOrDefault(it.language, 0) + 1
+        }
+
+        problems.sortWith(compareBy({ tierPriority[it.tier] }, { -it.level }, { -languageCount[it.language]!! }))
+    }
+
+    override fun getProblemInfoList(): List<ProblemInfo> {
+        return problems.map { ProblemInfo(it.title, platformName, it.language) }
+    }
+}

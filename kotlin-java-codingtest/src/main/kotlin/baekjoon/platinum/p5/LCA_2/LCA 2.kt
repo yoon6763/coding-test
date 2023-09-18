@@ -1,5 +1,6 @@
 package baekjoon.platinum.p5.LCA_2
 
+
 import java.lang.StringBuilder
 import java.util.LinkedList
 import java.util.Queue
