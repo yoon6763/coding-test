@@ -22,10 +22,10 @@ jobs:
       - name: Build with Gradle
         run: |
           # 권한 설정
-          chmod +x ReadMeGenerator/gradlew
-          cd ReadMeGenerator
+          chmod +x README-generator/gradlew
+          cd README-generator
           ./gradlew build
-          java -jar build/libs/ReadMeGenerator-1.0-SNAPSHOT.jar
+          java -jar build/libs/README-generator-1.0-SNAPSHOT.jar
           
       - name: Git Config
         run: |
