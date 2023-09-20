@@ -1,6 +1,7 @@
 package readmegenerator.platform
 
 import readmegenerator.Config
+import readmegenerator.GeneratorModeHelper
 import readmegenerator.platform.data.BaekjoonProblem
 import java.io.File
 
@@ -16,7 +17,7 @@ class Baekjoon : Platform {
     }
 
     override fun isValidate(path: String): Boolean {
-        val pathList = path.split("\\")
+        val pathList = path.split(GeneratorModeHelper.getPathSplitter())
         if (platformName !in path) return false
 
         val extension = pathList.last().split(".").last()

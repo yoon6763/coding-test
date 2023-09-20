@@ -6,6 +6,9 @@ import readmegenerator.platform.Platform
 import readmegenerator.platform.Programmers
 
 object Config {
+
+    val generatorMode = GeneratorMode.GITHUB_ACTIONS
+
     val supportLanguage = hashMapOf(
         "a68" to "algol68",
         "c" to "C",

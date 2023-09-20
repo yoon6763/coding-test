@@ -1,0 +1,42 @@
+name: Run README.md generator and commit
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build_and_test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up JDK
+        uses: actions/setup-java@v2
+        with:
+          java-version: '11' # 필요한 Java 버전을 지정
+          distribution: 'adopt' # 배포판을 선택합니다. (예: adopt, openjdk)
+
+      - name: Build with Gradle
+        run: |
+          # 권한 설정
+          chmod +x kotlin-java-codingtest/gradlew
+          cd kotlin-java-codingtest/src/main/kotlin/readmegenerator
+          # ./gradlew build --no-daemon
+          kotlinc Main.kt -include-runtime -d Main.jar
+          java -jar Main.jar
+      
+      - name: Git Config
+        run: |
+          # Git 설정
+          git config user.name "uknow-github-action"
+          git config user.email "yoon6763@naver.com"
+      
+      - name: Git commit and push
+        run: |
+          # 파일을 커밋하고 푸시
+          git add .
+          git commit -m "github-action : update README.me"
+          git push origin main

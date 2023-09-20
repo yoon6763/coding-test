@@ -7,8 +7,7 @@ import java.io.File
 val platformList = Config.supportPlatformList
 
 fun main() {
-    val javaKotlinPath = System.getProperty("user.dir")
-    val defaultPath = File(javaKotlinPath).parent
+    val defaultPath = GeneratorModeHelper.getDefaultPath()
 
     searchSolvedProblems(defaultPath)
     updateReadMe(defaultPath)
