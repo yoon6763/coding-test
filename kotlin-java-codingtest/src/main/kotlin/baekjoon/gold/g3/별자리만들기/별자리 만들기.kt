@@ -1,4 +1,4 @@
-package baekjoon.gold.g4.별자리만들기
+package baekjoon.gold.g3.별자리만들기
 
 import java.util.PriorityQueue
 import kotlin.math.pow
