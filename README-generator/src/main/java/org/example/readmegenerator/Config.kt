@@ -8,7 +8,7 @@ import readmegenerator.platform.Programmers
 
 object Config {
 
-    val generatorMode = GenerateMode.LOCAL_DEVELOP_WINDOWS
+    val generatorMode = GenerateMode.GITHUB_ACTIONS
 
     val supportLanguage = hashMapOf(
         "a68" to "algol68",
