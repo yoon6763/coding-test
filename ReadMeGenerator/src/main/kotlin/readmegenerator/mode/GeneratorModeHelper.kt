@@ -1,5 +1,6 @@
-package readmegenerator
+package readmegenerator.mode
 
+import readmegenerator.Config
 import java.io.File
 
 object GeneratorModeHelper {

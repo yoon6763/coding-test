@@ -1,5 +1,6 @@
 package readmegenerator
 
+import readmegenerator.mode.GeneratorMode
 import readmegenerator.platform.Baekjoon
 import readmegenerator.platform.GroomthonChallenge
 import readmegenerator.platform.Platform
@@ -7,7 +8,7 @@ import readmegenerator.platform.Programmers
 
 object Config {
 
-    val generatorMode = GeneratorMode.GITHUB_ACTIONS
+    val generatorMode = GeneratorMode.LOCAL_DEVELOP_WINDOWS
 
     val supportLanguage = hashMapOf(
         "a68" to "algol68",
@@ -24,7 +25,6 @@ object Config {
         "sql" to "SQL",
         "vb" to "Visual Basic",
     )
-
 
     val supportPlatformList = listOf<Platform>(
         Baekjoon(),

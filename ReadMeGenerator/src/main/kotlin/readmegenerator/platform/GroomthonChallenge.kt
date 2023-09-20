@@ -1,7 +1,7 @@
 package readmegenerator.platform
 
 import readmegenerator.Config
-import readmegenerator.GeneratorModeHelper
+import readmegenerator.mode.GeneratorModeHelper
 import readmegenerator.platform.data.GroomthonChallengeProblem
 import java.io.File
 

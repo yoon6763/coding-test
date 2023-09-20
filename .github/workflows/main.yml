@@ -22,12 +22,11 @@ jobs:
       - name: Build with Gradle
         run: |
           # 권한 설정
-          chmod +x kotlin-java-codingtest/gradlew
-          cd kotlin-java-codingtest/src/main/kotlin/readmegenerator
-          # ./gradlew build --no-daemon
-          kotlinc Main.kt -include-runtime -d Main.jar
-          java -jar Main.jar
-      
+          chmod +x ReadMeGenerator/gradlew
+          cd ReadMeGenerator
+          ./gradlew build
+          java -jar build/libs/ReadMeGenerator.jar
+          
       - name: Git Config
         run: |
           # Git 설정

@@ -1,8 +1,11 @@
 package readmegenerator
 
+import readmegenerator.mode.GeneratorModeHelper
 import readmegenerator.platform.ProblemInfo
 import java.io.BufferedReader
 import java.io.File
+import java.text.SimpleDateFormat
+import java.util.Calendar
 
 val platformList = Config.supportPlatformList
 
@@ -19,6 +22,12 @@ fun updateReadMe(defaultPath: String) {
 
     val bufferedReader = readMe.bufferedReader()
     stackInitialContent(bufferedReader, content)
+
+    val now = Calendar.getInstance().apply {
+        add(Calendar.HOUR, 9)
+    }
+    SimpleDateFormat("yyyy-MM-dd HH:mm:ss")
+    content.appendLine("Last Update : ${SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(now.time)} <br>")
 
     content.appendLine()
     content.appendLine()

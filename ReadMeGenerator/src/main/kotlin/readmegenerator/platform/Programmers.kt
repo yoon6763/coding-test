@@ -1,15 +1,14 @@
 package readmegenerator.platform
 
 import readmegenerator.Config
-import readmegenerator.GeneratorModeHelper
-import readmegenerator.platform.data.BaekjoonProblem
+import readmegenerator.mode.GeneratorModeHelper
+import readmegenerator.platform.data.ProgrammersProblem
 import java.io.File
 
-class Baekjoon : Platform {
+class Programmers : Platform {
 
-    override val platformName: String = "baekjoon"
-    private val problems = mutableListOf<BaekjoonProblem>()
-    private val tierList = listOf("diamond", "platinum", "gold", "silver", "bronze", "unrated")
+    override val platformName: String = "programmers"
+    private val problems = mutableListOf<ProgrammersProblem>()
 
     override fun problemAdd(file: File): Boolean {
         val path = file.path
@@ -23,15 +22,11 @@ class Baekjoon : Platform {
         val extension = pathList.last().split(".").last()
         if (extension !in Config.supportLanguage) return false
 
-        val tier = pathList[pathList.indexOf(platformName) + 1]
-        if (tier !in tierList) return false
-
-        val level = pathList[pathList.indexOf(platformName) + 2].filter { it.isDigit() }.toIntOrNull() ?: return false
-
+        val level = pathList[pathList.indexOf(platformName) + 1].filter { it.isDigit() }.toIntOrNull() ?: return false
         val language = Config.supportLanguage[extension] ?: return false
         val title = pathList.last().split(".").first()
 
-        problems.add(BaekjoonProblem(title, tier, level, language))
+        problems.add(ProgrammersProblem(title, level, language))
         return true
     }
 
@@ -41,13 +36,10 @@ class Baekjoon : Platform {
         val sb = StringBuilder()
         sb.appendLine(platformName)
 
-        problems.groupBy { it.tier }.forEach { (tier, problems) ->
-            sb.appendLine("  $tier")
-            problems.groupBy { it.level }.forEach { (level, problems) ->
-                sb.appendLine("    ${tier[0]}$level")
-                problems.forEach { problem ->
-                    sb.appendLine("      [${problem.language}] ${problem.title}")
-                }
+        problems.groupBy { it.level }.forEach { (level, problems) ->
+            sb.appendLine("  Level $level")
+            problems.forEach { problem ->
+                sb.appendLine("    [${problem.language}] ${problem.title}")
             }
             sb.appendLine()
         }
@@ -57,13 +49,11 @@ class Baekjoon : Platform {
 
     override fun sortProblemList() {
         val languageCount = mutableMapOf<String, Int>()
-        val tierPriority = Array(tierList.size) { Pair(tierList[it], it) }.toMap()
-
         problems.forEach {
             languageCount[it.language] = languageCount.getOrDefault(it.language, 0) + 1
         }
 
-        problems.sortWith(compareBy({ tierPriority[it.tier] }, { it.level }, { -languageCount[it.language]!! }))
+        problems.sortWith(compareBy({ -it.level }, { -languageCount[it.language]!! }))
     }
 
     override fun getProblemInfoList(): List<ProblemInfo> {
