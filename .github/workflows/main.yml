@@ -16,7 +16,7 @@ jobs:
       - name: Set up JDK
         uses: actions/setup-java@v2
         with:
-          java-version: '11' # 필요한 Java 버전을 지정
+          java-version: '17' # 필요한 Java 버전을 지정
           distribution: 'adopt' # 배포판을 선택합니다. (예: adopt, openjdk)
 
       - name: Build with Gradle
