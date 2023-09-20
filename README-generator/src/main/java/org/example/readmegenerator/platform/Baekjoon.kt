@@ -7,6 +7,8 @@ import java.io.File
 
 class Baekjoon : Platform {
 
+    val supportLanguage = Config.supportLanguage
+
     override val platformName: String = "baekjoon"
     private val problems = mutableListOf<BaekjoonProblem>()
     private val tierList = listOf("diamond", "platinum", "gold", "silver", "bronze", "unrated")
@@ -21,14 +23,14 @@ class Baekjoon : Platform {
         if (platformName !in path) return false
 
         val extension = pathList.last().split(".").last()
-        if (extension !in Config.supportLanguage) return false
+        if (extension !in supportLanguage) return false
 
         val tier = pathList[pathList.indexOf(platformName) + 1]
         if (tier !in tierList) return false
 
         val level = pathList[pathList.indexOf(platformName) + 2].filter { it.isDigit() }.toIntOrNull() ?: return false
 
-        val language = Config.supportLanguage[extension] ?: return false
+        val language = supportLanguage[extension] ?: return false
         val title = pathList.last().split(".").first()
 
         problems.add(BaekjoonProblem(title, tier, level, language))

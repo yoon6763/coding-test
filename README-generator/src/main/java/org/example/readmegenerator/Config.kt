@@ -1,6 +1,6 @@
 package readmegenerator
 
-import readmegenerator.mode.GeneratorMode
+import org.example.readmegenerator.mode.GenerateMode
 import readmegenerator.platform.Baekjoon
 import readmegenerator.platform.GroomthonChallenge
 import readmegenerator.platform.Platform
@@ -8,7 +8,7 @@ import readmegenerator.platform.Programmers
 
 object Config {
 
-    val generatorMode = GeneratorMode.LOCAL_DEVELOP_WINDOWS
+    val generatorMode = GenerateMode.LOCAL_DEVELOP_WINDOWS
 
     val supportLanguage = hashMapOf(
         "a68" to "algol68",

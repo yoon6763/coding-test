@@ -6,6 +6,7 @@ import readmegenerator.platform.data.GroomthonChallengeProblem
 import java.io.File
 
 class GroomthonChallenge : Platform {
+    val supportLanguage = Config.supportLanguage
 
     override val platformName: String = "groomthonchallenge"
     private val problems = mutableListOf<GroomthonChallengeProblem>()
@@ -20,10 +21,10 @@ class GroomthonChallenge : Platform {
         if (platformName !in path) return false
 
         val extension = pathList.last().split(".").last()
-        if (extension !in Config.supportLanguage) return false
+        if (extension !in supportLanguage) return false
 
         val level = pathList[pathList.indexOf(platformName) + 1].filter { it.isDigit() }.toIntOrNull() ?: return false
-        val language = Config.supportLanguage[extension] ?: return false
+        val language = supportLanguage[extension] ?: return false
         val title = pathList.last().split(".").first()
 
         problems.add(GroomthonChallengeProblem(title, level, language))

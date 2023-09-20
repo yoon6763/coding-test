@@ -25,7 +25,7 @@ jobs:
           chmod +x README-generator/gradlew
           cd README-generator
           ./gradlew build
-          java -jar build/libs/README-generator-1.0-SNAPSHOT.jar
+          ./gradlew run
           
       - name: Git Config
         run: |

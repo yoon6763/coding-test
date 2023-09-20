@@ -7,6 +7,8 @@ import java.io.File
 
 class Programmers : Platform {
 
+    val supportLanguage = Config.supportLanguage
+
     override val platformName: String = "programmers"
     private val problems = mutableListOf<ProgrammersProblem>()
 
@@ -20,10 +22,10 @@ class Programmers : Platform {
         if (platformName !in path) return false
 
         val extension = pathList.last().split(".").last()
-        if (extension !in Config.supportLanguage) return false
+        if (extension !in supportLanguage) return false
 
         val level = pathList[pathList.indexOf(platformName) + 1].filter { it.isDigit() }.toIntOrNull() ?: return false
-        val language = Config.supportLanguage[extension] ?: return false
+        val language = supportLanguage[extension] ?: return false
         val title = pathList.last().split(".").first()
 
         problems.add(ProgrammersProblem(title, level, language))

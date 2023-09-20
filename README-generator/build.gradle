@@ -1,6 +1,11 @@
 plugins {
     id 'java'
     id 'org.jetbrains.kotlin.jvm' version '1.9.20-Beta'
+    id 'application' // application 플러그인 추가
+}
+
+application {
+    mainClassName = 'org.example.readmegenerator.Main' // 메인 클래스 지정
 }
 
 group = 'org.example'
@@ -10,13 +15,9 @@ repositories {
     mavenCentral()
 }
 
-jar {
-    manifest {
-        attributes('Main-Class': 'org.example.readmegenerator.Main')
-    }
-}
 
 dependencies {
+
     testImplementation platform('org.junit:junit-bom:5.9.1')
     testImplementation 'org.junit.jupiter:junit-jupiter'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
