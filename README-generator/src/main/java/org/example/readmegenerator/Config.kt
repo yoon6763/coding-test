@@ -21,6 +21,7 @@ object Config {
         "rb" to "Ruby",
         "sql" to "SQL",
         "vb" to "Visual Basic",
+        "cs" to "C#",
     )
 
     val supportPlatformList = listOf<Platform>(

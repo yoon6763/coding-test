@@ -1,4 +1,4 @@
-package programmers.lv0
+package programmers.lv0.배열_만들기_2
 
 fun solution(l: Int, r: Int): IntArray {
     val answer = mutableListOf<Int>()
