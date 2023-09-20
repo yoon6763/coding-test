@@ -1,10 +1,7 @@
 package readmegenerator
 
 import org.example.readmegenerator.mode.GenerateMode
-import readmegenerator.platform.Baekjoon
-import readmegenerator.platform.GroomthonChallenge
-import readmegenerator.platform.Platform
-import readmegenerator.platform.Programmers
+import readmegenerator.platform.*
 
 object Config {
 
@@ -30,5 +27,6 @@ object Config {
         Baekjoon(),
         Programmers(),
         GroomthonChallenge(),
+        CodeUp(),
     )
 }
