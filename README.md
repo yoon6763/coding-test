@@ -12,19 +12,20 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-09-20 21:54:49 <br>
+Last Update : 2023-09-21 02:02:58 <br>
 
 
 ```
-1434 Solved
- - Kotlin : 980
- - Python : 216
+1466 Solved
+ - Kotlin : 984
+ - Python : 238
  - Java : 118
- - SQL : 64
+ - SQL : 66
  - C : 23
  - C++ : 10
  - JavaScript : 9
  - Ruby : 9
+ - C# : 4
  - FreeBASIC : 1
  - Visual Basic : 1
  - Fortran : 1
@@ -1102,6 +1103,9 @@ baekjoon
       [Java] 랜덤게임
 
 programmers
+  Level 5
+    [SQL] 상품을 구매한 회원 비율 구하기
+
   Level 4
     [SQL] 그룹별 조건에 맞는 식당 목록 출력하기
     [SQL] 저자 별 카테고리 별 매출액 집계하기
@@ -1167,6 +1171,7 @@ programmers
     [SQL] 가격이 제일 비싼 식품의 정보 출력하기
     [SQL] 3월에 태어난 여성 회원 목록 출력하기
     [SQL] 조건에 맞는 도서와 저자 리스트 출력하기
+    [SQL] 조건에 부합하는 중고거래 상태 조회하기
     [SQL] 이름에 el이 들어가는 동물 찾기
     [SQL] 가격대 별 상품 개수 구하기
     [SQL] 중성화 여부 파악하기
@@ -1271,9 +1276,11 @@ programmers
   Level 0
     [Python] 글자 이어 붙여 문자열 만들기
     [Python] 문자 개수 세기
+    [Python] 평행
     [Python] 뒤에서 5등까지
     [Python] 리스트 자르기
     [Python] 배열 자르기
+    [Python] 다항식 더하기
     [Python] 배열의 유사도
     [Python] 코드 처리하기
     [Python] 문자열 뒤집기
@@ -1284,15 +1291,20 @@ programmers
     [Python] 배열 조각하기
     [Python] 최댓값 만들기 (1)
     [Python] 문자열 정수의 합
+    [Python] 이진수 더하기
     [Python] 할 일 목록
     [Python] 약수 구하기
     [Python] 이차원 배열 대각선 순회하기
     [Python] n 번째 원소부터
+    [Python] OX퀴즈
+    [Python] 배열 회전시키기
     [Python] 공백으로 구분하기 1
     [Python] 대문자로 바꾸기
+    [Python] 유한소수 판별하기
     [Python] 9로 나눈 나머지
     [Python] 로그인 성공
     [Python] 덧셈식 출력하기
+    [Python] 잘라서 배열로 저장하기
     [Python] 문자열 겹쳐쓰기
     [Python] 배열 비교하기
     [Python] 조건 문자열
@@ -1312,11 +1324,17 @@ programmers
     [Python] 날짜 비교하기
     [Python] 문자열 잘라서 정렬하기
     [Python] 배열 만들기 1
+    [Python] 구슬을 나누는 경우의 수
     [Python] 정사각형으로 만들기
+    [Python] 연속된 수의 합
     [Python] n의 배수 고르기
     [Python] 최댓값 만들기 (2)
+    [Python] 겹치는 선분의 길이
+    [Python] 치킨 쿠폰
+    [Python] 등수 매기기
     [Python] 수열과 구간 쿼리 1
     [Python] 순서쌍의 개수
+    [Python] 컨트롤 제트
     [Python] 문자열의 뒤의 n글자
     [Python] rny_string
     [Python] 배열에서 문자열 대소문자 변환하기
@@ -1324,8 +1342,12 @@ programmers
     [Python] 문자열 바꿔서 찾기
     [Python] 무작위로 K개의 수 뽑기
     [Python] 문자열 돌리기
+    [Python] 인덱스 바꾸기
     [Python] 수열과 구간 쿼리 3
+    [Python] 저주의 숫자 3
+    [Python] 공 던지기
     [Python] 간단한 논리 연산
+    [Python] 안전지대
     [Python] 문자열이 몇 번 등장하는지 세기
     [Python] 배열의 길이를 2의 거듭제곱으로 만들기
     [Python] 삼각형의 완성조건 (1)
@@ -1337,6 +1359,7 @@ programmers
     [Python] 문자 리스트를 문자열로 변환하기
     [Python] 특수문자 출력하기
     [Python] 모스부호 (1)
+    [Python] 2차원으로 만들기
     [Python] 부분 문자열
     [Python] 전국 대회 선발 고사
     [Python] 문자열로 변환
@@ -1347,6 +1370,7 @@ programmers
     [Python] 배열 만들기 5
     [Python] 문자열 붙여서 출력하기
     [Python] 특별한 이차원 배열 1
+    [Python] 캐릭터의 좌표
     [Python] 원하는 문자열 찾기
     [Python] 등차수열의 특정한 항만 더하기
     [Python] 공배수
@@ -1375,7 +1399,10 @@ programmers
     [Python] 세로 읽기
     [Python] 마지막 두 원소
     [Python] 2의 영역
+    [Python] 주사위의 개수
     [Python] 두 수의 합
+    [Python] 문자열 밀기
+    [Python] 삼각형의 완성조건 (2)
     [Python] 뒤에서 5등 위로
     [Python] 아이스 아메리카노
     [Python] 접미사인지 확인하기
@@ -1396,6 +1423,7 @@ programmers
     [Kotlin] 중복된 숫자 개수
     [Kotlin] 숨어있는 숫자의 덧셈 (1)
     [Kotlin] 문자 반복 출력하기
+    [Kotlin] 배열 만들기 2
     [Kotlin] n의 배수
     [Kotlin] 직사각형 넓이 구하기
     [Kotlin] 두 수의 합
@@ -1404,12 +1432,15 @@ programmers
     [Kotlin] 양꼬치
     [Kotlin] 대문자와 소문자
     [Kotlin] 1로 만들기
+    [Kotlin] 외계어 사전
+    [Kotlin] 영어가 싫어요
     [Kotlin] 중앙값 구하기
     [Kotlin] flag에 따라 다른 값 반환하기
     [Kotlin] 글자 지우기
     [Kotlin] 두 수의 차
     [Kotlin] 문자열안에 문자열
     [Kotlin] 배열 뒤집기
+    [Kotlin] 옹알이 (1)
     [Kotlin] 세균 증식
     [Kotlin] 나이 출력
     [Kotlin] 나머지 구하기
@@ -1421,15 +1452,15 @@ programmers
     [Kotlin] 편지
     [Kotlin] 두 수의 곱
     [Kotlin] 카운트 업
-    [Kotlin] 문자열을 정수로 변환하기
-    [Kotlin] 배열 만들기 2
     [Kotlin] 배열 두배 만들기
     [Kotlin] 조건에 맞게 수열 변환하기 3
     [Kotlin] 점의 위치 구하기
+    [Kotlin] 문자열을 정수로 변환하기
     [Kotlin] 머쓱이보다 키 큰 사람
     [Kotlin] 가까운 수
     [Kotlin] 몫 구하기
     [Kotlin] 날짜 비교하기
+    [Kotlin] 특이한 정렬
     [Kotlin] 짝수 홀수 개수
     [Kotlin] 정수 부분
     [Kotlin] 자릿수 더하기
@@ -1464,6 +1495,10 @@ programmers
     [Ruby] 접두사인지 확인하기
     [Ruby] 간단한 식 계산하기
     [Ruby] 접미사 배열
+    [C#] 종이 자르기
+    [C#] 외계행성의 나이
+    [C#] 진료 순서 정하기
+    [C#] 개미 군단
 
 Groomthon Challenge
   Level 3
