@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-09-21 02:02:58 <br>
+Last Update : 2023-09-21 15:50:51 <br>
 
 
 ```
-1466 Solved
- - Kotlin : 984
+1473 Solved
+ - Kotlin : 991
  - Python : 238
  - Java : 118
  - SQL : 66
@@ -683,6 +683,7 @@ baekjoon
       [Kotlin] 거꾸로 구구단
       [Kotlin] 오타맨 고창영
       [Kotlin] 가장 많은 글자
+      [Kotlin] 진법 변환
       [Kotlin] 팩토리얼
       [Kotlin] 2진수 뒤집기
       [Kotlin] 관리자는 누구
@@ -1118,10 +1119,14 @@ programmers
     [SQL] 년, 월, 성별 별 상품 구매 회원 수 구하기
 
   Level 3
+    [Kotlin] 양과 늑대
+    [Kotlin] 징검다리 건너기
     [Kotlin] 가장 먼 노드
+    [Kotlin] 섬 연결하기
     [Kotlin] 타겟 넘버
     [Kotlin] 여행경로
     [Kotlin] 네트워크
+    [Kotlin] 단어 변환
     [SQL] 대여 기록이 존재하는 자동차 리스트 구하기
     [SQL] 헤비 유저가 소유한 장소
     [SQL] 오랜 기간 보호한 동물(2)
@@ -1207,6 +1212,8 @@ programmers
     [Kotlin] 크기가 작은 부분문자열
     [Kotlin] 나머지가 1이 되는 수 찾기
     [Kotlin] 둘만의 암호
+    [Kotlin] 푸드 파이트 대회
+    [Kotlin] 가장 가까운 같은 글자
     [Kotlin] 신고 결과 받기
     [SQL] 조건에 부합하는 중고거래 댓글 조회하기
     [SQL] 흉부외과 또는 일반외과 의사 목록 출력하기
