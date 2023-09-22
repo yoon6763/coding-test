@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-09-21 15:50:51 <br>
+Last Update : 2023-09-22 16:46:38 <br>
 
 
 ```
-1473 Solved
- - Kotlin : 991
+1474 Solved
+ - Kotlin : 992
  - Python : 238
  - Java : 118
  - SQL : 66
@@ -374,6 +374,7 @@ baekjoon
       [Kotlin] 스타트와 링크
       [Kotlin] 유기농 배추
       [Kotlin] 키로거
+      [Kotlin] 주식
       [Kotlin] 알고리즘 수업 - 깊이 우선 탐색 6
       [Kotlin] 알고리즘 수업 - 깊이 우선 탐색 4
       [Kotlin] N번째 큰 수
