@@ -12,15 +12,15 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-09-22 16:46:38 <br>
+Last Update : 2023-09-23 14:54:40 <br>
 
 
 ```
-1474 Solved
- - Kotlin : 992
+1481 Solved
+ - Kotlin : 996
  - Python : 238
  - Java : 118
- - SQL : 66
+ - SQL : 69
  - C : 23
  - C++ : 10
  - JavaScript : 9
@@ -81,6 +81,7 @@ baekjoon
       [Kotlin] 달이 차오른다, 가자
       [Kotlin] 구간 곱 구하기
       [Kotlin] 수열과 쿼리 17
+      [Kotlin] 트리
       [Kotlin] 구슬 탈출4
       [Kotlin] 비숍
       [Kotlin] 수열과 쿼리 16
@@ -385,6 +386,7 @@ baekjoon
       [Kotlin] 연속합
       [Kotlin] 생태학
       [Kotlin] 쇠막대기
+      [Kotlin] 1, 2, 3 더하기 3
       [Kotlin] 과일 서리
       [Kotlin] DNA 비밀번호
       [Kotlin] 거리가 k이하인 트리 노드에서 사과 수확하기
@@ -396,6 +398,7 @@ baekjoon
       [Kotlin] A to B
       [Kotlin] 연결 요소의 개수
       [Kotlin] 나무 자르기
+      [Kotlin] 가장 큰 증가하는 부분 수열
       [Kotlin] 알고리즘 수업 - 너비 우선 탐색 1
       [Kotlin] 촌수계산
       [Python] 랜선 자르기
@@ -425,7 +428,6 @@ baekjoon
       [Kotlin] 01타일
       [Kotlin] Knight Hop
       [Kotlin] 시리얼 번호
-      [Kotlin] 1, 2, 3 더하기
       [Kotlin] N과 M (7)
       [Kotlin] 소수 구하기
       [Kotlin] 게임
@@ -609,6 +611,8 @@ baekjoon
       [C] 돌 게임2
       [C] 소수
       [C++] 중복된숫자
+    s3123
+      [Kotlin] 1, 2, 3 더하기
 
   bronze
     b1
@@ -1100,6 +1104,7 @@ baekjoon
 
   unrated
     u0
+      [Kotlin] 더하기
       [Kotlin] 생일 출력하기
       [Kotlin] 타노스
       [Java] 랜덤게임
@@ -1129,8 +1134,11 @@ programmers
     [Kotlin] 네트워크
     [Kotlin] 단어 변환
     [SQL] 대여 기록이 존재하는 자동차 리스트 구하기
+    [SQL] 조건에 맞는 사용자와 총 거래금액 조회하기
     [SQL] 헤비 유저가 소유한 장소
     [SQL] 오랜 기간 보호한 동물(2)
+    [SQL] 조건에 맞는 사용자 정보 조회하기
+    [SQL] 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기
     [SQL] 없어진 기록 찾기
     [SQL] 즐겨찾기가 가장 많은 식당 정보 출력하기
     [SQL] 있었는데요 없었습니다
