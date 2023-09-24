@@ -1,4 +1,4 @@
-package baekjoon.silver.s3_1_2_3_더하기
+package baekjoon.silver.s3._1_2_3_더하기
 
 val dp = Array(11) { -1 }
 
