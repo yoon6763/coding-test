@@ -12,7 +12,7 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-09-25 00:29:37 <br>
+Last Update : 2023-09-25 03:04:36 <br>
 
 
 ```
@@ -407,6 +407,7 @@ baekjoon
       [Java] _5차_전직
       [Java] 뒤집어진_소수
     s3
+      [Kotlin] 1, 2, 3 더하기
       [Kotlin] Four Squares
       [Kotlin] 계단 오르기
       [Kotlin] 바이러스
@@ -612,8 +613,6 @@ baekjoon
       [C] 돌 게임2
       [C] 소수
       [C++] 중복된숫자
-    s3123
-      [Kotlin] 1, 2, 3 더하기
 
   bronze
     b1
