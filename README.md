@@ -12,14 +12,14 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-09-23 14:54:40 <br>
+Last Update : 2023-09-24 16:42:03 <br>
 
 
 ```
-1481 Solved
- - Kotlin : 996
+1489 Solved
+ - Kotlin : 1001
  - Python : 238
- - Java : 118
+ - Java : 121
  - SQL : 69
  - C : 23
  - C++ : 10
@@ -245,6 +245,7 @@ baekjoon
       [Kotlin] 치킨 배달
       [Kotlin] 파이프 옮기기 1
       [Kotlin] 다각형의 면적
+      [Kotlin] 회장뽑기
       [Kotlin] CCW
       [Kotlin] 줄어드는 수
       [Kotlin] 최소 회의실 개수
@@ -1128,7 +1129,9 @@ programmers
     [Kotlin] 양과 늑대
     [Kotlin] 징검다리 건너기
     [Kotlin] 가장 먼 노드
+    [Kotlin] 합승 택시 요금
     [Kotlin] 섬 연결하기
+    [Kotlin] 순위
     [Kotlin] 타겟 넘버
     [Kotlin] 여행경로
     [Kotlin] 네트워크
@@ -1173,6 +1176,7 @@ programmers
     [Kotlin] 가장 큰 수
     [Kotlin] 카펫
     [Kotlin] 피보나치 수
+    [Kotlin] 멀리 뛰기
     [SQL] 카테고리 별 상품 개수 구하기
     [SQL] 성분으로 구분한 아이스크림 총 주문량
     [SQL] 동명 동물 수 찾기
@@ -1196,6 +1200,9 @@ programmers
     [SQL] 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기
     [SQL] 진료과별 총 예약 횟수 출력하기
     [SQL] 자동차 평균 대여 기간 구하기
+    [Java] 다음_큰_숫자
+    [Java] 점프와_순간_이동
+    [Java] 구명보트
     [Java] 올바른_괄호
     [Java] 숫자의_표현
     [Java] 최솟값_만들기
@@ -1222,6 +1229,7 @@ programmers
     [Kotlin] 나머지가 1이 되는 수 찾기
     [Kotlin] 둘만의 암호
     [Kotlin] 푸드 파이트 대회
+    [Kotlin] 콜라 문제
     [Kotlin] 가장 가까운 같은 글자
     [Kotlin] 신고 결과 받기
     [SQL] 조건에 부합하는 중고거래 댓글 조회하기
