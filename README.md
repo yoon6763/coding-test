@@ -12,15 +12,15 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-09-25 03:04:36 <br>
+Last Update : 2023-09-25 16:19:37 <br>
 
 
 ```
-1490 Solved
- - Kotlin : 1001
+1493 Solved
+ - Kotlin : 1002
  - Python : 238
  - Java : 122
- - SQL : 69
+ - SQL : 71
  - C : 23
  - C++ : 10
  - JavaScript : 9
@@ -154,6 +154,7 @@ baekjoon
       [Kotlin] 텀 프로젝트
       [Kotlin] 치즈
       [Kotlin] LCA
+      [Kotlin] 연예인은 힘들어
       [Kotlin] BFS 스페셜 저지
       [Kotlin] 벽 부수고 이동하기 2
       [Kotlin] 소수의 연속합
@@ -1136,6 +1137,7 @@ programmers
     [Kotlin] 네트워크
     [Kotlin] 단어 변환
     [SQL] 대여 기록이 존재하는 자동차 리스트 구하기
+    [SQL] 자동차 대여 기록에서 대여중, 대여 가능 여부 구분하기
     [SQL] 조건에 맞는 사용자와 총 거래금액 조회하기
     [SQL] 헤비 유저가 소유한 장소
     [SQL] 오랜 기간 보호한 동물(2)
@@ -1146,6 +1148,7 @@ programmers
     [SQL] 있었는데요 없었습니다
     [SQL] 오랜 기간 보호한 동물(1)
     [SQL] 카테고리 별 도서 판매량 집계하기
+    [SQL] 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기
     [SQL] 조건별로 분류하여 주문상태 출력하기
     [Java] 정수_삼각형
 
