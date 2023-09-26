@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-09-25 16:19:37 <br>
+Last Update : 2023-09-26 15:40:54 <br>
 
 
 ```
-1493 Solved
- - Kotlin : 1002
+1494 Solved
+ - Kotlin : 1003
  - Python : 238
  - Java : 122
  - SQL : 71
@@ -79,6 +79,7 @@ baekjoon
       [Kotlin] 열쇠
       [Kotlin] 수들의 합 7
       [Kotlin] 달이 차오른다, 가자
+      [Kotlin] 멀티탭 스케줄링
       [Kotlin] 구간 곱 구하기
       [Kotlin] 수열과 쿼리 17
       [Kotlin] 트리
