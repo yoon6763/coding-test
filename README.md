@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-09-26 15:40:54 <br>
+Last Update : 2023-09-27 22:44:28 <br>
 
 
 ```
-1494 Solved
- - Kotlin : 1003
+1495 Solved
+ - Kotlin : 1004
  - Python : 238
  - Java : 122
  - SQL : 71
@@ -751,6 +751,7 @@ baekjoon
       [Kotlin] 시그마
       [Kotlin] 하얀 칸
       [Kotlin] 시험 감독
+      [Kotlin] 화성 수학
       [Kotlin] 바구니 뒤집기
       [Kotlin] 문자열 분석
       [Kotlin] 거스름돈
