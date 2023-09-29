@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-09-28 17:28:59 <br>
+Last Update : 2023-09-29 17:51:42 <br>
 
 
 ```
-1496 Solved
- - Kotlin : 1005
+1497 Solved
+ - Kotlin : 1006
  - Python : 238
  - Java : 122
  - SQL : 71
@@ -723,6 +723,7 @@ baekjoon
       [Kotlin] Strfry
       [Kotlin] 5의 수난
       [Kotlin] 오르막
+      [Kotlin] 8진수, 10진수, 16진수
       [Kotlin] 완전제곱수
       [Kotlin] 닉네임에 갓 붙이기
       [Kotlin] 피시방 알바
