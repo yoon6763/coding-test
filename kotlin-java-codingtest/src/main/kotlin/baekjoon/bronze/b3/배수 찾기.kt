@@ -1,5 +1,5 @@
 package baekjoon.bronze.b3
-햣
+
 fun main() {
     val n = readln().toInt()
     while (true) {

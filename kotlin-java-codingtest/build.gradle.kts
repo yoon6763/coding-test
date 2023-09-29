@@ -13,10 +13,6 @@ repositories {
 }
 
 dependencies {
-    implementation("org.seleniumhq.selenium:selenium:2.0rc2")
-    implementation("org.seleniumhq.selenium:selenium:2.0rc2")
-    implementation("org.seleniumhq.selenium:selenium:2.0rc2")
-    implementation("org.seleniumhq.selenium:selenium:2.0rc2")
     testImplementation(kotlin("test"))
     implementation(kotlin("stdlib-jdk8"))
 }
