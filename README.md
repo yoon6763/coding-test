@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-09-29 17:51:42 <br>
+Last Update : 2023-09-29 18:18:26 <br>
 
 
 ```
-1497 Solved
- - Kotlin : 1006
+1498 Solved
+ - Kotlin : 1007
  - Python : 238
  - Java : 122
  - SQL : 71
@@ -55,6 +55,7 @@ baekjoon
       [Kotlin] 히스토그램에 가장 큰 직사각형
       [Kotlin] 행성 터널
       [Kotlin] 최솟값 찾기
+      [Kotlin] 큐빙
       [Kotlin] 오민식의 고민
       [Kotlin] 사탕상자
       [Kotlin] 히스토그램
