@@ -3,6 +3,7 @@ package baekjoon.platinum.p5.큐빙
 import java.util.*
 
 lateinit var cube: Array<Array<Array<Char>>>
+
 const val U = 0
 const val D = 1
 const val F = 2
@@ -157,21 +158,6 @@ fun rotateCube(dir: Char, rotateDir: Char) {
     }
 
     rotateSide(dir, rotateDir)
-
-//    val floor = arrayOf('U', 'D', 'F', 'B', 'L', 'R')
-//
-//    println("$dir$rotateDir")
-//    for (i in 0 until 6) {
-//        println(floor[i] + "면")
-//        for (j in 0 until 3) {
-//            for (k in 0 until 3) {
-//                print("${cube[i][j][k]} ")
-//            }
-//            println()
-//        }
-//        println()
-//    }
-//    println()
 }
 
 // 면 시계/반시계 회전
