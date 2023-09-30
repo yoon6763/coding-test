@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-09-29 18:18:26 <br>
+Last Update : 2023-09-30 15:48:12 <br>
 
 
 ```
-1498 Solved
- - Kotlin : 1007
+1499 Solved
+ - Kotlin : 1008
  - Python : 238
  - Java : 122
  - SQL : 71
@@ -843,6 +843,7 @@ baekjoon
       [Kotlin] 골뱅이 찍기 - ㅁ
       [Kotlin] Baseball
       [Kotlin] 골뱅이 찍기 - ㅌ
+      [Kotlin] 등장하지 않는 문자의 합
       [Kotlin] 윷놀이
       [Kotlin] Word Searching
       [Kotlin] 배수와 약수
