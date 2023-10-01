@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-09-30 15:48:12 <br>
+Last Update : 2023-10-01 17:28:19 <br>
 
 
 ```
-1499 Solved
- - Kotlin : 1008
+1500 Solved
+ - Kotlin : 1009
  - Python : 238
  - Java : 122
  - SQL : 71
@@ -1052,6 +1052,7 @@ baekjoon
       [Kotlin] 과제 안 내신 분
       [Kotlin] Multiply
       [Kotlin] Copier
+      [Kotlin] Арифметическая магия
       [Kotlin] 時間 (Hour)
       [Kotlin] Mathematics
       [Kotlin] 학점계산
