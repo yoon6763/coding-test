@@ -12,15 +12,15 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-03 02:50:35 <br>
+Last Update : 2023-10-03 02:52:27 <br>
 
 
 ```
-1535 Solved
+1537 Solved
  - Kotlin : 1038
- - Python : 238
+ - Python : 239
  - Java : 127
- - SQL : 72
+ - SQL : 73
  - C : 23
  - C++ : 10
  - JavaScript : 9
@@ -1139,6 +1139,7 @@ baekjoon
       [Kotlin] 占쏙옙
       [Kotlin] 12096
       [Kotlin] 더하기
+      [Python] 정ㅋ벅ㅋ
       [Java] 랜덤게임
 
 programmers
@@ -1156,6 +1157,7 @@ programmers
     [SQL] 보호소에서 중성화한 동물
     [SQL] 우유와 요거트가 담긴 장바구니
     [SQL] 서울에 위치한 식당 목록 출력하기
+    [SQL] 오프라인, 온라인 판매 데이터 통합하기
 
   Level 3
     [Kotlin] 네트워크
