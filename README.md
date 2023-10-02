@@ -12,14 +12,14 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-01 17:28:19 <br>
+Last Update : 2023-10-02 22:45:09 <br>
 
 
 ```
-1500 Solved
- - Kotlin : 1009
+1504 Solved
+ - Kotlin : 1012
  - Python : 238
- - Java : 122
+ - Java : 123
  - SQL : 71
  - C : 23
  - C++ : 10
@@ -299,6 +299,7 @@ baekjoon
       [Kotlin] 그림
       [Kotlin] 트리 순회
       [Kotlin] 소수&팰린드롬
+      [Kotlin] 점프
       [Kotlin] 숨바꼭질
       [Kotlin] 점프왕 쩰리 (Large)
       [Kotlin] 하노이 탑
@@ -323,6 +324,7 @@ baekjoon
       [Kotlin] 지름길
       [Kotlin] IOIOI
       [Kotlin] 절대값 힙
+      [Kotlin] 동물원
       [Kotlin] 포도주 시식
       [Kotlin] 안전 영역
       [Kotlin] Z
@@ -399,6 +401,7 @@ baekjoon
       [Kotlin] 알고리즘 수업 - 깊이 우선 탐색 4
       [Kotlin] 에디터
       [Kotlin] 가장 긴 감소하는 부분 수열
+      [Kotlin] 이동하기
       [Kotlin] 최소 힙
       [Kotlin] 스타트와 링크
       [Kotlin] 차이를 최대로
@@ -1216,6 +1219,7 @@ programmers
     [Java] 구명보트
     [Java] 올바른_괄호
     [Java] 다음_큰_숫자
+    [Java] 귤_고르기
     [Java] 최솟값_만들기
 
   Level 1
