@@ -12,15 +12,15 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-02 22:45:09 <br>
+Last Update : 2023-10-03 02:50:35 <br>
 
 
 ```
-1504 Solved
- - Kotlin : 1012
+1535 Solved
+ - Kotlin : 1038
  - Python : 238
- - Java : 123
- - SQL : 71
+ - Java : 127
+ - SQL : 72
  - C : 23
  - C++ : 10
  - JavaScript : 9
@@ -262,6 +262,7 @@ baekjoon
       [Kotlin] 리모컨
       [Kotlin] 숨바꼭질 3
       [Kotlin] 연속합 2
+      [Kotlin] 별 찍기 - 10
       [Kotlin] 옥상 정원 꾸미기
       [Kotlin] 탑
       [Kotlin] 두 용액
@@ -744,6 +745,7 @@ baekjoon
       [Kotlin] 바구니 뒤집기
       [Kotlin] 팰린드롬
       [Kotlin] 단어순서 뒤집기
+      [Kotlin] 별 찍기 - 21
       [Kotlin] JOI와 IOI
       [Kotlin] 나의 학점은
       [Kotlin] 운동
@@ -794,6 +796,7 @@ baekjoon
       [Kotlin] 안녕 클레오파트라 세상에서 제일가는 포테이토칩
       [Kotlin] 오븐 시계
       [Kotlin] TGN
+      [Kotlin] 별 찍기 - 13
       [Kotlin] ZOAC 5
       [Kotlin] 짝수를 찾아라
       [Kotlin] 배수 찾기
@@ -803,6 +806,7 @@ baekjoon
       [Kotlin] 첨탑 밀어서 부수기
       [Kotlin] 골뱅이 찍기 - 정사각형
       [Kotlin] 2의 제곱인가
+      [Kotlin] 별 찍기 - 12
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 5
       [Kotlin] 그대로 출력하기 2
       [Kotlin] 대지
@@ -813,6 +817,7 @@ baekjoon
       [Kotlin] 첫 글자를 대문자로
       [Kotlin] JavaScript
       [Kotlin] 헬멧과 조끼
+      [Kotlin] 별 찍기 - 8
       [Kotlin] FBI
       [Kotlin] 고급 수학
       [Kotlin] 세 수
@@ -829,23 +834,30 @@ baekjoon
       [Kotlin] 지능형 기차
       [Kotlin] 주사위 게임
       [Kotlin] 골뱅이 찍기 - 돌아간 ㅈ
+      [Kotlin] 별 찍기 - 4
       [Kotlin] 출제비 재분배
       [Kotlin] 앵그리 창영
+      [Kotlin] 별 찍기 - 7
       [Kotlin] 선린인터넷고등학교 교가
       [Kotlin] HI-ARC
       [Kotlin] 나는 요리사다
       [Kotlin] 내 학점을 구해줘
       [Kotlin] Matches
       [Kotlin] Gift
+      [Kotlin] 별 찍기 - 17
+      [Kotlin] 별 찍기 - 9
       [Kotlin] 홀수일까 짝수일까
       [Kotlin] 세탁소 사장 동혁
       [Kotlin] 부호
       [Kotlin] 카트라이더 드리프트
       [Kotlin] 네 수
       [Kotlin] 골뱅이 찍기 - 돌아간 ㄹ
+      [Kotlin] 별 찍기 - 15
       [Kotlin] 골뱅이 찍기 - ㅁ
       [Kotlin] Baseball
+      [Kotlin] 별 찍기 - 16
       [Kotlin] 골뱅이 찍기 - ㅌ
+      [Kotlin] 별 찍기 - 20
       [Kotlin] 등장하지 않는 문자의 합
       [Kotlin] 윷놀이
       [Kotlin] Word Searching
@@ -868,9 +880,11 @@ baekjoon
       [Kotlin] 1 = cute
       [Kotlin] Extreme Temperatures
       [Kotlin] 거울, 오! 거울
+      [Kotlin] 별 찍기 - 6
       [Kotlin] RICE SACK
       [Kotlin] 성장의 비약 선택권
       [Kotlin] 골뱅이 찍기 - ㄷ
+      [Kotlin] 별 찍기 - 5
       [Kotlin] 할로윈의 사탕
       [Kotlin] 찬반투표
       [Kotlin] 쌍의 합
@@ -926,6 +940,7 @@ baekjoon
       [Kotlin] Final Price
       [Kotlin] Koszykarz
       [Kotlin] 럭비 클럽
+      [Kotlin] 별 찍기 - 3
       [Kotlin] 치킨 두 마리
       [Kotlin] AFC 윔블던
       [Kotlin] 자동완성
@@ -1083,6 +1098,7 @@ baekjoon
       [Python] A+B - 5
       [Python] A+B - 8
       [Java] 사칙연산
+      [Java] 별_찍기_1
       [Java] 팩토리얼
       [Java] 구구단
       [Java] 나부_함대_데이터
@@ -1116,7 +1132,12 @@ baekjoon
   unrated
     u0
       [Kotlin] 생일 출력하기
+      [Kotlin] 구구
+      [Kotlin] 엔드게임 스포일러
       [Kotlin] 타노스
+      [Kotlin] 별 찍기 - 14
+      [Kotlin] 占쏙옙
+      [Kotlin] 12096
       [Kotlin] 더하기
       [Java] 랜덤게임
 
@@ -1133,6 +1154,7 @@ programmers
     [SQL] 주문량이 많은 아이스크림들 조회하기
     [SQL] 저자 별 카테고리 별 매출액 집계하기
     [SQL] 보호소에서 중성화한 동물
+    [SQL] 우유와 요거트가 담긴 장바구니
     [SQL] 서울에 위치한 식당 목록 출력하기
 
   Level 3
@@ -1144,6 +1166,7 @@ programmers
     [Kotlin] 합승 택시 요금
     [Kotlin] 여행경로
     [Kotlin] 타겟 넘버
+    [Kotlin] 이중우선순위큐
     [Kotlin] 양과 늑대
     [Kotlin] 섬 연결하기
     [SQL] 오랜 기간 보호한 동물(2)
@@ -1160,6 +1183,8 @@ programmers
     [SQL] 없어진 기록 찾기
     [SQL] 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기
     [SQL] 자동차 대여 기록에서 대여중, 대여 가능 여부 구분하기
+    [Java] 등굣길
+    [Java] 야근_지수
     [Java] 정수_삼각형
 
   Level 2
@@ -1180,12 +1205,15 @@ programmers
     [Python] 오픈채팅방
     [Python] 소수 찾기
     [Kotlin] 프로세스
+    [Kotlin] 연속 부분 수열 합의 개수
     [Kotlin] 멀리 뛰기
     [Kotlin] JadenCase 문자열 만들기
     [Kotlin] 피보나치 수
     [Kotlin] 카펫
     [Kotlin] 전력망을 둘로 나누기
     [Kotlin] 예상 대진표
+    [Kotlin] 배달
+    [Kotlin] n^2 배열 자르기
     [Kotlin] 가장 큰 수
     [Kotlin] 피로도
     [Kotlin] 모음 사전
@@ -1220,6 +1248,7 @@ programmers
     [Java] 올바른_괄호
     [Java] 다음_큰_숫자
     [Java] 귤_고르기
+    [Java] 더_맵게
     [Java] 최솟값_만들기
 
   Level 1
@@ -1243,7 +1272,9 @@ programmers
     [Kotlin] 부족한 금액 계산하기
     [Kotlin] 없는 숫자 더하기
     [Kotlin] 콜라 문제
+    [Kotlin] 명예의 전당 (1)
     [Kotlin] 둘만의 암호
+    [Kotlin] 바탕화면 정리
     [Kotlin] 푸드 파이트 대회
     [SQL] 이름이 있는 동물의 아이디
     [SQL] 강원도에 위치한 생산공장 목록 출력하기
