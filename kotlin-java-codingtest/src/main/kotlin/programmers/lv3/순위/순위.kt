@@ -1,4 +1,4 @@
-package programmers.lv3
+package programmers.lv3.순위
 
 fun solution(n: Int, results: Array<IntArray>): Int {
     val INF = 100000000

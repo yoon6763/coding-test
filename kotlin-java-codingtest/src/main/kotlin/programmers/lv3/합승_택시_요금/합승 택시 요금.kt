@@ -1,4 +1,4 @@
-package programmers.lv3
+package programmers.lv3.합승_택시_요금
 
 fun solution(n: Int, s: Int, a: Int, b: Int, fares: Array<IntArray>): Int {
     val table = Array(n + 1) { IntArray(n + 1) { Int.MAX_VALUE } }
