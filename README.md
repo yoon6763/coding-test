@@ -12,15 +12,15 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-03 02:52:27 <br>
+Last Update : 2023-10-03 23:26:26 <br>
 
 
 ```
-1537 Solved
- - Kotlin : 1038
+1543 Solved
+ - Kotlin : 1041
  - Python : 239
- - Java : 127
- - SQL : 73
+ - Java : 129
+ - SQL : 74
  - C : 23
  - C++ : 10
  - JavaScript : 9
@@ -878,6 +878,7 @@ baekjoon
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 3
       [Kotlin] 플러그
       [Kotlin] 1 = cute
+      [Kotlin] 더하기 4
       [Kotlin] Extreme Temperatures
       [Kotlin] 거울, 오! 거울
       [Kotlin] 별 찍기 - 6
@@ -1157,6 +1158,7 @@ programmers
     [SQL] 보호소에서 중성화한 동물
     [SQL] 우유와 요거트가 담긴 장바구니
     [SQL] 서울에 위치한 식당 목록 출력하기
+    [SQL] 입양 시각 구하기(2)
     [SQL] 오프라인, 온라인 판매 데이터 통합하기
 
   Level 3
@@ -1164,11 +1166,12 @@ programmers
     [Kotlin] 징검다리 건너기
     [Kotlin] 단어 변환
     [Kotlin] 가장 먼 노드
-    [Kotlin] 순위
-    [Kotlin] 합승 택시 요금
     [Kotlin] 여행경로
+    [Kotlin] 합승 택시 요금
     [Kotlin] 타겟 넘버
+    [Kotlin] 순위
     [Kotlin] 이중우선순위큐
+    [Kotlin] 금과 은 운반하기
     [Kotlin] 양과 늑대
     [Kotlin] 섬 연결하기
     [SQL] 오랜 기간 보호한 동물(2)
@@ -1185,6 +1188,7 @@ programmers
     [SQL] 없어진 기록 찾기
     [SQL] 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기
     [SQL] 자동차 대여 기록에서 대여중, 대여 가능 여부 구분하기
+    [Java] 미로_탈출_명령어
     [Java] 등굣길
     [Java] 야근_지수
     [Java] 정수_삼각형
@@ -1248,6 +1252,7 @@ programmers
     [Java] 숫자의_표현
     [Java] 구명보트
     [Java] 올바른_괄호
+    [Java] _2_x_n_타일링
     [Java] 다음_큰_숫자
     [Java] 귤_고르기
     [Java] 더_맵게
@@ -1272,6 +1277,7 @@ programmers
     [Kotlin] 크기가 작은 부분문자열
     [Kotlin] 가장 가까운 같은 글자
     [Kotlin] 부족한 금액 계산하기
+    [Kotlin] 카드 뭉치
     [Kotlin] 없는 숫자 더하기
     [Kotlin] 콜라 문제
     [Kotlin] 명예의 전당 (1)
