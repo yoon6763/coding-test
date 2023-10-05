@@ -13,7 +13,7 @@ public class 가장_큰_정사각형_찾기 {
             for (int j = 1; j <= m; j++) {
                 if (board[i - 1][j - 1] == 1)
                     dp[i][j] = Math.min(dp[i - 1][j], Math.min(dp[i][j - 1], dp[i - 1][j - 1])) + 1;
-            }z
+            }
         }
 
         int max = Arrays.stream(dp).flatMapToInt(Arrays::stream).max().getAsInt();
