@@ -12,14 +12,14 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-04 16:25:16 <br>
+Last Update : 2023-10-05 13:01:22 <br>
 
 
 ```
-1544 Solved
- - Kotlin : 1042
+1550 Solved
+ - Kotlin : 1046
  - Python : 239
- - Java : 129
+ - Java : 131
  - SQL : 74
  - C : 23
  - C++ : 10
@@ -1214,6 +1214,7 @@ programmers
     [Kotlin] 프로세스
     [Kotlin] 연속 부분 수열 합의 개수
     [Kotlin] 멀리 뛰기
+    [Kotlin] 거리두기 확인하기
     [Kotlin] JadenCase 문자열 만들기
     [Kotlin] 피보나치 수
     [Kotlin] 카펫
@@ -1221,6 +1222,8 @@ programmers
     [Kotlin] 예상 대진표
     [Kotlin] 배달
     [Kotlin] n^2 배열 자르기
+    [Kotlin] 괄호 회전하기
+    [Kotlin] 리코쳇 로봇
     [Kotlin] 가장 큰 수
     [Kotlin] 피로도
     [Kotlin] 모음 사전
@@ -1254,9 +1257,11 @@ programmers
     [Java] 구명보트
     [Java] 올바른_괄호
     [Java] _2_x_n_타일링
+    [Java] 가장_큰_정사각형_찾기
     [Java] 다음_큰_숫자
     [Java] 귤_고르기
     [Java] 더_맵게
+    [Java] _124_나라의_숫자
     [Java] 최솟값_만들기
 
   Level 1
@@ -1275,6 +1280,7 @@ programmers
     [Kotlin] 나머지가 1이 되는 수 찾기
     [Kotlin] 최소직사각형
     [Kotlin] 신고 결과 받기
+    [Kotlin] 옹알이 (2)
     [Kotlin] 크기가 작은 부분문자열
     [Kotlin] 가장 가까운 같은 글자
     [Kotlin] 부족한 금액 계산하기
