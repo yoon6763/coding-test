@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-05 15:25:01 <br>
+Last Update : 2023-10-06 14:41:27 <br>
 
 
 ```
-1551 Solved
- - Kotlin : 1047
+1552 Solved
+ - Kotlin : 1048
  - Python : 239
  - Java : 131
  - SQL : 74
@@ -973,6 +973,7 @@ baekjoon
       [Kotlin] Area
       [Kotlin] 과자
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 2
+      [Kotlin] 뉴비의 기준은 뭘까
       [Kotlin] 공백 없는 A+B
       [Kotlin] Every Second Counts
       [Kotlin] 미션 도네이션
