@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-06 14:41:27 <br>
+Last Update : 2023-10-07 17:42:56 <br>
 
 
 ```
-1552 Solved
- - Kotlin : 1048
+1553 Solved
+ - Kotlin : 1049
  - Python : 239
  - Java : 131
  - SQL : 74
@@ -823,6 +823,7 @@ baekjoon
       [Kotlin] FBI
       [Kotlin] 고급 수학
       [Kotlin] 세 수
+      [Kotlin] J박스
       [Kotlin] 완전 세제곱
       [Kotlin] 디지털 루트
       [Kotlin] 백발백준하는 명사수
