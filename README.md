@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-07 17:42:56 <br>
+Last Update : 2023-10-09 14:59:17 <br>
 
 
 ```
-1553 Solved
- - Kotlin : 1049
+1554 Solved
+ - Kotlin : 1050
  - Python : 239
  - Java : 131
  - SQL : 74
@@ -971,6 +971,7 @@ baekjoon
       [Kotlin] 2 番目に大きい整数 (The Second Largest Integer)
       [Kotlin] 가희와 방어율 무시
       [Kotlin] 녹색거탑
+      [Kotlin] Triangles
       [Kotlin] Area
       [Kotlin] 과자
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 2
