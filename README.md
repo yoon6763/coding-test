@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-09 14:59:17 <br>
+Last Update : 2023-10-09 20:02:28 <br>
 
 
 ```
-1554 Solved
- - Kotlin : 1050
+1555 Solved
+ - Kotlin : 1051
  - Python : 239
  - Java : 131
  - SQL : 74
@@ -911,6 +911,7 @@ baekjoon
       [Fortran] Crowing
       [algol68] Howl
     b4
+      [Kotlin] Kuber
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스 2
       [Kotlin] Dedupe
       [Kotlin] Большой удой
