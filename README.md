@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-09 20:02:28 <br>
+Last Update : 2023-10-10 16:44:11 <br>
 
 
 ```
-1555 Solved
- - Kotlin : 1051
+1556 Solved
+ - Kotlin : 1052
  - Python : 239
  - Java : 131
  - SQL : 74
@@ -79,6 +79,7 @@ baekjoon
       [Kotlin] GCD(n, k) = 1
       [Kotlin] 수영장 만들기
       [Kotlin] 커피숍2
+      [Kotlin] 하이퍼 토마토
       [Kotlin] 다리 만들기 2
       [Kotlin] 열쇠
       [Kotlin] 최솟값과 최댓값
