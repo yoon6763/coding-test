@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-10 16:44:11 <br>
+Last Update : 2023-10-11 12:08:22 <br>
 
 
 ```
-1556 Solved
- - Kotlin : 1052
+1558 Solved
+ - Kotlin : 1054
  - Python : 239
  - Java : 131
  - SQL : 74
@@ -189,6 +189,7 @@ baekjoon
       [Kotlin] 게임 개발
     g4
       [Kotlin] 스도쿠2239
+      [Kotlin] Σ
       [Kotlin] 불
       [Kotlin] 수 묶기
       [Kotlin] 타일 채우기
@@ -221,6 +222,7 @@ baekjoon
       [Kotlin] 이중 우선순위 큐
       [Kotlin] N-Queen
       [Kotlin] 이분 그래프
+      [Kotlin] 미로
       [Kotlin] 민트 초코
       [Kotlin] 행성 연결
       [Kotlin] 숨바꼭질 2
