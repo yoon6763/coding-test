@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-11 12:08:22 <br>
+Last Update : 2023-10-12 16:30:28 <br>
 
 
 ```
-1558 Solved
- - Kotlin : 1054
+1559 Solved
+ - Kotlin : 1055
  - Python : 239
  - Java : 131
  - SQL : 74
@@ -198,6 +198,7 @@ baekjoon
       [Kotlin] 카드 정렬하기
       [Kotlin] 스도쿠2580
       [Kotlin] 미로만들기
+      [Kotlin] 마법사 상어와 파이어볼
       [Kotlin] 이진 검색 트리
       [Kotlin] 불!
       [Kotlin] 트리의 지름
