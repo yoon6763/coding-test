@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-12 16:30:28 <br>
+Last Update : 2023-10-13 11:43:26 <br>
 
 
 ```
-1559 Solved
- - Kotlin : 1055
+1560 Solved
+ - Kotlin : 1056
  - Python : 239
  - Java : 131
  - SQL : 74
@@ -132,6 +132,7 @@ baekjoon
       [Kotlin] 놀이 공원
       [Kotlin] 피보나치 수 3
       [Kotlin] 후위 표기식
+      [Kotlin] N포커
       [Kotlin] 피보나치 수 6
       [Kotlin] 선분 교차 2
       [Kotlin] 트리의 높이와 너비
