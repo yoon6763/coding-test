@@ -8,9 +8,11 @@ object Config {
     val generatorMode = GenerateMode.GITHUB_ACTIONS
 
     val supportLanguage = hashMapOf(
-        "a68" to "algol68",
+        // 확장자 to 언어명
+        "a68" to "Algol68",
         "c" to "C",
         "cpp" to "C++",
+        "cs" to "C#",
         "java" to "Java",
         "kt" to "Kotlin",
         "f95" to "Fortran",
@@ -21,7 +23,7 @@ object Config {
         "rb" to "Ruby",
         "sql" to "SQL",
         "vb" to "Visual Basic",
-        "cs" to "C#",
+        "adb" to "Ada",
     )
 
     val supportPlatformList = listOf<Platform>(
