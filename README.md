@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-13 11:43:26 <br>
+Last Update : 2023-10-14 16:21:43 <br>
 
 
 ```
-1560 Solved
- - Kotlin : 1056
+1568 Solved
+ - Kotlin : 1063
  - Python : 239
  - Java : 131
  - SQL : 74
@@ -26,11 +26,12 @@ Last Update : 2023-10-13 11:43:26 <br>
  - JavaScript : 9
  - Ruby : 9
  - C# : 4
+ - Ada : 1
  - GolfScript : 1
  - FreeBASIC : 1
  - Fortran : 1
  - Visual Basic : 1
- - algol68 : 1
+ - Algol68 : 1
 
 
 baekjoon
@@ -214,6 +215,7 @@ baekjoon
       [Kotlin] 도시 건설
       [Kotlin] 해킹
       [Kotlin] 사이클 게임
+      [Kotlin] 세부
       [Kotlin] 문자열 폭발
       [Kotlin] 가장 긴 바이토닉 부분 수열
       [Kotlin] 키 순서
@@ -914,7 +916,7 @@ baekjoon
       [Java] 최소_최대
       [Java] 알람_시계
       [Fortran] Crowing
-      [algol68] Howl
+      [Algol68] Howl
     b4
       [Kotlin] Kuber
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스 2
@@ -1137,6 +1139,7 @@ baekjoon
       [C++] A-B
       [C++] A+B - 3
       [C++] Hello World
+      [Ada] Livestock Count
       [GolfScript] Moo
       [FreeBASIC] Pottery
       [Visual Basic] Helicopter
@@ -1145,12 +1148,18 @@ baekjoon
     u0
       [Kotlin] 생일 출력하기
       [Kotlin] 구구
+      [Kotlin] SHA-224
       [Kotlin] 엔드게임 스포일러
       [Kotlin] 타노스
+      [Kotlin] 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018
+      [Kotlin] SHA-1
+      [Kotlin] SHA-512
       [Kotlin] 별 찍기 - 14
       [Kotlin] 占쏙옙
       [Kotlin] 12096
       [Kotlin] 더하기
+      [Kotlin] SHA-256
+      [Kotlin] SHA-384
       [Python] 정ㅋ벅ㅋ
       [Java] 랜덤게임
 
