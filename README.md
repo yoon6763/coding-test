@@ -12,11 +12,11 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-14 16:21:43 <br>
+Last Update : 2023-10-15 01:47:59 <br>
 
 
 ```
-1568 Solved
+1573 Solved
  - Kotlin : 1063
  - Python : 239
  - Java : 131
@@ -25,6 +25,7 @@ Last Update : 2023-10-14 16:21:43 <br>
  - C++ : 10
  - JavaScript : 9
  - Ruby : 9
+ - Text : 5
  - C# : 4
  - Ada : 1
  - GolfScript : 1
@@ -629,6 +630,7 @@ baekjoon
       [C] 돌 게임2
       [C] 속도 위반
       [C++] 중복된숫자
+      [Text] if
 
   bronze
     b1
@@ -1139,6 +1141,7 @@ baekjoon
       [C++] A-B
       [C++] A+B - 3
       [C++] Hello World
+      [Text] 한별 찍기
       [Ada] Livestock Count
       [GolfScript] Moo
       [FreeBASIC] Pottery
@@ -1162,6 +1165,9 @@ baekjoon
       [Kotlin] SHA-384
       [Python] 정ㅋ벅ㅋ
       [Java] 랜덤게임
+      [Text] 0초 후에 제출할 수 있습니다
+      [Text] Yee
+      [Text] SUPER SUPER BINARY SEARCH DELUXE 2
 
 programmers
   Level 5
