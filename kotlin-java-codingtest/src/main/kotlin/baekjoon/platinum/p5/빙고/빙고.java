@@ -18,31 +18,11 @@ public class 빙고 {
 
     static void solve(int idx) {
         if (idx == 25) {
-            if (!a1()) return;
-            if (!a2()) return;
-            if (!a3()) return;
-            if (!a4()) return;
-            if (!a5()) return;
-            if (!b1()) return;
-            if (!b2()) return;
-            if (!b3()) return;
-            if (!b4()) return;
-            if (!b5()) return;
-            if (!c1()) return;
-            if (!c2()) return;
-            if (!c3()) return;
-            if (!c4()) return;
-            if (!c5()) return;
-            if (!d1()) return;
-            if (!d2()) return;
-            if (!d3()) return;
-            if (!d4()) return;
-            if (!d5()) return;
-            if (!e1()) return;
-            if (!e2()) return;
-            if (!e3()) return;
-            if (!e4()) return;
-            if (!e5()) return;
+            if (!a1() || !a2() || !a3() || !a4() || !a5()) return;
+            if (!b1() || !b2() || !b3() || !b4() || !b5()) return;
+            if (!c1() || !c2() || !c3() || !c4() || !c5()) return;
+            if (!d1() || !d2() || !d3() || !d4() || !d5()) return;
+            if (!e1() || !e2() || !e3() || !e4() || !e5()) return;
 
             answerCount += 1;
 
@@ -66,11 +46,8 @@ public class 빙고 {
     }
 
     static boolean isBingoLine(int row, int col) {
-        if ((row == 1 && col == 1 || row == 2 && col == 2 || row == 3 && col == 3 || row == 4 && col == 4 || row == 5 && col == 5)
-                && isA1ToE5Exist()) return true;
-
-        if ((row == 1 && col == 5 || row == 2 && col == 4 || row == 3 && col == 3 || row == 4 && col == 2 || row == 5 && col == 1)
-                && isA5ToE1Exist()) return true;
+        if ((row == 1 && col == 1 || row == 2 && col == 2 || row == 3 && col == 3 || row == 4 && col == 4 || row == 5 && col == 5) && isA1ToE5Exist()) return true;
+        if ((row == 1 && col == 5 || row == 2 && col == 4 || row == 3 && col == 3 || row == 4 && col == 2 || row == 5 && col == 1) && isA5ToE1Exist()) return true;
 
         if (bingo[row][1] && bingo[row][2] && bingo[row][3] && bingo[row][4] && bingo[row][5]) return true;
         if (bingo[1][col] && bingo[2][col] && bingo[3][col] && bingo[4][col] && bingo[5][col]) return true;
@@ -90,7 +67,7 @@ public class 빙고 {
 
     static boolean a1() {
         // A5에서 E1로 가는 대각선 줄은 빙고 줄이 아니다
-        boolean flag = !(isA5ToE1Exist());
+        boolean flag = !isA5ToE1Exist();
         return flag == bingo[A][1];
     }
 
@@ -131,17 +108,8 @@ public class 빙고 {
         boolean diagonal = false;
 
         for (int i = 1; i <= 5; i++) {
-            if (bingo[i][1] && bingo[i][2] && bingo[i][3] && bingo[i][4] && bingo[i][5]) {
-                horizontal = true;
-                break;
-            }
-        }
-
-        for (int i = 1; i <= 5; i++) {
-            if (bingo[1][i] && bingo[2][i] && bingo[3][i] && bingo[4][i] && bingo[5][i]) {
-                vertical = true;
-                break;
-            }
+            if (bingo[i][1] && bingo[i][2] && bingo[i][3] && bingo[i][4] && bingo[i][5]) horizontal = true;
+            if (bingo[1][i] && bingo[2][i] && bingo[3][i] && bingo[4][i] && bingo[5][i]) vertical = true;
         }
 
         if (isA1ToE5Exist() || isA5ToE1Exist()) diagonal = true;
@@ -166,8 +134,7 @@ public class 빙고 {
 
     static boolean b4() {
         // 제 2행과 D열중 적어도 하나는 빙고 줄이다
-        boolean flag = (bingo[A][2] && bingo[B][2] && bingo[C][2] && bingo[D][2] && bingo[E][2]) ||
-                (bingo[D][1] && bingo[D][2] && bingo[D][3] && bingo[D][4] && bingo[D][5]);
+        boolean flag = (bingo[A][2] && bingo[B][2] && bingo[C][2] && bingo[D][2] && bingo[E][2]) || (bingo[D][1] && bingo[D][2] && bingo[D][3] && bingo[D][4] && bingo[D][5]);
         return flag == bingo[B][4];
     }
 
@@ -236,11 +203,11 @@ public class 빙고 {
 
         int count = 0;
 
-        if(bingo[A][1] && bingo[A][2] && bingo[A][3] && bingo[A][4] && bingo[A][5]) count++;
-        if(bingo[B][1] && bingo[B][2] && bingo[B][3] && bingo[B][4] && bingo[B][5]) count++;
-        if(bingo[C][1] && bingo[C][2] && bingo[C][3] && bingo[C][4] && bingo[C][5]) count++;
-        if(bingo[D][1] && bingo[D][2] && bingo[D][3] && bingo[D][4] && bingo[D][5]) count++;
-        if(bingo[E][1] && bingo[E][2] && bingo[E][3] && bingo[E][4] && bingo[E][5]) count++;
+        if (bingo[A][1] && bingo[A][2] && bingo[A][3] && bingo[A][4] && bingo[A][5]) count++;
+        if (bingo[B][1] && bingo[B][2] && bingo[B][3] && bingo[B][4] && bingo[B][5]) count++;
+        if (bingo[C][1] && bingo[C][2] && bingo[C][3] && bingo[C][4] && bingo[C][5]) count++;
+        if (bingo[D][1] && bingo[D][2] && bingo[D][3] && bingo[D][4] && bingo[D][5]) count++;
+        if (bingo[E][1] && bingo[E][2] && bingo[E][3] && bingo[E][4] && bingo[E][5]) count++;
 
         boolean flag = count >= 2;
         return flag == bingo[D][3];
@@ -255,11 +222,9 @@ public class 빙고 {
     static boolean d5() {
         // 빙고 줄의 개수는 3개 이상이다
         int count = 0;
-        for (int i = 1; i <= 5; i++) {
-            if (bingo[i][1] && bingo[i][2] && bingo[i][3] && bingo[i][4] && bingo[i][5]) count++;
-        }
 
         for (int i = 1; i <= 5; i++) {
+            if (bingo[i][1] && bingo[i][2] && bingo[i][3] && bingo[i][4] && bingo[i][5]) count++;
             if (bingo[1][i] && bingo[2][i] && bingo[3][i] && bingo[4][i] && bingo[5][i]) count++;
         }
 
