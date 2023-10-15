@@ -12,14 +12,14 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-15 01:47:59 <br>
+Last Update : 2023-10-15 18:44:29 <br>
 
 
 ```
-1573 Solved
- - Kotlin : 1063
+1575 Solved
+ - Kotlin : 1064
  - Python : 239
- - Java : 131
+ - Java : 132
  - SQL : 74
  - C : 23
  - C++ : 10
@@ -46,6 +46,7 @@ baekjoon
       [Kotlin] 블록껍질
       [Kotlin] 백조의 호수
       [Kotlin] 오아시스 재결합
+      [Kotlin] 빙고-Kotlin
       [Kotlin] LCA 2
       [Kotlin] 고층 빌딩
       [Kotlin] 거의 최단 경로
@@ -62,6 +63,7 @@ baekjoon
       [Kotlin] 오민식의 고민
       [Kotlin] 사탕상자
       [Kotlin] 히스토그램
+      [Java] 빙고
 
   gold
     g1
