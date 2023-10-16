@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-15 22:00:12 <br>
+Last Update : 2023-10-16 16:14:25 <br>
 
 
 ```
-1575 Solved
- - Kotlin : 1064
+1577 Solved
+ - Kotlin : 1066
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -67,6 +67,7 @@ baekjoon
 
   gold
     g1
+      [Kotlin] 계단 수
       [Kotlin] 구슬 탈출2
       [Kotlin] 외판원 순회
       [Kotlin] 구간 합 구하기
@@ -153,6 +154,7 @@ baekjoon
       [Kotlin] 행렬 곱셈 순서
       [Kotlin] 별자리 만들기
       [Kotlin] 크게만들기
+      [Kotlin] Dance Dance Revolution
       [Kotlin] 벽 부수고 이동하기 2
       [Kotlin] 파티
       [Kotlin] 최소비용 구하기 2
