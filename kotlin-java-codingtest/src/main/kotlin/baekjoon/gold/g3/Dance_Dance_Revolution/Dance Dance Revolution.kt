@@ -12,7 +12,7 @@ fun main() = with(System.`in`.bufferedReader()) {
     dp[0][initial][0] = 2
     dp[0][0][initial] = 2
 
-    var idx = 1
+    var idx = 0
 
     while (st.hasMoreTokens()) {
         // 1 - 상, 2 - 좌, 3 - 하, 4 - 우
@@ -21,16 +21,15 @@ fun main() = with(System.`in`.bufferedReader()) {
 
         for (i in 0..4) {
             for (j in 0..4) {
-                if (dp[idx - 1][i][j] == Int.MAX_VALUE) continue
-                dp[idx][cur][j] = minOf(dp[idx][cur][j], dp[idx - 1][i][j] + getCost(i, cur))
-                dp[idx][i][cur] = minOf(dp[idx][i][cur], dp[idx - 1][i][j] + getCost(j, cur))
+                if (dp[idx][i][j] == Int.MAX_VALUE) continue
+                dp[idx + 1][cur][j] = minOf(dp[idx + 1][cur][j], dp[idx][i][j] + getCost(i, cur))
+                dp[idx + 1][i][cur] = minOf(dp[idx + 1][i][cur], dp[idx][i][j] + getCost(j, cur))
             }
         }
 
         idx++
     }
 
-    idx--
     var answer = Int.MAX_VALUE
 
     for (i in 0..4) {
