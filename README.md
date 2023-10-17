@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-16 22:05:50 <br>
+Last Update : 2023-10-17 16:23:45 <br>
 
 
 ```
-1577 Solved
- - Kotlin : 1066
+1580 Solved
+ - Kotlin : 1069
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -75,6 +75,7 @@ baekjoon
       [Kotlin] 달이 차오른다, 가자
       [Kotlin] 낚시왕
       [Kotlin] 구슬 탈출
+      [Kotlin] 부분수열의 합 2
       [Kotlin] 복제 로봇
       [Kotlin] 구간 곱 구하기
       [Kotlin] 트리
@@ -276,6 +277,7 @@ baekjoon
       [Kotlin] 리모컨
       [Kotlin] 숨바꼭질 3
       [Kotlin] 연속합 2
+      [Kotlin] 수 나누기 게임
       [Kotlin] 별 찍기 - 10
       [Kotlin] 옥상 정원 꾸미기
       [Kotlin] 탑
@@ -350,6 +352,7 @@ baekjoon
       [Kotlin] 나이트의 이동
       [Kotlin] 행렬
       [Kotlin] 출근
+      [Kotlin] 숨바꼭질_6118
       [Kotlin] 곱셈
       [Kotlin] 스티커
       [Kotlin] 케빈 베이컨의 6단계 법칙
