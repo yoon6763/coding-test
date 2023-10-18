@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-17 16:23:45 <br>
+Last Update : 2023-10-18 16:10:58 <br>
 
 
 ```
-1580 Solved
- - Kotlin : 1069
+1583 Solved
+ - Kotlin : 1072
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -843,6 +843,7 @@ baekjoon
       [Kotlin] 완전 세제곱
       [Kotlin] 디지털 루트
       [Kotlin] 백발백준하는 명사수
+      [Kotlin] 대회 or 인턴
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 4
       [Kotlin] 빅데이터 정보보호
       [Kotlin] 골뱅이 찍기 - 뒤집힌 ㄱ
@@ -1157,11 +1158,13 @@ baekjoon
   unrated
     u0
       [Kotlin] 생일 출력하기
+      [Kotlin] No Description
       [Kotlin] 구구
       [Kotlin] SHA-224
       [Kotlin] 엔드게임 스포일러
       [Kotlin] 타노스
       [Kotlin] 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018
+      [Kotlin] 랜덤 게임~~~~~
       [Kotlin] SHA-1
       [Kotlin] SHA-512
       [Kotlin] 별 찍기 - 14
