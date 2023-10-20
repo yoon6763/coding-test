@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-20 16:07:10 <br>
+Last Update : 2023-10-21 00:00:18 <br>
 
 
 ```
-1586 Solved
- - Kotlin : 1075
+1588 Solved
+ - Kotlin : 1077
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -41,8 +41,10 @@ baekjoon
       [Kotlin] 레드 블루 스패닝 트리
     p4
       [Kotlin] 유럽여행
+      [Kotlin] 축사 배정
       [Kotlin] K번째 최단경로 찾기
     p5
+      [Kotlin] 정점들의 거리
       [Kotlin] 히스토그램
       [Kotlin] 사탕상자
       [Kotlin] 거의 최단 경로
