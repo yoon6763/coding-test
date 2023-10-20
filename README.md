@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-19 15:31:44 <br>
+Last Update : 2023-10-20 16:07:10 <br>
 
 
 ```
-1584 Solved
- - Kotlin : 1073
+1586 Solved
+ - Kotlin : 1075
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -331,6 +331,7 @@ baekjoon
       [Kotlin] 행렬
       [Kotlin] 트리 순회
       [Kotlin] 올림픽 게임
+      [Kotlin] 카드 합체 놀이
       [Kotlin] 쉬운 계단 수
       [Kotlin] 가장 가까운 세 사람의 심리적 거리
       [Kotlin] 전쟁 - 전투
@@ -596,6 +597,7 @@ baekjoon
       [Kotlin] 창문 닫기
       [Kotlin] 지뢰 찾기
       [Kotlin] 단어 나누기
+      [Kotlin] 뒤집기
       [Kotlin] PLAYERJINAH’S BOTTLEGROUNDS
       [Kotlin] 폴리오미노
       [Kotlin] 비밀번호 발음하기
