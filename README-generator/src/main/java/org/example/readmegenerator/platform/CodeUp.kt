@@ -52,7 +52,12 @@ class CodeUp : Platform {
             languageCount[it.language] = languageCount.getOrDefault(it.language, 0) + 1
         }
 
-        problems.sortWith(compareBy { -languageCount[it.language]!! })
+        problems.sortWith(
+            compareBy(
+                { -languageCount[it.language]!! },
+                { it.title }
+            )
+        )
     }
 
     override fun getProblemInfoList(): List<ProblemInfo> {

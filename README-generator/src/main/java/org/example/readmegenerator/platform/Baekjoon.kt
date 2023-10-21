@@ -48,7 +48,7 @@ class Baekjoon : Platform {
             problems.groupBy { it.level }.forEach { (level, problems) ->
                 sb.appendLine("    ${tier[0]}$level")
                 problems.forEach { problem ->
-                    sb.appendLine("      [${problem.language}] ${problem.title}")
+                    sb.appendLine("      [${problem.language}] ${problem.title.replace("_", " ")}")
                 }
             }
             sb.appendLine()
@@ -65,7 +65,12 @@ class Baekjoon : Platform {
             languageCount[it.language] = languageCount.getOrDefault(it.language, 0) + 1
         }
 
-        problems.sortWith(compareBy({ tierPriority[it.tier] }, { it.level }, { -languageCount[it.language]!! }))
+        problems.sortWith(compareBy(
+            { tierPriority[it.tier] },
+            { it.level },
+            { -languageCount[it.language]!! },
+            { it.title }
+        ))
     }
 
     override fun getProblemInfoList(): List<ProblemInfo> {

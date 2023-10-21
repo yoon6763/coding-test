@@ -55,7 +55,11 @@ class Programmers : Platform {
             languageCount[it.language] = languageCount.getOrDefault(it.language, 0) + 1
         }
 
-        problems.sortWith(compareBy({ -it.level }, { -languageCount[it.language]!! }))
+        problems.sortWith(compareBy(
+            { -it.level },
+            { -languageCount[it.language]!! },
+            { it.title }
+        ))
     }
 
     override fun getProblemInfoList(): List<ProblemInfo> {
