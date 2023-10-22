@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-21 20:07:11 <br>
+Last Update : 2023-10-22 21:29:21 <br>
 
 
 ```
-1592 Solved
- - Kotlin : 1081
+1594 Solved
+ - Kotlin : 1082
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -31,6 +31,7 @@ Last Update : 2023-10-21 20:07:11 <br>
  - GolfScript : 1
  - Fortran : 1
  - Ada : 1
+ - Rust : 1
  - FreeBASIC : 1
  - Visual Basic : 1
 
@@ -676,6 +677,7 @@ baekjoon
       [Kotlin] 소가 길을 건너간 이유 1
       [Kotlin] 소인수분해
       [Kotlin] 슈퍼 마리오
+      [Kotlin] 알고리즘 수업 - 피보나치 수 1
       [Kotlin] 애너그램
       [Kotlin] 약수
       [Kotlin] 약수들의 합
@@ -711,6 +713,7 @@ baekjoon
       [C] 분수찾기
       [C] 쉽게 푸는 문제
       [C] 피보나치 수 2
+      [Rust] 알고리즘 수업 - 피보나치 수 1
     b2
       [Kotlin] 16진수
       [Kotlin] 2진수 뒤집기
