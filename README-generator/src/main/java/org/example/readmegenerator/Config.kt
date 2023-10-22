@@ -24,7 +24,8 @@ object Config {
         "sql" to "SQL",
         "vb" to "Visual Basic",
         "adb" to "Ada",
-        "text" to "Text"
+        "text" to "Text",
+        "rs" to "Rust",
     )
 
     val supportPlatformList = listOf<Platform>(
