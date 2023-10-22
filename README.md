@@ -8,9 +8,13 @@
 백준 아이디 - yoon6763 <br>
 [Backjoon ] Profile - https://www.acmicpc.net/user/yoon6763 <br>
 [Solved.ac] Profile - https://solved.ac/profile/yoon6763 <br>
+<br>  
+  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoon6763)](https://solved.ac/yoon6763)
+
+</br>
 <br>
 <br>
-<br>
+
 ## Solved Problems<br>
 Last Update : 2023-10-22 23:12:35 <br>
 
