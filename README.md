@@ -12,12 +12,12 @@
 <br>
 <br>
 ## Solved Problems<br>
-Last Update : 2023-10-22 21:29:21 <br>
+Last Update : 2023-10-22 23:12:35 <br>
 
 
 ```
-1594 Solved
- - Kotlin : 1082
+1595 Solved
+ - Kotlin : 1083
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -38,6 +38,8 @@ Last Update : 2023-10-22 21:29:21 <br>
 
 baekjoon
   platinum
+    p2
+      [Kotlin] LCA와 쿼리
     p3
       [Kotlin] 레드 블루 스패닝 트리
     p4
