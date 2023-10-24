@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-10-24 13:18:14 <br>
+Last Update : 2023-10-24 15:47:02 <br>
 
 
 ```
-1597 Solved
- - Kotlin : 1085
+1598 Solved
+ - Kotlin : 1086
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -203,6 +203,7 @@ baekjoon
       [Kotlin] 파티
       [Kotlin] 피리 부는 사나이
       [Kotlin] 학교 탐방하기
+      [Kotlin] 할로윈의 양아치
       [Kotlin] 행렬 곱셈 순서
     g4
       [Kotlin] DSLR
