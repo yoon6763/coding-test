@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-10-23 16:17:22 <br>
+Last Update : 2023-10-24 13:18:14 <br>
 
 
 ```
-1596 Solved
- - Kotlin : 1084
+1597 Solved
+ - Kotlin : 1085
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -365,6 +365,7 @@ baekjoon
       [Kotlin] 최대공약수
       [Kotlin] 출근
       [Kotlin] 카드 구매하기
+      [Kotlin] 카드 구매하기 2
       [Kotlin] 카드 합체 놀이
       [Kotlin] 카잉 달력
       [Kotlin] 케빈 베이컨의 6단계 법칙
