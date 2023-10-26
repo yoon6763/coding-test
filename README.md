@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-10-25 14:14:04 <br>
+Last Update : 2023-10-26 22:06:27 <br>
 
 
 ```
-1599 Solved
- - Kotlin : 1087
+1600 Solved
+ - Kotlin : 1088
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -29,13 +29,13 @@ Last Update : 2023-10-25 14:14:04 <br>
  - JavaScript : 9
  - Text : 5
  - C# : 4
- - Algol68 : 1
- - GolfScript : 1
- - Fortran : 1
- - Ada : 1
  - Rust : 1
- - FreeBASIC : 1
+ - Ada : 1
+ - GolfScript : 1
  - Visual Basic : 1
+ - Algol68 : 1
+ - Fortran : 1
+ - FreeBASIC : 1
 
 
 baekjoon
@@ -48,6 +48,7 @@ baekjoon
       [Kotlin] K번째 최단경로 찾기
       [Kotlin] 노트북의 주인을 찾아서
       [Kotlin] 열혈강호
+      [Kotlin] 열혈강호2
       [Kotlin] 유럽여행
       [Kotlin] 축사 배정
     p5
