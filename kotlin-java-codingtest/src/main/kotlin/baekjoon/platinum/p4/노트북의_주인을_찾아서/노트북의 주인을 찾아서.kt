@@ -1,6 +1,7 @@
-package baekjoon.platinum.p4.열혈강호
+package baekjoon.platinum.p4.노트북의_주인을_찾아서
 
-import java.util.StringTokenizer
+import java.util.*
+import kotlin.collections.ArrayList
 
 lateinit var connected: Array<ArrayList<Int>>
 lateinit var visited: BooleanArray
@@ -9,18 +10,20 @@ lateinit var d: IntArray
 fun main() = with(System.`in`.bufferedReader()) {
     val (n, m) = readLine().split(" ").map { it.toInt() }
 
-    connected = Array(n + 1) { ArrayList<Int>() }
-    visited = BooleanArray(m + 1)
-    d = IntArray(m + 1) { -1 }
+    val nmMax = maxOf(n, m)
 
-    for (i in 1..n) {
+    connected = Array(nmMax + 1) { ArrayList<Int>() }
+    visited = BooleanArray(nmMax + 1)
+    d = IntArray(nmMax + 1) { -1 }
+
+    repeat(m) {
         val st = StringTokenizer(readLine())
-        repeat(st.nextToken().toInt()) {
-            connected[i].add(st.nextToken().toInt())
-        }
+        val (v1, v2) = listOf(st.nextToken().toInt(), st.nextToken().toInt())
+        connected[v1].add(v2)
     }
 
     var count = 0
+
     for (i in 1..n) {
         visited.fill(false)
         if (dfs(i)) count++
