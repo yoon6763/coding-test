@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-10-26 22:06:27 <br>
+Last Update : 2023-10-27 15:52:04 <br>
 
 
 ```
-1600 Solved
- - Kotlin : 1088
+1601 Solved
+ - Kotlin : 1089
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -56,6 +56,7 @@ baekjoon
       [Kotlin] Strongly Connected Component
       [Kotlin] 가장 긴 증가하는 부분 수열 5
       [Kotlin] 거의 최단 경로
+      [Kotlin] 경찰차
       [Kotlin] 고층 빌딩
       [Kotlin] 백조의 호수
       [Kotlin] 블록껍질
