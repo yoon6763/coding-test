@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-10-27 15:52:04 <br>
+Last Update : 2023-10-28 13:51:18 <br>
 
 
 ```
-1601 Solved
- - Kotlin : 1089
+1602 Solved
+ - Kotlin : 1090
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -831,6 +831,7 @@ baekjoon
       [C++] 분산처리
     b3
       [Kotlin] 1 = cute
+      [Kotlin] 17배
       [Kotlin] 2의 제곱인가
       [Kotlin] A+B - 6
       [Kotlin] Baseball
