@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-10-28 13:51:18 <br>
+Last Update : 2023-10-29 20:00:11 <br>
 
 
 ```
-1602 Solved
- - Kotlin : 1090
+1603 Solved
+ - Kotlin : 1091
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -781,6 +781,7 @@ baekjoon
       [Kotlin] 오타맨 고창영
       [Kotlin] 완전제곱수
       [Kotlin] 운동
+      [Kotlin] 유학 금지
       [Kotlin] 인생 점수
       [Kotlin] 저항
       [Kotlin] 정수의 개수
