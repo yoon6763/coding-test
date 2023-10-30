@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-10-30 15:00:52 <br>
+Last Update : 2023-10-31 00:46:11 <br>
 
 
 ```
-1604 Solved
- - Kotlin : 1092
+1605 Solved
+ - Kotlin : 1093
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -356,6 +356,7 @@ baekjoon
       [Kotlin] 안전 영역
       [Kotlin] 연산자 끼워넣기
       [Kotlin] 영역 구하기
+      [Kotlin] 오르막 수
       [Kotlin] 오목
       [Kotlin] 올림픽 게임
       [Kotlin] 음식물 피하기
