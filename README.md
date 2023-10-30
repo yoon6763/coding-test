@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-10-29 20:00:11 <br>
+Last Update : 2023-10-30 15:00:52 <br>
 
 
 ```
-1603 Solved
- - Kotlin : 1091
+1604 Solved
+ - Kotlin : 1092
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -660,6 +660,7 @@ baekjoon
 
   bronze
     b1
+      [Kotlin] 0의 개수
       [Kotlin] 2007년
       [Kotlin] 2진수 8진수
       [Kotlin] A divide B - 2
