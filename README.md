@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-10-31 15:31:30 <br>
+Last Update : 2023-11-01 19:35:37 <br>
 
 
 ```
-1606 Solved
- - Kotlin : 1094
+1607 Solved
+ - Kotlin : 1095
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -969,6 +969,7 @@ baekjoon
       [Kotlin] Darius님 한타 안 함
       [Kotlin] Dedupe
       [Kotlin] Every Second Counts
+      [Kotlin] FA
       [Kotlin] FYI
       [Kotlin] Fill the Rowboats!
       [Kotlin] Final Price
