@@ -14,27 +14,27 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-01 19:35:37 <br>
+Last Update : 2023-11-02 19:17:09 <br>
 
 
 ```
-1607 Solved
- - Kotlin : 1095
+1608 Solved
+ - Kotlin : 1096
  - Python : 239
  - Java : 132
  - SQL : 74
  - C : 23
  - C++ : 10
- - Ruby : 9
  - JavaScript : 9
+ - Ruby : 9
  - Text : 5
  - C# : 4
+ - Visual Basic : 1
+ - Fortran : 1
+ - Algol68 : 1
+ - GolfScript : 1
  - Rust : 1
  - Ada : 1
- - GolfScript : 1
- - Visual Basic : 1
- - Algol68 : 1
- - Fortran : 1
  - FreeBASIC : 1
 
 
@@ -922,6 +922,7 @@ baekjoon
       [Kotlin] 윷놀이
       [Kotlin] 이 문제는 D2 입니다
       [Kotlin] 이진수
+      [Kotlin] 저작권
       [Kotlin] 주사위
       [Kotlin] 주사위 게임
       [Kotlin] 지능형 기차
