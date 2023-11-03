@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-02 19:17:09 <br>
+Last Update : 2023-11-03 15:52:36 <br>
 
 
 ```
-1608 Solved
- - Kotlin : 1096
+1609 Solved
+ - Kotlin : 1097
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -97,6 +97,7 @@ baekjoon
       [Kotlin] 복제 로봇
       [Kotlin] 부분수열의 합 2
       [Kotlin] 비숍
+      [Kotlin] 소수의 곱
       [Kotlin] 수들의 합 7
       [Kotlin] 수열과 쿼리 16
       [Kotlin] 수열과 쿼리 17
