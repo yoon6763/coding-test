@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-03 15:52:36 <br>
+Last Update : 2023-11-04 18:00:18 <br>
 
 
 ```
-1609 Solved
- - Kotlin : 1097
+1610 Solved
+ - Kotlin : 1098
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -614,6 +614,7 @@ baekjoon
       [Kotlin] 숫자 카드
       [Kotlin] 스네이크버드
       [Kotlin] 스텔라(STELLA)가 치킨을 선물했어요
+      [Kotlin] 아무래도이문제는A번난이도인것같다
       [Kotlin] 아시아 정보올림피아드
       [Kotlin] 역원소 정렬
       [Kotlin] 연도 진행바
