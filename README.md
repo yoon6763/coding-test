@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-04 18:00:18 <br>
+Last Update : 2023-11-05 23:16:09 <br>
 
 
 ```
-1610 Solved
- - Kotlin : 1098
+1611 Solved
+ - Kotlin : 1099
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -877,6 +877,7 @@ baekjoon
       [Kotlin] 그대로 출력하기 2
       [Kotlin] 꼬리를 무는 숫자 나열
       [Kotlin] 나는 요리사다
+      [Kotlin] 남욱이의 닭장
       [Kotlin] 내 학점을 구해줘
       [Kotlin] 네 수
       [Kotlin] 다음수
