@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-05 23:16:09 <br>
+Last Update : 2023-11-06 11:33:26 <br>
 
 
 ```
-1611 Solved
- - Kotlin : 1099
+1612 Solved
+ - Kotlin : 1100
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -48,6 +48,7 @@ baekjoon
       [Kotlin] K번째 최단경로 찾기
       [Kotlin] 노트북의 주인을 찾아서
       [Kotlin] 문명
+      [Kotlin] 불 끄기
       [Kotlin] 열혈강호
       [Kotlin] 열혈강호2
       [Kotlin] 유럽여행
