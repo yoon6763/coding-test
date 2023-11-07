@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-06 11:33:26 <br>
+Last Update : 2023-11-07 11:49:39 <br>
 
 
 ```
-1612 Solved
- - Kotlin : 1100
+1614 Solved
+ - Kotlin : 1102
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -376,6 +376,7 @@ baekjoon
       [Kotlin] 카드 구매하기 2
       [Kotlin] 카드 합체 놀이
       [Kotlin] 카잉 달력
+      [Kotlin] 컴백홈
       [Kotlin] 케빈 베이컨의 6단계 법칙
       [Kotlin] 쿼드트리
       [Kotlin] 트리 순회
@@ -427,6 +428,7 @@ baekjoon
       [Kotlin] 에디터
       [Kotlin] 연결 요소의 개수
       [Kotlin] 연속합
+      [Kotlin] 영상처리
       [Kotlin] 외판원 순회 2
       [Kotlin] 유기농 배추
       [Kotlin] 이동하기
