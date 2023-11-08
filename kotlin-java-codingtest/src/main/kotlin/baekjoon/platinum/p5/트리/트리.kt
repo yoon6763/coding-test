@@ -19,23 +19,24 @@ fun main() = with(System.`in`.bufferedReader()) {
 
     repeat(k) {
         val st = StringTokenizer(readLine())
-        val (r, a, b) = Array(3) { st.nextToken().toInt() }
+        val (cmd, v1, v2) = Array(3) { st.nextToken().toInt() }
 
-        when (r) {
-            1 -> paint(a, b, st.nextToken().toInt())
-            2 -> move(a, b)
-            3 -> sb.appendLine(count(a, b))
+        when (cmd) {
+            1 -> {
+                val color = st.nextToken().toInt()
+                paint(v1, v2, color)
+            }
+            2 -> move(v1, v2)
+            3 -> sb.appendLine(count(v1, v2))
         }
     }
 
     print(sb)
 }
 
-fun lca(a: Int, b: Int): Int {
-    if (a == b) return a
-
+fun LCA(v1: Int, v2: Int): Int {
     val visited = BooleanArray(n)
-    var cur = a
+    var cur = v1
 
     for (i in 0 until 1000) {
         visited[cur] = true
@@ -44,7 +45,7 @@ fun lca(a: Int, b: Int): Int {
         if (cur == -1) break
     }
 
-    cur = b
+    cur = v2
     for (i in 0 until 1000) {
         if (visited[cur]) return cur
         cur = nodes[cur].parent
@@ -55,38 +56,37 @@ fun lca(a: Int, b: Int): Int {
     return -1
 }
 
-fun paint(a: Int, b: Int, color: Int) {
-    val lca = lca(a, b)
+fun paint(v1: Int, v2: Int, color: Int) {
+    val foundLCA = LCA(v1, v2)
 
-    if (lca == -1) return
+    if (foundLCA == -1) return
 
-    var cur = a
-    while (cur != lca) {
+    var cur = v1
+    while (cur != foundLCA) {
         nodes[cur].color = color
         cur = nodes[cur].parent
     }
 
-    cur = b
-    while (cur != lca) {
+    cur = v2
+    while (cur != foundLCA) {
         nodes[cur].color = color
         cur = nodes[cur].parent
     }
 }
 
 
-fun count(a: Int, b: Int): Int {
-    val lca = lca(a, b)
-
+fun count(v1: Int, v2: Int): Int {
+    val foundLCA = LCA(v1, v2)
     val colorSet = HashSet<Int>()
 
-    var cur = a
-    while (cur != lca) {
+    var cur = v1
+    while (cur != foundLCA) {
         colorSet.add(nodes[cur].color)
         cur = nodes[cur].parent
     }
 
-    cur = b
-    while (cur != lca) {
+    cur = v2
+    while (cur != foundLCA) {
         colorSet.add(nodes[cur].color)
         cur = nodes[cur].parent
     }
@@ -94,6 +94,6 @@ fun count(a: Int, b: Int): Int {
     return colorSet.size
 }
 
-fun move(a: Int, b: Int) {
-    nodes[a].parent = b
+fun move(v1: Int, v2: Int) {
+    nodes[v1].parent = v2
 }
