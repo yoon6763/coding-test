@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-07 11:49:39 <br>
+Last Update : 2023-11-08 14:42:22 <br>
 
 
 ```
-1614 Solved
- - Kotlin : 1102
+1615 Solved
+ - Kotlin : 1103
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -73,6 +73,7 @@ baekjoon
       [Kotlin] 찾기
       [Kotlin] 최솟값 찾기
       [Kotlin] 큐빙
+      [Kotlin] 트리
       [Kotlin] 한동이는 영업사원
       [Kotlin] 행성 터널
       [Kotlin] 히스토그램
