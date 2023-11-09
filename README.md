@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-08 16:26:55 <br>
+Last Update : 2023-11-09 11:31:18 <br>
 
 
 ```
-1615 Solved
- - Kotlin : 1103
+1616 Solved
+ - Kotlin : 1104
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -60,6 +60,7 @@ baekjoon
       [Kotlin] 거의 최단 경로
       [Kotlin] 경찰차
       [Kotlin] 고층 빌딩
+      [Kotlin] 배열에서 이동
       [Kotlin] 백조의 호수
       [Kotlin] 블록껍질
       [Kotlin] 비밀번호 제작
