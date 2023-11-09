@@ -15,26 +15,20 @@ fun main() = with(System.`in`.bufferedReader()) {
     n = readLine().toInt()
 
     map = Array(n) { readLine().split(" ").map { it.toInt() } }
-
     max = map.maxOf { it.maxOrNull()!! }
     min = map.minOf { it.minOrNull()!! }
 
     var left = 0
     var right = max - min
-    var ans = 0
 
     while (left <= right) {
         val mid = (left + right) / 2
 
-        if (bfs(mid)) {
-            right = mid - 1
-            ans = mid
-        } else {
-            left = mid + 1
-        }
+        if (bfs(mid)) right = mid - 1
+        else left = mid + 1
     }
 
-    println(ans)
+    println(left)
 }
 
 fun bfs(diff: Int): Boolean {
