@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-09 13:38:45 <br>
+Last Update : 2023-11-10 15:13:07 <br>
 
 
 ```
-1616 Solved
- - Kotlin : 1104
+1618 Solved
+ - Kotlin : 1106
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -118,6 +118,7 @@ baekjoon
       [Kotlin] 하이퍼 토마토
       [Python] 제곱 ㄴㄴ 수
     g2
+      [Kotlin] 1의 개수 세기
       [Kotlin] 2048 (Easy)
       [Kotlin] K번째 수
       [Kotlin] Maaaaaaaaaze
@@ -232,6 +233,7 @@ baekjoon
       [Kotlin] 도시 분할 계획
       [Kotlin] 마법사 상어와 파이어볼
       [Kotlin] 문자열 폭발
+      [Kotlin] 뮤탈리스크
       [Kotlin] 미로
       [Kotlin] 미로만들기
       [Kotlin] 미세먼지 안녕!
