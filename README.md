@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-10 15:13:07 <br>
+Last Update : 2023-11-11 22:36:01 <br>
 
 
 ```
-1618 Solved
- - Kotlin : 1106
+1619 Solved
+ - Kotlin : 1107
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -531,6 +531,7 @@ baekjoon
       [Kotlin] 괄호
       [Kotlin] 국영수
       [Kotlin] 균형잡힌 세상
+      [Kotlin] 기념품
       [Kotlin] 기타줄
       [Kotlin] 꿀 아르바이트
       [Kotlin] 나는야 포켓몬 마스터 이다솜
