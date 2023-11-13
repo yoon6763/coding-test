@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-12 19:31:01 <br>
+Last Update : 2023-11-13 11:48:10 <br>
 
 
 ```
-1621 Solved
- - Kotlin : 1109
+1623 Solved
+ - Kotlin : 1111
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -73,6 +73,7 @@ baekjoon
       [Kotlin] 정점들의 거리
       [Kotlin] 찾기
       [Kotlin] 최솟값 찾기
+      [Kotlin] 카드 게임
       [Kotlin] 큐빙
       [Kotlin] 트리
       [Kotlin] 한동이는 영업사원
@@ -695,6 +696,7 @@ baekjoon
       [Kotlin] 명령 프롬프트
       [Kotlin] 문자메시지
       [Kotlin] 민균이의 비밀번호
+      [Kotlin] 비밀편지
       [Kotlin] 색종이
       [Kotlin] 선 그리기
       [Kotlin] 성 지키기
