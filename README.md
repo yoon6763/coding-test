@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-11 22:36:01 <br>
+Last Update : 2023-11-12 19:31:01 <br>
 
 
 ```
-1619 Solved
- - Kotlin : 1107
+1621 Solved
+ - Kotlin : 1109
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -225,6 +225,7 @@ baekjoon
       [Kotlin] 가장 긴 바이토닉 부분 수열
       [Kotlin] 감시
       [Kotlin] 거짓말
+      [Kotlin] 게리맨더링
       [Kotlin] 공유기 설치
       [Kotlin] 구슬 찾기
       [Kotlin] 네트워크 연결
@@ -637,6 +638,7 @@ baekjoon
       [Kotlin] 중복 빼고 정렬하기
       [Kotlin] 지뢰 찾기
       [Kotlin] 지뢰찾기
+      [Kotlin] 직사각형 네개의 합집합의 면적 구하기
       [Kotlin] 집합
       [Kotlin] 창문 닫기
       [Kotlin] 최소공배수
