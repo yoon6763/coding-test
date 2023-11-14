@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-13 14:33:10 <br>
+Last Update : 2023-11-14 14:43:24 <br>
 
 
 ```
-1623 Solved
- - Kotlin : 1111
+1624 Solved
+ - Kotlin : 1112
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -852,6 +852,7 @@ baekjoon
       [Kotlin] 17배
       [Kotlin] 2의 제곱인가
       [Kotlin] A+B - 6
+      [Kotlin] ABC
       [Kotlin] Baseball
       [Kotlin] Culture shock
       [Kotlin] Extreme Temperatures
