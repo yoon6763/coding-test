@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-14 14:43:24 <br>
+Last Update : 2023-11-15 14:19:17 <br>
 
 
 ```
-1624 Solved
- - Kotlin : 1112
+1625 Solved
+ - Kotlin : 1113
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -105,6 +105,7 @@ baekjoon
       [Kotlin] 수들의 합 7
       [Kotlin] 수열과 쿼리 16
       [Kotlin] 수열과 쿼리 17
+      [Kotlin] 수열과 쿼리 37
       [Kotlin] 수영장 만들기
       [Kotlin] 열쇠
       [Kotlin] 외판원 순회
