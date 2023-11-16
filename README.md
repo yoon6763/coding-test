@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-15 14:19:17 <br>
+Last Update : 2023-11-16 15:37:20 <br>
 
 
 ```
-1625 Solved
- - Kotlin : 1113
+1626 Solved
+ - Kotlin : 1114
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -184,6 +184,7 @@ baekjoon
       [Kotlin] 두 배열의 합
       [Kotlin] 마법사 상어와 파이어스톰
       [Kotlin] 말이 되고픈 원숭이
+      [Kotlin] 무엇을 아느냐가 아니라 누구를 아느냐가 문제다
       [Kotlin] 벽 부수고 이동하기
       [Kotlin] 벽 부수고 이동하기 2
       [Kotlin] 별자리 만들기
