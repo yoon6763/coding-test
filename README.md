@@ -14,28 +14,28 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-16 15:37:20 <br>
+Last Update : 2023-11-17 14:09:06 <br>
 
 
 ```
-1626 Solved
- - Kotlin : 1114
+1627 Solved
+ - Kotlin : 1115
  - Python : 239
  - Java : 132
  - SQL : 74
  - C : 23
  - C++ : 10
- - JavaScript : 9
  - Ruby : 9
+ - JavaScript : 9
  - Text : 5
  - C# : 4
- - Visual Basic : 1
- - Fortran : 1
- - Algol68 : 1
  - GolfScript : 1
  - Rust : 1
+ - Fortran : 1
  - Ada : 1
  - FreeBASIC : 1
+ - Algol68 : 1
+ - Visual Basic : 1
 
 
 baekjoon
@@ -154,6 +154,7 @@ baekjoon
       [Kotlin] 중앙값 구하기
       [Kotlin] 철로
       [Kotlin] 친구 네트워크
+      [Kotlin] 컬러볼
       [Kotlin] 컵라면
       [Kotlin] 택배
       [Kotlin] 트리의 높이와 너비
