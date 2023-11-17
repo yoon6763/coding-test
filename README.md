@@ -14,28 +14,28 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-17 14:09:06 <br>
+Last Update : 2023-11-17 22:57:51 <br>
 
 
 ```
-1627 Solved
- - Kotlin : 1115
+1628 Solved
+ - Kotlin : 1116
  - Python : 239
  - Java : 132
  - SQL : 74
  - C : 23
  - C++ : 10
- - Ruby : 9
  - JavaScript : 9
+ - Ruby : 9
  - Text : 5
  - C# : 4
+ - Visual Basic : 1
+ - Fortran : 1
+ - Algol68 : 1
  - GolfScript : 1
  - Rust : 1
- - Fortran : 1
  - Ada : 1
  - FreeBASIC : 1
- - Algol68 : 1
- - Visual Basic : 1
 
 
 baekjoon
@@ -227,6 +227,7 @@ baekjoon
       [Kotlin] ⚾
       [Kotlin] 가장 가까운 공통 조상
       [Kotlin] 가장 긴 바이토닉 부분 수열
+      [Kotlin] 가장 큰 정사각형
       [Kotlin] 감시
       [Kotlin] 거짓말
       [Kotlin] 게리맨더링
