@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-17 22:57:51 <br>
+Last Update : 2023-11-18 20:22:13 <br>
 
 
 ```
-1628 Solved
- - Kotlin : 1116
+1629 Solved
+ - Kotlin : 1117
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -989,6 +989,7 @@ baekjoon
       [Kotlin] CASIO
       [Kotlin] Darius님 한타 안 함
       [Kotlin] Dedupe
+      [Kotlin] Equality
       [Kotlin] Every Second Counts
       [Kotlin] FA
       [Kotlin] FYI
