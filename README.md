@@ -14,28 +14,28 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-19 19:13:06 <br>
+Last Update : 2023-11-20 15:39:11 <br>
 
 
 ```
-1630 Solved
- - Kotlin : 1118
+1632 Solved
+ - Kotlin : 1120
  - Python : 239
  - Java : 132
  - SQL : 74
  - C : 23
  - C++ : 10
- - JavaScript : 9
  - Ruby : 9
+ - JavaScript : 9
  - Text : 5
  - C# : 4
- - Visual Basic : 1
- - Fortran : 1
- - Algol68 : 1
  - GolfScript : 1
  - Rust : 1
+ - Fortran : 1
  - Ada : 1
  - FreeBASIC : 1
+ - Algol68 : 1
+ - Visual Basic : 1
 
 
 baekjoon
@@ -117,6 +117,7 @@ baekjoon
       [Kotlin] 최솟값과 최댓값
       [Kotlin] 커피숍2
       [Kotlin] 트리
+      [Kotlin] 팰른드롬 분할
       [Kotlin] 하이퍼 토마토
       [Python] 제곱 ㄴㄴ 수
     g2
@@ -346,6 +347,7 @@ baekjoon
       [Kotlin] Knight
       [Kotlin] Knight Moves
       [Kotlin] RGB거리
+      [Kotlin] Red and Black
       [Kotlin] Z
       [Kotlin] 가장 가까운 세 사람의 심리적 거리
       [Kotlin] 경로 찾기
