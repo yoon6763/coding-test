@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-20 15:39:11 <br>
+Last Update : 2023-11-21 15:33:46 <br>
 
 
 ```
-1632 Solved
- - Kotlin : 1120
+1633 Solved
+ - Kotlin : 1121
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -43,6 +43,7 @@ baekjoon
     p2
       [Kotlin] LCA와 쿼리
     p3
+      [Kotlin] 교수님은 기다리지 않는다
       [Kotlin] 레드 블루 스패닝 트리
     p4
       [Kotlin] K번째 최단경로 찾기
