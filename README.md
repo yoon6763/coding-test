@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-21 15:33:46 <br>
+Last Update : 2023-11-22 14:25:10 <br>
 
 
 ```
-1633 Solved
- - Kotlin : 1121
+1634 Solved
+ - Kotlin : 1122
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -616,6 +616,7 @@ baekjoon
       [Kotlin] 단어 정렬
       [Kotlin] 덩치
       [Kotlin] 뒤집기
+      [Kotlin] 막대기
       [Kotlin] 멘토와 멘티
       [Kotlin] 방 번호
       [Kotlin] 배열 합치기
