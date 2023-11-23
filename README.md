@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-22 14:25:10 <br>
+Last Update : 2023-11-23 13:42:10 <br>
 
 
 ```
-1634 Solved
- - Kotlin : 1122
+1635 Solved
+ - Kotlin : 1123
  - Python : 239
  - Java : 132
  - SQL : 74
@@ -507,6 +507,7 @@ baekjoon
       [Kotlin] 소수 구하기
       [Kotlin] 수강신청
       [Kotlin] 수열
+      [Kotlin] 숫자 야구
       [Kotlin] 숫자 정사각형
       [Kotlin] 스택 수열
       [Kotlin] 시리얼 번호
