@@ -14,14 +14,14 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-25 12:45:26 <br>
+Last Update : 2023-11-25 12:53:44 <br>
 
 
 ```
-1636 Solved
+1637 Solved
  - Kotlin : 1124
  - Python : 239
- - Java : 132
+ - Java : 133
  - SQL : 74
  - C : 23
  - C++ : 10
@@ -977,6 +977,7 @@ baekjoon
       [Python] 최댓값
       [Python] 택시 기하학
       [Java] 곱셈
+      [Java] 다면체
       [Java] 수학은 체육과목 입니다
       [Java] 알람 시계
       [Java] 최소 최대
