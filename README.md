@@ -21,6 +21,17 @@ Last Update : 2023-11-25 12:53:44 <br>
 1637 Solved
  - Kotlin : 1124
  - Python : 239
+=======
+Last Update : 2023-11-26 03:34:16 <br>
+
+
+```
+
+-- dev env--
+
+1638 Solved
+ - Kotlin : 1124
+ - Python : 240
  - Java : 133
  - SQL : 74
  - C : 23
@@ -29,13 +40,13 @@ Last Update : 2023-11-25 12:53:44 <br>
  - JavaScript : 9
  - Text : 5
  - C# : 4
- - GolfScript : 1
  - Rust : 1
  - Fortran : 1
- - Ada : 1
- - FreeBASIC : 1
  - Algol68 : 1
  - Visual Basic : 1
+ - Ada : 1
+ - GolfScript : 1
+ - FreeBASIC : 1
 
 
 baekjoon
@@ -1231,6 +1242,7 @@ baekjoon
       [Kotlin] 엔드게임 스포일러
       [Kotlin] 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018
       [Kotlin] 타노스
+      [Python] 정ㅋ벅ㅋ
       [Python] 정ㅋ벅ㅋ
       [Java] 랜덤게임
       [Text] 0초 후에 제출할 수 있습니다
