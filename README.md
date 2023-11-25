@@ -14,21 +14,10 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-25 12:53:44 <br>
+Last Update : 2023-11-25 19:37:34 <br>
 
 
 ```
-1637 Solved
- - Kotlin : 1124
- - Python : 239
-=======
-Last Update : 2023-11-26 03:34:16 <br>
-
-
-```
-
--- dev env--
-
 1638 Solved
  - Kotlin : 1124
  - Python : 240
