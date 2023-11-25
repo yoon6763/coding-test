@@ -9,8 +9,8 @@ public class 구명보트 {
         int n = people.length;
         int answer = 0;
 
-        var left = 0;
-        var right = n - 1;
+        int left = 0;
+        int right = n - 1;
 
         while (left < right) {
             if (people[left] + people[right] <= limit) {
