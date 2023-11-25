@@ -3,7 +3,6 @@ package readmegenerator.platform
 import readmegenerator.Config
 import readmegenerator.mode.GeneratorModeHelper
 import readmegenerator.platform.data.GroomthonChallengeProblem
-import java.io.File
 
 class GroomthonChallenge : Platform {
     val supportLanguage = Config.supportLanguage
@@ -11,29 +10,20 @@ class GroomthonChallenge : Platform {
     override val platformName: String = "groomthonchallenge"
     private val problems = mutableListOf<GroomthonChallengeProblem>()
 
-    override fun problemAdd(file: File): Boolean {
-        val path = file.path
-        return isValidate(path)
-    }
+    override fun addProblem(path: String) {
+        val splitPath = separatePath(path)
 
-    override fun isValidate(path: String): Boolean {
-        val pathList = path.split(GeneratorModeHelper.getPathSplitter())
-        if (platformName !in path) return false
+        val fileName = splitPath.last()
+        val title = fileName.split(".").first()
+        val extension = fileName.split(".").last()
+        val language = supportLanguage[extension] ?: return
 
-        val extension = pathList.last().split(".").last()
-        if (extension !in supportLanguage) return false
+        val level = splitPath[splitPath.indexOf(platformName) + 1].filter { it.isDigit() }.toIntOrNull() ?: return
 
-        val level = pathList[pathList.indexOf(platformName) + 1].filter { it.isDigit() }.toIntOrNull() ?: return false
-        val language = supportLanguage[extension] ?: return false
-        val title = pathList.last().split(".").first()
-
-        problems.add(GroomthonChallengeProblem(title, level, language))
-        return true
+        problems.add(GroomthonChallengeProblem(title, language, level))
     }
 
     override fun generateReadmeContent(): String {
-        sortProblemList()
-
         val sb = StringBuilder()
         sb.appendLine("Groomthon Challenge")
 

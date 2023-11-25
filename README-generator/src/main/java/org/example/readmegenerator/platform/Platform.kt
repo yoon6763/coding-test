@@ -1,13 +1,17 @@
 package readmegenerator.platform
 
-import java.io.File
+import readmegenerator.mode.GeneratorModeHelper
 
 interface Platform {
+
+    fun separatePath(path: String): List<String> {
+        return path.split(GeneratorModeHelper.getPathSplitter())
+    }
+
     val platformName: String
 
-    fun problemAdd(file: File): Boolean
-    fun isValidate(path: String): Boolean
     fun generateReadmeContent(): String
     fun getProblemInfoList(): List<ProblemInfo>
     fun sortProblemList()
+    fun addProblem(path: String)
 }

@@ -7,39 +7,45 @@ import java.io.File
 
 class Baekjoon : Platform {
 
-    val supportLanguage = Config.supportLanguage
+    /*
+      baekjoon
+      - gold
+          - g1
+              - problem1.kt
+              - problem2.kt
+          - g2
+              - problem3.kt
+
+      - silver
+          - s1
+              - problem4.kt
+          - s2
+              - problem5.kt
+              - problem6.kt
+   */
 
     override val platformName: String = "baekjoon"
+
+    private val supportLanguage = Config.supportLanguage
     private val problems = mutableListOf<BaekjoonProblem>()
     private val tierList = listOf("diamond", "platinum", "gold", "silver", "bronze", "unrated")
 
-    override fun problemAdd(file: File): Boolean {
-        val path = file.path
-        return isValidate(path)
-    }
+    override fun addProblem(path: String) {
+        val splitPath = separatePath(path)
 
-    override fun isValidate(path: String): Boolean {
-        val pathList = path.split(GeneratorModeHelper.getPathSplitter())
-        if (platformName !in path) return false
+        val fileName = splitPath.last()
 
-        val extension = pathList.last().split(".").last()
-        if (extension !in supportLanguage) return false
+        val title = fileName.split(".").first()
+        val extension = fileName.split(".").last()
+        val language = supportLanguage[extension] ?: return
 
-        val tier = pathList[pathList.indexOf(platformName) + 1]
-        if (tier !in tierList) return false
+        val level = splitPath[splitPath.indexOf(platformName) + 2][1].digitToInt()
+        val tier = splitPath[splitPath.indexOf(platformName) + 1]
 
-        val level = pathList[pathList.indexOf(platformName) + 2].filter { it.isDigit() }.toIntOrNull() ?: return false
-
-        val language = supportLanguage[extension] ?: return false
-        val title = pathList.last().split(".").first()
-
-        problems.add(BaekjoonProblem(title, tier, level, language))
-        return true
+        problems.add(BaekjoonProblem(title, language, tier, level))
     }
 
     override fun generateReadmeContent(): String {
-        sortProblemList()
-
         val sb = StringBuilder()
         sb.appendLine(platformName)
 
@@ -58,7 +64,7 @@ class Baekjoon : Platform {
     }
 
     override fun sortProblemList() {
-        val languageCount = mutableMapOf<String, Int>()
+        val languageCount = HashMap<String, Int>()
         val tierPriority = Array(tierList.size) { Pair(tierList[it], it) }.toMap()
 
         problems.forEach {

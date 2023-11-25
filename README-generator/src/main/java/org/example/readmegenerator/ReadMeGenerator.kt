@@ -9,26 +9,41 @@ import java.util.Calendar
 
 class ReadMeGenerator {
 
-    val platformList = Config.supportPlatformList
+    private val platforms = Config.supportPlatformList
 
-    fun generate() {
+    fun generateReadMe() {
         val defaultPath = GeneratorModeHelper.getDefaultPath()
+        val readMeFile = File("$defaultPath/README.md")
 
-        searchSolvedProblems(defaultPath)
-        updateReadMe(defaultPath)
+        val rootDirectory = File(defaultPath)
+
+        rootDirectory.walk().forEach { classifyPlatform(it) }
+        platforms.forEach { it.sortProblemList() }
+
+        val readMeContent = generateReadMeContent(readMeFile)
+
+        readMeFile.writeText(readMeContent)
     }
 
-    fun updateReadMe(defaultPath: String) {
-        val readMe = File("$defaultPath/README.md")
+
+    private fun classifyPlatform(file: File) {
+        val path = file.path.split(GeneratorModeHelper.getPathSplitter())
+
+        val platformNameList = platforms.map { it.platformName }
+        val platformName = path.find { platformNameList.contains(it) } ?: return
+        val platform = platforms.find { it.platformName == platformName } ?: return
+
+        platform.addProblem(file.path)
+    }
+
+    private fun generateReadMeContent(readMe: File): String {
         val content = StringBuilder()
 
         val bufferedReader = readMe.bufferedReader()
         stackInitialContent(bufferedReader, content)
 
-        val now = Calendar.getInstance().apply {
-            add(Calendar.HOUR, 9)
-        }
-        SimpleDateFormat("yyyy-MM-dd HH:mm:ss")
+        val now = Calendar.getInstance().apply { add(Calendar.HOUR, 9) }
+
         content.appendLine("Last Update : ${SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(now.time)} <br>")
 
         content.appendLine()
@@ -37,18 +52,17 @@ class ReadMeGenerator {
 
         stackEachLanguageSize(content)
 
-        platformList.forEach { platform -> content.append(platform.generateReadmeContent()) }
+        platforms.forEach { platform -> content.append(platform.generateReadmeContent()) }
 
         content.appendLine()
         content.appendLine("```")
 
-        println(content.toString())
-        readMe.writeText(content.toString())
+        return content.toString()
     }
 
     private fun stackEachLanguageSize(content: StringBuilder) {
         val problemList = mutableListOf<ProblemInfo>()
-        platformList.forEach { problemList.addAll(it.getProblemInfoList()) }
+        platforms.forEach { problemList.addAll(it.getProblemInfoList()) }
 
         content.appendLine("${problemList.size} Solved")
 
@@ -68,20 +82,4 @@ class ReadMeGenerator {
         }
     }
 
-    private fun searchSolvedProblems(path: String) {
-        val baseFolder = File(path)
-
-        baseFolder.list()?.forEach { path ->
-
-            val file = File("${baseFolder.path}/$path")
-            if (file.isFile) {
-                for (platform in platformList) {
-                    if (platform.problemAdd(file)) break
-                }
-                return@forEach
-            }
-
-            searchSolvedProblems("${baseFolder.path}/$path")
-        }
-    }
 }

@@ -7,34 +7,23 @@ import readmegenerator.platform.data.BaekjoonProblem
 import java.io.File
 
 class CodeUp : Platform {
-
-    val supportLanguage = Config.supportLanguage
-
     override val platformName: String = "codeup"
+
+    private val supportLanguage = Config.supportLanguage
     private val problems = mutableListOf<CodeUpProblem>()
 
-    override fun problemAdd(file: File): Boolean {
-        val path = file.path
-        return isValidate(path)
-    }
+    override fun addProblem(path: String) {
+        val splitPath = separatePath(path)
 
-    override fun isValidate(path: String): Boolean {
-        val pathList = path.split(GeneratorModeHelper.getPathSplitter())
-        if (platformName !in path) return false
-
-        val extension = pathList.last().split(".").last()
-        if (extension !in supportLanguage) return false
-
-        val language = supportLanguage[extension] ?: return false
-        val title = pathList.last().split(".").first()
+        val fileName = splitPath.last()
+        val title = fileName.split(".").first()
+        val extension = fileName.split(".").last()
+        val language = supportLanguage[extension] ?: return
 
         problems.add(CodeUpProblem(title, language))
-        return true
     }
 
     override fun generateReadmeContent(): String {
-        sortProblemList()
-
         val sb = StringBuilder()
         sb.appendLine(platformName)
 
