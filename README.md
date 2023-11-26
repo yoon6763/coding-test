@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-25 19:37:34 <br>
+Last Update : 2023-11-26 14:38:27 <br>
 
 
 ```
-1638 Solved
- - Kotlin : 1124
+1639 Solved
+ - Kotlin : 1125
  - Python : 240
  - Java : 133
  - SQL : 74
@@ -914,6 +914,7 @@ baekjoon
       [Kotlin] 배수 찾기
       [Kotlin] 배수와 약수
       [Kotlin] 백발백준하는 명사수
+      [Kotlin] 베시와 데이지
       [Kotlin] 별 찍기 - 12
       [Kotlin] 별 찍기 - 13
       [Kotlin] 별 찍기 - 15
