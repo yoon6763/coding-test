@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-26 14:38:27 <br>
+Last Update : 2023-11-27 20:53:19 <br>
 
 
 ```
-1639 Solved
- - Kotlin : 1125
+1640 Solved
+ - Kotlin : 1126
  - Python : 240
  - Java : 133
  - SQL : 74
@@ -936,6 +936,7 @@ baekjoon
       [Kotlin] 세 수
       [Kotlin] 세탁소 사장 동혁
       [Kotlin] 소음
+      [Kotlin] 신기한 수
       [Kotlin] 쌍의 합
       [Kotlin] 안녕 클레오파트라 세상에서 제일가는 포테이토칩
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 3
