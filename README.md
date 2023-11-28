@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-27 20:53:19 <br>
+Last Update : 2023-11-28 15:37:44 <br>
 
 
 ```
-1640 Solved
- - Kotlin : 1126
+1641 Solved
+ - Kotlin : 1127
  - Python : 240
  - Java : 133
  - SQL : 74
@@ -54,6 +54,7 @@ baekjoon
       [Kotlin] 열혈강호2
       [Kotlin] 유럽여행
       [Kotlin] 축사 배정
+      [Kotlin] 탈옥
     p5
       [Kotlin] LCA 2
       [Kotlin] Strongly Connected Component
