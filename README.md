@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-28 15:37:44 <br>
+Last Update : 2023-11-29 17:24:44 <br>
 
 
 ```
-1641 Solved
- - Kotlin : 1127
+1642 Solved
+ - Kotlin : 1128
  - Python : 240
  - Java : 133
  - SQL : 74
@@ -608,6 +608,7 @@ baekjoon
       [Kotlin] 謎紛芥索紀 (Small)
       [Kotlin] 거스름돈
       [Kotlin] 교수님 저는 취업할래요
+      [Kotlin] 국회의원 선거
       [Kotlin] 귀걸이
       [Kotlin] 꿀벌
       [Kotlin] 나이순 정렬
