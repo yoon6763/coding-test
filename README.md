@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-11-30 15:12:50 <br>
+Last Update : 2023-12-01 15:17:58 <br>
 
 
 ```
-1643 Solved
- - Kotlin : 1129
+1644 Solved
+ - Kotlin : 1130
  - Python : 240
  - Java : 133
  - SQL : 74
@@ -509,6 +509,7 @@ baekjoon
       [Kotlin] 서로 다른 부분 문자열의 개수
       [Kotlin] 소수 구하기
       [Kotlin] 수강신청
+      [Kotlin] 수리공 항승
       [Kotlin] 수열
       [Kotlin] 숫자 야구
       [Kotlin] 숫자 정사각형
