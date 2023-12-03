@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-02 21:52:23 <br>
+Last Update : 2023-12-03 15:28:58 <br>
 
 
 ```
-1645 Solved
- - Kotlin : 1131
+1647 Solved
+ - Kotlin : 1133
  - Python : 240
  - Java : 133
  - SQL : 74
@@ -506,6 +506,7 @@ baekjoon
       [Kotlin] 베르트랑 공준
       [Kotlin] 블로그
       [Kotlin] 빈도 정렬
+      [Kotlin] 삼각형 만들기
       [Kotlin] 서로 다른 부분 문자열의 개수
       [Kotlin] 소수 구하기
       [Kotlin] 수강신청
@@ -875,6 +876,7 @@ baekjoon
       [Kotlin] HI-ARC
       [Kotlin] JavaScript
       [Kotlin] J박스
+      [Kotlin] Koncert
       [Kotlin] Liczenie punktów
       [Kotlin] Matches
       [Kotlin] Missing Numbers
