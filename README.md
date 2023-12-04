@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-03 15:28:58 <br>
+Last Update : 2023-12-04 14:54:32 <br>
 
 
 ```
-1647 Solved
- - Kotlin : 1133
+1648 Solved
+ - Kotlin : 1134
  - Python : 240
  - Java : 133
  - SQL : 74
@@ -826,6 +826,7 @@ baekjoon
       [Kotlin] 초6 수학
       [Kotlin] 카드 역배치
       [Kotlin] 커트라인
+      [Kotlin] 콘테스트
       [Kotlin] 탄산 음료
       [Kotlin] 트럭 주차
       [Kotlin] 팩토리얼
