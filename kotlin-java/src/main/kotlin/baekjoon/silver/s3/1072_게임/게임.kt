@@ -1,4 +1,4 @@
-package baekjoon.silver.s3
+package baekjoon.silver.s3.`1072_게임`
 
 import kotlin.math.floor
 

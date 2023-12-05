@@ -1,4 +1,4 @@
-package baekjoon.silver.s3.숫자_야구
+package baekjoon.silver.s3.`숫자 야구`
 
 data class Baseball(val num: String, val strike: Int, val ball: Int)
 
