@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-05 17:15:15 <br>
+Last Update : 2023-12-06 19:19:31 <br>
 
 
 ```
-1649 Solved
- - Kotlin : 1135
+1650 Solved
+ - Kotlin : 1136
  - Python : 240
  - Java : 133
  - SQL : 74
@@ -102,6 +102,7 @@ baekjoon
       [Kotlin] 멀티탭 스케줄링
       [Kotlin] 벽 부수고 이동하기 3
       [Kotlin] 복제 로봇
+      [Kotlin] 본대 산책2
       [Kotlin] 부분수열의 합 2
       [Kotlin] 비숍
       [Kotlin] 소수의 곱
