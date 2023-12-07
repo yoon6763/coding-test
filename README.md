@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-06 19:19:31 <br>
+Last Update : 2023-12-07 16:46:58 <br>
 
 
 ```
-1650 Solved
- - Kotlin : 1136
+1651 Solved
+ - Kotlin : 1137
  - Python : 240
  - Java : 133
  - SQL : 74
@@ -1077,6 +1077,7 @@ baekjoon
       [Kotlin] 타임 카드
       [Kotlin] 특별한 날
       [Kotlin] 팀 나누기
+      [Kotlin] 파일 옮기기
       [Kotlin] 평균 점수
       [Kotlin] 한글
       [Kotlin] 히스토그램
