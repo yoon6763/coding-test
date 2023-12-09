@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-08 15:52:57 <br>
+Last Update : 2023-12-09 19:46:35 <br>
 
 
 ```
-1652 Solved
- - Kotlin : 1138
+1654 Solved
+ - Kotlin : 1140
  - Python : 240
  - Java : 133
  - SQL : 74
@@ -877,6 +877,7 @@ baekjoon
       [Kotlin] FBI
       [Kotlin] Gift
       [Kotlin] HI-ARC
+      [Kotlin] IBM 빼기 1
       [Kotlin] JavaScript
       [Kotlin] J박스
       [Kotlin] Koncert
@@ -1023,6 +1024,7 @@ baekjoon
       [Kotlin] Kuber
       [Kotlin] Laptop Sticker
       [Kotlin] Next in line
+      [Kotlin] No Brainer
       [Kotlin] Population
       [Kotlin] Quadrilateral
       [Kotlin] R2
