@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-09 19:46:35 <br>
+Last Update : 2023-12-10 16:55:52 <br>
 
 
 ```
-1654 Solved
- - Kotlin : 1140
+1658 Solved
+ - Kotlin : 1144
  - Python : 240
  - Java : 133
  - SQL : 74
@@ -73,6 +73,7 @@ baekjoon
       [Kotlin] 오아시스 재결합
       [Kotlin] 임계경로
       [Kotlin] 정점들의 거리
+      [Kotlin] 조별과제 멈춰
       [Kotlin] 찾기
       [Kotlin] 최솟값 찾기
       [Kotlin] 카드 게임
@@ -100,6 +101,7 @@ baekjoon
       [Kotlin] 다리 만들기 2
       [Kotlin] 달이 차오른다, 가자
       [Kotlin] 멀티탭 스케줄링
+      [Kotlin] 미네랄
       [Kotlin] 벽 부수고 이동하기 3
       [Kotlin] 복제 로봇
       [Kotlin] 본대 산책2
@@ -260,6 +262,7 @@ baekjoon
       [Kotlin] 사이클 게임
       [Kotlin] 서강그라운드
       [Kotlin] 세부
+      [Kotlin] 소수 경로
       [Kotlin] 수 묶기
       [Kotlin] 숨바꼭질 2
       [Kotlin] 숨바꼭질 4
@@ -725,6 +728,7 @@ baekjoon
       [Kotlin] 애너그램
       [Kotlin] 약수
       [Kotlin] 약수들의 합
+      [Kotlin] 오르막길
       [Kotlin] 이번학기 평점은 몇점
       [Kotlin] 이항 계수 1
       [Kotlin] 일곱 난쟁이
