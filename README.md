@@ -14,14 +14,14 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-10 16:55:52 <br>
+Last Update : 2023-12-11 18:31:45 <br>
 
 
 ```
-1658 Solved
+1659 Solved
  - Kotlin : 1144
  - Python : 240
- - Java : 133
+ - Java : 134
  - SQL : 74
  - C : 23
  - C++ : 10
@@ -539,6 +539,7 @@ baekjoon
       [Kotlin] 회전하는 큐
       [Python] 터렛
       [Java] 시리얼 번호
+      [Java] 풍선 터뜨리기
     s4
       [Kotlin] 2+1 세일
       [Kotlin] 30
