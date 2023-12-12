@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-11 18:31:45 <br>
+Last Update : 2023-12-12 21:53:23 <br>
 
 
 ```
-1659 Solved
- - Kotlin : 1144
+1660 Solved
+ - Kotlin : 1145
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -978,6 +978,7 @@ baekjoon
       [Kotlin] 첨탑 밀어서 부수기
       [Kotlin] 첫 글자를 대문자로
       [Kotlin] 최댓값
+      [Kotlin] 최소, 최대 2
       [Kotlin] 추첨을 통해 커피를 받자
       [Kotlin] 출제비 재분배
       [Kotlin] 카트라이더 드리프트
