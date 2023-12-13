@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-12 21:53:23 <br>
+Last Update : 2023-12-13 18:01:01 <br>
 
 
 ```
-1660 Solved
- - Kotlin : 1145
+1661 Solved
+ - Kotlin : 1146
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -532,6 +532,7 @@ baekjoon
       [Kotlin] 퇴사
       [Kotlin] 파도반 수열
       [Kotlin] 패션왕 신해빈
+      [Kotlin] 팰린드롬 만들기
       [Kotlin] 프린터 큐
       [Kotlin] 피보나치 함수
       [Kotlin] 한국이 그리울 땐 서버에 접속하지
