@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-13 18:01:01 <br>
+Last Update : 2023-12-14 15:53:07 <br>
 
 
 ```
-1661 Solved
- - Kotlin : 1146
+1662 Solved
+ - Kotlin : 1147
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -190,6 +190,7 @@ baekjoon
       [Kotlin] 내리막 길
       [Kotlin] 다리 만들기
       [Kotlin] 두 배열의 합
+      [Kotlin] 드래곤 커브
       [Kotlin] 마법사 상어와 파이어스톰
       [Kotlin] 말이 되고픈 원숭이
       [Kotlin] 무엇을 아느냐가 아니라 누구를 아느냐가 문제다
