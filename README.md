@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-14 15:53:07 <br>
+Last Update : 2023-12-15 20:28:37 <br>
 
 
 ```
-1662 Solved
- - Kotlin : 1147
+1664 Solved
+ - Kotlin : 1149
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -272,6 +272,8 @@ baekjoon
       [Kotlin] 알고스팟
       [Kotlin] 알파벳
       [Kotlin] 여행 가자
+      [Kotlin] 연구소
+      [Kotlin] 연구소 2
       [Kotlin] 오큰수
       [Kotlin] 운동
       [Kotlin] 이분 그래프
@@ -327,7 +329,6 @@ baekjoon
       [Kotlin] 신기한 소수
       [Kotlin] 암호 만들기
       [Kotlin] 암호코드
-      [Kotlin] 연구소
       [Kotlin] 연속합 2
       [Kotlin] 옥상 정원 꾸미기
       [Kotlin] 인구 이동
@@ -946,6 +947,7 @@ baekjoon
       [Kotlin] 별 찍기 - 9
       [Kotlin] 부호
       [Kotlin] 빅데이터 정보보호
+      [Kotlin] 사과
       [Kotlin] 사분면
       [Kotlin] 삼각형과 세 변
       [Kotlin] 선린인터넷고등학교 교가
