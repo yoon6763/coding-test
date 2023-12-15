@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-15 20:28:37 <br>
+Last Update : 2023-12-15 22:18:50 <br>
 
 
 ```
-1664 Solved
- - Kotlin : 1149
+1665 Solved
+ - Kotlin : 1150
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -52,6 +52,7 @@ baekjoon
       [Kotlin] 불 끄기
       [Kotlin] 열혈강호
       [Kotlin] 열혈강호2
+      [Kotlin] 영화 수집
       [Kotlin] 유럽여행
       [Kotlin] 축사 배정
       [Kotlin] 탈옥
