@@ -1,4 +1,4 @@
-package baekjoon.gold.g5.연구소
+package baekjoon.gold.g4.연구소
 
 import java.io.BufferedReader
 import java.io.InputStreamReader

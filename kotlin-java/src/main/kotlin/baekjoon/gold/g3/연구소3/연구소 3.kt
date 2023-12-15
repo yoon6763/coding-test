@@ -42,12 +42,12 @@ fun main() = with(System.`in`.bufferedReader()) {
         return
     }
 
-    backTracking(0, 0)
+    makeCombine(0, 0)
     println(if (minTime == Int.MAX_VALUE) -1 else minTime)
 }
 
 
-fun backTracking(idx: Int, cnt: Int) {
+fun makeCombine(idx: Int, cnt: Int) {
     if (cnt == m) {
         // bfs 로 바이러스 퍼트리기
         spreadVirus()
@@ -56,7 +56,7 @@ fun backTracking(idx: Int, cnt: Int) {
 
     for (i in idx until virusPoints.size) {
         selectedVirus[cnt] = virusPoints[i]
-        backTracking(i + 1, cnt + 1)
+        makeCombine(i + 1, cnt + 1)
     }
 }
 
