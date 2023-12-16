@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-15 22:18:50 <br>
+Last Update : 2023-12-16 16:15:10 <br>
 
 
 ```
-1665 Solved
- - Kotlin : 1150
+1667 Solved
+ - Kotlin : 1152
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -796,6 +796,7 @@ baekjoon
       [Kotlin] 그릇
       [Kotlin] 나는 친구가 적다 (Large)
       [Kotlin] 나의 학점은
+      [Kotlin] 너의 이름은 몇 점이니
       [Kotlin] 농구 경기
       [Kotlin] 닉네임에 갓 붙이기
       [Kotlin] 단어순서 뒤집기
@@ -825,6 +826,7 @@ baekjoon
       [Kotlin] 완전제곱수
       [Kotlin] 운동
       [Kotlin] 유학 금지
+      [Kotlin] 이상한 곱셈
       [Kotlin] 인생 점수
       [Kotlin] 저항
       [Kotlin] 정수의 개수
