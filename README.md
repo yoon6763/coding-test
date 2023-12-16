@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-16 16:15:10 <br>
+Last Update : 2023-12-16 16:35:10 <br>
 
 
 ```
-1667 Solved
- - Kotlin : 1152
+1668 Solved
+ - Kotlin : 1153
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -583,6 +583,7 @@ baekjoon
       [Kotlin] 순서쌍의 곱의 합
       [Kotlin] 숫자 카드 2
       [Kotlin] 스택
+      [Kotlin] 알바생 강호
       [Kotlin] 암호 해독
       [Kotlin] 에라토스테네스의 체
       [Kotlin] 온라인 판매
