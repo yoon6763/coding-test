@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-17 19:58:34 <br>
+Last Update : 2023-12-17 20:35:01 <br>
 
 
 ```
-1669 Solved
- - Kotlin : 1154
+1670 Solved
+ - Kotlin : 1155
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -291,6 +291,7 @@ baekjoon
       [Kotlin] 키 순서
       [Kotlin] 타일 채우기
       [Kotlin] 타임머신
+      [Kotlin] 탈출
       [Kotlin] 트리의 지름
       [Kotlin] 트리의 지름
       [Kotlin] 특정한 최단 경로
