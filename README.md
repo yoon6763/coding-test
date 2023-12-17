@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-16 16:35:10 <br>
+Last Update : 2023-12-17 19:58:34 <br>
 
 
 ```
-1668 Solved
- - Kotlin : 1153
+1669 Solved
+ - Kotlin : 1154
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -232,6 +232,7 @@ baekjoon
       [Kotlin] DSLR
       [Kotlin] LCS 2
       [Kotlin] N-Queen
+      [Kotlin] Puyo Puyo
       [Kotlin] RGB거리 2
       [Kotlin] Σ
       [Kotlin] ⚾
