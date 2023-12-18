@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-18 13:44:21 <br>
+Last Update : 2023-12-18 15:51:41 <br>
 
 
 ```
-1671 Solved
- - Kotlin : 1156
+1676 Solved
+ - Kotlin : 1161
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -894,6 +894,7 @@ baekjoon
       [Kotlin] HI-ARC
       [Kotlin] IBM 빼기 1
       [Kotlin] JavaScript
+      [Kotlin] Jazz Enthusiast
       [Kotlin] J박스
       [Kotlin] Koncert
       [Kotlin] Liczenie punktów
@@ -953,10 +954,12 @@ baekjoon
       [Kotlin] 별 찍기 - 8
       [Kotlin] 별 찍기 - 9
       [Kotlin] 부호
+      [Kotlin] 빅데이터 vs 정보보호 vs 인공지능
       [Kotlin] 빅데이터 정보보호
       [Kotlin] 사과
       [Kotlin] 사분면
       [Kotlin] 삼각형과 세 변
+      [Kotlin] 서울사이버대학을 다니고
       [Kotlin] 선린인터넷고등학교 교가
       [Kotlin] 성장의 비약 선택권
       [Kotlin] 세 수
@@ -975,12 +978,14 @@ baekjoon
       [Kotlin] 영수증
       [Kotlin] 오븐 시계
       [Kotlin] 완전 세제곱
+      [Kotlin] 유치원생 파댕이 돌보기
       [Kotlin] 윷놀이
       [Kotlin] 이 문제는 D2 입니다
       [Kotlin] 이진수
       [Kotlin] 저작권
       [Kotlin] 주사위
       [Kotlin] 주사위 게임
+      [Kotlin] 중앙 이동 알고리즘
       [Kotlin] 지능형 기차
       [Kotlin] 지능형 기차 2
       [Kotlin] 집 주소
