@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-17 20:35:01 <br>
+Last Update : 2023-12-18 13:44:21 <br>
 
 
 ```
-1670 Solved
- - Kotlin : 1155
+1671 Solved
+ - Kotlin : 1156
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -287,6 +287,7 @@ baekjoon
       [Kotlin] 최단경로
       [Kotlin] 최소 스패닝 트리
       [Kotlin] 치즈
+      [Kotlin] 친구비
       [Kotlin] 카드 정렬하기
       [Kotlin] 키 순서
       [Kotlin] 타일 채우기
