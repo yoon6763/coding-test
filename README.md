@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-18 15:51:41 <br>
+Last Update : 2023-12-19 17:19:15 <br>
 
 
 ```
-1676 Solved
- - Kotlin : 1161
+1679 Solved
+ - Kotlin : 1164
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -738,6 +738,7 @@ baekjoon
       [Kotlin] 약수
       [Kotlin] 약수들의 합
       [Kotlin] 오르막길
+      [Kotlin] 유니대전 퀴즈쇼
       [Kotlin] 이번학기 평점은 몇점
       [Kotlin] 이항 계수 1
       [Kotlin] 일곱 난쟁이
@@ -965,6 +966,7 @@ baekjoon
       [Kotlin] 세 수
       [Kotlin] 세탁소 사장 동혁
       [Kotlin] 소음
+      [Kotlin] 수도요금
       [Kotlin] 신기한 수
       [Kotlin] 쌍의 합
       [Kotlin] 안녕 클레오파트라 세상에서 제일가는 포테이토칩
@@ -1094,6 +1096,7 @@ baekjoon
       [Kotlin] 입실 관리
       [Kotlin] 자동완성
       [Kotlin] 전자레인지
+      [Kotlin] 전자레인지14470
       [Kotlin] 주사위 세개
       [Kotlin] 줄번호
       [Kotlin] 치킨 두 마리
