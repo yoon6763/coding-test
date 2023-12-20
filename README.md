@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-19 17:19:15 <br>
+Last Update : 2023-12-20 14:09:00 <br>
 
 
 ```
-1679 Solved
- - Kotlin : 1164
+1681 Solved
+ - Kotlin : 1166
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -459,6 +459,7 @@ baekjoon
       [Kotlin] 외판원 순회 2
       [Kotlin] 유기농 배추
       [Kotlin] 이동하기
+      [Kotlin] 이항 계수 2
       [Kotlin] 잃어버린 괄호
       [Kotlin] 점프 점프
       [Kotlin] 점프 점프
@@ -1190,6 +1191,7 @@ baekjoon
       [Kotlin] 오늘의 날짜는
       [Kotlin] 와이버스 부릉부릉
       [Kotlin] 웰컴
+      [Kotlin] 이 별은 무슨 색일까
       [Kotlin] 이상한 기호
       [Kotlin] 정보섬의 대중교통
       [Kotlin] 제리와 톰
