@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-20 14:09:00 <br>
+Last Update : 2023-12-21 13:37:48 <br>
 
 
 ```
-1681 Solved
- - Kotlin : 1166
+1682 Solved
+ - Kotlin : 1167
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -836,6 +836,7 @@ baekjoon
       [Kotlin] 인생 점수
       [Kotlin] 저항
       [Kotlin] 정수의 개수
+      [Kotlin] 좋은 자동차 번호판
       [Kotlin] 줄임말 만들기
       [Kotlin] 중복을 없애자
       [Kotlin] 지우개
