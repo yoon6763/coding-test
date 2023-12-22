@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-21 13:37:48 <br>
+Last Update : 2023-12-22 18:03:42 <br>
 
 
 ```
-1682 Solved
- - Kotlin : 1167
+1683 Solved
+ - Kotlin : 1168
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -940,6 +940,7 @@ baekjoon
       [Kotlin] 등장하지 않는 문자의 합
       [Kotlin] 디지털 루트
       [Kotlin] 모음의 개수
+      [Kotlin] 미국 스타일
       [Kotlin] 배수 찾기
       [Kotlin] 배수와 약수
       [Kotlin] 백발백준하는 명사수
