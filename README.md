@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-22 18:03:42 <br>
+Last Update : 2023-12-23 13:47:47 <br>
 
 
 ```
-1683 Solved
- - Kotlin : 1168
+1686 Solved
+ - Kotlin : 1171
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -830,6 +830,7 @@ baekjoon
       [Kotlin] 오르막
       [Kotlin] 오타맨 고창영
       [Kotlin] 완전제곱수
+      [Kotlin] 욱제는 효도쟁이야
       [Kotlin] 운동
       [Kotlin] 유학 금지
       [Kotlin] 이상한 곱셈
@@ -988,6 +989,8 @@ baekjoon
       [Kotlin] 이 문제는 D2 입니다
       [Kotlin] 이진수
       [Kotlin] 저작권
+      [Kotlin] 점수계산
+      [Kotlin] 조교는 새디스트야
       [Kotlin] 주사위
       [Kotlin] 주사위 게임
       [Kotlin] 중앙 이동 알고리즘
