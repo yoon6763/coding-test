@@ -1,5 +1,6 @@
-package baekjoon.platinum.p4.열혈강호2
+package baekjoon.platinum.p3.`열혈강호 3`
 
+import java.util.ArrayList
 import java.util.StringTokenizer
 
 lateinit var connected: Array<ArrayList<Int>>
@@ -7,7 +8,7 @@ lateinit var visited: BooleanArray
 lateinit var d: IntArray
 
 fun main() = with(System.`in`.bufferedReader()) {
-    val (n, m) = readLine().split(" ").map { it.toInt() }
+    var (n, m, k) = readLine().split(" ").map { it.toInt() }
 
     connected = Array(n + 1) { ArrayList<Int>() }
     visited = BooleanArray(m + 1)
@@ -24,8 +25,15 @@ fun main() = with(System.`in`.bufferedReader()) {
     for (i in 1..n) {
         visited.fill(false)
         if (dfs(i)) count++
+    }
+
+    for (i in 1..n) {
+        if (k == 0) break
         visited.fill(false)
-        if (dfs(i)) count++
+        if (dfs(i)) {
+            count++
+            k--
+        }
     }
 
     println(count)
@@ -41,7 +49,6 @@ fun dfs(cur: Int): Boolean {
             return true
         }
     }
-
 
     return false
 }
