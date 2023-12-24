@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-24 15:28:56 <br>
+Last Update : 2023-12-24 21:55:52 <br>
 
 
 ```
-1687 Solved
- - Kotlin : 1172
+1688 Solved
+ - Kotlin : 1173
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -45,13 +45,14 @@ baekjoon
     p3
       [Kotlin] 교수님은 기다리지 않는다
       [Kotlin] 레드 블루 스패닝 트리
+      [Kotlin] 열혈강호 3
     p4
       [Kotlin] K번째 최단경로 찾기
       [Kotlin] 노트북의 주인을 찾아서
       [Kotlin] 문명
       [Kotlin] 불 끄기
       [Kotlin] 열혈강호
-      [Kotlin] 열혈강호2
+      [Kotlin] 열혈강호 2
       [Kotlin] 영화 수집
       [Kotlin] 유럽여행
       [Kotlin] 축사 배정
