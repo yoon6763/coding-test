@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-23 13:47:47 <br>
+Last Update : 2023-12-24 15:28:56 <br>
 
 
 ```
-1686 Solved
- - Kotlin : 1171
+1687 Solved
+ - Kotlin : 1172
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -913,6 +913,7 @@ baekjoon
       [Kotlin] 거울, 오! 거울
       [Kotlin] 계산기 프로그램
       [Kotlin] 고급 수학
+      [Kotlin] 고려대학교에는 공식 와인이 있다
       [Kotlin] 골뱅이 찍기 - ㄴ
       [Kotlin] 골뱅이 찍기 - ㄷ
       [Kotlin] 골뱅이 찍기 - ㅁ
