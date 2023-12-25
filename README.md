@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-24 21:55:52 <br>
+Last Update : 2023-12-25 17:04:23 <br>
 
 
 ```
-1688 Solved
- - Kotlin : 1173
+1689 Solved
+ - Kotlin : 1174
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -910,6 +910,7 @@ baekjoon
       [Kotlin] Viva la Diferencia
       [Kotlin] Word Searching
       [Kotlin] ZOAC 5
+      [Kotlin] 가뭄(Small)
       [Kotlin] 개표
       [Kotlin] 거울, 오! 거울
       [Kotlin] 계산기 프로그램
