@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-26 17:31:34 <br>
+Last Update : 2023-12-27 00:13:33 <br>
 
 
 ```
-1690 Solved
- - Kotlin : 1175
+1691 Solved
+ - Kotlin : 1176
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -321,6 +321,7 @@ baekjoon
       [Kotlin] 두 용액
       [Kotlin] 로봇 청소기
       [Kotlin] 리모컨
+      [Kotlin] 마법사 상어와 비바라기
       [Kotlin] 물통
       [Kotlin] 백도어
       [Kotlin] 뱀과 사다리 게임
