@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-27 00:13:33 <br>
+Last Update : 2023-12-27 12:22:32 <br>
 
 
 ```
-1691 Solved
- - Kotlin : 1176
+1692 Solved
+ - Kotlin : 1177
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -993,6 +993,7 @@ baekjoon
       [Kotlin] 이 문제는 D2 입니다
       [Kotlin] 이진수
       [Kotlin] 저작권
+      [Kotlin] 전투 드로이드 가격
       [Kotlin] 점수계산
       [Kotlin] 조교는 새디스트야
       [Kotlin] 주사위
