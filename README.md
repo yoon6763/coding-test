@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-28 14:19:17 <br>
+Last Update : 2023-12-28 15:03:27 <br>
 
 
 ```
-1693 Solved
- - Kotlin : 1178
+1694 Solved
+ - Kotlin : 1179
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -365,6 +365,7 @@ baekjoon
       [Kotlin] Knight Moves
       [Kotlin] RGB거리
       [Kotlin] Red and Black
+      [Kotlin] Small World Network
       [Kotlin] Z
       [Kotlin] 가장 가까운 세 사람의 심리적 거리
       [Kotlin] 경로 찾기
