@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-29 15:47:49 <br>
+Last Update : 2023-12-29 17:39:28 <br>
 
 
 ```
-1698 Solved
- - Kotlin : 1183
+1701 Solved
+ - Kotlin : 1186
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -594,6 +594,7 @@ baekjoon
       [Kotlin] 순서쌍의 곱의 합
       [Kotlin] 숫자 카드 2
       [Kotlin] 스택
+      [Kotlin] 악마 게임
       [Kotlin] 알바생 강호
       [Kotlin] 암호 해독
       [Kotlin] 에라토스테네스의 체
@@ -1001,6 +1002,7 @@ baekjoon
       [Kotlin] 저작권
       [Kotlin] 전투 드로이드 가격
       [Kotlin] 점수계산
+      [Kotlin] 정육각형과 삼각형
       [Kotlin] 조교는 새디스트야
       [Kotlin] 주사위
       [Kotlin] 주사위 게임
@@ -1049,6 +1051,7 @@ baekjoon
       [Kotlin] Atrium
       [Kotlin] Big Number
       [Kotlin] CASIO
+      [Kotlin] Covid-19
       [Kotlin] Darius님 한타 안 함
       [Kotlin] Dedupe
       [Kotlin] Equality
