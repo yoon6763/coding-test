@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-28 15:03:27 <br>
+Last Update : 2023-12-29 15:47:49 <br>
 
 
 ```
-1694 Solved
- - Kotlin : 1179
+1698 Solved
+ - Kotlin : 1183
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -45,6 +45,7 @@ baekjoon
     p3
       [Kotlin] 교수님은 기다리지 않는다
       [Kotlin] 레드 블루 스패닝 트리
+      [Kotlin] 상어의 저녁식사
       [Kotlin] 열혈강호 3
     p4
       [Kotlin] K번째 최단경로 찾기
@@ -350,6 +351,7 @@ baekjoon
       [Kotlin] 토마토
       [Kotlin] 토마토
       [Kotlin] 톱니바퀴
+      [Kotlin] 트리
       [Kotlin] 파이프 옮기기 1
       [Kotlin] 평범한 배낭
       [Kotlin] 행렬 덧셈
@@ -387,6 +389,7 @@ baekjoon
       [Kotlin] 쉬운 최단거리
       [Kotlin] 스티커
       [Kotlin] 안전 영역
+      [Kotlin] 양
       [Kotlin] 연산자 끼워넣기
       [Kotlin] 영역 구하기
       [Kotlin] 오르막 수
@@ -714,6 +717,7 @@ baekjoon
       [Kotlin] 2진수 8진수
       [Kotlin] A divide B - 2
       [Kotlin] MINESWEEPER
+      [Kotlin] N-퍼즐
       [Kotlin] N번째 큰 수
       [Kotlin] ROT13
       [Kotlin] Starman
