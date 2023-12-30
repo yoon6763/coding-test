@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-29 17:39:28 <br>
+Last Update : 2023-12-30 13:44:25 <br>
 
 
 ```
-1701 Solved
- - Kotlin : 1186
+1702 Solved
+ - Kotlin : 1187
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -1105,6 +1105,7 @@ baekjoon
       [Kotlin] 상근이의 친구들
       [Kotlin] 세수정렬
       [Kotlin] 수찬은 마린보이야!!
+      [Kotlin] 수학은 체육과목 입니다 2
       [Kotlin] 스타워즈 로고
       [Kotlin] 시험 점수
       [Kotlin] 심부름 가는 길
