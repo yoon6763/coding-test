@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-30 13:44:25 <br>
+Last Update : 2023-12-31 22:58:59 <br>
 
 
 ```
-1702 Solved
- - Kotlin : 1187
+1703 Solved
+ - Kotlin : 1188
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -1164,6 +1164,7 @@ baekjoon
       [Kotlin] NFC West vs North
       [Kotlin] Plane
       [Kotlin] Pyramids
+      [Kotlin] Rats
       [Kotlin] Rook
       [Kotlin] SciComLove
       [Kotlin] Serca
