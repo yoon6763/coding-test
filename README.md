@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2023-12-31 22:58:59 <br>
+Last Update : 2024-01-01 13:26:31 <br>
 
 
 ```
-1703 Solved
- - Kotlin : 1188
+1704 Solved
+ - Kotlin : 1189
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -1007,6 +1007,7 @@ baekjoon
       [Kotlin] 주사위
       [Kotlin] 주사위 게임
       [Kotlin] 중앙 이동 알고리즘
+      [Kotlin] 지각
       [Kotlin] 지능형 기차
       [Kotlin] 지능형 기차 2
       [Kotlin] 집 주소
