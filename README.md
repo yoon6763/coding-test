@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-02 17:39:45 <br>
+Last Update : 2024-01-02 18:57:18 <br>
 
 
 ```
-1705 Solved
+1710 Solved
  - Kotlin : 1190
- - Python : 240
+ - Python : 245
  - Java : 134
  - SQL : 74
  - C : 23
@@ -1357,6 +1357,7 @@ programmers
 
   Level 2
     [Python] N개의 최소공배수
+    [Python] 가장큰수
     [Python] 기능개발
     [Python] 문자열 압축
     [Python] 삼각 달팽이
@@ -1434,7 +1435,10 @@ programmers
     [Python] 약수의 개수와 덧셈
     [Python] 예산
     [Python] 음양 더하기
+    [Python] 자연수 뒤집어 배열로 만들기
+    [Python] 정수 내림차순으로 배치하기
     [Python] 체육복
+    [Python] 크기가 작은 부분문자열
     [Python] 크레인 인형뽑기 게임
     [Python] 키패드 누르기
     [Python] 폰켓몬
@@ -1526,6 +1530,7 @@ programmers
     [Python] 7의 개수
     [Python] 9로 나눈 나머지
     [Python] A 강조하기
+    [Python] A로 B만들기
     [Python] OX퀴즈
     [Python] l로 만들기
     [Python] n 번째 원소까지
