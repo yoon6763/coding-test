@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-01 13:26:31 <br>
+Last Update : 2024-01-02 17:39:45 <br>
 
 
 ```
-1704 Solved
- - Kotlin : 1189
+1705 Solved
+ - Kotlin : 1190
  - Python : 240
  - Java : 134
  - SQL : 74
@@ -1207,6 +1207,7 @@ baekjoon
       [Kotlin] 새싹
       [Kotlin] 성택이의 은밀한 비밀번호
       [Kotlin] 세금
+      [Kotlin] 세제곱의 합
       [Kotlin] 아!
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행
       [Kotlin] 영수증
