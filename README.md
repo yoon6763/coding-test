@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-03 13:23:07 <br>
+Last Update : 2024-01-03 17:08:38 <br>
 
 
 ```
-1711 Solved
+1714 Solved
  - Kotlin : 1191
- - Python : 245
+ - Python : 248
  - Java : 134
  - SQL : 74
  - C : 23
@@ -1358,6 +1358,7 @@ programmers
 
   Level 2
     [Python] N개의 최소공배수
+    [Python] [PCCP 모의고사 #1] 2번 - 체육대회
     [Python] 가장큰수
     [Python] 기능개발
     [Python] 문자열 압축
@@ -1428,11 +1429,13 @@ programmers
     [Java] 최솟값_만들기
 
   Level 1
+    [Python] [PCCP 모의고사 #1] 1번 - 외톨이 알파벳
     [Python] 다트 게임
     [Python] 로또의 최고 순위와 최저 순위
     [Python] 문자열 내 마음대로 정렿하기
     [Python] 소수 만들기
     [Python] 소수 찾기
+    [Python] 신고 결과 받기
     [Python] 약수의 개수와 덧셈
     [Python] 예산
     [Python] 음양 더하기
