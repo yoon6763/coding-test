@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-02 18:57:18 <br>
+Last Update : 2024-01-03 13:23:07 <br>
 
 
 ```
-1710 Solved
- - Kotlin : 1190
+1711 Solved
+ - Kotlin : 1191
  - Python : 245
  - Java : 134
  - SQL : 74
@@ -1075,6 +1075,7 @@ baekjoon
       [Kotlin] R2
       [Kotlin] SASA 모형을 만들어보자
       [Kotlin] Simple Sum
+      [Kotlin] Squares
       [Kotlin] Tri-du
       [Kotlin] Triangles
       [Kotlin] Zagubiona litera
