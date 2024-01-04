@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-03 17:08:38 <br>
+Last Update : 2024-01-04 16:40:03 <br>
 
 
 ```
-1714 Solved
- - Kotlin : 1191
- - Python : 248
+1719 Solved
+ - Kotlin : 1192
+ - Python : 252
  - Java : 134
  - SQL : 74
  - C : 23
@@ -231,6 +231,7 @@ baekjoon
       [Kotlin] 할로윈의 양아치
       [Kotlin] 행렬 곱셈 순서
     g4
+      [Kotlin] Count Circle Groups
       [Kotlin] DSLR
       [Kotlin] LCS 2
       [Kotlin] N-Queen
@@ -1325,6 +1326,8 @@ programmers
     [SQL] 취소되지 않은 진료 예약 조회하기
 
   Level 3
+    [Python] [카카오 인턴] 보석 쇼핑
+    [Python] 여행경로
     [Kotlin] 가장 먼 노드
     [Kotlin] 금과 은 운반하기
     [Kotlin] 네트워크
@@ -1374,6 +1377,7 @@ programmers
     [Python] 짝지어 제거하기
     [Python] 최댓값과 최솟값
     [Python] 쿼드압축 후 개수 세기
+    [Python] 큰 수 만들기
     [Python] 튜플
     [Kotlin] JadenCase 문자열 만들기
     [Kotlin] n^2 배열 자르기
@@ -1438,6 +1442,7 @@ programmers
     [Python] 신고 결과 받기
     [Python] 약수의 개수와 덧셈
     [Python] 예산
+    [Python] 완주하지 못한 선수
     [Python] 음양 더하기
     [Python] 자연수 뒤집어 배열로 만들기
     [Python] 정수 내림차순으로 배치하기
