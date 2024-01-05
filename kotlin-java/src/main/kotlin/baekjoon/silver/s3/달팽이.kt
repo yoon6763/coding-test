@@ -1,94 +1,47 @@
 package baekjoon.silver.s3
 
-import java.io.BufferedWriter
-import java.io.OutputStreamWriter
 
-fun main() {
-    val line = readLine()!!.toInt()
-    val target = readLine()!!.toInt()
+fun main() = with(System.`in`.bufferedReader()) {
+    val n = readLine().toInt()
+    val target = readLine().toInt()
+    val map = Array(n) { Array(n) { 0 } }
+    val dx = intArrayOf(1, 0, -1, 0)
+    val dy = intArrayOf(0, 1, 0, -1)
+    var dir = 0
+    var (ansX, ansY) = listOf(0, 0)
 
-    var arr = Array<Array<Int>>(line) { Array<Int>(line) { 0 } }
-
-    var cnt = line * line
-    var flag = 0
-    var cal = 0
-    var row = 0
-    var deep = 0
-    var target1 = 0
-    var target2 = 0
+    var cnt = n * n
+    var (x, y) = listOf(0, 0)
 
     while (cnt > 0) {
-        when (flag) {
-            0 -> {
-                for (i in 0 until line - deep) {
-                    if (cnt == target) {
-                        target1 = row + 1
-                        target2 = cal + 1
-                    }
-                    arr[row][cal] = cnt
-                    cnt--
-                    row++
-                }
-                row--
-                cal++
-                deep++
-            }
-            1 -> {
-                for (i in 0 until line - deep) {
-                    if (cnt == target) {
-                        target1 = row + 1
-                        target2 = cal + 1
-                    }
-                    arr[row][cal] = cnt
-                    cnt--
-                    cal++
-                }
-                cal--
-                row--
-            }
-            2 -> {
-                for (i in 0 until line - deep) {
-                    if (cnt == target) {
-                        target1 = row + 1
-                        target2 = cal + 1
-                    }
-                    arr[row][cal] = cnt
-                    cnt--
-                    row--
-                }
-                row++
-                cal--
-                deep++
-            }
-            3 -> {
-                for (i in 0 until line - deep) {
-                    if (cnt == target) {
-                        target1 = row + 1
-                        target2 = cal + 1
-                    }
-                    arr[row][cal] = cnt
-                    cnt--
-                    cal--
-                }
-                cal++
-                row++
-            }
+        map[x][y] = cnt
+        cnt--
+
+        val nx = x + dx[dir]
+        val ny = y + dy[dir]
+
+        if (nx in 0..<n && ny in 0..<n && map[nx][ny] == 0) {
+            x = nx
+            y = ny
+        } else {
+            dir = (dir + 1) % 4
+            x += dx[dir]
+            y += dy[dir]
         }
 
-        flag++
-        if (flag > 3) {
-            flag = 0
+        if (target == cnt) {
+            ansX = x
+            ansY = y
         }
     }
-    val bw = BufferedWriter(OutputStreamWriter(System.out))
 
-    for (i in 0 until line) {
-        for (j in 0 until line) {
-            bw.write(arr[i][j].toString() + " ")
+    val sb = StringBuilder()
+    repeat(n) { i ->
+        repeat(n) { j ->
+            sb.append(map[i][j]).append(" ")
         }
-        bw.write("\n")
+        sb.appendLine()
     }
-
-    bw.write(target1.toString() + " " + target2)
-    bw.close()
+    print(sb)
+    print("${ansX + 1} ${ansY + 1}")
 }

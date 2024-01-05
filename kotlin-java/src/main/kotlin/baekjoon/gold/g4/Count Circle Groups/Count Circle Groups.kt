@@ -27,8 +27,8 @@ fun main() = with(System.`in`.bufferedReader()) {
         }
 
         val parentSet = HashSet<Int>()
-        for (i in 0..<n) {
-            parentSet.add(find(i))
+        repeat(n) {
+            parentSet.add(find(it))
         }
 
         sb.appendLine(parentSet.size)

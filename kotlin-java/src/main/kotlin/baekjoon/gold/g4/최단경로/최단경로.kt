@@ -1,65 +1,49 @@
 package baekjoon.gold.g4.최단경로
 
-import java.io.BufferedReader
-import java.io.InputStreamReader
 import java.util.PriorityQueue
+import java.util.StringTokenizer
 
-data class Node(var vertex: Int, var weight: Int) : Comparable<Node> {
-    override fun compareTo(other: Node): Int {
-        return weight - other.weight
-    }
-}
+data class Edge(val to: Int, val cost: Int)
 
-var v = 0
-var e = 0
-lateinit var con: Array<ArrayList<Node>>
-lateinit var dis: Array<Int>
+fun main() = with(System.`in`.bufferedReader()) {
+    val (v, e) = readLine().split(" ").map { it.toInt() }
+    val start = readLine().toInt()
 
-fun main() {
-    val br = BufferedReader(InputStreamReader(System.`in`))
-
-    val ve = br.readLine().split(" ")
-    v = ve[0].toInt()
-    e = ve[1].toInt()
-
-    val startNode = br.readLine().toInt()
-
-    con = Array(v + 1) { ArrayList() }
-    dis = Array(v + 1) { Int.MAX_VALUE }
-    dis[startNode] = 0
-
-    for (i in 0 until e) {
-        val uvw = br.readLine().split(" ")
-        val u = uvw[0].toInt()
-        val v = uvw[1].toInt()
-        val w = uvw[2].toInt()
-        con[u].add(Node(v, w))
+    val graph = Array(v + 1) { ArrayList<Edge>() }
+    repeat(e) {
+        val st = StringTokenizer(readLine())
+        val (v1, v2, cost) = List(3) { st.nextToken().toInt() }
+        graph[v1].add(Edge(v2, cost))
     }
 
-    dijkstra(startNode)
-
+    val distance = dijkstra(v, start, graph)
+    val sb = StringBuilder()
     for (i in 1..v) {
-        println(if (dis[i] == Int.MAX_VALUE) "INF" else dis[i])
+        sb.appendLine(if (distance[i] == 987654321) "INF" else distance[i])
     }
+    print(sb)
 }
 
-fun dijkstra(startNode: Int) {
-    val pq = PriorityQueue<Node>()
-    pq.offer(Node(startNode, 0))
+fun dijkstra(v: Int, start: Int, graph: Array<ArrayList<Edge>>): IntArray {
+    val pq = PriorityQueue<Edge>(compareBy { it.cost })
+    val distance = IntArray(v + 1) { 987654321 }
+    distance[start] = 0
+    pq.offer(Edge(start, 0))
 
     while (pq.isNotEmpty()) {
-        val target = pq.poll()
+        val cur = pq.poll()
 
-        if (dis[target.vertex] < target.weight) continue
+        if (cur.cost > distance[cur.to]) continue
 
-        for (i in 0 until con[target.vertex].size) {
-            val target2 = con[target.vertex][i]
-            val nWeight = target.weight + target2.weight
+        graph[cur.to].forEach { next ->
+            val nCost = distance[cur.to] + next.cost
 
-            if (dis[target2.vertex] > nWeight) {
-                dis[target2.vertex] = nWeight
-                pq.offer(Node(target2.vertex, nWeight))
+            if (nCost < distance[next.to]) {
+                distance[next.to] = nCost
+                pq.offer(Edge(next.to, nCost))
             }
         }
     }
+
+    return distance
 }
