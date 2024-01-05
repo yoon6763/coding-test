@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-05 12:35:40 <br>
+Last Update : 2024-01-05 15:09:51 <br>
 
 
 ```
-1728 Solved
- - Kotlin : 1192
+1736 Solved
+ - Kotlin : 1200
  - Python : 258
  - Java : 137
  - SQL : 74
@@ -907,6 +907,7 @@ baekjoon
       [Kotlin] Culture shock
       [Kotlin] Extreme Temperatures
       [Kotlin] FBI
+      [Kotlin] Fan Death
       [Kotlin] Gift
       [Kotlin] HI-ARC
       [Kotlin] IBM 빼기 1
@@ -920,8 +921,10 @@ baekjoon
       [Kotlin] RICE SACK
       [Kotlin] TGN
       [Kotlin] Viva la Diferencia
+      [Kotlin] Vowel Count
       [Kotlin] Word Searching
       [Kotlin] ZOAC 5
+      [Kotlin] Zegarek
       [Kotlin] 가뭄(Small)
       [Kotlin] 개표
       [Kotlin] 거울, 오! 거울
@@ -948,6 +951,7 @@ baekjoon
       [Kotlin] 남욱이의 닭장
       [Kotlin] 내 학점을 구해줘
       [Kotlin] 네 수
+      [Kotlin] 노솔브 방지문제야!!
       [Kotlin] 다음수
       [Kotlin] 대지
       [Kotlin] 대회 or 인턴
@@ -982,6 +986,7 @@ baekjoon
       [Kotlin] 서울사이버대학을 다니고
       [Kotlin] 선린인터넷고등학교 교가
       [Kotlin] 성장의 비약 선택권
+      [Kotlin] 세 막대
       [Kotlin] 세 수
       [Kotlin] 세탁소 사장 동혁
       [Kotlin] 소음
@@ -1010,6 +1015,8 @@ baekjoon
       [Kotlin] 조교는 새디스트야
       [Kotlin] 주사위
       [Kotlin] 주사위 게임
+      [Kotlin] 줄 세기
+      [Kotlin] 중간계 전쟁
       [Kotlin] 중앙 이동 알고리즘
       [Kotlin] 지각
       [Kotlin] 지능형 기차
@@ -1084,6 +1091,7 @@ baekjoon
       [Kotlin] Tri-du
       [Kotlin] Triangles
       [Kotlin] Zagubiona litera
+      [Kotlin] Äpplen och päron
       [Kotlin] Большой удой
       [Kotlin] Простая задача
       [Kotlin] ЧАСОВНИК
