@@ -14,14 +14,14 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-04 16:40:03 <br>
+Last Update : 2024-01-05 12:35:40 <br>
 
 
 ```
-1719 Solved
+1728 Solved
  - Kotlin : 1192
- - Python : 252
- - Java : 134
+ - Python : 258
+ - Java : 137
  - SQL : 74
  - C : 23
  - C++ : 10
@@ -305,6 +305,7 @@ baekjoon
       [Kotlin] 해킹
       [Kotlin] 행렬 제곱
       [Kotlin] 행성 연결
+      [Java] 최단경로
     g5
       [Kotlin] 86 ─에이티식스─ 1
       [Kotlin] AC
@@ -490,6 +491,7 @@ baekjoon
       [Java] DFS와 BFS
       [Java]  5차 전직
       [Java] 뒤집어진 소수
+      [Java] 섬의개수
     s3
       [Kotlin] 01타일
       [Kotlin] 1, 2, 3 더하기
@@ -553,6 +555,7 @@ baekjoon
       [Kotlin] 한국이 그리울 땐 서버에 접속하지
       [Kotlin] 한동이는 공부가 하기 싫어!
       [Kotlin] 회전하는 큐
+      [Python] 달팽이
       [Python] 터렛
       [Java] 시리얼 번호
       [Java] 풍선 터뜨리기
@@ -1036,6 +1039,7 @@ baekjoon
       [Python] 택시 기하학
       [Java] 곱셈
       [Java] 다면체
+      [Java] 상금 헌터
       [Java] 수학은 체육과목 입니다
       [Java] 알람 시계
       [Java] 최소 최대
@@ -1327,6 +1331,7 @@ programmers
 
   Level 3
     [Python] [카카오 인턴] 보석 쇼핑
+    [Python] 가장 먼 노드
     [Python] 여행경로
     [Kotlin] 가장 먼 노드
     [Kotlin] 금과 은 운반하기
@@ -1365,6 +1370,7 @@ programmers
     [Python] 가장큰수
     [Python] 기능개발
     [Python] 문자열 압축
+    [Python] 배달
     [Python] 삼각 달팽이
     [Python] 소수 찾기
     [Python] 스킬트리
@@ -1374,6 +1380,7 @@ programmers
     [Python] 이진 변환 반복하기
     [Python] 전화번호 목록
     [Python] 주식가격
+    [Python] 주차 요금 계산
     [Python] 짝지어 제거하기
     [Python] 최댓값과 최솟값
     [Python] 쿼드압축 후 개수 세기
@@ -1434,11 +1441,13 @@ programmers
 
   Level 1
     [Python] [PCCP 모의고사 #1] 1번 - 외톨이 알파벳
+    [Python] [PCCP 모의고사 #2] 1번 - 실습용 로봇
     [Python] 다트 게임
     [Python] 로또의 최고 순위와 최저 순위
     [Python] 문자열 내 마음대로 정렿하기
     [Python] 소수 만들기
     [Python] 소수 찾기
+    [Python] 시저 암호
     [Python] 신고 결과 받기
     [Python] 약수의 개수와 덧셈
     [Python] 예산
