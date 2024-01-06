@@ -14,14 +14,14 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-05 15:09:51 <br>
+Last Update : 2024-01-06 13:49:16 <br>
 
 
 ```
-1736 Solved
- - Kotlin : 1200
+1744 Solved
+ - Kotlin : 1207
  - Python : 258
- - Java : 137
+ - Java : 138
  - SQL : 74
  - C : 23
  - C++ : 10
@@ -766,6 +766,7 @@ baekjoon
       [Kotlin] 평균은 넘겠지
       [Kotlin] 피보나치 수
       [Kotlin] 피카츄
+      [Kotlin] 한조서열정리하고옴ㅋㅋ
       [Kotlin] 행복한지 슬픈지
       [Python] 가단조와 다장조
       [Python] 단어 공부
@@ -891,6 +892,7 @@ baekjoon
       [Java] 수 정렬 하기
       [Java] 숫자의 개수
       [Java] 음계
+      [Java] 이상한 나라의 암호
       [C] 경로당펑크 2077
       [C] 다이얼
       [C] 맥주 냉장고
@@ -1028,9 +1030,11 @@ baekjoon
       [Kotlin] 첫 글자를 대문자로
       [Kotlin] 최댓값
       [Kotlin] 최소, 최대 2
+      [Kotlin] 최장 스트릭
       [Kotlin] 추첨을 통해 커피를 받자
       [Kotlin] 출제비 재분배
       [Kotlin] 카트라이더 드리프트
+      [Kotlin] 특정 대문자를 소문자로 바꾸기
       [Kotlin] 플러그
       [Kotlin] 한다 안한다
       [Kotlin] 할로윈의 사탕
@@ -1087,12 +1091,14 @@ baekjoon
       [Kotlin] R2
       [Kotlin] SASA 모형을 만들어보자
       [Kotlin] Simple Sum
+      [Kotlin] Speed fines are not fine!
       [Kotlin] Squares
       [Kotlin] Tri-du
       [Kotlin] Triangles
       [Kotlin] Zagubiona litera
       [Kotlin] Äpplen och päron
       [Kotlin] Большой удой
+      [Kotlin] Лифт
       [Kotlin] Простая задача
       [Kotlin] ЧАСОВНИК
       [Kotlin] 末尾の文字 (Last Letter)
@@ -1161,6 +1167,7 @@ baekjoon
       [C] 햄버거 만들기
     b5
       [Kotlin] 2 桁の整数 (Two-digit Integer)
+      [Kotlin] 2033년 밈 투표
       [Kotlin] A+B
       [Kotlin] A+B - 9
       [Kotlin] CAPS
@@ -1217,6 +1224,7 @@ baekjoon
       [Kotlin] 문자열
       [Kotlin] 문자와 문자열
       [Kotlin] 사파리월드
+      [Kotlin] 삼각형
       [Kotlin] 새로운 시작
       [Kotlin] 새싹
       [Kotlin] 성택이의 은밀한 비밀번호
