@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-06 13:49:16 <br>
+Last Update : 2024-01-07 14:33:05 <br>
 
 
 ```
-1744 Solved
- - Kotlin : 1207
+1753 Solved
+ - Kotlin : 1216
  - Python : 258
  - Java : 138
  - SQL : 74
@@ -810,6 +810,7 @@ baekjoon
       [Kotlin] 複雑な文字列 (Complex String)
       [Kotlin] 가장 많은 글자
       [Kotlin] 거꾸로 구구단
+      [Kotlin] 거리의 합
       [Kotlin] 거스름돈
       [Kotlin] 공약수
       [Kotlin] 관리자는 누구
@@ -902,6 +903,7 @@ baekjoon
     b3
       [Kotlin] 1 = cute
       [Kotlin] 17배
+      [Kotlin] 2루수 이름이 뭐야
       [Kotlin] 2의 제곱인가
       [Kotlin] A+B - 6
       [Kotlin] ABC
@@ -921,6 +923,7 @@ baekjoon
       [Kotlin] Matches
       [Kotlin] Missing Numbers
       [Kotlin] RICE SACK
+      [Kotlin] Report Card Time
       [Kotlin] TGN
       [Kotlin] Viva la Diferencia
       [Kotlin] Vowel Count
@@ -1013,6 +1016,7 @@ baekjoon
       [Kotlin] 저작권
       [Kotlin] 전투 드로이드 가격
       [Kotlin] 점수계산
+      [Kotlin] 접시 안의 원
       [Kotlin] 정육각형과 삼각형
       [Kotlin] 조교는 새디스트야
       [Kotlin] 주사위
@@ -1068,6 +1072,7 @@ baekjoon
       [Kotlin] Atrium
       [Kotlin] Big Number
       [Kotlin] CASIO
+      [Kotlin] Chili Peppers
       [Kotlin] Covid-19
       [Kotlin] Darius님 한타 안 함
       [Kotlin] Dedupe
@@ -1093,6 +1098,7 @@ baekjoon
       [Kotlin] Simple Sum
       [Kotlin] Speed fines are not fine!
       [Kotlin] Squares
+      [Kotlin] Tren del Fin del Mundo
       [Kotlin] Tri-du
       [Kotlin] Triangles
       [Kotlin] Zagubiona litera
@@ -1142,6 +1148,7 @@ baekjoon
       [Kotlin] 전자레인지14470
       [Kotlin] 주사위 세개
       [Kotlin] 줄번호
+      [Kotlin] 체육은 코딩과목 입니다
       [Kotlin] 치킨 두 마리
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스 2
@@ -1151,6 +1158,7 @@ baekjoon
       [Kotlin] 파일 옮기기
       [Kotlin] 평균 점수
       [Kotlin] 한글
+      [Kotlin] 헛간 청약
       [Kotlin] 히스토그램
       [Python] 27110
       [Python] 별 찍기 - 2
@@ -1190,6 +1198,7 @@ baekjoon
       [Kotlin] Rook
       [Kotlin] SciComLove
       [Kotlin] Serca
+      [Kotlin] Shares
       [Kotlin] Site Score
       [Kotlin] The Fastest Sorting Algorithm In The World
       [Kotlin] The World Responds
