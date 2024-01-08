@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-07 14:33:05 <br>
+Last Update : 2024-01-08 15:33:47 <br>
 
 
 ```
-1753 Solved
- - Kotlin : 1216
- - Python : 258
+1763 Solved
+ - Kotlin : 1224
+ - Python : 260
  - Java : 138
  - SQL : 74
  - C : 23
@@ -762,6 +762,7 @@ baekjoon
       [Kotlin] 최대공약수와 최소공배수
       [Kotlin] 최소공배수
       [Kotlin] 캠핑
+      [Kotlin] 택시 거리
       [Kotlin] 팰린드롬수
       [Kotlin] 평균은 넘겠지
       [Kotlin] 피보나치 수
@@ -807,6 +808,7 @@ baekjoon
       [Kotlin] Strfry
       [Kotlin] String
       [Kotlin] TV 크기
+      [Kotlin] `첼시를 도와줘`
       [Kotlin] 複雑な文字列 (Complex String)
       [Kotlin] 가장 많은 글자
       [Kotlin] 거꾸로 구구단
@@ -841,6 +843,7 @@ baekjoon
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 6
       [Kotlin] 알파벳 전부 쓰기
       [Kotlin] 애너그램 만들기
+      [Kotlin] 연속구간
       [Kotlin] 오각형, 오각형, 오각형…
       [Kotlin] 오르막
       [Kotlin] 오타맨 고창영
@@ -908,12 +911,14 @@ baekjoon
       [Kotlin] A+B - 6
       [Kotlin] ABC
       [Kotlin] Baseball
+      [Kotlin] Billing
       [Kotlin] Culture shock
       [Kotlin] Extreme Temperatures
       [Kotlin] FBI
       [Kotlin] Fan Death
       [Kotlin] Gift
       [Kotlin] HI-ARC
+      [Kotlin] Haughty Cuisine
       [Kotlin] IBM 빼기 1
       [Kotlin] JavaScript
       [Kotlin] Jazz Enthusiast
@@ -1101,6 +1106,7 @@ baekjoon
       [Kotlin] Tren del Fin del Mundo
       [Kotlin] Tri-du
       [Kotlin] Triangles
+      [Kotlin] ZOAC 6
       [Kotlin] Zagubiona litera
       [Kotlin] Äpplen och päron
       [Kotlin] Большой удой
@@ -1112,7 +1118,9 @@ baekjoon
       [Kotlin] 計算 (Calculation)
       [Kotlin] 試験 (Exam)
       [Kotlin] 金平糖 (Konpeito)
+      [Kotlin] 鉛筆 (Pencils)
       [Kotlin] 가희와 방어율 무시
+      [Kotlin] 감마선을 맞은 컴퓨터
       [Kotlin] 공백 없는 A+B
       [Kotlin] 과목선택
       [Kotlin] 과자
@@ -1357,6 +1365,7 @@ programmers
   Level 3
     [Python] [카카오 인턴] 보석 쇼핑
     [Python] 가장 먼 노드
+    [Python] 단속카메라
     [Python] 여행경로
     [Kotlin] 가장 먼 노드
     [Kotlin] 금과 은 운반하기
@@ -1403,6 +1412,7 @@ programmers
     [Python] 오픈채팅방
     [Python] 의상
     [Python] 이진 변환 반복하기
+    [Python] 전력망을 둘로 나누기
     [Python] 전화번호 목록
     [Python] 주식가격
     [Python] 주차 요금 계산
