@@ -14,14 +14,14 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-08 15:33:47 <br>
+Last Update : 2024-01-09 14:25:30 <br>
 
 
 ```
-1763 Solved
- - Kotlin : 1224
- - Python : 260
- - Java : 138
+1775 Solved
+ - Kotlin : 1233
+ - Python : 262
+ - Java : 139
  - SQL : 74
  - C : 23
  - C++ : 10
@@ -316,6 +316,7 @@ baekjoon
       [Kotlin] 강의실 배정
       [Kotlin] 경쟁적 전염
       [Kotlin] 계란으로 계란치기
+      [Kotlin] 공주님을 구해라
       [Kotlin] 내려가기
       [Kotlin] 노드사이의 거리
       [Kotlin] 다각형의 면적
@@ -652,6 +653,7 @@ baekjoon
       [Kotlin] 뒤집기
       [Kotlin] 막대기
       [Kotlin] 멘토와 멘티
+      [Kotlin] 문자를 받은 승환이
       [Kotlin] 방 번호
       [Kotlin] 배열 합치기
       [Kotlin] 백대열
@@ -803,6 +805,7 @@ baekjoon
       [Kotlin] JOI와 IOI
       [Kotlin] Java Bitecode
       [Kotlin] KMP는 왜 KMP일까
+      [Kotlin] Number Maximization
       [Kotlin] Reverse Text
       [Kotlin] Split
       [Kotlin] Strfry
@@ -852,6 +855,8 @@ baekjoon
       [Kotlin] 운동
       [Kotlin] 유학 금지
       [Kotlin] 이상한 곱셈
+      [Kotlin] 이진수 덧셈
+      [Kotlin] 이진수 합
       [Kotlin] 인생 점수
       [Kotlin] 저항
       [Kotlin] 정수의 개수
@@ -867,6 +872,7 @@ baekjoon
       [Kotlin] 커트라인
       [Kotlin] 콘테스트
       [Kotlin] 탄산 음료
+      [Kotlin] 태보태보 총난타
       [Kotlin] 트럭 주차
       [Kotlin] 팩토리얼
       [Kotlin] 팰린드롬
@@ -929,6 +935,7 @@ baekjoon
       [Kotlin] Missing Numbers
       [Kotlin] RICE SACK
       [Kotlin] Report Card Time
+      [Kotlin] Since 1973
       [Kotlin] TGN
       [Kotlin] Viva la Diferencia
       [Kotlin] Vowel Count
@@ -1043,6 +1050,7 @@ baekjoon
       [Kotlin] 추첨을 통해 커피를 받자
       [Kotlin] 출제비 재분배
       [Kotlin] 카트라이더 드리프트
+      [Kotlin] 쿠폰
       [Kotlin] 특정 대문자를 소문자로 바꾸기
       [Kotlin] 플러그
       [Kotlin] 한다 안한다
@@ -1094,6 +1102,7 @@ baekjoon
       [Kotlin] Koszykarz
       [Kotlin] Kuber
       [Kotlin] Laptop Sticker
+      [Kotlin] Majestic 10
       [Kotlin] Next in line
       [Kotlin] No Brainer
       [Kotlin] Population
@@ -1401,7 +1410,9 @@ programmers
   Level 2
     [Python] N개의 최소공배수
     [Python] [PCCP 모의고사 #1] 2번 - 체육대회
+    [Python] [PCCP 모의고사 #2] 2번 - 신입사원 교육
     [Python] 가장큰수
+    [Python] 게임 맵 최단거리
     [Python] 기능개발
     [Python] 문자열 압축
     [Python] 배달
@@ -1471,6 +1482,7 @@ programmers
     [Java] 미로_탈출
     [Java] 숫자의_표현
     [Java] 올바른_괄호
+    [Java] 전력망을_둘로_나누기_위상정렬
     [Java] 점프와_순간_이동
     [Java] 최솟값_만들기
 
