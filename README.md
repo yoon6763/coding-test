@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-09 14:34:11 <br>
+Last Update : 2024-01-10 12:27:25 <br>
 
 
 ```
-1775 Solved
+1776 Solved
  - Kotlin : 1233
- - Python : 262
+ - Python : 263
  - Java : 139
  - SQL : 74
  - C : 23
@@ -1372,6 +1372,7 @@ programmers
     [SQL] 취소되지 않은 진료 예약 조회하기
 
   Level 3
+    [Python] [PCCP 모의고사 #2] 4번 - 보물 지도
     [Python] [카카오 인턴] 보석 쇼핑
     [Python] 가장 먼 노드
     [Python] 단속카메라
