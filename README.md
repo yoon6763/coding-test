@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-10 12:27:25 <br>
+Last Update : 2024-01-10 12:31:59 <br>
 
 
 ```
-1776 Solved
- - Kotlin : 1233
+1785 Solved
+ - Kotlin : 1242
  - Python : 263
  - Java : 139
  - SQL : 74
@@ -753,6 +753,7 @@ baekjoon
       [Kotlin] 애너그램
       [Kotlin] 약수
       [Kotlin] 약수들의 합
+      [Kotlin] 영화 평가
       [Kotlin] 오르막길
       [Kotlin] 유니대전 퀴즈쇼
       [Kotlin] 이번학기 평점은 몇점
@@ -837,6 +838,8 @@ baekjoon
       [Kotlin] 백설 공주와 일곱 난쟁이
       [Kotlin] 별 찍기 - 21
       [Kotlin] 분해합
+      [Kotlin] 비교 연산자
+      [Kotlin] 사칙연산
       [Kotlin] 수 뒤집기
       [Kotlin] 수학은 비대면강의입니다
       [Kotlin] 숫자
@@ -926,6 +929,7 @@ baekjoon
       [Kotlin] HI-ARC
       [Kotlin] Haughty Cuisine
       [Kotlin] IBM 빼기 1
+      [Kotlin] JOI エディタ (JOI Editor)
       [Kotlin] JavaScript
       [Kotlin] Jazz Enthusiast
       [Kotlin] J박스
@@ -937,6 +941,7 @@ baekjoon
       [Kotlin] Report Card Time
       [Kotlin] Since 1973
       [Kotlin] TGN
+      [Kotlin] Vending Machine
       [Kotlin] Viva la Diferencia
       [Kotlin] Vowel Count
       [Kotlin] Word Searching
@@ -945,6 +950,7 @@ baekjoon
       [Kotlin] 가뭄(Small)
       [Kotlin] 개표
       [Kotlin] 거울, 오! 거울
+      [Kotlin] 경기 결과
       [Kotlin] 계산기 프로그램
       [Kotlin] 고급 수학
       [Kotlin] 고려대학교에는 공식 와인이 있다
@@ -1018,6 +1024,7 @@ baekjoon
       [Kotlin] 약수 구하기
       [Kotlin] 얼룩말을 찾아라!
       [Kotlin] 얼마
+      [Kotlin] 연길이의 이상형
       [Kotlin] 영수증
       [Kotlin] 오븐 시계
       [Kotlin] 완전 세제곱
@@ -1105,6 +1112,7 @@ baekjoon
       [Kotlin] Majestic 10
       [Kotlin] Next in line
       [Kotlin] No Brainer
+      [Kotlin] Paslpta suma
       [Kotlin] Population
       [Kotlin] Quadrilateral
       [Kotlin] R2
@@ -1124,6 +1132,7 @@ baekjoon
       [Kotlin] ЧАСОВНИК
       [Kotlin] 末尾の文字 (Last Letter)
       [Kotlin] 短針 (Hour Hand)
+      [Kotlin] 移動 (Moving)
       [Kotlin] 計算 (Calculation)
       [Kotlin] 試験 (Exam)
       [Kotlin] 金平糖 (Konpeito)
