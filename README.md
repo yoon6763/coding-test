@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-11 14:10:52 <br>
+Last Update : 2024-01-12 12:17:13 <br>
 
 
 ```
-1794 Solved
- - Kotlin : 1251
+1803 Solved
+ - Kotlin : 1260
  - Python : 263
  - Java : 139
  - SQL : 74
@@ -803,6 +803,7 @@ baekjoon
       [Kotlin] 8진수, 10진수, 16진수
       [Kotlin] 9진수
       [Kotlin] Anagram Checker
+      [Kotlin] CTP공국으로 이민 가자
       [Kotlin] Farm
       [Kotlin] Hashing
       [Kotlin] JOI와 IOI
@@ -831,6 +832,7 @@ baekjoon
       [Kotlin] 닉네임에 갓 붙이기
       [Kotlin] 단어순서 뒤집기
       [Kotlin] 대출 요청
+      [Kotlin] 대충 더해
       [Kotlin] 대표값
       [Kotlin] 대표값2
       [Kotlin] 막대기
@@ -868,6 +870,7 @@ baekjoon
       [Kotlin] 저항
       [Kotlin] 정수의 개수
       [Kotlin] 좋은 자동차 번호판
+      [Kotlin] 줄 세우기
       [Kotlin] 줄임말 만들기
       [Kotlin] 중복을 없애자
       [Kotlin] 지우개
@@ -1011,6 +1014,7 @@ baekjoon
       [Kotlin] 빅데이터 정보보호
       [Kotlin] 사과
       [Kotlin] 사분면
+      [Kotlin] 사탕 선생 고창영
       [Kotlin] 삼각형과 세 변
       [Kotlin] 서버
       [Kotlin] 서울사이버대학을 다니고
@@ -1019,6 +1023,7 @@ baekjoon
       [Kotlin] 세 막대
       [Kotlin] 세 수
       [Kotlin] 세탁소 사장 동혁
+      [Kotlin] 소수가 아닌 수
       [Kotlin] 소음
       [Kotlin] 수도요금
       [Kotlin] 신기한 수
@@ -1117,9 +1122,11 @@ baekjoon
       [Kotlin] Kuber
       [Kotlin] Laptop Sticker
       [Kotlin] Majestic 10
+      [Kotlin] Máquina de café
       [Kotlin] Next in line
       [Kotlin] No Brainer
       [Kotlin] Paslpta suma
+      [Kotlin] Pizza Deal
       [Kotlin] Population
       [Kotlin] Quadrilateral
       [Kotlin] R2
@@ -1131,6 +1138,7 @@ baekjoon
       [Kotlin] Tren del Fin del Mundo
       [Kotlin] Tri-du
       [Kotlin] Triangles
+      [Kotlin] X に最も近い値 (The Nearest Value)
       [Kotlin] ZOAC 6
       [Kotlin] Zagubiona litera
       [Kotlin] Äpplen och päron
@@ -1182,6 +1190,7 @@ baekjoon
       [Kotlin] 전자레인지14470
       [Kotlin] 주사위 세개
       [Kotlin] 줄번호
+      [Kotlin] 지폐 세기
       [Kotlin] 체육은 코딩과목 입니다
       [Kotlin] 치킨 두 마리
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스
