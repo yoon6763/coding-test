@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-13 14:06:37 <br>
+Last Update : 2024-01-14 02:31:48 <br>
 
 
 ```
-1807 Solved
- - Kotlin : 1264
+1808 Solved
+ - Kotlin : 1265
  - Python : 263
  - Java : 139
  - SQL : 74
@@ -557,6 +557,7 @@ baekjoon
       [Kotlin] 피보나치 함수
       [Kotlin] 한국이 그리울 땐 서버에 접속하지
       [Kotlin] 한동이는 공부가 하기 싫어!
+      [Kotlin] 합 구하기
       [Kotlin] 회전하는 큐
       [Python] 달팽이
       [Python] 터렛
