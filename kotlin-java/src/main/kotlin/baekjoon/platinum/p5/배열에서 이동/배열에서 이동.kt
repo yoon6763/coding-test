@@ -1,4 +1,4 @@
-package baekjoon.platinum.p5.배열에서_이동
+package baekjoon.platinum.p5.`배열에서 이동`
 
 data class Node(val x: Int, val y: Int)
 

@@ -1,4 +1,4 @@
-package baekjoon.platinum.p5.비밀번호제작
+package baekjoon.platinum.p5.`비밀번호 제작`
 
 fun main() = with(System.`in`.bufferedReader()) {
     val n = readLine().toInt()

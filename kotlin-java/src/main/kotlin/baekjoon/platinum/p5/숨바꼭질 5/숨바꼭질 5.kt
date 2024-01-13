@@ -1,4 +1,4 @@
-package baekjoon.platinum.p5.숨바꼭질5
+package baekjoon.platinum.p5.`숨바꼭질 5`
 
 import java.util.*
 

@@ -1,4 +1,4 @@
-package baekjoon.platinum.p5.LCA_2
+package baekjoon.platinum.p5.`LCA 2`
 
 
 import java.lang.StringBuilder

@@ -1,4 +1,4 @@
-package baekjoon.platinum.p5.StronglyConnectedComponent
+package baekjoon.platinum.p5.`Strongly Connected Component`
 
 import java.lang.StringBuilder
 import java.util.Stack

@@ -1,4 +1,4 @@
-package baekjoon.platinum.p5.오아시스재결합
+package baekjoon.platinum.p5.`오아시스 재결합`
 
 import java.util.*
 

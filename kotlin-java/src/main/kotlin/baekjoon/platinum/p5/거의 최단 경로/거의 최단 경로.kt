@@ -1,4 +1,4 @@
-package baekjoon.platinum.p5.거의최단경로
+package baekjoon.platinum.p5.`거의 최단 경로`
 
 import java.util.PriorityQueue
 import java.util.StringTokenizer

@@ -1,4 +1,4 @@
-package baekjoon.platinum.p5.최솟값찾기
+package baekjoon.platinum.p5.`최솟값 찾기`
 
 import java.util.*
 

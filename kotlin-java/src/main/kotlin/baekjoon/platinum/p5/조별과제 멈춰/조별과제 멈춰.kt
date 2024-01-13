@@ -1,4 +1,4 @@
-package baekjoon.platinum.p5.조별과제_멈춰
+package baekjoon.platinum.p5.`조별과제 멈춰`
 
 import java.util.ArrayList
 import java.util.PriorityQueue

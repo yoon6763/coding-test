@@ -1,4 +1,4 @@
-package baekjoon.platinum.p5.정점들의_거리
+package baekjoon.platinum.p5.`정점들의 거리`
 
 import java.lang.StringBuilder
 

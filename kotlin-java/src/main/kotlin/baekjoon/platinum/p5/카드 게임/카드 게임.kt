@@ -1,4 +1,4 @@
-package baekjoon.platinum.p5.카드_게임
+package baekjoon.platinum.p5.`카드 게임`
 
 import java.util.StringTokenizer
 

@@ -1,4 +1,4 @@
-package baekjoon.platinum.p5.백조의호수
+package baekjoon.platinum.p5.`백조의 호수`
 
 import java.util.*
 

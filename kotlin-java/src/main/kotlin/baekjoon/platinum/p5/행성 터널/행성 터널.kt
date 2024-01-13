@@ -1,4 +1,4 @@
-package baekjoon.platinum.p5.행성터널
+package baekjoon.platinum.p5.`행성 터널`
 
 import java.io.BufferedReader
 import java.io.InputStreamReader
