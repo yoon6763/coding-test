@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-12 12:17:13 <br>
+Last Update : 2024-01-13 14:06:37 <br>
 
 
 ```
-1803 Solved
- - Kotlin : 1260
+1807 Solved
+ - Kotlin : 1264
  - Python : 263
  - Java : 139
  - SQL : 74
@@ -71,6 +71,7 @@ baekjoon
       [Kotlin] 비밀번호 제작
       [Kotlin] 빙고-Kotlin
       [Kotlin] 사탕상자
+      [Kotlin] 선분 그룹
       [Kotlin] 숨바꼭질 5
       [Kotlin] 오민식의 고민
       [Kotlin] 오아시스 재결합
@@ -177,6 +178,7 @@ baekjoon
       [Kotlin] 회의준비
       [Kotlin] 후위 표기식
     g3
+      [Kotlin] 200년간 폐관수련했더니 PS 최강자가 된 건에 대하여
       [Kotlin] ACM Craft
       [Kotlin] BFS 스페셜 저지
       [Kotlin] Dance Dance Revolution
@@ -835,6 +837,7 @@ baekjoon
       [Kotlin] 대충 더해
       [Kotlin] 대표값
       [Kotlin] 대표값2
+      [Kotlin] 대회 자리
       [Kotlin] 막대기
       [Kotlin] 만취한 상범
       [Kotlin] 문자열 분석
@@ -1108,6 +1111,7 @@ baekjoon
       [Kotlin] Covid-19
       [Kotlin] Darius님 한타 안 함
       [Kotlin] Dedupe
+      [Kotlin] Dog Treats
       [Kotlin] Equality
       [Kotlin] Every Second Counts
       [Kotlin] FA
