@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-14 17:00:05 <br>
+Last Update : 2024-01-15 14:28:38 <br>
 
 
 ```
-1809 Solved
- - Kotlin : 1266
+1817 Solved
+ - Kotlin : 1274
  - Python : 263
  - Java : 139
  - SQL : 74
@@ -94,6 +94,7 @@ baekjoon
     g1
       [Kotlin] GCD(n, k) = 1
       [Kotlin] Gaaaaaaaaaarden
+      [Kotlin] 가계부 (Hard)
       [Kotlin] 계단 수
       [Kotlin] 구간 곱 구하기
       [Kotlin] 구간 합 구하기
@@ -742,6 +743,7 @@ baekjoon
       [Kotlin] 뒤집힌 덧셈
       [Kotlin] 드높은 남산 위에 우뚝 선
       [Kotlin] 명령 프롬프트
+      [Kotlin] 몬스터 트럭
       [Kotlin] 문자메시지
       [Kotlin] 민균이의 비밀번호
       [Kotlin] 비밀편지
@@ -981,6 +983,7 @@ baekjoon
       [Kotlin] 공
       [Kotlin] 공 넣기
       [Kotlin] 공 바꾸기
+      [Kotlin] 과 조사하기
       [Kotlin] 그대로 출력하기 2
       [Kotlin] 꼬리를 무는 숫자 나열
       [Kotlin] 나는 요리사다
@@ -1033,6 +1036,7 @@ baekjoon
       [Kotlin] 수도요금
       [Kotlin] 신기한 수
       [Kotlin] 쌍의 합
+      [Kotlin] 아이 러브 크로아티아
       [Kotlin] 안녕 클레오파트라 세상에서 제일가는 포테이토칩
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 3
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 4
@@ -1076,6 +1080,7 @@ baekjoon
       [Kotlin] 카트라이더 드리프트
       [Kotlin] 쿠폰
       [Kotlin] 특정 대문자를 소문자로 바꾸기
+      [Kotlin] 파인만
       [Kotlin] 플러그
       [Kotlin] 한다 안한다
       [Kotlin] 할로윈의 사탕
@@ -1113,6 +1118,7 @@ baekjoon
       [Kotlin] Covid-19
       [Kotlin] Darius님 한타 안 함
       [Kotlin] Dedupe
+      [Kotlin] Do Not Touch Anything
       [Kotlin] Dog Treats
       [Kotlin] Equality
       [Kotlin] Every Second Counts
@@ -1137,6 +1143,7 @@ baekjoon
       [Kotlin] Quadrilateral
       [Kotlin] R2
       [Kotlin] SASA 모형을 만들어보자
+      [Kotlin] Schronisko
       [Kotlin] Simple Sum
       [Kotlin] Skarpetki
       [Kotlin] Speed fines are not fine!
@@ -1233,6 +1240,7 @@ baekjoon
       [Kotlin] Correct
       [Kotlin] Cupcake Party
       [Kotlin] Gum Gum for Jay Jay
+      [Kotlin] HI-ARC=
       [Kotlin] Hello World
       [Kotlin] Hook
       [Kotlin] Intercepting Information
