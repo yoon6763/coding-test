@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-15 14:28:38 <br>
+Last Update : 2024-01-16 16:04:39 <br>
 
 
 ```
-1817 Solved
- - Kotlin : 1274
+1820 Solved
+ - Kotlin : 1277
  - Python : 263
  - Java : 139
  - SQL : 74
@@ -223,6 +223,7 @@ baekjoon
       [Kotlin] 정복자
       [Kotlin] 줄 세우기
       [Kotlin] 중량제한
+      [Kotlin] 중량제한 분리집합
       [Kotlin] 최소비용 구하기 2
       [Kotlin] 치즈
       [Kotlin] 캐슬 디펜스
@@ -861,6 +862,7 @@ baekjoon
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 6
       [Kotlin] 알파벳 전부 쓰기
       [Kotlin] 애너그램 만들기
+      [Kotlin] 야바위 대장
       [Kotlin] 연속구간
       [Kotlin] 오각형, 오각형, 오각형…
       [Kotlin] 오르막
@@ -959,6 +961,7 @@ baekjoon
       [Kotlin] Vending Machine
       [Kotlin] Viva la Diferencia
       [Kotlin] Vowel Count
+      [Kotlin] Who Has Seen The Wind
       [Kotlin] Word Searching
       [Kotlin] ZOAC 5
       [Kotlin] Zegarek
