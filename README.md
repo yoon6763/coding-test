@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-16 16:04:39 <br>
+Last Update : 2024-01-17 11:20:59 <br>
 
 
 ```
-1820 Solved
- - Kotlin : 1277
+1821 Solved
+ - Kotlin : 1278
  - Python : 263
  - Java : 139
  - SQL : 74
@@ -968,6 +968,7 @@ baekjoon
       [Kotlin] 가뭄(Small)
       [Kotlin] 개표
       [Kotlin] 거울, 오! 거울
+      [Kotlin] 겨울왕국 티켓 예매
       [Kotlin] 경기 결과
       [Kotlin] 계산기 프로그램
       [Kotlin] 고급 수학
