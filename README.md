@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-17 11:20:59 <br>
+Last Update : 2024-01-18 16:36:39 <br>
 
 
 ```
-1821 Solved
- - Kotlin : 1278
+1831 Solved
+ - Kotlin : 1288
  - Python : 263
  - Java : 139
  - SQL : 74
@@ -50,6 +50,7 @@ baekjoon
     p4
       [Kotlin] K번째 최단경로 찾기
       [Kotlin] 노트북의 주인을 찾아서
+      [Kotlin] 들쥐의 탈출
       [Kotlin] 문명
       [Kotlin] 불 끄기
       [Kotlin] 열혈강호
@@ -859,6 +860,7 @@ baekjoon
       [Kotlin] 시그마
       [Kotlin] 시험 감독
       [Kotlin] 신용카드 판별
+      [Kotlin] 아즈텍 피라미드
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 6
       [Kotlin] 알파벳 전부 쓰기
       [Kotlin] 애너그램 만들기
@@ -943,6 +945,7 @@ baekjoon
       [Kotlin] FBI
       [Kotlin] Fan Death
       [Kotlin] Gift
+      [Kotlin] Golf
       [Kotlin] HI-ARC
       [Kotlin] Haughty Cuisine
       [Kotlin] IBM 빼기 1
@@ -958,6 +961,7 @@ baekjoon
       [Kotlin] Report Card Time
       [Kotlin] Since 1973
       [Kotlin] TGN
+      [Kotlin] Trident
       [Kotlin] Vending Machine
       [Kotlin] Viva la Diferencia
       [Kotlin] Vowel Count
@@ -965,6 +969,7 @@ baekjoon
       [Kotlin] Word Searching
       [Kotlin] ZOAC 5
       [Kotlin] Zegarek
+      [Kotlin] `ソーシャルゲーム (Social Game)`
       [Kotlin] 가뭄(Small)
       [Kotlin] 개표
       [Kotlin] 거울, 오! 거울
@@ -1038,6 +1043,7 @@ baekjoon
       [Kotlin] 소수가 아닌 수
       [Kotlin] 소음
       [Kotlin] 수도요금
+      [Kotlin] 숫자 맞추기 게임
       [Kotlin] 신기한 수
       [Kotlin] 쌍의 합
       [Kotlin] 아이 러브 크로아티아
@@ -1082,6 +1088,7 @@ baekjoon
       [Kotlin] 추첨을 통해 커피를 받자
       [Kotlin] 출제비 재분배
       [Kotlin] 카트라이더 드리프트
+      [Kotlin] 캥거루 세마리
       [Kotlin] 쿠폰
       [Kotlin] 특정 대문자를 소문자로 바꾸기
       [Kotlin] 파인만
@@ -1142,6 +1149,7 @@ baekjoon
       [Kotlin] Next in line
       [Kotlin] No Brainer
       [Kotlin] Paslpta suma
+      [Kotlin] Petrol
       [Kotlin] Pizza Deal
       [Kotlin] Population
       [Kotlin] Quadrilateral
@@ -1175,6 +1183,7 @@ baekjoon
       [Kotlin] 공백 없는 A+B
       [Kotlin] 과목선택
       [Kotlin] 과자
+      [Kotlin] 관공 어찌하여 목만 오셨소
       [Kotlin] 녹색거탑
       [Kotlin] 뉴비의 기준은 뭘까
       [Kotlin] 단순한 문제 (Small)
@@ -1251,6 +1260,7 @@ baekjoon
       [Kotlin] Julka
       [Kotlin] Larger Sport Facility
       [Kotlin] Mathematics
+      [Kotlin] Metronome
       [Kotlin] Multiply
       [Kotlin] NFC West vs North
       [Kotlin] Plane
