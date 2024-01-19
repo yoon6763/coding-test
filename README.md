@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-18 16:36:39 <br>
+Last Update : 2024-01-19 11:06:34 <br>
 
 
 ```
-1831 Solved
- - Kotlin : 1288
- - Python : 263
+1837 Solved
+ - Kotlin : 1293
+ - Python : 264
  - Java : 139
  - SQL : 74
  - C : 23
@@ -44,6 +44,7 @@ baekjoon
       [Kotlin] LCA와 쿼리
     p3
       [Kotlin] 교수님은 기다리지 않는다
+      [Kotlin] 돌멩이 제거
       [Kotlin] 레드 블루 스패닝 트리
       [Kotlin] 상어의 저녁식사
       [Kotlin] 열혈강호 3
@@ -165,6 +166,7 @@ baekjoon
       [Kotlin] 저울
       [Kotlin] 전기가 부족해
       [Kotlin] 중앙값 구하기
+      [Kotlin] 책 나눠주기
       [Kotlin] 철로
       [Kotlin] 친구 네트워크
       [Kotlin] 컬러볼
@@ -854,6 +856,7 @@ baekjoon
       [Kotlin] 비교 연산자
       [Kotlin] 사칙연산
       [Kotlin] 새
+      [Kotlin] 소수 단어
       [Kotlin] 수 뒤집기
       [Kotlin] 수학은 비대면강의입니다
       [Kotlin] 숫자
@@ -877,6 +880,7 @@ baekjoon
       [Kotlin] 이진수 덧셈
       [Kotlin] 이진수 합
       [Kotlin] 인생 점수
+      [Kotlin] 자기복제수
       [Kotlin] 저항
       [Kotlin] 정수의 개수
       [Kotlin] 좋은 자동차 번호판
@@ -911,6 +915,7 @@ baekjoon
       [Python] 문자열 반복
       [Python] 벌집
       [Python] 벼락치기
+      [Python] 부분 문자열
       [Python] 저금
       [Python] 정수 N개의 합
       [Python] 주사위 게임
@@ -1192,6 +1197,7 @@ baekjoon
       [Kotlin] 모비스
       [Kotlin] 모음의 개수
       [Kotlin] 미션 도네이션
+      [Kotlin] 민주주의
       [Kotlin] 베라의 패션
       [Kotlin] 별 찍기 - 3
       [Kotlin] 빵
