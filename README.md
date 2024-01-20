@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-19 11:06:34 <br>
+Last Update : 2024-01-20 17:16:09 <br>
 
 
 ```
-1837 Solved
- - Kotlin : 1293
+1838 Solved
+ - Kotlin : 1294
  - Python : 264
  - Java : 139
  - SQL : 74
@@ -834,6 +834,7 @@ baekjoon
       [Kotlin] 공약수
       [Kotlin] 관리자는 누구
       [Kotlin] 그릇
+      [Kotlin] 나누기
       [Kotlin] 나는 친구가 적다 (Large)
       [Kotlin] 나의 학점은
       [Kotlin] 너의 이름은 몇 점이니
