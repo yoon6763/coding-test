@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-20 17:16:09 <br>
+Last Update : 2024-01-21 20:42:34 <br>
 
 
 ```
-1838 Solved
- - Kotlin : 1294
+1839 Solved
+ - Kotlin : 1295
  - Python : 264
  - Java : 139
  - SQL : 74
@@ -1205,6 +1205,7 @@ baekjoon
       [Kotlin] 사장님 도박은 재미로 하셔야 합니다
       [Kotlin] 삼각형 외우기
       [Kotlin] 상근이의 친구들
+      [Kotlin] 샤틀버스
       [Kotlin] 세수정렬
       [Kotlin] 수찬은 마린보이야!!
       [Kotlin] 수학은 체육과목 입니다 2
