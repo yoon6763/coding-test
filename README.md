@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-21 20:42:34 <br>
+Last Update : 2024-01-22 15:19:47 <br>
 
 
 ```
-1839 Solved
- - Kotlin : 1295
+1847 Solved
+ - Kotlin : 1303
  - Python : 264
  - Java : 139
  - SQL : 74
@@ -43,6 +43,7 @@ baekjoon
     p2
       [Kotlin] LCA와 쿼리
     p3
+      [Kotlin] 게시판 구멍 막기
       [Kotlin] 교수님은 기다리지 않는다
       [Kotlin] 돌멩이 제거
       [Kotlin] 레드 블루 스패닝 트리
@@ -848,6 +849,7 @@ baekjoon
       [Kotlin] 대회 자리
       [Kotlin] 막대기
       [Kotlin] 만취한 상범
+      [Kotlin] 모르고리즘 회장 정하기
       [Kotlin] 문자열 분석
       [Kotlin] 바구니 뒤집기
       [Kotlin] 방 배정
@@ -861,6 +863,7 @@ baekjoon
       [Kotlin] 수 뒤집기
       [Kotlin] 수학은 비대면강의입니다
       [Kotlin] 숫자
+      [Kotlin] 시간복잡도를 배운 도도
       [Kotlin] 시그마
       [Kotlin] 시험 감독
       [Kotlin] 신용카드 판별
@@ -903,6 +906,7 @@ baekjoon
       [Kotlin] 팬그램
       [Kotlin] 팰린드롬
       [Kotlin] 팰린드롬인지 확인하기
+      [Kotlin] 피로도
       [Kotlin] 피시방 알바
       [Kotlin] 하얀 칸
       [Kotlin] 행복
@@ -941,6 +945,7 @@ baekjoon
       [Kotlin] 17배
       [Kotlin] 2루수 이름이 뭐야
       [Kotlin] 2의 제곱인가
+      [Kotlin] 369
       [Kotlin] A divide B - 3
       [Kotlin] A+B - 6
       [Kotlin] ABC
@@ -1083,6 +1088,7 @@ baekjoon
       [Kotlin] 지각
       [Kotlin] 지능형 기차
       [Kotlin] 지능형 기차 2
+      [Kotlin] 직각 삼각형의 두 변
       [Kotlin] 집 주소
       [Kotlin] 짝수를 찾아라
       [Kotlin] 찬반투표
@@ -1143,6 +1149,7 @@ baekjoon
       [Kotlin] FYI
       [Kotlin] Fill the Rowboats!
       [Kotlin] Final Price
+      [Kotlin] Gömda ord
       [Kotlin] H4x0r
       [Kotlin] Hello Judge
       [Kotlin] ICPC
@@ -1288,6 +1295,7 @@ baekjoon
       [Kotlin] Zadanie próbne
       [Kotlin] Арифметическая магия
       [Kotlin] РАВЕНСТВО
+      [Kotlin] Счастье Мистера Бина
       [Kotlin] ゾロ目 (Same Numbers)
       [Kotlin] 三方比較 (Three-Way Comparison)
       [Kotlin] 余り (Remainder)
