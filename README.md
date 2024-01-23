@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-22 15:19:47 <br>
+Last Update : 2024-01-23 13:09:28 <br>
 
 
 ```
-1847 Solved
- - Kotlin : 1303
+1856 Solved
+ - Kotlin : 1312
  - Python : 264
  - Java : 139
  - SQL : 74
@@ -759,6 +759,7 @@ baekjoon
       [Kotlin] 소가 길을 건너간 이유 1
       [Kotlin] 소인수분해
       [Kotlin] 슈퍼 마리오
+      [Kotlin] 알고리즘 수업 - 선택 정렬 2
       [Kotlin] 알고리즘 수업 - 피보나치 수 1
       [Kotlin] 애너그램
       [Kotlin] 약수
@@ -882,6 +883,7 @@ baekjoon
       [Kotlin] 유학 금지
       [Kotlin] 이상한 곱셈
       [Kotlin] 이진수 덧셈
+      [Kotlin] 이진수 변환
       [Kotlin] 이진수 합
       [Kotlin] 인생 점수
       [Kotlin] 자기복제수
@@ -959,6 +961,7 @@ baekjoon
       [Kotlin] Golf
       [Kotlin] HI-ARC
       [Kotlin] Haughty Cuisine
+      [Kotlin] Hawk eyes
       [Kotlin] IBM 빼기 1
       [Kotlin] JOI エディタ (JOI Editor)
       [Kotlin] JavaScript
@@ -976,6 +979,7 @@ baekjoon
       [Kotlin] Vending Machine
       [Kotlin] Viva la Diferencia
       [Kotlin] Vowel Count
+      [Kotlin] What is n, Daddy
       [Kotlin] Who Has Seen The Wind
       [Kotlin] Word Searching
       [Kotlin] ZOAC 5
@@ -1055,9 +1059,11 @@ baekjoon
       [Kotlin] 소음
       [Kotlin] 수도요금
       [Kotlin] 숫자 맞추기 게임
+      [Kotlin] 스케이트보드
       [Kotlin] 신기한 수
       [Kotlin] 쌍의 합
       [Kotlin] 아이 러브 크로아티아
+      [Kotlin] 악마의 제안
       [Kotlin] 안녕 클레오파트라 세상에서 제일가는 포테이토칩
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 3
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 4
@@ -1167,6 +1173,7 @@ baekjoon
       [Kotlin] Population
       [Kotlin] Quadrilateral
       [Kotlin] R2
+      [Kotlin] Reverse
       [Kotlin] SASA 모형을 만들어보자
       [Kotlin] Schronisko
       [Kotlin] Simple Sum
@@ -1183,6 +1190,7 @@ baekjoon
       [Kotlin] Большой удой
       [Kotlin] Лифт
       [Kotlin] Простая задача
+      [Kotlin] Торговый центр
       [Kotlin] ЧАСОВНИК
       [Kotlin] 末尾の文字 (Last Letter)
       [Kotlin] 短針 (Hour Hand)
@@ -1452,6 +1460,7 @@ programmers
     [Kotlin] 금과 은 운반하기
     [Kotlin] 네트워크
     [Kotlin] 단어 변환
+    [Kotlin] 등산코스 정하기
     [Kotlin] 섬 연결하기
     [Kotlin] 순위
     [Kotlin] 양과 늑대
