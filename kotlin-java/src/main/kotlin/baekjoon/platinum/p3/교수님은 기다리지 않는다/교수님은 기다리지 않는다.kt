@@ -1,4 +1,4 @@
-package baekjoon.platinum.p3.교수님은_기다리지_않는다
+package baekjoon.platinum.p3.`교수님은 기다리지 않는다`
 
 import java.lang.StringBuilder
 import java.util.StringTokenizer
