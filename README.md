@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-23 13:09:28 <br>
+Last Update : 2024-01-24 14:19:57 <br>
 
 
 ```
-1856 Solved
- - Kotlin : 1312
+1865 Solved
+ - Kotlin : 1321
  - Python : 264
  - Java : 139
  - SQL : 74
@@ -43,10 +43,12 @@ baekjoon
     p2
       [Kotlin] LCA와 쿼리
     p3
+      [Kotlin] N-Rook
       [Kotlin] 게시판 구멍 막기
       [Kotlin] 교수님은 기다리지 않는다
       [Kotlin] 돌멩이 제거
       [Kotlin] 레드 블루 스패닝 트리
+      [Kotlin] 룩 배치하기
       [Kotlin] 상어의 저녁식사
       [Kotlin] 열혈강호 3
     p4
@@ -743,6 +745,7 @@ baekjoon
       [Kotlin] 교수님 그림이 깨지는데요
       [Kotlin] 긴급 회의
       [Kotlin] 너의 핸들은
+      [Kotlin] 논리학 교수
       [Kotlin] 단어 뒤집기
       [Kotlin] 도비의 난독증 테스트
       [Kotlin] 뒤집힌 덧셈
@@ -848,6 +851,7 @@ baekjoon
       [Kotlin] 대표값
       [Kotlin] 대표값2
       [Kotlin] 대회 자리
+      [Kotlin] 동혁 피자
       [Kotlin] 막대기
       [Kotlin] 만취한 상범
       [Kotlin] 모르고리즘 회장 정하기
@@ -887,7 +891,9 @@ baekjoon
       [Kotlin] 이진수 합
       [Kotlin] 인생 점수
       [Kotlin] 자기복제수
+      [Kotlin] 재귀의 귀재
       [Kotlin] 저항
+      [Kotlin] 점심시간 레이스
       [Kotlin] 정수의 개수
       [Kotlin] 좋은 자동차 번호판
       [Kotlin] 줄 세우기
@@ -1094,6 +1100,7 @@ baekjoon
       [Kotlin] 지각
       [Kotlin] 지능형 기차
       [Kotlin] 지능형 기차 2
+      [Kotlin] 지속
       [Kotlin] 직각 삼각형의 두 변
       [Kotlin] 집 주소
       [Kotlin] 짝수를 찾아라
@@ -1107,6 +1114,7 @@ baekjoon
       [Kotlin] 출제비 재분배
       [Kotlin] 카트라이더 드리프트
       [Kotlin] 캥거루 세마리
+      [Kotlin] 컵라편 측정하기
       [Kotlin] 쿠폰
       [Kotlin] 특정 대문자를 소문자로 바꾸기
       [Kotlin] 파인만
@@ -1174,6 +1182,7 @@ baekjoon
       [Kotlin] Quadrilateral
       [Kotlin] R2
       [Kotlin] Reverse
+      [Kotlin] Rulltrappa
       [Kotlin] SASA 모형을 만들어보자
       [Kotlin] Schronisko
       [Kotlin] Simple Sum
