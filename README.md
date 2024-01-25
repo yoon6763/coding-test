@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-24 14:19:57 <br>
+Last Update : 2024-01-25 09:56:18 <br>
 
 
 ```
-1865 Solved
- - Kotlin : 1321
+1868 Solved
+ - Kotlin : 1324
  - Python : 264
  - Java : 139
  - SQL : 74
@@ -858,6 +858,7 @@ baekjoon
       [Kotlin] 문자열 분석
       [Kotlin] 바구니 뒤집기
       [Kotlin] 방 배정
+      [Kotlin] 배수들의 합
       [Kotlin] 백설 공주와 일곱 난쟁이
       [Kotlin] 별 찍기 - 21
       [Kotlin] 분해합
@@ -965,6 +966,7 @@ baekjoon
       [Kotlin] Fan Death
       [Kotlin] Gift
       [Kotlin] Golf
+      [Kotlin] Greetings!
       [Kotlin] HI-ARC
       [Kotlin] Haughty Cuisine
       [Kotlin] Hawk eyes
@@ -1279,6 +1281,7 @@ baekjoon
       [Kotlin] 2033년 밈 투표
       [Kotlin] A+B
       [Kotlin] A+B - 9
+      [Kotlin] An Easy-Peasy Problem
       [Kotlin] CAPS
       [Kotlin] Can you add this
       [Kotlin] Copier
