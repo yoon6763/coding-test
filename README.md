@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-25 09:56:18 <br>
+Last Update : 2024-01-26 11:17:39 <br>
 
 
 ```
-1868 Solved
- - Kotlin : 1324
+1879 Solved
+ - Kotlin : 1335
  - Python : 264
  - Java : 139
  - SQL : 74
@@ -403,12 +403,14 @@ baekjoon
       [Kotlin] 스티커
       [Kotlin] 안전 영역
       [Kotlin] 양
+      [Kotlin] 양치기 꿍
       [Kotlin] 연산자 끼워넣기
       [Kotlin] 영역 구하기
       [Kotlin] 오르막 수
       [Kotlin] 오목
       [Kotlin] 올림픽 게임
       [Kotlin] 음식물 피하기
+      [Kotlin] 작업
       [Kotlin] 전쟁 - 전투
       [Kotlin] 절대값 힙
       [Kotlin] 점프
@@ -752,8 +754,10 @@ baekjoon
       [Kotlin] 드높은 남산 위에 우뚝 선
       [Kotlin] 명령 프롬프트
       [Kotlin] 몬스터 트럭
+      [Kotlin] 문자 인식
       [Kotlin] 문자메시지
       [Kotlin] 민균이의 비밀번호
+      [Kotlin] 반올림
       [Kotlin] 비밀편지
       [Kotlin] 색종이
       [Kotlin] 선 그리기
@@ -862,6 +866,7 @@ baekjoon
       [Kotlin] 백설 공주와 일곱 난쟁이
       [Kotlin] 별 찍기 - 21
       [Kotlin] 분해합
+      [Kotlin] 브실이의 띠부띠부씰 컬렉션
       [Kotlin] 비교 연산자
       [Kotlin] 사칙연산
       [Kotlin] 새
@@ -905,6 +910,7 @@ baekjoon
       [Kotlin] 진짜 공간
       [Kotlin] 창영이의 일기장
       [Kotlin] 초6 수학
+      [Kotlin] 친구
       [Kotlin] 카드 역배치
       [Kotlin] 커트라인
       [Kotlin] 콘테스트
@@ -1151,7 +1157,9 @@ baekjoon
       [Kotlin] Andando no tempo
       [Kotlin] Area
       [Kotlin] Atrium
+      [Kotlin] Bicycle
       [Kotlin] Big Number
+      [Kotlin] Boiling Water
       [Kotlin] CASIO
       [Kotlin] Chili Peppers
       [Kotlin] Covid-19
@@ -1191,6 +1199,7 @@ baekjoon
       [Kotlin] Skarpetki
       [Kotlin] Speed fines are not fine!
       [Kotlin] Squares
+      [Kotlin] The Merchant of Venice
       [Kotlin] Tren del Fin del Mundo
       [Kotlin] Tri-du
       [Kotlin] Triangles
@@ -1203,6 +1212,8 @@ baekjoon
       [Kotlin] Простая задача
       [Kotlin] Торговый центр
       [Kotlin] ЧАСОВНИК
+      [Kotlin] Шахматная доска
+      [Kotlin] アイスクリーム (Ice Cream)
       [Kotlin] 末尾の文字 (Last Letter)
       [Kotlin] 短針 (Hour Hand)
       [Kotlin] 移動 (Moving)
