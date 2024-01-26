@@ -1,4 +1,4 @@
-package baekjoon.silver.s1.나이트의이동
+package baekjoon.silver.s1.`나이트의 이동`
 
 import java.util.*
 

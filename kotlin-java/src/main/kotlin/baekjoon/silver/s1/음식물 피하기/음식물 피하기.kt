@@ -1,4 +1,4 @@
-package baekjoon.silver.s1.음식물피하기
+package baekjoon.silver.s1.`음식물 피하기`
 
 val dx = intArrayOf(0, 0, 1, -1)
 val dy = intArrayOf(1, -1, 0, 0)

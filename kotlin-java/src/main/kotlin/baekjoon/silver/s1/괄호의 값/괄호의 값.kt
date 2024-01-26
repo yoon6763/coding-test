@@ -1,4 +1,4 @@
-package baekjoon.silver.s1.괄호의값
+package baekjoon.silver.s1.`괄호의 값`
 
 import kotlin.system.exitProcess
 

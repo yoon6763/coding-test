@@ -1,4 +1,4 @@
-package baekjoon.silver.s1.트리순회
+package baekjoon.silver.s1.`트리 순회`
 
 import java.io.BufferedReader
 import java.io.InputStreamReader

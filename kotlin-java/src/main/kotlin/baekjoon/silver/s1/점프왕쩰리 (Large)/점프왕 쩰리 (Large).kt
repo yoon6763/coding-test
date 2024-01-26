@@ -1,4 +1,4 @@
-package baekjoon.silver.s1.점프왕쩰리_large
+package baekjoon.silver.s1.`점프왕쩰리 (Large)`
 
 import java.util.StringTokenizer
 import kotlin.system.exitProcess

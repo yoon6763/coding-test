@@ -1,4 +1,4 @@
-package baekjoon.silver.s1.효율적인_해킹
+package baekjoon.silver.s1.`효율적인 해킹`
 
 import java.lang.StringBuilder
 import java.util.StringTokenizer

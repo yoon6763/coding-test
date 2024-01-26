@@ -1,4 +1,4 @@
-package baekjoon.silver.s1.하노이탑
+package baekjoon.silver.s1.`하노이 탑`
 
 import java.lang.StringBuilder
 import java.math.BigInteger

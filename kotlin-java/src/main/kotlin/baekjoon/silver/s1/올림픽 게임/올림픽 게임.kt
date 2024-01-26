@@ -1,4 +1,4 @@
-package baekjoon.silver.s1.올림픽게임
+package baekjoon.silver.s1.`올림픽 게임`
 
 import java.lang.StringBuilder
 import java.util.StringTokenizer

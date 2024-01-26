@@ -1,4 +1,4 @@
-package baekjoon.silver.s1.Red_And_Black
+package baekjoon.silver.s1.`Red And Black`
 
 data class Node(val x: Int, val y: Int)
 

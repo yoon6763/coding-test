@@ -1,4 +1,4 @@
-package baekjoon.silver.s1.영역구하기
+package baekjoon.silver.s1.`영역 구하기`
 
 import java.util.StringTokenizer
 

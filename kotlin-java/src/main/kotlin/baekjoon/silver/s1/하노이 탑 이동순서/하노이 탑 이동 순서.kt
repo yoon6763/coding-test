@@ -1,4 +1,4 @@
-package baekjoon.silver.s1.하노이탑이동순서
+package baekjoon.silver.s1.`하노이 탑 이동순서`
 
 import java.lang.StringBuilder
 
