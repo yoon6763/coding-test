@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-27 17:42:12 <br>
+Last Update : 2024-01-27 20:03:52 <br>
 
 
 ```
-1889 Solved
- - Kotlin : 1345
+1890 Solved
+ - Kotlin : 1346
  - Python : 264
  - Java : 139
  - SQL : 74
@@ -343,6 +343,7 @@ baekjoon
       [Kotlin] 보물섬
       [Kotlin] 빗물
       [Kotlin] 상범 빌딩
+      [Kotlin] 선발 명단
       [Kotlin] 수 나누기 게임
       [Kotlin] 숨바꼭질 3
       [Kotlin] 스타트링크
