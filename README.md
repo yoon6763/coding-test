@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-26 11:17:39 <br>
+Last Update : 2024-01-27 17:42:12 <br>
 
 
 ```
-1879 Solved
- - Kotlin : 1335
+1889 Solved
+ - Kotlin : 1345
  - Python : 264
  - Java : 139
  - SQL : 74
@@ -811,6 +811,7 @@ baekjoon
       [Rust] 알고리즘 수업 - 피보나치 수 1
     b2
       [Kotlin] 16진수
+      [Kotlin] 1번부터 문제의 상태가
       [Kotlin] 2009년
       [Kotlin] 2진수 뒤집기
       [Kotlin] 3대 측정
@@ -990,6 +991,7 @@ baekjoon
       [Kotlin] Since 1973
       [Kotlin] TGN
       [Kotlin] Trident
+      [Kotlin] UOSPC 세기
       [Kotlin] Vending Machine
       [Kotlin] Viva la Diferencia
       [Kotlin] Vowel Count
@@ -1001,6 +1003,7 @@ baekjoon
       [Kotlin] `ソーシャルゲーム (Social Game)`
       [Kotlin] 가뭄(Small)
       [Kotlin] 개표
+      [Kotlin] 거북이
       [Kotlin] 거울, 오! 거울
       [Kotlin] 겨울왕국 티켓 예매
       [Kotlin] 경기 결과
@@ -1024,6 +1027,7 @@ baekjoon
       [Kotlin] 과 조사하기
       [Kotlin] 그대로 출력하기 2
       [Kotlin] 꼬리를 무는 숫자 나열
+      [Kotlin] 꿍의 우주여행
       [Kotlin] 나는 요리사다
       [Kotlin] 남욱이의 닭장
       [Kotlin] 내 학점을 구해줘
@@ -1181,10 +1185,12 @@ baekjoon
       [Kotlin] Koszykarz
       [Kotlin] Kuber
       [Kotlin] Laptop Sticker
+      [Kotlin] Lunacy
       [Kotlin] Majestic 10
       [Kotlin] Máquina de café
       [Kotlin] Next in line
       [Kotlin] No Brainer
+      [Kotlin] Os últimos serão os primeiros
       [Kotlin] Paslpta suma
       [Kotlin] Petrol
       [Kotlin] Pizza Deal
@@ -1208,6 +1214,7 @@ baekjoon
       [Kotlin] Zagubiona litera
       [Kotlin] Äpplen och päron
       [Kotlin] Большой удой
+      [Kotlin] ГРАДИНА
       [Kotlin] Лифт
       [Kotlin] Простая задача
       [Kotlin] Торговый центр
@@ -1263,6 +1270,7 @@ baekjoon
       [Kotlin] 줄번호
       [Kotlin] 지폐 세기
       [Kotlin] 체육은 코딩과목 입니다
+      [Kotlin] 치즈버거 만들기
       [Kotlin] 치킨 두 마리
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스 2
@@ -1326,6 +1334,7 @@ baekjoon
       [Kotlin] Zadanie próbne
       [Kotlin] Арифметическая магия
       [Kotlin] РАВЕНСТВО
+      [Kotlin] Робинзон Крузо
       [Kotlin] Счастье Мистера Бина
       [Kotlin] ゾロ目 (Same Numbers)
       [Kotlin] 三方比較 (Three-Way Comparison)
@@ -1357,6 +1366,7 @@ baekjoon
       [Kotlin] 성택이의 은밀한 비밀번호
       [Kotlin] 세금
       [Kotlin] 세제곱의 합
+      [Kotlin] 스위트콘 가격 구하기
       [Kotlin] 아!
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행
       [Kotlin] 영수증
