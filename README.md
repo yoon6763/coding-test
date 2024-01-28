@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-27 20:03:52 <br>
+Last Update : 2024-01-28 17:29:11 <br>
 
 
 ```
-1890 Solved
- - Kotlin : 1346
+1900 Solved
+ - Kotlin : 1356
  - Python : 264
  - Java : 139
  - SQL : 74
@@ -50,6 +50,7 @@ baekjoon
       [Kotlin] 레드 블루 스패닝 트리
       [Kotlin] 룩 배치하기
       [Kotlin] 상어의 저녁식사
+      [Kotlin] 소수 쌍
       [Kotlin] 열혈강호 3
     p4
       [Kotlin] K번째 최단경로 찾기
@@ -753,6 +754,7 @@ baekjoon
       [Kotlin] 도비의 난독증 테스트
       [Kotlin] 뒤집힌 덧셈
       [Kotlin] 드높은 남산 위에 우뚝 선
+      [Kotlin] 뚊
       [Kotlin] 명령 프롬프트
       [Kotlin] 몬스터 트럭
       [Kotlin] 문자 인식
@@ -777,6 +779,7 @@ baekjoon
       [Kotlin] 유니대전 퀴즈쇼
       [Kotlin] 이번학기 평점은 몇점
       [Kotlin] 이항 계수 1
+      [Kotlin] 인생은 한 방
       [Kotlin] 일곱 난쟁이
       [Kotlin] 적어도 대부분의 배수
       [Kotlin] 진법 변환 2
@@ -830,6 +833,7 @@ baekjoon
       [Kotlin] Java Bitecode
       [Kotlin] KMP는 왜 KMP일까
       [Kotlin] Number Maximization
+      [Kotlin] Palindromes
       [Kotlin] Reverse Text
       [Kotlin] Split
       [Kotlin] Strfry
@@ -904,7 +908,8 @@ baekjoon
       [Kotlin] 점심시간 레이스
       [Kotlin] 정수의 개수
       [Kotlin] 좋은 자동차 번호판
-      [Kotlin] 줄 세우기
+      [Kotlin] 줄 세우기 1681
+      [Kotlin] 줄 세우기 2605
       [Kotlin] 줄임말 만들기
       [Kotlin] 중복을 없애자
       [Kotlin] 지우개
@@ -1002,6 +1007,7 @@ baekjoon
       [Kotlin] ZOAC 5
       [Kotlin] Zegarek
       [Kotlin] `ソーシャルゲーム (Social Game)`
+      [Kotlin] Выражение
       [Kotlin] 가뭄(Small)
       [Kotlin] 개표
       [Kotlin] 거북이
@@ -1041,8 +1047,10 @@ baekjoon
       [Kotlin] 더하기 4
       [Kotlin] 등장하지 않는 문자의 합
       [Kotlin] 디지털 루트
+      [Kotlin] 멀티탭 충분하니
       [Kotlin] 모음의 개수
       [Kotlin] 미국 스타일
+      [Kotlin] 방어력 무시 계산하기
       [Kotlin] 배수 찾기
       [Kotlin] 배수와 약수
       [Kotlin] 백발백준하는 명사수
@@ -1182,6 +1190,7 @@ baekjoon
       [Kotlin] H4x0r
       [Kotlin] Hello Judge
       [Kotlin] ICPC
+      [Kotlin] ISBN
       [Kotlin] Identifying tea
       [Kotlin] Koszykarz
       [Kotlin] Kuber
@@ -1198,6 +1207,7 @@ baekjoon
       [Kotlin] Population
       [Kotlin] Quadrilateral
       [Kotlin] R2
+      [Kotlin] Rectangles
       [Kotlin] Reverse
       [Kotlin] Rulltrappa
       [Kotlin] SASA 모형을 만들어보자
