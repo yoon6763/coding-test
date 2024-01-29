@@ -14,17 +14,17 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-29 14:33:07 <br>
+Last Update : 2024-01-29 15:54:16 <br>
 
 
 ```
-1909 Solved
- - Kotlin : 1365
+1911 Solved
+ - Kotlin : 1366
  - Python : 264
  - Java : 139
  - SQL : 74
  - C : 23
- - C++ : 10
+ - C++ : 11
  - Ruby : 9
  - JavaScript : 9
  - Text : 5
@@ -557,6 +557,7 @@ baekjoon
       [Kotlin] 어린 왕자
       [Kotlin] 영단어 암기는 괴로워
       [Kotlin] 이친수
+      [Kotlin] 장난감 강아지
       [Kotlin] 절사평균
       [Kotlin] 주유소
       [Kotlin] 크리스마스 선물
@@ -644,6 +645,7 @@ baekjoon
       [Python] 쓰레기 수거
       [Python] 한수
       [Java] 문서 검색
+      [C++] 수면 장애
     s5
       [Kotlin] 2차원 배열의 합
       [Kotlin] BABBA
