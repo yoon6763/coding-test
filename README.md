@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-28 17:29:11 <br>
+Last Update : 2024-01-29 14:33:07 <br>
 
 
 ```
-1900 Solved
- - Kotlin : 1356
+1909 Solved
+ - Kotlin : 1365
  - Python : 264
  - Java : 139
  - SQL : 74
@@ -52,6 +52,7 @@ baekjoon
       [Kotlin] 상어의 저녁식사
       [Kotlin] 소수 쌍
       [Kotlin] 열혈강호 3
+      [Kotlin] 열혈강호 4
     p4
       [Kotlin] K번째 최단경로 찾기
       [Kotlin] 노트북의 주인을 찾아서
@@ -637,6 +638,7 @@ baekjoon
       [Kotlin] 피보나치 비스무리한 수열
       [Kotlin] 피보나치 수 7
       [Kotlin] 학생별 통화 요금 계산
+      [Kotlin] 한윤정이 이탈리아에 가서 아이스크림을 사먹는데
       [Python] 국영수
       [Python] 설탕 배달
       [Python] 쓰레기 수거
@@ -666,6 +668,7 @@ baekjoon
       [Kotlin] 단어 정렬
       [Kotlin] 덩치
       [Kotlin] 뒤집기
+      [Kotlin] 라디오
       [Kotlin] 막대기
       [Kotlin] 멘토와 멘티
       [Kotlin] 문자를 받은 승환이
@@ -905,6 +908,7 @@ baekjoon
       [Kotlin] 자기복제수
       [Kotlin] 재귀의 귀재
       [Kotlin] 저항
+      [Kotlin] 전북대학교
       [Kotlin] 점심시간 레이스
       [Kotlin] 정수의 개수
       [Kotlin] 좋은 자동차 번호판
@@ -1009,6 +1013,7 @@ baekjoon
       [Kotlin] `ソーシャルゲーム (Social Game)`
       [Kotlin] Выражение
       [Kotlin] 가뭄(Small)
+      [Kotlin] 가위 바위 보
       [Kotlin] 개표
       [Kotlin] 거북이
       [Kotlin] 거울, 오! 거울
@@ -1016,6 +1021,7 @@ baekjoon
       [Kotlin] 경기 결과
       [Kotlin] 계산기 프로그램
       [Kotlin] 고급 수학
+      [Kotlin] 고급 여관
       [Kotlin] 고려대학교에는 공식 와인이 있다
       [Kotlin] 골뱅이 찍기 - ㄴ
       [Kotlin] 골뱅이 찍기 - ㄷ
@@ -1210,6 +1216,7 @@ baekjoon
       [Kotlin] Rectangles
       [Kotlin] Reverse
       [Kotlin] Rulltrappa
+      [Kotlin] Rust Study
       [Kotlin] SASA 모형을 만들어보자
       [Kotlin] Schronisko
       [Kotlin] Simple Sum
@@ -1228,6 +1235,7 @@ baekjoon
       [Kotlin] ГРАДИНА
       [Kotlin] Лифт
       [Kotlin] Простая задача
+      [Kotlin] Сравнение комнат
       [Kotlin] Торговый центр
       [Kotlin] ЧАСОВНИК
       [Kotlin] Шахматная доска
@@ -1241,6 +1249,7 @@ baekjoon
       [Kotlin] 鉛筆 (Pencils)
       [Kotlin] 가희와 방어율 무시
       [Kotlin] 감마선을 맞은 컴퓨터
+      [Kotlin] 개표
       [Kotlin] 공백 없는 A+B
       [Kotlin] 과목선택
       [Kotlin] 과자
