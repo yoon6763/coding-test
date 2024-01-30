@@ -42,4 +42,4 @@ bin/
 .DS_Store
 /src/main/kotlin/Main.java
 /src/main/kotlin/Main.kt
-/src/main/kotlin/Main2.java
+/src/main/kotlin/Member.java
