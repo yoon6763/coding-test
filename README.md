@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-29 15:54:16 <br>
+Last Update : 2024-01-30 17:00:14 <br>
 
 
 ```
-1911 Solved
- - Kotlin : 1366
+1921 Solved
+ - Kotlin : 1376
  - Python : 264
  - Java : 139
  - SQL : 74
@@ -74,6 +74,7 @@ baekjoon
       [Kotlin] 고층 빌딩
       [Kotlin] 배열에서 이동
       [Kotlin] 백조의 호수
+      [Kotlin] 벌집
       [Kotlin] 블록껍질
       [Kotlin] 비밀번호 제작
       [Kotlin] 빙고-Kotlin
@@ -208,6 +209,7 @@ baekjoon
       [Kotlin] 마법사 상어와 파이어스톰
       [Kotlin] 말이 되고픈 원숭이
       [Kotlin] 무엇을 아느냐가 아니라 누구를 아느냐가 문제다
+      [Kotlin] 미로 탈출하기
       [Kotlin] 벽 부수고 이동하기
       [Kotlin] 벽 부수고 이동하기 2
       [Kotlin] 별자리 만들기
@@ -833,6 +835,7 @@ baekjoon
       [Kotlin] Anagram Checker
       [Kotlin] CTP공국으로 이민 가자
       [Kotlin] Farm
+      [Kotlin] Happy Number
       [Kotlin] Hashing
       [Kotlin] JOI와 IOI
       [Kotlin] Java Bitecode
@@ -971,6 +974,7 @@ baekjoon
     b3
       [Kotlin] 1 = cute
       [Kotlin] 17배
+      [Kotlin] 2017 연세대학교 프로그래밍 경시대회
       [Kotlin] 2루수 이름이 뭐야
       [Kotlin] 2의 제곱인가
       [Kotlin] 369
@@ -998,6 +1002,7 @@ baekjoon
       [Kotlin] Liczenie punktów
       [Kotlin] Matches
       [Kotlin] Missing Numbers
+      [Kotlin] Monety
       [Kotlin] RICE SACK
       [Kotlin] Report Card Time
       [Kotlin] Since 1973
@@ -1089,6 +1094,7 @@ baekjoon
       [Kotlin] 성장의 비약 선택권
       [Kotlin] 세 막대
       [Kotlin] 세 수
+      [Kotlin] 세 수 2985
       [Kotlin] 세탁소 사장 동혁
       [Kotlin] 소수가 아닌 수
       [Kotlin] 소음
@@ -1115,6 +1121,8 @@ baekjoon
       [Kotlin] 윷놀이
       [Kotlin] 이 문제는 D2 입니다
       [Kotlin] 이진수
+      [Kotlin] 일반 화학 실험
+      [Kotlin] 일우는 야바위꾼
       [Kotlin] 저작권
       [Kotlin] 전투 드로이드 가격
       [Kotlin] 점수계산
@@ -1194,6 +1202,7 @@ baekjoon
       [Kotlin] FYI
       [Kotlin] Fill the Rowboats!
       [Kotlin] Final Price
+      [Kotlin] Gorvio
       [Kotlin] Gömda ord
       [Kotlin] H4x0r
       [Kotlin] Hello Judge
@@ -1267,6 +1276,7 @@ baekjoon
       [Kotlin] 민주주의
       [Kotlin] 베라의 패션
       [Kotlin] 별 찍기 - 3
+      [Kotlin] 브실이와 친구가 되고 싶어
       [Kotlin] 빵
       [Kotlin] 사장님 도박은 재미로 하셔야 합니다
       [Kotlin] 삼각형 외우기
