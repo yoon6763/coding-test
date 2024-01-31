@@ -14,17 +14,17 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-30 17:00:14 <br>
+Last Update : 2024-01-31 15:17:31 <br>
 
 
 ```
-1921 Solved
- - Kotlin : 1376
+1932 Solved
+ - Kotlin : 1386
  - Python : 264
  - Java : 139
  - SQL : 74
  - C : 23
- - C++ : 11
+ - C++ : 12
  - Ruby : 9
  - JavaScript : 9
  - Text : 5
@@ -49,6 +49,7 @@ baekjoon
       [Kotlin] 돌멩이 제거
       [Kotlin] 레드 블루 스패닝 트리
       [Kotlin] 룩 배치하기
+      [Kotlin] 룩 어택
       [Kotlin] 상어의 저녁식사
       [Kotlin] 소수 쌍
       [Kotlin] 열혈강호 3
@@ -776,6 +777,7 @@ baekjoon
       [Kotlin] 소가 길을 건너간 이유 1
       [Kotlin] 소인수분해
       [Kotlin] 슈퍼 마리오
+      [Kotlin] 싸이클
       [Kotlin] 알고리즘 수업 - 선택 정렬 2
       [Kotlin] 알고리즘 수업 - 피보나치 수 1
       [Kotlin] 애너그램
@@ -837,6 +839,7 @@ baekjoon
       [Kotlin] Farm
       [Kotlin] Happy Number
       [Kotlin] Hashing
+      [Kotlin] JOI ソート (JOI Sort)
       [Kotlin] JOI와 IOI
       [Kotlin] Java Bitecode
       [Kotlin] KMP는 왜 KMP일까
@@ -846,11 +849,13 @@ baekjoon
       [Kotlin] Split
       [Kotlin] Strfry
       [Kotlin] String
+      [Kotlin] Stół
       [Kotlin] TV 크기
       [Kotlin] `첼시를 도와줘`
       [Kotlin] e 계산
       [Kotlin] 複雑な文字列 (Complex String)
       [Kotlin] 가장 많은 글자
+      [Kotlin] 가장 쉬운 문제를 찾는 문제
       [Kotlin] 거꾸로 구구단
       [Kotlin] 거리의 합
       [Kotlin] 거스름돈
@@ -875,6 +880,7 @@ baekjoon
       [Kotlin] 모르고리즘 회장 정하기
       [Kotlin] 문자열 분석
       [Kotlin] 바구니 뒤집기
+      [Kotlin] 박사 과정
       [Kotlin] 방 배정
       [Kotlin] 배수들의 합
       [Kotlin] 백설 공주와 일곱 난쟁이
@@ -940,6 +946,7 @@ baekjoon
       [Kotlin] 피로도
       [Kotlin] 피시방 알바
       [Kotlin] 하얀 칸
+      [Kotlin] 학점계산프로그램
       [Kotlin] 행복
       [Kotlin] 화성 수학
       [Kotlin] 회전
@@ -970,6 +977,7 @@ baekjoon
       [C] 맥주 냉장고
       [C] 팬케이크 사랑
       [C] 피보나치 수
+      [C++] Happy Number
       [C++] 분산처리
     b3
       [Kotlin] 1 = cute
@@ -987,6 +995,7 @@ baekjoon
       [Kotlin] Extreme Temperatures
       [Kotlin] FBI
       [Kotlin] Fan Death
+      [Kotlin] Filling Out the Team
       [Kotlin] Gift
       [Kotlin] Golf
       [Kotlin] Greetings!
@@ -1208,6 +1217,7 @@ baekjoon
       [Kotlin] Hello Judge
       [Kotlin] ICPC
       [Kotlin] ISBN
+      [Kotlin] IT Passport Examination
       [Kotlin] Identifying tea
       [Kotlin] Koszykarz
       [Kotlin] Kuber
@@ -1229,6 +1239,7 @@ baekjoon
       [Kotlin] Rulltrappa
       [Kotlin] Rust Study
       [Kotlin] SASA 모형을 만들어보자
+      [Kotlin] SMS from MCHS
       [Kotlin] Schronisko
       [Kotlin] Simple Sum
       [Kotlin] Skarpetki
