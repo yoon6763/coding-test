@@ -2,7 +2,7 @@ package baekjoon.platinum.p5.`벌집`
 
 data class Node(var x: Int, var y: Int)
 
-const val MAP_SIZE = 1500
+const val MAP_SIZE = 1200
 
 fun main() {
     val (startPoint, endPoint) = readln().split(" ").map { it.toInt() }
@@ -96,14 +96,15 @@ fun generateHoneycombMap(): Array<IntArray> {
     val mapGeneratorDx = intArrayOf(-1, 0, 1, 1, 0, -1)
     val mapGeneratorDy = intArrayOf(1, 1, 0, -1, -1, 0)
 
-    while (num <= 1100000) {
+    while (num <= 1000000) {
         for (i in 0..<layer) {
             x += mapGeneratorDx[dir]
             y += mapGeneratorDy[dir]
             map[x][y] = num++
         }
-        dir = (dir + 1) % 6
-        if (dir == 0) {
+        dir++
+        if (dir == 6) {
+            dir = 0
             layer++
             y--
         }
