@@ -14,14 +14,14 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-01-31 15:17:31 <br>
+Last Update : 2024-02-01 12:52:11 <br>
 
 
 ```
-1932 Solved
- - Kotlin : 1386
+1942 Solved
+ - Kotlin : 1395
  - Python : 264
- - Java : 139
+ - Java : 140
  - SQL : 74
  - C : 23
  - C++ : 12
@@ -75,6 +75,7 @@ baekjoon
       [Kotlin] 고층 빌딩
       [Kotlin] 배열에서 이동
       [Kotlin] 백조의 호수
+      [Kotlin] 버블 소트
       [Kotlin] 벌집
       [Kotlin] 블록껍질
       [Kotlin] 비밀번호 제작
@@ -612,6 +613,7 @@ baekjoon
       [Kotlin] 비밀번호 찾기
       [Kotlin] 빙고
       [Kotlin] 상근이의 여행
+      [Kotlin] 색종이 - 2
       [Kotlin] 수 찾기
       [Kotlin] 수들의 합 2
       [Kotlin] 수열 정렬
@@ -641,6 +643,7 @@ baekjoon
       [Kotlin] 토너먼트
       [Kotlin] 피보나치 비스무리한 수열
       [Kotlin] 피보나치 수 7
+      [Kotlin] 학생 번호
       [Kotlin] 학생별 통화 요금 계산
       [Kotlin] 한윤정이 이탈리아에 가서 아이스크림을 사먹는데
       [Python] 국영수
@@ -792,6 +795,7 @@ baekjoon
       [Kotlin] 일곱 난쟁이
       [Kotlin] 적어도 대부분의 배수
       [Kotlin] 진법 변환 2
+      [Kotlin] 초성 변환
       [Kotlin] 초콜릿 자르기
       [Kotlin] 최대공약수와 최소공배수
       [Kotlin] 최소공배수
@@ -947,6 +951,7 @@ baekjoon
       [Kotlin] 피시방 알바
       [Kotlin] 하얀 칸
       [Kotlin] 학점계산프로그램
+      [Kotlin] 해밍 거리
       [Kotlin] 행복
       [Kotlin] 화성 수학
       [Kotlin] 회전
@@ -990,6 +995,7 @@ baekjoon
       [Kotlin] A+B - 6
       [Kotlin] ABC
       [Kotlin] Baseball
+      [Kotlin] Bałwanek
       [Kotlin] Billing
       [Kotlin] Culture shock
       [Kotlin] Extreme Temperatures
@@ -1193,6 +1199,7 @@ baekjoon
       [Kotlin] 3 つの整数 (Three Integers)
       [Kotlin] AFC 윔블던
       [Kotlin] Andando no tempo
+      [Kotlin] Another Eruption
       [Kotlin] Area
       [Kotlin] Atrium
       [Kotlin] Bicycle
@@ -1230,6 +1237,7 @@ baekjoon
       [Kotlin] Os últimos serão os primeiros
       [Kotlin] Paslpta suma
       [Kotlin] Petrol
+      [Kotlin] Piece of Cake
       [Kotlin] Pizza Deal
       [Kotlin] Population
       [Kotlin] Quadrilateral
@@ -1258,6 +1266,7 @@ baekjoon
       [Kotlin] Лифт
       [Kotlin] Простая задача
       [Kotlin] Сравнение комнат
+      [Kotlin] Таблица результатов
       [Kotlin] Торговый центр
       [Kotlin] ЧАСОВНИК
       [Kotlin] Шахматная доска
@@ -1638,6 +1647,7 @@ programmers
     [Java] 더_맵게
     [Java] 미로_탈출
     [Java] 숫자의_표현
+    [Java] 양궁대회
     [Java] 올바른_괄호
     [Java] 전력망을_둘로_나누기_위상정렬
     [Java] 점프와_순간_이동
