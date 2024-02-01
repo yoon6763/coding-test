@@ -41,7 +41,5 @@ fun main() = with(System.`in`.bufferedReader()) {
         if (dfs(i)) ans++
     }
 
-
-
     println(ans)
 }
