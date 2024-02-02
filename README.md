@@ -14,14 +14,14 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-01 12:52:11 <br>
+Last Update : 2024-02-02 11:40:08 <br>
 
 
 ```
-1942 Solved
- - Kotlin : 1395
+1944 Solved
+ - Kotlin : 1396
  - Python : 264
- - Java : 140
+ - Java : 141
  - SQL : 74
  - C : 23
  - C++ : 12
@@ -986,6 +986,7 @@ baekjoon
       [C++] 분산처리
     b3
       [Kotlin] 1 = cute
+      [Kotlin] 10103 주사위 게임
       [Kotlin] 17배
       [Kotlin] 2017 연세대학교 프로그래밍 경시대회
       [Kotlin] 2루수 이름이 뭐야
@@ -1652,6 +1653,7 @@ programmers
     [Java] 전력망을_둘로_나누기_위상정렬
     [Java] 점프와_순간_이동
     [Java] 최솟값_만들기
+    [Java] 카카오_캐시
 
   Level 1
     [Python] [PCCP 모의고사 #1] 1번 - 외톨이 알파벳
