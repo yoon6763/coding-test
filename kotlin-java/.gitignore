@@ -40,6 +40,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/src/main/kotlin/Main.java
-/src/main/kotlin/Main.kt
+/src/main/kotlin/Test.java
+/src/main/kotlin/Test.kt
 /src/main/kotlin/Member.java
