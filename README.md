@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-02 11:40:08 <br>
+Last Update : 2024-02-03 15:46:17 <br>
 
 
 ```
-1944 Solved
- - Kotlin : 1396
+1945 Solved
+ - Kotlin : 1397
  - Python : 264
  - Java : 141
  - SQL : 74
@@ -1076,6 +1076,7 @@ baekjoon
       [Kotlin] 더하기 4
       [Kotlin] 등장하지 않는 문자의 합
       [Kotlin] 디지털 루트
+      [Kotlin] 맞았는데 왜 틀리죠
       [Kotlin] 멀티탭 충분하니
       [Kotlin] 모음의 개수
       [Kotlin] 미국 스타일
