@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-04 14:26:54 <br>
+Last Update : 2024-02-05 12:31:27 <br>
 
 
 ```
-1953 Solved
- - Kotlin : 1405
+1961 Solved
+ - Kotlin : 1413
  - Python : 264
  - Java : 141
  - SQL : 74
@@ -857,6 +857,7 @@ baekjoon
       [Kotlin] TV 크기
       [Kotlin] `첼시를 도와줘`
       [Kotlin] e 계산
+      [Kotlin] include Google IO h
       [Kotlin] 複雑な文字列 (Complex String)
       [Kotlin] 가장 많은 글자
       [Kotlin] 가장 쉬운 문제를 찾는 문제
@@ -927,6 +928,8 @@ baekjoon
       [Kotlin] 점심시간 레이스
       [Kotlin] 정수의 개수
       [Kotlin] 좋은 자동차 번호판
+      [Kotlin] 좋은놈 나쁜놈
+      [Kotlin] 주차의 신
       [Kotlin] 줄 세우기 1681
       [Kotlin] 줄 세우기 2605
       [Kotlin] 줄임말 만들기
@@ -947,6 +950,7 @@ baekjoon
       [Kotlin] 팬그램
       [Kotlin] 팰린드롬
       [Kotlin] 팰린드롬인지 확인하기
+      [Kotlin] 폭죽쇼
       [Kotlin] 피로도
       [Kotlin] 피시방 알바
       [Kotlin] 하얀 칸
@@ -992,6 +996,7 @@ baekjoon
       [Kotlin] 2루수 이름이 뭐야
       [Kotlin] 2의 제곱인가
       [Kotlin] 369
+      [Kotlin] 3n+1 수열
       [Kotlin] A divide B - 3
       [Kotlin] A+B - 6
       [Kotlin] ABC
@@ -1075,6 +1080,7 @@ baekjoon
       [Kotlin] 더하기
       [Kotlin] 더하기 4
       [Kotlin] 등장하지 않는 문자의 합
+      [Kotlin] 등차수열에서 항 번호 찾기
       [Kotlin] 디지털 루트
       [Kotlin] 맞았는데 왜 틀리죠
       [Kotlin] 멀티탭 충분하니
@@ -1174,6 +1180,7 @@ baekjoon
       [Kotlin] 쿠폰
       [Kotlin] 특정 대문자를 소문자로 바꾸기
       [Kotlin] 파인만
+      [Kotlin] 페르시아의 왕들
       [Kotlin] 평균 중앙값 문제
       [Kotlin] 플러그
       [Kotlin] 한다 안한다
@@ -1297,6 +1304,7 @@ baekjoon
       [Kotlin] 관공 어찌하여 목만 오셨소
       [Kotlin] 녹색거탑
       [Kotlin] 뉴비의 기준은 뭘까
+      [Kotlin] 뉴턴의 사과
       [Kotlin] 단순한 문제 (Small)
       [Kotlin] 뜨거운 붕어빵
       [Kotlin] 럭비 클럽
