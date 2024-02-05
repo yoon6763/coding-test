@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-03 15:46:17 <br>
+Last Update : 2024-02-04 14:26:54 <br>
 
 
 ```
-1945 Solved
- - Kotlin : 1397
+1953 Solved
+ - Kotlin : 1405
  - Python : 264
  - Java : 141
  - SQL : 74
@@ -1131,7 +1131,9 @@ baekjoon
       [Kotlin] 얼룩말을 찾아라!
       [Kotlin] 얼마
       [Kotlin] 연길이의 이상형
+      [Kotlin] 연세여 사랑한다
       [Kotlin] 영수증
+      [Kotlin] 오버플로우와 모듈러
       [Kotlin] 오븐 시계
       [Kotlin] 완전 세제곱
       [Kotlin] 유치원생 파댕이 돌보기
@@ -1172,10 +1174,12 @@ baekjoon
       [Kotlin] 쿠폰
       [Kotlin] 특정 대문자를 소문자로 바꾸기
       [Kotlin] 파인만
+      [Kotlin] 평균 중앙값 문제
       [Kotlin] 플러그
       [Kotlin] 한다 안한다
       [Kotlin] 할로윈의 사탕
       [Kotlin] 핸드폰 요금
+      [Kotlin] 헤라클레스와 히드라
       [Kotlin] 헬멧과 조끼
       [Kotlin] 홀수
       [Kotlin] 홀수일까 짝수일까
@@ -1200,6 +1204,7 @@ baekjoon
       [Kotlin] 2 番目に大きい整数 (The Second Largest Integer)
       [Kotlin] 3 つの整数 (Three Integers)
       [Kotlin] AFC 윔블던
+      [Kotlin] Abbey Courtyard
       [Kotlin] Andando no tempo
       [Kotlin] Another Eruption
       [Kotlin] Area
@@ -1209,6 +1214,7 @@ baekjoon
       [Kotlin] Boiling Water
       [Kotlin] CASIO
       [Kotlin] Chili Peppers
+      [Kotlin] Communication Channels
       [Kotlin] Covid-19
       [Kotlin] Darius님 한타 안 함
       [Kotlin] Dedupe
@@ -1236,12 +1242,14 @@ baekjoon
       [Kotlin] Máquina de café
       [Kotlin] Next in line
       [Kotlin] No Brainer
+      [Kotlin] Oddities
       [Kotlin] Os últimos serão os primeiros
       [Kotlin] Paslpta suma
       [Kotlin] Petrol
       [Kotlin] Piece of Cake
       [Kotlin] Pizza Deal
       [Kotlin] Population
+      [Kotlin] Poziome serca
       [Kotlin] Quadrilateral
       [Kotlin] R2
       [Kotlin] Rectangles
