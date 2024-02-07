@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-06 14:14:18 <br>
+Last Update : 2024-02-07 18:34:32 <br>
 
 
 ```
-1971 Solved
- - Kotlin : 1423
+1980 Solved
+ - Kotlin : 1432
  - Python : 264
  - Java : 141
  - SQL : 74
@@ -834,6 +834,7 @@ baekjoon
       [Kotlin] 1번부터 문제의 상태가
       [Kotlin] 2009년
       [Kotlin] 2진수 뒤집기
+      [Kotlin] 3000번 버스
       [Kotlin] 3대 측정
       [Kotlin] 5와 6의 차이
       [Kotlin] 5의 수난
@@ -882,6 +883,7 @@ baekjoon
       [Kotlin] 대표값
       [Kotlin] 대표값2
       [Kotlin] 대회 자리
+      [Kotlin] 더하기
       [Kotlin] 동혁 피자
       [Kotlin] 막대기
       [Kotlin] 만취한 상범
@@ -918,6 +920,7 @@ baekjoon
       [Kotlin] 완전제곱수
       [Kotlin] 욱제는 효도쟁이야
       [Kotlin] 운동
+      [Kotlin] 원피스
       [Kotlin] 유학 금지
       [Kotlin] 이상한 곱셈
       [Kotlin] 이진수 덧셈
@@ -1045,6 +1048,7 @@ baekjoon
       [Kotlin] Zegarek
       [Kotlin] `ソーシャルゲーム (Social Game)`
       [Kotlin] Выражение
+      [Kotlin] Пары
       [Kotlin] 가뭄(Small)
       [Kotlin] 가위 바위 보
       [Kotlin] 개표
@@ -1089,6 +1093,7 @@ baekjoon
       [Kotlin] 디지털 루트
       [Kotlin] 맞았는데 왜 틀리죠
       [Kotlin] 멀티탭 충분하니
+      [Kotlin] 명장 남정훈
       [Kotlin] 모음의 개수
       [Kotlin] 미국 스타일
       [Kotlin] 방어력 무시 계산하기
@@ -1137,6 +1142,7 @@ baekjoon
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 3
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 4
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 5
+      [Kotlin] 암호 만들기
       [Kotlin] 앵그리 창영
       [Kotlin] 약수 구하기
       [Kotlin] 얼룩말을 찾아라!
@@ -1153,6 +1159,7 @@ baekjoon
       [Kotlin] 이진수
       [Kotlin] 일반 화학 실험
       [Kotlin] 일우는 야바위꾼
+      [Kotlin] 자전거 속도
       [Kotlin] 저작권
       [Kotlin] 전투 드로이드 가격
       [Kotlin] 점수계산
@@ -1283,9 +1290,11 @@ baekjoon
       [Kotlin] Tren del Fin del Mundo
       [Kotlin] Tri-du
       [Kotlin] Triangles
+      [Kotlin] Winning Score
       [Kotlin] X に最も近い値 (The Nearest Value)
       [Kotlin] ZOAC 6
       [Kotlin] Zagubiona litera
+      [Kotlin] Zero or One
       [Kotlin] Äpplen och päron
       [Kotlin] Большой удой
       [Kotlin] ГРАДИНА
