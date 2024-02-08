@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-08 15:56:23 <br>
+Last Update : 2024-02-09 00:20:20 <br>
 
 
 ```
-1990 Solved
- - Kotlin : 1442
+1991 Solved
+ - Kotlin : 1443
  - Python : 264
  - Java : 141
  - SQL : 74
@@ -96,6 +96,7 @@ baekjoon
       [Kotlin] 트리
       [Kotlin] 한동이는 영업사원
       [Kotlin] 행성 터널
+      [Kotlin] 헤븐스 키친
       [Kotlin] 히스토그램
       [Kotlin] 히스토그램에 가장 큰 직사각형
       [Java] 빙고
