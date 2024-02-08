@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-07 18:34:32 <br>
+Last Update : 2024-02-08 15:56:23 <br>
 
 
 ```
-1980 Solved
- - Kotlin : 1432
+1990 Solved
+ - Kotlin : 1442
  - Python : 264
  - Java : 141
  - SQL : 74
@@ -301,6 +301,7 @@ baekjoon
       [Kotlin] 이분 그래프
       [Kotlin] 이중 우선순위 큐
       [Kotlin] 이진 검색 트리
+      [Kotlin] 적의 적
       [Kotlin] 전력난
       [Kotlin] 좋다
       [Kotlin] 집합의 표현
@@ -318,6 +319,7 @@ baekjoon
       [Kotlin] 특정한 최단 경로
       [Kotlin] 파일 합치기 3
       [Kotlin] 팰린드롬
+      [Kotlin] 퍼레이드
       [Kotlin] 플로이드
       [Kotlin] 해킹
       [Kotlin] 행렬 제곱
@@ -351,12 +353,14 @@ baekjoon
       [Kotlin] 빗물
       [Kotlin] 상범 빌딩
       [Kotlin] 선발 명단
+      [Kotlin] 소셜 네트워킹 어플리케이션
       [Kotlin] 수 나누기 게임
       [Kotlin] 숨바꼭질 3
       [Kotlin] 스타트링크
       [Kotlin] 신기한 소수
       [Kotlin] 암호 만들기
       [Kotlin] 암호코드
+      [Kotlin] 여러분의 다리가 되어 드리겠습니다
       [Kotlin] 연속합 2
       [Kotlin] 옥상 정원 꾸미기
       [Kotlin] 인구 이동
@@ -470,6 +474,7 @@ baekjoon
       [Kotlin] 쇠막대기
       [Kotlin] 숫자판 점프
       [Kotlin] 스타트와 링크
+      [Kotlin] 싸이버개강총회
       [Kotlin] 아기 상어 2
       [Kotlin] 알고리즘 수업 - 깊이 우선 탐색 1
       [Kotlin] 알고리즘 수업 - 깊이 우선 탐색 2
@@ -764,6 +769,7 @@ baekjoon
       [Kotlin] 너의 핸들은
       [Kotlin] 논리학 교수
       [Kotlin] 단어 뒤집기
+      [Kotlin] 단어 퍼즐
       [Kotlin] 도비의 난독증 테스트
       [Kotlin] 뒤집힌 덧셈
       [Kotlin] 드높은 남산 위에 우뚝 선
@@ -908,6 +914,7 @@ baekjoon
       [Kotlin] 시그마
       [Kotlin] 시험 감독
       [Kotlin] 신용카드 판별
+      [Kotlin] 싱기한 네자리 숫자
       [Kotlin] 아즈텍 피라미드
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 6
       [Kotlin] 알파벳 전부 쓰기
@@ -1031,6 +1038,8 @@ baekjoon
       [Kotlin] Matches
       [Kotlin] Missing Numbers
       [Kotlin] Monety
+      [Kotlin] N M 찍기
+      [Kotlin] Odd Gnome
       [Kotlin] RICE SACK
       [Kotlin] Ratownik
       [Kotlin] Report Card Time
@@ -1252,6 +1261,7 @@ baekjoon
       [Kotlin] Gorvio
       [Kotlin] Gömda ord
       [Kotlin] H4x0r
+      [Kotlin] Hard choice
       [Kotlin] Hello Judge
       [Kotlin] ICPC
       [Kotlin] ISBN
