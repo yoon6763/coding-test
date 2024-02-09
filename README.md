@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-09 00:20:20 <br>
+Last Update : 2024-02-09 18:26:03 <br>
 
 
 ```
-1991 Solved
- - Kotlin : 1443
- - Python : 264
+1996 Solved
+ - Kotlin : 1447
+ - Python : 265
  - Java : 141
  - SQL : 74
  - C : 23
@@ -858,6 +858,7 @@ baekjoon
       [Kotlin] JOI와 IOI
       [Kotlin] Java Bitecode
       [Kotlin] KMP는 왜 KMP일까
+      [Kotlin] Max
       [Kotlin] Number Maximization
       [Kotlin] Palindromes
       [Kotlin] Reverse Text
@@ -1059,6 +1060,7 @@ baekjoon
       [Kotlin] `ソーシャルゲーム (Social Game)`
       [Kotlin] Выражение
       [Kotlin] Пары
+      [Kotlin] 文字列の反転 (Inversion of a String)
       [Kotlin] 가뭄(Small)
       [Kotlin] 가위 바위 보
       [Kotlin] 개표
@@ -1213,6 +1215,7 @@ baekjoon
       [Kotlin] 헬멧과 조끼
       [Kotlin] 홀수
       [Kotlin] 홀수일까 짝수일까
+      [Python] Zbiór
       [Python] 네 번째 점
       [Python] 열 개씩 끊어 출력하기
       [Python] 직각삼각형
@@ -1298,6 +1301,8 @@ baekjoon
       [Kotlin] Speed fines are not fine!
       [Kotlin] Squares
       [Kotlin] The Merchant of Venice
+      [Kotlin] The Walking Adam
+      [Kotlin] Tournament Selection
       [Kotlin] Tren del Fin del Mundo
       [Kotlin] Tri-du
       [Kotlin] Triangles
