@@ -14,14 +14,14 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-09 18:26:03 <br>
+Last Update : 2024-02-10 16:59:41 <br>
 
 
 ```
-1996 Solved
- - Kotlin : 1447
+1998 Solved
+ - Kotlin : 1448
  - Python : 265
- - Java : 141
+ - Java : 142
  - SQL : 74
  - C : 23
  - C++ : 12
@@ -879,6 +879,7 @@ baekjoon
       [Kotlin] 공약수
       [Kotlin] 관리자는 누구
       [Kotlin] 그릇
+      [Kotlin] 기숙사 바닥
       [Kotlin] 나누기
       [Kotlin] 나는 친구가 적다 (Large)
       [Kotlin] 나의 학점은
@@ -1625,6 +1626,7 @@ programmers
     [Java] 미로_탈출_명령어
     [Java] 야근_지수
     [Java] 정수_삼각형
+    [Java] 퍼즐_조각_채우기
 
   Level 2
     [Python] N개의 최소공배수
