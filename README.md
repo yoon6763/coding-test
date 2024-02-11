@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-10 16:59:41 <br>
+Last Update : 2024-02-11 13:51:34 <br>
 
 
 ```
-1998 Solved
- - Kotlin : 1448
+2000 Solved
+ - Kotlin : 1450
  - Python : 265
  - Java : 142
  - SQL : 74
@@ -1047,6 +1047,7 @@ baekjoon
       [Kotlin] Ratownik
       [Kotlin] Report Card Time
       [Kotlin] Since 1973
+      [Kotlin] Square Pasture
       [Kotlin] TGN
       [Kotlin] Trident
       [Kotlin] UOSPC 세기
@@ -1316,6 +1317,7 @@ baekjoon
       [Kotlin] Большой удой
       [Kotlin] ГРАДИНА
       [Kotlin] Лифт
+      [Kotlin] Миша и негатив
       [Kotlin] Простая задача
       [Kotlin] Сравнение комнат
       [Kotlin] Таблица результатов
