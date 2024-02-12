@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-11 13:51:34 <br>
+Last Update : 2024-02-12 12:05:21 <br>
 
 
 ```
-2000 Solved
- - Kotlin : 1450
+2001 Solved
+ - Kotlin : 1451
  - Python : 265
  - Java : 142
  - SQL : 74
@@ -1043,6 +1043,7 @@ baekjoon
       [Kotlin] Monety
       [Kotlin] N M 찍기
       [Kotlin] Odd Gnome
+      [Kotlin] Olympic Games
       [Kotlin] RICE SACK
       [Kotlin] Ratownik
       [Kotlin] Report Card Time
