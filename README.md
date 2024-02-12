@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-12 12:05:21 <br>
+Last Update : 2024-02-12 21:31:10 <br>
 
 
 ```
-2001 Solved
- - Kotlin : 1451
+2002 Solved
+ - Kotlin : 1452
  - Python : 265
  - Java : 142
  - SQL : 74
@@ -1309,6 +1309,7 @@ baekjoon
       [Kotlin] Tren del Fin del Mundo
       [Kotlin] Tri-du
       [Kotlin] Triangles
+      [Kotlin] Which Alien
       [Kotlin] Winning Score
       [Kotlin] X に最も近い値 (The Nearest Value)
       [Kotlin] ZOAC 6
