@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-12 21:31:10 <br>
+Last Update : 2024-02-13 10:21:25 <br>
 
 
 ```
-2002 Solved
- - Kotlin : 1452
+2010 Solved
+ - Kotlin : 1460
  - Python : 265
  - Java : 142
  - SQL : 74
@@ -772,6 +772,7 @@ baekjoon
       [Kotlin] 단어 뒤집기
       [Kotlin] 단어 퍼즐
       [Kotlin] 도비의 난독증 테스트
+      [Kotlin] 동전 게임
       [Kotlin] 뒤집힌 덧셈
       [Kotlin] 드높은 남산 위에 우뚝 선
       [Kotlin] 뚊
@@ -873,6 +874,7 @@ baekjoon
       [Kotlin] 複雑な文字列 (Complex String)
       [Kotlin] 가장 많은 글자
       [Kotlin] 가장 쉬운 문제를 찾는 문제
+      [Kotlin] 감정이입
       [Kotlin] 거꾸로 구구단
       [Kotlin] 거리의 합
       [Kotlin] 거스름돈
@@ -923,6 +925,7 @@ baekjoon
       [Kotlin] 알파벳 전부 쓰기
       [Kotlin] 애너그램 만들기
       [Kotlin] 야바위 대장
+      [Kotlin] 에어팟
       [Kotlin] 연속구간
       [Kotlin] 오각형, 오각형, 오각형…
       [Kotlin] 오르막
@@ -951,6 +954,7 @@ baekjoon
       [Kotlin] 줄임말 만들기
       [Kotlin] 중복을 없애자
       [Kotlin] 지우개
+      [Kotlin] 직사각형을 만드는 방법
       [Kotlin] 진법 변환
       [Kotlin] 진짜 공간
       [Kotlin] 창영이의 일기장
@@ -1021,6 +1025,7 @@ baekjoon
       [Kotlin] Bałwanek
       [Kotlin] Billing
       [Kotlin] Culture shock
+      [Kotlin] Divisionals Spelling
       [Kotlin] Extreme Temperatures
       [Kotlin] FBI
       [Kotlin] Fan Death
@@ -1045,6 +1050,7 @@ baekjoon
       [Kotlin] Odd Gnome
       [Kotlin] Olympic Games
       [Kotlin] RICE SACK
+      [Kotlin] Rating Problems
       [Kotlin] Ratownik
       [Kotlin] Report Card Time
       [Kotlin] Since 1973
@@ -1135,6 +1141,7 @@ baekjoon
       [Kotlin] 사나운 개
       [Kotlin] 사분면
       [Kotlin] 사탕 선생 고창영
+      [Kotlin] 삼각 무늬 - 1
       [Kotlin] 삼각형과 세 변
       [Kotlin] 서버
       [Kotlin] 서울사이버대학을 다니고
@@ -1149,6 +1156,7 @@ baekjoon
       [Kotlin] 수도요금
       [Kotlin] 숫자 맞추기 게임
       [Kotlin] 스케이트보드
+      [Kotlin] 스트릿 코딩 파이터
       [Kotlin] 신기한 수
       [Kotlin] 쌍의 합
       [Kotlin] 아이 러브 크로아티아
