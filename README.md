@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-13 10:21:25 <br>
+Last Update : 2024-02-14 11:00:35 <br>
 
 
 ```
-2010 Solved
- - Kotlin : 1460
+2019 Solved
+ - Kotlin : 1469
  - Python : 265
  - Java : 142
  - SQL : 74
@@ -765,6 +765,7 @@ baekjoon
       [Kotlin] XORXORXOR
       [Kotlin] Yangjojang of The Year
       [Kotlin] 가장 큰 금민수
+      [Kotlin] 고양이 사료
       [Kotlin] 교수님 그림이 깨지는데요
       [Kotlin] 긴급 회의
       [Kotlin] 너의 핸들은
@@ -944,6 +945,7 @@ baekjoon
       [Kotlin] 재귀의 귀재
       [Kotlin] 저항
       [Kotlin] 전북대학교
+      [Kotlin] 점수 집계
       [Kotlin] 점심시간 레이스
       [Kotlin] 정수의 개수
       [Kotlin] 좋은 자동차 번호판
@@ -959,6 +961,7 @@ baekjoon
       [Kotlin] 진짜 공간
       [Kotlin] 창영이의 일기장
       [Kotlin] 초6 수학
+      [Kotlin] 치킨 쿠폰
       [Kotlin] 친구
       [Kotlin] 카드 역배치
       [Kotlin] 커트라인
@@ -1273,6 +1276,7 @@ baekjoon
       [Kotlin] FYI
       [Kotlin] Fill the Rowboats!
       [Kotlin] Final Price
+      [Kotlin] Football Team
       [Kotlin] Gorvio
       [Kotlin] Gömda ord
       [Kotlin] H4x0r
@@ -1295,6 +1299,7 @@ baekjoon
       [Kotlin] Paslpta suma
       [Kotlin] Petrol
       [Kotlin] Piece of Cake
+      [Kotlin] Pizza
       [Kotlin] Pizza Deal
       [Kotlin] Population
       [Kotlin] Poziome serca
@@ -1388,10 +1393,12 @@ baekjoon
       [Kotlin] 줄번호
       [Kotlin] 지폐 세기
       [Kotlin] 체육은 코딩과목 입니다
+      [Kotlin] 출석 이벤트
       [Kotlin] 치즈버거 만들기
       [Kotlin] 치킨 두 마리
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스 2
+      [Kotlin] 타일 채우기 4
       [Kotlin] 타임 카드
       [Kotlin] 특별한 날
       [Kotlin] 팀 나누기
@@ -1419,6 +1426,7 @@ baekjoon
       [Kotlin] A+B
       [Kotlin] A+B - 9
       [Kotlin] An Easy-Peasy Problem
+      [Kotlin] Bottle Return
       [Kotlin] CAPS
       [Kotlin] Can you add this
       [Kotlin] Copier
@@ -1497,6 +1505,7 @@ baekjoon
       [Kotlin] 정보보호학부 동아리 소개
       [Kotlin] 정보섬의 대중교통
       [Kotlin] 제리와 톰
+      [Kotlin] 진흥원 세미나
       [Kotlin] 초코바
       [Kotlin] 카드 게임
       [Kotlin] 코드마스터 2023
