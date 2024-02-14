@@ -18,7 +18,6 @@ fun main() {
 
     val map = Array(n) { Array(m) { Array(2) { 0 } } }
 
-
     repeat(n) { x ->
         val line = br.readLine()
         repeat(m) { y ->
@@ -26,7 +25,6 @@ fun main() {
             map[x][y][0] = (line[y] - '0') * -1
         }
     }
-
 
     val q: Queue<Node> = LinkedList()
     map[0][0][0] = 1
@@ -43,22 +41,18 @@ fun main() {
             return
         }
 
-        for (i in 0 until 4) {
+        for (i in 0..<4) {
             val nx = target.x + dx[i]
             val ny = target.y + dy[i]
 
-            if (nx !in 0 until n || ny !in 0 until m) continue
+            if (nx !in 0..<n || ny !in 0..<m) continue
 
             if (map[nx][ny][0] == 0 && map[nx][ny][wall] == 0) {
                 // 벽 아님
-
                 map[nx][ny][wall] = map[target.x][target.y][wall] + 1
                 q.offer(Node(nx, ny, target.isWallRemove))
-
-
             } else if (map[nx][ny][0] == -1 && !target.isWallRemove && map[nx][ny][1] == 0) {
                 // 벽을 만남, 벽 부순적 없음(false - 0)
-
                 map[nx][ny][1] = map[target.x][target.y][0] + 1
                 q.offer(Node(nx, ny, true))
             }
