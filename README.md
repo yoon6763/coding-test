@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-14 11:00:35 <br>
+Last Update : 2024-02-15 10:12:44 <br>
 
 
 ```
-2019 Solved
- - Kotlin : 1469
+2027 Solved
+ - Kotlin : 1477
  - Python : 265
  - Java : 142
  - SQL : 74
@@ -782,6 +782,7 @@ baekjoon
       [Kotlin] 문자 인식
       [Kotlin] 문자메시지
       [Kotlin] 민균이의 비밀번호
+      [Kotlin] 박스
       [Kotlin] 반올림
       [Kotlin] 비밀편지
       [Kotlin] 색종이
@@ -842,6 +843,7 @@ baekjoon
       [Kotlin] 16진수
       [Kotlin] 1번부터 문제의 상태가
       [Kotlin] 2009년
+      [Kotlin] 24
       [Kotlin] 2진수 뒤집기
       [Kotlin] 3000번 버스
       [Kotlin] 3대 측정
@@ -861,6 +863,7 @@ baekjoon
       [Kotlin] Java Bitecode
       [Kotlin] KMP는 왜 KMP일까
       [Kotlin] Max
+      [Kotlin] NN
       [Kotlin] Number Maximization
       [Kotlin] Palindromes
       [Kotlin] Reverse Text
@@ -911,6 +914,7 @@ baekjoon
       [Kotlin] 브실이의 띠부띠부씰 컬렉션
       [Kotlin] 비교 연산자
       [Kotlin] 사칙연산
+      [Kotlin] 상근이의 체스판
       [Kotlin] 새
       [Kotlin] 소수 단어
       [Kotlin] 수 뒤집기
@@ -1016,6 +1020,7 @@ baekjoon
       [Kotlin] 1 = cute
       [Kotlin] 10103 주사위 게임
       [Kotlin] 17배
+      [Kotlin] 2017 아주대학교 프로그래밍 경시대회 (Small)
       [Kotlin] 2017 연세대학교 프로그래밍 경시대회
       [Kotlin] 2루수 이름이 뭐야
       [Kotlin] 2의 제곱인가
@@ -1057,6 +1062,7 @@ baekjoon
       [Kotlin] Ratownik
       [Kotlin] Report Card Time
       [Kotlin] Since 1973
+      [Kotlin] Sort 마스터 배지훈
       [Kotlin] Square Pasture
       [Kotlin] TGN
       [Kotlin] Trident
@@ -1157,6 +1163,7 @@ baekjoon
       [Kotlin] 소수가 아닌 수
       [Kotlin] 소음
       [Kotlin] 수도요금
+      [Kotlin] 수학적 호기심
       [Kotlin] 숫자 맞추기 게임
       [Kotlin] 스케이트보드
       [Kotlin] 스트릿 코딩 파이터
@@ -1321,6 +1328,7 @@ baekjoon
       [Kotlin] Tournament Selection
       [Kotlin] Tren del Fin del Mundo
       [Kotlin] Tri-du
+      [Kotlin] Triangle Height
       [Kotlin] Triangles
       [Kotlin] Which Alien
       [Kotlin] Winning Score
