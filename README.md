@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-15 10:12:44 <br>
+Last Update : 2024-02-15 10:28:20 <br>
 
 
 ```
-2027 Solved
- - Kotlin : 1477
+2028 Solved
+ - Kotlin : 1478
  - Python : 265
  - Java : 142
  - SQL : 74
@@ -1445,6 +1445,7 @@ baekjoon
       [Kotlin] Hello World
       [Kotlin] Hook
       [Kotlin] Intercepting Information
+      [Kotlin] Java Warriors
       [Kotlin] Julka
       [Kotlin] Larger Sport Facility
       [Kotlin] Mathematics
