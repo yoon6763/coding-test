@@ -1,4 +1,4 @@
-package programmers.lv3;
+package programmers.lv3.미로_탈출_명령어;
 
 public class 미로_탈출_명령어 {
     int[] dx = {1, 0, 0, -1};

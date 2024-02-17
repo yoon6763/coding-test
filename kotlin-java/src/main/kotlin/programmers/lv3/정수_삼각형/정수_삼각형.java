@@ -1,4 +1,4 @@
-package programmers.lv3;
+package programmers.lv3.정수_삼각형;
 
 import static java.lang.Math.max;
 

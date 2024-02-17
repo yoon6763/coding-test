@@ -1,4 +1,4 @@
-package programmers.lv3;
+package programmers.lv3.표_병합;
 
 import java.util.*;
 
