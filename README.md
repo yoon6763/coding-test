@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-17 18:07:30 <br>
+Last Update : 2024-02-18 16:33:59 <br>
 
 
 ```
-2035 Solved
- - Kotlin : 1481
+2041 Solved
+ - Kotlin : 1487
  - Python : 265
  - Java : 146
  - SQL : 74
@@ -57,6 +57,7 @@ baekjoon
     p4
       [Kotlin] K번째 최단경로 찾기
       [Kotlin] 노트북의 주인을 찾아서
+      [Kotlin] 도시 왕복하기 1
       [Kotlin] 들쥐의 탈출
       [Kotlin] 문명
       [Kotlin] 불 끄기
@@ -1067,6 +1068,7 @@ baekjoon
       [Kotlin] Since 1973
       [Kotlin] Sort 마스터 배지훈
       [Kotlin] Square Pasture
+      [Kotlin] Sum of Odd Sequence
       [Kotlin] TGN
       [Kotlin] Trident
       [Kotlin] UOSPC 세기
@@ -1259,6 +1261,7 @@ baekjoon
       [Kotlin] !밀비 급일
       [Kotlin] 10!
       [Kotlin] 10부제
+      [Kotlin] 11 月 (November)
       [Kotlin] 2 番目に大きい整数 (The Second Largest Integer)
       [Kotlin] 3 つの整数 (Three Integers)
       [Kotlin] A+B-C
@@ -1272,6 +1275,7 @@ baekjoon
       [Kotlin] Big Number
       [Kotlin] Boiling Water
       [Kotlin] CASIO
+      [Kotlin] Checkers
       [Kotlin] Chili Peppers
       [Kotlin] Communication Channels
       [Kotlin] Counting Antibodies
@@ -1308,6 +1312,7 @@ baekjoon
       [Kotlin] Oddities
       [Kotlin] Os últimos serão os primeiros
       [Kotlin] Paslpta suma
+      [Kotlin] Patyki
       [Kotlin] Petrol
       [Kotlin] Piece of Cake
       [Kotlin] Pizza
@@ -1325,6 +1330,7 @@ baekjoon
       [Kotlin] Schronisko
       [Kotlin] Simple Sum
       [Kotlin] Skarpetki
+      [Kotlin] Sounds fishy
       [Kotlin] Speed fines are not fine!
       [Kotlin] Squares
       [Kotlin] The Merchant of Venice
