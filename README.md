@@ -14,14 +14,14 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-16 15:33:33 <br>
+Last Update : 2024-02-17 18:07:30 <br>
 
 
 ```
-2031 Solved
- - Kotlin : 1479
+2035 Solved
+ - Kotlin : 1481
  - Python : 265
- - Java : 144
+ - Java : 146
  - SQL : 74
  - C : 23
  - C++ : 12
@@ -250,6 +250,7 @@ baekjoon
       [Kotlin] 할로윈의 양아치
       [Kotlin] 행렬 곱셈 순서
     g4
+      [Kotlin] CTP 왕국은 한솔 왕국을 이길 수 있을까
       [Kotlin] Count Circle Groups
       [Kotlin] DSLR
       [Kotlin] LCS 2
@@ -1120,6 +1121,7 @@ baekjoon
       [Kotlin] 대회 or 인턴
       [Kotlin] 더하기
       [Kotlin] 더하기 4
+      [Kotlin] 도미노
       [Kotlin] 등장하지 않는 문자의 합
       [Kotlin] 등차수열에서 항 번호 찾기
       [Kotlin] 디지털 루트
@@ -1658,6 +1660,7 @@ programmers
     [Java] 미로_탈출_명령어
     [Java] 야근_지수
     [Java] 정수_삼각형
+    [Java] 코딩_테스트_공부
     [Java] 퍼즐_조각_채우기
     [Java] 표_병합
 
@@ -1731,6 +1734,7 @@ programmers
     [Java] 게임_맵_최단거리
     [Java] 구명보트
     [Java] 귤_고르기
+    [Java] 뉴스클러스터링
     [Java] 다음_큰_숫자
     [Java] 더_맵게
     [Java] 미로_탈출
