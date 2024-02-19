@@ -14,14 +14,14 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-18 16:33:59 <br>
+Last Update : 2024-02-19 15:52:07 <br>
 
 
 ```
-2041 Solved
- - Kotlin : 1487
+2043 Solved
+ - Kotlin : 1488
  - Python : 265
- - Java : 146
+ - Java : 147
  - SQL : 74
  - C : 23
  - C++ : 12
@@ -119,6 +119,7 @@ baekjoon
       [Kotlin] 낚시왕
       [Kotlin] 다리 만들기 2
       [Kotlin] 달이 차오른다, 가자
+      [Kotlin] 도로검문
       [Kotlin] 멀티탭 스케줄링
       [Kotlin] 미네랄
       [Kotlin] 벽 부수고 이동하기 3
@@ -145,6 +146,7 @@ baekjoon
       [Kotlin] 팰른드롬 분할
       [Kotlin] 하이퍼 토마토
       [Python] 제곱 ㄴㄴ 수
+      [Java] 도로검문 자바
     g2
       [Kotlin] 1의 개수 세기
       [Kotlin] 2048 (Easy)
