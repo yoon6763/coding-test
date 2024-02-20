@@ -14,14 +14,14 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-19 15:52:07 <br>
+Last Update : 2024-02-20 10:39:37 <br>
 
 
 ```
-2043 Solved
- - Kotlin : 1488
+2053 Solved
+ - Kotlin : 1497
  - Python : 265
- - Java : 147
+ - Java : 148
  - SQL : 74
  - C : 23
  - C++ : 12
@@ -906,6 +906,7 @@ baekjoon
       [Kotlin] 대회 자리
       [Kotlin] 더하기
       [Kotlin] 동혁 피자
+      [Kotlin] 럭키 스트레이트
       [Kotlin] 막대기
       [Kotlin] 만취한 상범
       [Kotlin] 모르고리즘 회장 정하기
@@ -942,6 +943,7 @@ baekjoon
       [Kotlin] 오르막
       [Kotlin] 오타맨 고창영
       [Kotlin] 완전제곱수
+      [Kotlin] 요다
       [Kotlin] 욱제는 효도쟁이야
       [Kotlin] 운동
       [Kotlin] 원피스
@@ -1051,11 +1053,13 @@ baekjoon
       [Kotlin] Haughty Cuisine
       [Kotlin] Hawk eyes
       [Kotlin] IBM 빼기 1
+      [Kotlin] ID
       [Kotlin] JOI エディタ (JOI Editor)
       [Kotlin] JavaScript
       [Kotlin] Jazz Enthusiast
       [Kotlin] J박스
       [Kotlin] Koncert
+      [Kotlin] Liczba
       [Kotlin] Liczenie punktów
       [Kotlin] Matches
       [Kotlin] Missing Numbers
@@ -1194,6 +1198,7 @@ baekjoon
       [Kotlin] 오버플로우와 모듈러
       [Kotlin] 오븐 시계
       [Kotlin] 완전 세제곱
+      [Kotlin] 완전 제곱수
       [Kotlin] 유치원생 파댕이 돌보기
       [Kotlin] 윷놀이
       [Kotlin] 이 문제는 D2 입니다
@@ -1232,6 +1237,7 @@ baekjoon
       [Kotlin] 캥거루 세마리
       [Kotlin] 컵라편 측정하기
       [Kotlin] 쿠폰
+      [Kotlin] 터널의 입구와 출구
       [Kotlin] 특정 대문자를 소문자로 바꾸기
       [Kotlin] 파인만
       [Kotlin] 페르시아의 왕들
@@ -1294,6 +1300,7 @@ baekjoon
       [Kotlin] Fill the Rowboats!
       [Kotlin] Final Price
       [Kotlin] Football Team
+      [Kotlin] Gnome Sequencing
       [Kotlin] Gorvio
       [Kotlin] Gömda ord
       [Kotlin] H4x0r
@@ -1321,6 +1328,7 @@ baekjoon
       [Kotlin] Pizza Deal
       [Kotlin] Population
       [Kotlin] Poziome serca
+      [Kotlin] Previous Level
       [Kotlin] Quadrilateral
       [Kotlin] R2
       [Kotlin] Rectangles
@@ -1351,6 +1359,7 @@ baekjoon
       [Kotlin] Äpplen och päron
       [Kotlin] Большой удой
       [Kotlin] ГРАДИНА
+      [Kotlin] Граничные клетки
       [Kotlin] Лифт
       [Kotlin] Миша и негатив
       [Kotlin] Простая задача
@@ -1745,6 +1754,7 @@ programmers
     [Java] 뉴스클러스터링
     [Java] 다음_큰_숫자
     [Java] 더_맵게
+    [Java] 땅따먹기
     [Java] 미로_탈출
     [Java] 숫자의_표현
     [Java] 양궁대회
