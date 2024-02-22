@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-20 10:39:37 <br>
+Last Update : 2024-02-21 17:32:08 <br>
 
 
 ```
-2053 Solved
- - Kotlin : 1497
+2055 Solved
+ - Kotlin : 1499
  - Python : 265
  - Java : 148
  - SQL : 74
@@ -729,6 +729,7 @@ baekjoon
       [Kotlin] 최소공배수
       [Kotlin] 칠무해
       [Kotlin] 카드1
+      [Kotlin] 트ㅏㅊ;
       [Kotlin] 팩토리얼 0의 개수
       [Kotlin] 폴리오미노
       [Kotlin] 피보나치 수 4
@@ -1310,6 +1311,7 @@ baekjoon
       [Kotlin] ISBN
       [Kotlin] IT Passport Examination
       [Kotlin] Identifying tea
+      [Kotlin] Judging Moose
       [Kotlin] Koszykarz
       [Kotlin] Kuber
       [Kotlin] Laptop Sticker
