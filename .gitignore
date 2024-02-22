@@ -1,12 +1,13 @@
-Python/.idea/
+ReadMeGenerator/.idea/
 C/CLangCodingTest/CLangCodingTest/x64/Debug/
 C/CLangCodingTest/.vs/
 C/CLangCodingTest/x64/Debug/
+Python/.idea/
 Python/파이썬 기말/
-kotlin-java-codingtest/target/
-kotlin-java-codingtest/.idea/
-kotlin-java-codingtest/src/main/kotlin/Main.kt
-kotlin-java-codingtest/main/kotlin/Main.java
-kotlin-java-codingtest/src/main/kotlin/Practice.kt
-ReadMeGenerator/.idea/
 Python/main.py
+kotlin-java/target/
+kotlin-java/.idea/
+kotlin-java/src/main/kotlin/Main.kt
+kotlin-java/src/main/kotlin/Practice.kt
+kotlin-java/src/main/kotlin/Main.java
+kotlin-java/src/main/kotlin/Practice.java

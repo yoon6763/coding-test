@@ -1,7 +1,6 @@
 package baekjoon.silver.s5
 
 fun main() {
-    val line = readln()
     val map = mapOf(
         "1" to "`",
         "2" to "1",
@@ -50,8 +49,7 @@ fun main() {
     )
 
     while (true) {
-        val line = readln() ?: break
+        val line = readlnOrNull() ?: break
         println(line.map { map[it.toString()] }.joinToString(""))
     }
-
 }
