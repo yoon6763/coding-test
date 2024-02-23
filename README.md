@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-22 20:59:07 <br>
+Last Update : 2024-02-23 22:59:01 <br>
 
 
 ```
-2069 Solved
- - Kotlin : 1509
+2072 Solved
+ - Kotlin : 1512
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -1521,6 +1521,7 @@ baekjoon
       [Kotlin] 달달함이 넘쳐흘러
       [Kotlin] 대소문자 바꾸기
       [Kotlin] 등록
+      [Kotlin] 라면 공식
       [Kotlin] 마이크로소프트 로고
       [Kotlin] 몇개고
       [Kotlin] 문자열
@@ -1661,6 +1662,7 @@ programmers
     [Kotlin] 네트워크
     [Kotlin] 단어 변환
     [Kotlin] 등산코스 정하기
+    [Kotlin] 디스크 컨트롤러
     [Kotlin] 베스트앨범
     [Kotlin] 섬 연결하기
     [Kotlin] 순위
@@ -1726,6 +1728,7 @@ programmers
     [Kotlin] 리코쳇 로봇
     [Kotlin] 멀리 뛰기
     [Kotlin] 모음 사전
+    [Kotlin] 무인도 여행
     [Kotlin] 배달
     [Kotlin] 연속 부분 수열 합의 개수
     [Kotlin] 예상 대진표
