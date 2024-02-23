@@ -14,15 +14,15 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-21 17:32:08 <br>
+Last Update : 2024-02-22 20:59:07 <br>
 
 
 ```
-2055 Solved
- - Kotlin : 1499
+2069 Solved
+ - Kotlin : 1509
  - Python : 265
  - Java : 148
- - SQL : 74
+ - SQL : 78
  - C : 23
  - C++ : 12
  - Ruby : 9
@@ -352,6 +352,7 @@ baekjoon
       [Kotlin] 로봇 청소기
       [Kotlin] 리모컨
       [Kotlin] 마법사 상어와 비바라기
+      [Kotlin] 맥주 마시면서 걸어가기
       [Kotlin] 물통
       [Kotlin] 백도어
       [Kotlin] 뱀과 사다리 게임
@@ -766,6 +767,7 @@ baekjoon
       [Kotlin] A divide B - 2
       [Kotlin] MINESWEEPER
       [Kotlin] N-퍼즐
+      [Kotlin] No Duplicates
       [Kotlin] N번째 큰 수
       [Kotlin] ROT13
       [Kotlin] Starman
@@ -808,6 +810,7 @@ baekjoon
       [Kotlin] 영화 평가
       [Kotlin] 오르막길
       [Kotlin] 유니대전 퀴즈쇼
+      [Kotlin] 유니크
       [Kotlin] 이번학기 평점은 몇점
       [Kotlin] 이진수 덧셈
       [Kotlin] 이항 계수 1
@@ -882,6 +885,7 @@ baekjoon
       [Kotlin] `첼시를 도와줘`
       [Kotlin] e 계산
       [Kotlin] include Google IO h
+      [Kotlin] 問題1
       [Kotlin] 複雑な文字列 (Complex String)
       [Kotlin] 가장 많은 글자
       [Kotlin] 가장 쉬운 문제를 찾는 문제
@@ -1038,6 +1042,7 @@ baekjoon
       [Kotlin] A divide B - 3
       [Kotlin] A+B - 6
       [Kotlin] ABC
+      [Kotlin] Automated Telephone Exchange
       [Kotlin] Baseball
       [Kotlin] Bałwanek
       [Kotlin] Billing
@@ -1129,6 +1134,7 @@ baekjoon
       [Kotlin] 대지
       [Kotlin] 대회 or 인턴
       [Kotlin] 더하기
+      [Kotlin] 더하기 3
       [Kotlin] 더하기 4
       [Kotlin] 도미노
       [Kotlin] 등장하지 않는 문자의 합
@@ -1429,8 +1435,10 @@ baekjoon
       [Kotlin] 치킨 두 마리
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스 2
+      [Kotlin] 카드 뽑기
       [Kotlin] 타일 채우기 4
       [Kotlin] 타임 카드
+      [Kotlin] 탁구 경기
       [Kotlin] 특별한 날
       [Kotlin] 팀 나누기
       [Kotlin] 파일 옮기기
@@ -1653,6 +1661,7 @@ programmers
     [Kotlin] 네트워크
     [Kotlin] 단어 변환
     [Kotlin] 등산코스 정하기
+    [Kotlin] 베스트앨범
     [Kotlin] 섬 연결하기
     [Kotlin] 순위
     [Kotlin] 양과 늑대
@@ -1713,6 +1722,7 @@ programmers
     [Kotlin] 가장 큰 수
     [Kotlin] 거리두기 확인하기
     [Kotlin] 괄호 회전하기
+    [Kotlin] 뒤에 있는 큰 수 찾기
     [Kotlin] 리코쳇 로봇
     [Kotlin] 멀리 뛰기
     [Kotlin] 모음 사전
@@ -1727,6 +1737,7 @@ programmers
     [SQL] 3월에 태어난 여성 회원 목록 출력하기
     [SQL] DATETIME에서 DATE로 형 변환
     [SQL] NULL 처리하기
+    [SQL] ROOT 아이템 구하기
     [SQL] 가격대 별 상품 개수 구하기
     [SQL] 가격이 제일 비싼 식품의 정보 출력하기
     [SQL] 고양이와 개는 몇 마리 있을까
@@ -1735,12 +1746,15 @@ programmers
     [SQL] 루시와 엘라 찾기
     [SQL] 상품 별 오프라인 매출 구하기
     [SQL] 성분으로 구분한 아이스크림 총 주문량
+    [SQL] 업그레이드 된 아이템 구하기
+    [SQL] 업그레이드 할 수 없는 아이템 구하기
     [SQL] 이름에 el이 들어가는 동물 찾기
     [SQL] 입양 시각 구하기(1)
     [SQL] 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기
     [SQL] 자동차 평균 대여 기간 구하기
     [SQL] 재구매가 일어난 상품과 회원 리스트 구하기
     [SQL] 조건에 맞는 도서와 저자 리스트 출력하기
+    [SQL] 조건에 맞는 아이템들의 가격의 총합 구하기
     [SQL] 조건에 부합하는 중고거래 상태 조회하기
     [SQL] 중복 제거하기
     [SQL] 중성화 여부 파악하기
