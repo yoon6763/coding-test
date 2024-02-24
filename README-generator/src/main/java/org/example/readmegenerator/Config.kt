@@ -26,6 +26,7 @@ object Config {
         "adb" to "Ada",
         "text" to "Text",
         "rs" to "Rust",
+        "swift" to "Swift"
     )
 
     val supportPlatformList = listOf<Platform>(
