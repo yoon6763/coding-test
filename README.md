@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-23 22:59:01 <br>
+Last Update : 2024-02-24 19:42:45 <br>
 
 
 ```
-2072 Solved
- - Kotlin : 1512
+2073 Solved
+ - Kotlin : 1513
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -1171,6 +1171,7 @@ baekjoon
       [Kotlin] 사탕 선생 고창영
       [Kotlin] 삼각 무늬 - 1
       [Kotlin] 삼각형과 세 변
+      [Kotlin] 삼각형의 합
       [Kotlin] 서버
       [Kotlin] 서울사이버대학을 다니고
       [Kotlin] 선린인터넷고등학교 교가
