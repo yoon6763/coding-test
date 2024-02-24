@@ -14,24 +14,25 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-24 19:42:45 <br>
+Last Update : 2024-02-24 23:43:22 <br>
 
 
 ```
-2073 Solved
+2076 Solved
  - Kotlin : 1513
  - Python : 265
  - Java : 148
  - SQL : 78
  - C : 23
  - C++ : 12
+ - JavaScript : 10
  - Ruby : 9
- - JavaScript : 9
  - Text : 5
- - C# : 4
+ - C# : 5
  - Rust : 1
  - Fortran : 1
  - Algol68 : 1
+ - Swift : 1
  - Visual Basic : 1
  - Ada : 1
  - GolfScript : 1
@@ -1604,6 +1605,9 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
+      [JavaScript] A+B
+      [Swift] A+B
+      [C#] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
