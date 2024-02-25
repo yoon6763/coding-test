@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-24 23:43:22 <br>
+Last Update : 2024-02-25 17:19:45 <br>
 
 
 ```
-2076 Solved
- - Kotlin : 1513
+2085 Solved
+ - Kotlin : 1522
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -477,6 +477,7 @@ baekjoon
       [Kotlin] 로또
       [Kotlin] 마인크래프트
       [Kotlin] 부분수열의 합
+      [Kotlin] 빠른 숫자 탐색
       [Kotlin] 색종이 만들기
       [Kotlin] 생태학
       [Kotlin] 섬의 개수
@@ -565,10 +566,12 @@ baekjoon
       [Kotlin] 빈도 정렬
       [Kotlin] 삼각형 만들기
       [Kotlin] 서로 다른 부분 문자열의 개수
+      [Kotlin] 세 번 이내에 사과를 먹자
       [Kotlin] 소수 구하기
       [Kotlin] 수강신청
       [Kotlin] 수리공 항승
       [Kotlin] 수열
+      [Kotlin] 순열 사이클
       [Kotlin] 숫자 야구
       [Kotlin] 숫자 정사각형
       [Kotlin] 스택 수열
@@ -782,6 +785,7 @@ baekjoon
       [Kotlin] 논리학 교수
       [Kotlin] 단어 뒤집기
       [Kotlin] 단어 퍼즐
+      [Kotlin] 더하기 2
       [Kotlin] 도비의 난독증 테스트
       [Kotlin] 동전 게임
       [Kotlin] 뒤집힌 덧셈
@@ -876,6 +880,7 @@ baekjoon
       [Kotlin] Max
       [Kotlin] NN
       [Kotlin] Number Maximization
+      [Kotlin] Numbersrebmun
       [Kotlin] Palindromes
       [Kotlin] Reverse Text
       [Kotlin] Split
@@ -991,6 +996,7 @@ baekjoon
       [Kotlin] 팬그램
       [Kotlin] 팰린드롬
       [Kotlin] 팰린드롬인지 확인하기
+      [Kotlin] 펫
       [Kotlin] 폭죽쇼
       [Kotlin] 피로도
       [Kotlin] 피시방 알바
@@ -1124,6 +1130,7 @@ baekjoon
       [Kotlin] 공 바꾸기
       [Kotlin] 과 조사하기
       [Kotlin] 그대로 출력하기 2
+      [Kotlin] 길면 기차, 기차는 빨라, 빠른 것은 비행기
       [Kotlin] 꼬리를 무는 숫자 나열
       [Kotlin] 꿍의 우주여행
       [Kotlin] 나는 요리사다
@@ -1245,6 +1252,7 @@ baekjoon
       [Kotlin] 카트라이더 드리프트
       [Kotlin] 캥거루 세마리
       [Kotlin] 컵라편 측정하기
+      [Kotlin] 쿠키애호가
       [Kotlin] 쿠폰
       [Kotlin] 터널의 입구와 출구
       [Kotlin] 특정 대문자를 소문자로 바꾸기
@@ -1280,6 +1288,7 @@ baekjoon
       [Kotlin] 10부제
       [Kotlin] 11 月 (November)
       [Kotlin] 2 番目に大きい整数 (The Second Largest Integer)
+      [Kotlin] 2023은 무엇이 특별할까
       [Kotlin] 3 つの整数 (Three Integers)
       [Kotlin] A+B-C
       [Kotlin] AFC 윔블던
