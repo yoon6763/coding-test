@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-26 11:42:34 <br>
+Last Update : 2024-02-26 14:48:43 <br>
 
 
 ```
-2093 Solved
- - Kotlin : 1530
+2094 Solved
+ - Kotlin : 1531
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -43,6 +43,7 @@ baekjoon
   platinum
     p2
       [Kotlin] LCA와 쿼리
+      [Kotlin] 복도 뚫기
     p3
       [Kotlin] N-Rook
       [Kotlin] 게시판 구멍 막기
