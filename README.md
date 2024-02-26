@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-25 17:19:45 <br>
+Last Update : 2024-02-26 11:42:34 <br>
 
 
 ```
-2085 Solved
- - Kotlin : 1522
+2093 Solved
+ - Kotlin : 1530
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -465,7 +465,9 @@ baekjoon
       [Kotlin] Bad Grass
       [Kotlin] DFS와 BFS
       [Kotlin] DNA 비밀번호
+      [Kotlin] Invasion of the Milkweed
       [Kotlin] N번째 큰 수
+      [Kotlin] Space Exploration
       [Kotlin] 가장 긴 감소하는 부분 수열
       [Kotlin] 가장 긴 증가하는 부분 수열
       [Kotlin] 가장 큰 증가하는 부분 수열
@@ -564,6 +566,7 @@ baekjoon
       [Kotlin] 베르트랑 공준
       [Kotlin] 블로그
       [Kotlin] 빈도 정렬
+      [Kotlin] 사과 빨리 먹기
       [Kotlin] 삼각형 만들기
       [Kotlin] 서로 다른 부분 문자열의 개수
       [Kotlin] 세 번 이내에 사과를 먹자
@@ -674,6 +677,7 @@ baekjoon
     s5
       [Kotlin] 2차원 배열의 합
       [Kotlin] BABBA
+      [Kotlin] Best Grass
       [Kotlin] Bold
       [Kotlin] D-Day
       [Kotlin] K번째 수
@@ -899,6 +903,7 @@ baekjoon
       [Kotlin] 거꾸로 구구단
       [Kotlin] 거리의 합
       [Kotlin] 거스름돈
+      [Kotlin] 고무오리 디버깅
       [Kotlin] 공약수
       [Kotlin] 관리자는 누구
       [Kotlin] 그릇
@@ -943,6 +948,7 @@ baekjoon
       [Kotlin] 시험 감독
       [Kotlin] 신용카드 판별
       [Kotlin] 싱기한 네자리 숫자
+      [Kotlin] 아름다운 수
       [Kotlin] 아즈텍 피라미드
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 6
       [Kotlin] 알파벳 전부 쓰기
@@ -973,6 +979,7 @@ baekjoon
       [Kotlin] 정수의 개수
       [Kotlin] 좋은 자동차 번호판
       [Kotlin] 좋은놈 나쁜놈
+      [Kotlin] 주사위
       [Kotlin] 주차의 신
       [Kotlin] 줄 세우기 1681
       [Kotlin] 줄 세우기 2605
@@ -1178,6 +1185,7 @@ baekjoon
       [Kotlin] 사분면
       [Kotlin] 사탕 선생 고창영
       [Kotlin] 삼각 무늬 - 1
+      [Kotlin] 삼각형 분류
       [Kotlin] 삼각형과 세 변
       [Kotlin] 삼각형의 합
       [Kotlin] 서버
