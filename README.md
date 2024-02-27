@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-26 14:48:43 <br>
+Last Update : 2024-02-27 12:05:58 <br>
 
 
 ```
-2094 Solved
- - Kotlin : 1531
+2103 Solved
+ - Kotlin : 1540
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -398,6 +398,7 @@ baekjoon
     s1
       [Kotlin] 1로 만들기 2
       [Kotlin] IOIOI
+      [Kotlin] Islands
       [Kotlin] Knight
       [Kotlin] Knight Moves
       [Kotlin] RGB거리
@@ -468,6 +469,7 @@ baekjoon
       [Kotlin] DNA 비밀번호
       [Kotlin] Invasion of the Milkweed
       [Kotlin] N번째 큰 수
+      [Kotlin] Sheba’s Amoebas
       [Kotlin] Space Exploration
       [Kotlin] 가장 긴 감소하는 부분 수열
       [Kotlin] 가장 긴 증가하는 부분 수열
@@ -833,6 +835,7 @@ baekjoon
       [Kotlin] 최대공약수와 최소공배수
       [Kotlin] 최소공배수
       [Kotlin] 캠핑
+      [Kotlin] 크로스워드 만들기
       [Kotlin] 택시 거리
       [Kotlin] 팰린드롬수
       [Kotlin] 평균은 넘겠지
@@ -927,6 +930,8 @@ baekjoon
       [Kotlin] 막대기
       [Kotlin] 만취한 상범
       [Kotlin] 모르고리즘 회장 정하기
+      [Kotlin] 모스 부호
+      [Kotlin] 문자가 몇갤까
       [Kotlin] 문자열 분석
       [Kotlin] 바구니 뒤집기
       [Kotlin] 박사 과정
@@ -992,6 +997,7 @@ baekjoon
       [Kotlin] 진짜 공간
       [Kotlin] 창영이의 일기장
       [Kotlin] 초6 수학
+      [Kotlin] 추론
       [Kotlin] 치킨 쿠폰
       [Kotlin] 친구
       [Kotlin] 카드 역배치
@@ -1071,6 +1077,7 @@ baekjoon
       [Kotlin] Golf
       [Kotlin] Greetings!
       [Kotlin] HI-ARC
+      [Kotlin] Handebol
       [Kotlin] Haughty Cuisine
       [Kotlin] Hawk eyes
       [Kotlin] IBM 빼기 1
@@ -1224,6 +1231,7 @@ baekjoon
       [Kotlin] 오븐 시계
       [Kotlin] 완전 세제곱
       [Kotlin] 완전 제곱수
+      [Kotlin] 우유 축제
       [Kotlin] 유치원생 파댕이 돌보기
       [Kotlin] 윷놀이
       [Kotlin] 이 문제는 D2 입니다
@@ -1456,6 +1464,7 @@ baekjoon
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스 2
       [Kotlin] 카드 뽑기
+      [Kotlin] 키위퀴즈
       [Kotlin] 타일 채우기 4
       [Kotlin] 타임 카드
       [Kotlin] 탁구 경기
