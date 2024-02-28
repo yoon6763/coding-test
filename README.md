@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-27 12:05:58 <br>
+Last Update : 2024-02-28 18:05:24 <br>
 
 
 ```
-2103 Solved
- - Kotlin : 1540
+2109 Solved
+ - Kotlin : 1546
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -1068,6 +1068,7 @@ baekjoon
       [Kotlin] Bałwanek
       [Kotlin] Billing
       [Kotlin] Culture shock
+      [Kotlin] Digit Count
       [Kotlin] Divisionals Spelling
       [Kotlin] Extreme Temperatures
       [Kotlin] FBI
@@ -1099,6 +1100,7 @@ baekjoon
       [Kotlin] Rating Problems
       [Kotlin] Ratownik
       [Kotlin] Report Card Time
+      [Kotlin] Simple Collatz Sequence
       [Kotlin] Since 1973
       [Kotlin] Sort 마스터 배지훈
       [Kotlin] Square Pasture
@@ -1222,6 +1224,7 @@ baekjoon
       [Kotlin] 암호 만들기
       [Kotlin] 앵그리 창영
       [Kotlin] 약수 구하기
+      [Kotlin] 양수 개수 세기
       [Kotlin] 얼룩말을 찾아라!
       [Kotlin] 얼마
       [Kotlin] 연길이의 이상형
@@ -1321,6 +1324,7 @@ baekjoon
       [Kotlin] Checkers
       [Kotlin] Chili Peppers
       [Kotlin] Communication Channels
+      [Kotlin] Contemporary Art
       [Kotlin] Counting Antibodies
       [Kotlin] Covid-19
       [Kotlin] Darius님 한타 안 함
@@ -1386,6 +1390,7 @@ baekjoon
       [Kotlin] Tri-du
       [Kotlin] Triangle Height
       [Kotlin] Triangles
+      [Kotlin] Triathlon
       [Kotlin] Which Alien
       [Kotlin] Winning Score
       [Kotlin] X に最も近い値 (The Nearest Value)
@@ -1398,6 +1403,7 @@ baekjoon
       [Kotlin] Граничные клетки
       [Kotlin] Лифт
       [Kotlin] Миша и негатив
+      [Kotlin] ПЧЕЛИЧКАТА МАЯ
       [Kotlin] Простая задача
       [Kotlin] Сравнение комнат
       [Kotlin] Таблица результатов
