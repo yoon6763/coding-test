@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-02-28 18:05:24 <br>
+Last Update : 2024-02-29 13:46:35 <br>
 
 
 ```
-2109 Solved
- - Kotlin : 1546
+2118 Solved
+ - Kotlin : 1555
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -209,6 +209,7 @@ baekjoon
       [Kotlin] 게임 개발
       [Kotlin] 과제
       [Kotlin] 교환
+      [Kotlin] 군사 이동
       [Kotlin] 나만 안되는 연애
       [Kotlin] 나머지 합
       [Kotlin] 나무 재테크
@@ -588,6 +589,7 @@ baekjoon
       [Kotlin] 장난감 강아지
       [Kotlin] 절사평균
       [Kotlin] 주유소
+      [Kotlin] 카드 놓기
       [Kotlin] 크리스마스 선물
       [Kotlin] 터렛
       [Kotlin] 통계학
@@ -601,6 +603,7 @@ baekjoon
       [Kotlin] 한동이는 공부가 하기 싫어!
       [Kotlin] 합 구하기
       [Kotlin] 회전하는 큐
+      [Kotlin] 후위 표기식2
       [Python] 달팽이
       [Python] 터렛
       [Java] 시리얼 번호
@@ -813,6 +816,7 @@ baekjoon
       [Kotlin] 소가 길을 건너간 이유 1
       [Kotlin] 소인수분해
       [Kotlin] 슈퍼 마리오
+      [Kotlin] 스캐너
       [Kotlin] 싸이클
       [Kotlin] 알고리즘 수업 - 선택 정렬 2
       [Kotlin] 알고리즘 수업 - 피보나치 수 1
@@ -879,6 +883,7 @@ baekjoon
       [Kotlin] Anagram Checker
       [Kotlin] CTP공국으로 이민 가자
       [Kotlin] Farm
+      [Kotlin] Fridge of Your Dreams
       [Kotlin] Happy Number
       [Kotlin] Hashing
       [Kotlin] JOI ソート (JOI Sort)
@@ -1091,6 +1096,7 @@ baekjoon
       [Kotlin] Liczba
       [Kotlin] Liczenie punktów
       [Kotlin] Matches
+      [Kotlin] Mini Fantasy War
       [Kotlin] Missing Numbers
       [Kotlin] Monety
       [Kotlin] N M 찍기
@@ -1126,6 +1132,7 @@ baekjoon
       [Kotlin] 거북이
       [Kotlin] 거울, 오! 거울
       [Kotlin] 겨울왕국 티켓 예매
+      [Kotlin] 경고
       [Kotlin] 경기 결과
       [Kotlin] 계산기 프로그램
       [Kotlin] 고급 수학
@@ -1279,6 +1286,7 @@ baekjoon
       [Kotlin] 파인만
       [Kotlin] 페르시아의 왕들
       [Kotlin] 평균 중앙값 문제
+      [Kotlin] 폰 노이만
       [Kotlin] 플러그
       [Kotlin] 한다 안한다
       [Kotlin] 할로윈의 사탕
@@ -1404,6 +1412,7 @@ baekjoon
       [Kotlin] Лифт
       [Kotlin] Миша и негатив
       [Kotlin] ПЧЕЛИЧКАТА МАЯ
+      [Kotlin] Поп-ит
       [Kotlin] Простая задача
       [Kotlin] Сравнение комнат
       [Kotlin] Таблица результатов
