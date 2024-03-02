@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-01 16:47:43 <br>
+Last Update : 2024-03-02 18:45:47 <br>
 
 
 ```
-2128 Solved
- - Kotlin : 1565
+2135 Solved
+ - Kotlin : 1572
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -350,6 +350,7 @@ baekjoon
       [Kotlin] 경쟁적 전염
       [Kotlin] 계란으로 계란치기
       [Kotlin] 공주님을 구해라
+      [Kotlin] 괄호 제거
       [Kotlin] 내려가기
       [Kotlin] 노드사이의 거리
       [Kotlin] 다각형의 면적
@@ -437,6 +438,7 @@ baekjoon
       [Kotlin] 오르막 수
       [Kotlin] 오목
       [Kotlin] 올림픽 게임
+      [Kotlin] 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유
       [Kotlin] 음식물 피하기
       [Kotlin] 작업
       [Kotlin] 전쟁 - 전투
@@ -646,6 +648,7 @@ baekjoon
       [Kotlin] 빙고
       [Kotlin] 상근이의 여행
       [Kotlin] 색종이 - 2
+      [Kotlin] 세 개의 소수 문제
       [Kotlin] 수 찾기
       [Kotlin] 수들의 합 2
       [Kotlin] 수열 정렬
@@ -832,6 +835,7 @@ baekjoon
       [Kotlin] 오르막길
       [Kotlin] 유니대전 퀴즈쇼
       [Kotlin] 유니크
+      [Kotlin] 유레카 이론
       [Kotlin] 이번학기 평점은 몇점
       [Kotlin] 이진수 덧셈
       [Kotlin] 이항 계수 1
@@ -1271,6 +1275,7 @@ baekjoon
       [Kotlin] 지능형 기차
       [Kotlin] 지능형 기차 2
       [Kotlin] 지속
+      [Kotlin] 지영 공주님의 마법 거울
       [Kotlin] 직각 삼각형의 두 변
       [Kotlin] 집 주소
       [Kotlin] 짝수를 찾아라
@@ -1442,6 +1447,7 @@ baekjoon
       [Kotlin] 과목선택
       [Kotlin] 과자
       [Kotlin] 관공 어찌하여 목만 오셨소
+      [Kotlin] 나이 계산하기
       [Kotlin] 녹색거탑
       [Kotlin] 뉴비의 기준은 뭘까
       [Kotlin] 뉴턴의 사과
@@ -1524,6 +1530,7 @@ baekjoon
       [Kotlin] Copier
       [Kotlin] Correct
       [Kotlin] Cupcake Party
+      [Kotlin] Football Scoring
       [Kotlin] Gum Gum for Jay Jay
       [Kotlin] HI-ARC=
       [Kotlin] Hello World
