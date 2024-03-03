@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-02 18:45:47 <br>
+Last Update : 2024-03-03 15:43:47 <br>
 
 
 ```
-2135 Solved
- - Kotlin : 1572
+2139 Solved
+ - Kotlin : 1576
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -341,6 +341,7 @@ baekjoon
       [Java] 최단경로
     g5
       [Kotlin] 86 ─에이티식스─ 1
+      [Kotlin] ABCDE
       [Kotlin] AC
       [Kotlin] CCW
       [Kotlin] Fly me to the Alpha Centauri
@@ -351,6 +352,7 @@ baekjoon
       [Kotlin] 계란으로 계란치기
       [Kotlin] 공주님을 구해라
       [Kotlin] 괄호 제거
+      [Kotlin] 끝나지 않는 파티
       [Kotlin] 내려가기
       [Kotlin] 노드사이의 거리
       [Kotlin] 다각형의 면적
@@ -407,6 +409,7 @@ baekjoon
       [Kotlin] Islands
       [Kotlin] Knight
       [Kotlin] Knight Moves
+      [Kotlin] NM과 K (1)
       [Kotlin] RGB거리
       [Kotlin] Red and Black
       [Kotlin] Small World Network
@@ -599,6 +602,7 @@ baekjoon
       [Kotlin] 카드 놓기
       [Kotlin] 크리스마스 선물
       [Kotlin] 터렛
+      [Kotlin] 텔레포트 정거장
       [Kotlin] 통계학
       [Kotlin] 퇴사
       [Kotlin] 파도반 수열
