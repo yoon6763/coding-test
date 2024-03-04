@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-03 15:43:47 <br>
+Last Update : 2024-03-04 13:46:42 <br>
 
 
 ```
-2139 Solved
- - Kotlin : 1576
+2143 Solved
+ - Kotlin : 1580
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -262,6 +262,7 @@ baekjoon
       [Kotlin] DSLR
       [Kotlin] LCS 2
       [Kotlin] N-Queen
+      [Kotlin] N으로 만들기
       [Kotlin] Puyo Puyo
       [Kotlin] RGB거리 2
       [Kotlin] Σ
@@ -813,6 +814,7 @@ baekjoon
       [Kotlin] 뒤집힌 덧셈
       [Kotlin] 드높은 남산 위에 우뚝 선
       [Kotlin] 뚊
+      [Kotlin] 마술사 이민혁
       [Kotlin] 명령 프롬프트
       [Kotlin] 몬스터 트럭
       [Kotlin] 문자 인식
@@ -943,6 +945,7 @@ baekjoon
       [Kotlin] 대표값2
       [Kotlin] 대회 자리
       [Kotlin] 더하기
+      [Kotlin] 도비의 영어 공부
       [Kotlin] 동혁 피자
       [Kotlin] 럭키 스트레이트
       [Kotlin] 막대기
@@ -1488,6 +1491,7 @@ baekjoon
       [Kotlin] 전자레인지
       [Kotlin] 전자레인지14470
       [Kotlin] 주사위 세개
+      [Kotlin] 준영이의 등급
       [Kotlin] 줄번호
       [Kotlin] 지폐 세기
       [Kotlin] 체스 초보 브실이
