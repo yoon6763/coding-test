@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-04 13:46:42 <br>
+Last Update : 2024-03-05 14:14:52 <br>
 
 
 ```
-2143 Solved
- - Kotlin : 1580
+2148 Solved
+ - Kotlin : 1585
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -121,6 +121,7 @@ baekjoon
       [Kotlin] 낚시왕
       [Kotlin] 다리 만들기 2
       [Kotlin] 달이 차오른다, 가자
+      [Kotlin] 도로
       [Kotlin] 도로검문
       [Kotlin] 멀티탭 스케줄링
       [Kotlin] 미네랄
@@ -803,6 +804,7 @@ baekjoon
       [Kotlin] 가장 큰 금민수
       [Kotlin] 고양이 사료
       [Kotlin] 교수님 그림이 깨지는데요
+      [Kotlin] 귀여운 수
       [Kotlin] 긴급 회의
       [Kotlin] 너의 핸들은
       [Kotlin] 논리학 교수
@@ -1085,6 +1087,7 @@ baekjoon
       [Kotlin] A divide B - 3
       [Kotlin] A+B - 6
       [Kotlin] ABC
+      [Kotlin] Attendance
       [Kotlin] Automated Telephone Exchange
       [Kotlin] Baseball
       [Kotlin] Bałwanek
@@ -1097,6 +1100,7 @@ baekjoon
       [Kotlin] Fan Death
       [Kotlin] Filling Out the Team
       [Kotlin] Gift
+      [Kotlin] Gift Expire Date
       [Kotlin] Golf
       [Kotlin] Greetings!
       [Kotlin] HI-ARC
@@ -1399,6 +1403,7 @@ baekjoon
       [Kotlin] Previous Level
       [Kotlin] Quadrilateral
       [Kotlin] R2
+      [Kotlin] Rainy Diary
       [Kotlin] Rectangles
       [Kotlin] Reverse
       [Kotlin] Rulltrappa
