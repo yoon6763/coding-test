@@ -2,7 +2,6 @@ package baekjoon.silver.s2.침투
 
 lateinit var map: Array<CharArray>
 lateinit var visited: Array<BooleanArray>
-var flag = false
 val dx = intArrayOf(0, 0, 1, -1)
 val dy = intArrayOf(1, -1, 0, 0)
 var n = 0
