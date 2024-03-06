@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-05 14:14:52 <br>
+Last Update : 2024-03-06 14:58:11 <br>
 
 
 ```
-2148 Solved
- - Kotlin : 1585
+2155 Solved
+ - Kotlin : 1592
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -231,6 +231,7 @@ baekjoon
       [Kotlin] 소문난 칠공주
       [Kotlin] 소수의 연속합
       [Kotlin] 순회강연
+      [Kotlin] 싸지방에 간 준하
       [Kotlin] 아기 상어
       [Kotlin] 안정적인 네트워크
       [Kotlin] 앱
@@ -519,6 +520,7 @@ baekjoon
       [Kotlin] 연결 요소의 개수
       [Kotlin] 연속합
       [Kotlin] 영상처리
+      [Kotlin] 영재의 시험
       [Kotlin] 외판원 순회 2
       [Kotlin] 유기농 배추
       [Kotlin] 이동하기
@@ -575,6 +577,7 @@ baekjoon
       [Kotlin] 구간 합 구하기 4
       [Kotlin] 달팽이
       [Kotlin] 두 수의 합
+      [Kotlin] 로마 숫자 만들기
       [Kotlin] 먹을 것인가 먹힐 것인가
       [Kotlin] 모든 순열
       [Kotlin] 문자열 집합
@@ -806,6 +809,7 @@ baekjoon
       [Kotlin] 교수님 그림이 깨지는데요
       [Kotlin] 귀여운 수
       [Kotlin] 긴급 회의
+      [Kotlin] 나무 조각
       [Kotlin] 너의 핸들은
       [Kotlin] 논리학 교수
       [Kotlin] 단어 뒤집기
@@ -899,6 +903,7 @@ baekjoon
       [Kotlin] 9진수
       [Kotlin] Anagram Checker
       [Kotlin] CTP공국으로 이민 가자
+      [Kotlin] Count Me In
       [Kotlin] Farm
       [Kotlin] Fridge of Your Dreams
       [Kotlin] Happy Number
@@ -1030,6 +1035,7 @@ baekjoon
       [Kotlin] 탄산 음료
       [Kotlin] 태보태보 총난타
       [Kotlin] 트럭 주차
+      [Kotlin] 특별한 학교 이름 암호화
       [Kotlin] 팩토리얼
       [Kotlin] 팬그램
       [Kotlin] 팰린드롬
@@ -1123,6 +1129,7 @@ baekjoon
       [Kotlin] N M 찍기
       [Kotlin] Odd Gnome
       [Kotlin] Olympic Games
+      [Kotlin] Overdraft
       [Kotlin] RICE SACK
       [Kotlin] Rating Problems
       [Kotlin] Ratownik
