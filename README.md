@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-07 11:00:56 <br>
+Last Update : 2024-03-07 13:46:58 <br>
 
 
 ```
-2160 Solved
- - Kotlin : 1597
+2162 Solved
+ - Kotlin : 1599
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -90,6 +90,7 @@ baekjoon
       [Kotlin] 오민식의 고민
       [Kotlin] 오아시스 재결합
       [Kotlin] 임계경로
+      [Kotlin] 전깃줄 - 2
       [Kotlin] 정점들의 거리
       [Kotlin] 조별과제 멈춰
       [Kotlin] 찾기
@@ -801,6 +802,7 @@ baekjoon
       [Kotlin] No Duplicates
       [Kotlin] N번째 큰 수
       [Kotlin] ROT13
+      [Kotlin] Send me the money
       [Kotlin] Starman
       [Kotlin] XORXORXOR
       [Kotlin] Yangjojang of The Year
