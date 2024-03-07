@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-06 14:58:11 <br>
+Last Update : 2024-03-07 11:00:56 <br>
 
 
 ```
-2155 Solved
- - Kotlin : 1592
+2160 Solved
+ - Kotlin : 1597
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -977,6 +977,7 @@ baekjoon
       [Kotlin] 수 뒤집기
       [Kotlin] 수학은 비대면강의입니다
       [Kotlin] 숫자
+      [Kotlin] 숫자의 개수 2
       [Kotlin] 시각
       [Kotlin] 시간복잡도를 배운 도도
       [Kotlin] 시그마
@@ -1127,6 +1128,7 @@ baekjoon
       [Kotlin] Missing Numbers
       [Kotlin] Monety
       [Kotlin] N M 찍기
+      [Kotlin] Not A + B
       [Kotlin] Odd Gnome
       [Kotlin] Olympic Games
       [Kotlin] Overdraft
@@ -1153,6 +1155,8 @@ baekjoon
       [Kotlin] Zegarek
       [Kotlin] `ソーシャルゲーム (Social Game)`
       [Kotlin] Выражение
+      [Kotlin] ДИНИ
+      [Kotlin] Клавиатура
       [Kotlin] Пары
       [Kotlin] 文字列の反転 (Inversion of a String)
       [Kotlin] 가뭄(Small)
@@ -1242,6 +1246,7 @@ baekjoon
       [Kotlin] 세 수
       [Kotlin] 세 수 2985
       [Kotlin] 세탁소 사장 동혁
+      [Kotlin] 소금 폭탄
       [Kotlin] 소수가 아닌 수
       [Kotlin] 소음
       [Kotlin] 수도요금
@@ -1683,9 +1688,9 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
+      [C#] A+B
       [JavaScript] A+B
       [Swift] A+B
-      [C#] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
