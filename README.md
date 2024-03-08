@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-07 13:46:58 <br>
+Last Update : 2024-03-08 18:24:59 <br>
 
 
 ```
-2162 Solved
- - Kotlin : 1599
+2168 Solved
+ - Kotlin : 1605
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -928,6 +928,7 @@ baekjoon
       [Kotlin] `첼시를 도와줘`
       [Kotlin] e 계산
       [Kotlin] include Google IO h
+      [Kotlin] Ресторан
       [Kotlin] 問題1
       [Kotlin] 複雑な文字列 (Complex String)
       [Kotlin] 가장 많은 글자
@@ -977,6 +978,7 @@ baekjoon
       [Kotlin] 새
       [Kotlin] 소수 단어
       [Kotlin] 수 뒤집기
+      [Kotlin] 수빈이와 수열
       [Kotlin] 수학은 비대면강의입니다
       [Kotlin] 숫자
       [Kotlin] 숫자의 개수 2
@@ -1203,6 +1205,7 @@ baekjoon
       [Kotlin] 더하기
       [Kotlin] 더하기 3
       [Kotlin] 더하기 4
+      [Kotlin] 덧셈과 곱셈
       [Kotlin] 도미노
       [Kotlin] 등장하지 않는 문자의 합
       [Kotlin] 등차수열에서 항 번호 찾기
@@ -1302,6 +1305,7 @@ baekjoon
       [Kotlin] 지속
       [Kotlin] 지영 공주님의 마법 거울
       [Kotlin] 직각 삼각형의 두 변
+      [Kotlin] 질투진서
       [Kotlin] 집 주소
       [Kotlin] 짝수를 찾아라
       [Kotlin] 찬반투표
@@ -1362,6 +1366,7 @@ baekjoon
       [Kotlin] Another Eruption
       [Kotlin] Area
       [Kotlin] Atrium
+      [Kotlin] Bank Transfer
       [Kotlin] Bicycle
       [Kotlin] Big Number
       [Kotlin] Boiling Water
@@ -1500,6 +1505,7 @@ baekjoon
       [Kotlin] 심부름 가는 길
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 2
       [Kotlin] 알파벳 개수
+      [Kotlin] 엘리스 트랙 매칭
       [Kotlin] 연세대학교
       [Kotlin] 와글와글 숭고한
       [Kotlin] 이칙연산
