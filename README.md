@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-08 18:24:59 <br>
+Last Update : 2024-03-09 16:19:15 <br>
 
 
 ```
-2168 Solved
- - Kotlin : 1605
+2171 Solved
+ - Kotlin : 1608
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -810,6 +810,7 @@ baekjoon
       [Kotlin] 고양이 사료
       [Kotlin] 교수님 그림이 깨지는데요
       [Kotlin] 귀여운 수
+      [Kotlin] 기상청 인턴 신현수
       [Kotlin] 긴급 회의
       [Kotlin] 나무 조각
       [Kotlin] 너의 핸들은
@@ -1294,6 +1295,7 @@ baekjoon
       [Kotlin] 접시 안의 원
       [Kotlin] 정육각형과 삼각형
       [Kotlin] 조교는 새디스트야
+      [Kotlin] 좌석 배치도
       [Kotlin] 주사위
       [Kotlin] 주사위 게임
       [Kotlin] 줄 세기
@@ -1317,6 +1319,7 @@ baekjoon
       [Kotlin] 최장 스트릭
       [Kotlin] 추첨을 통해 커피를 받자
       [Kotlin] 출제비 재분배
+      [Kotlin] 친구 친구
       [Kotlin] 카트라이더 드리프트
       [Kotlin] 캥거루 세마리
       [Kotlin] 컵라편 측정하기
