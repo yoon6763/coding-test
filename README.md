@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-09 16:19:15 <br>
+Last Update : 2024-03-10 15:26:16 <br>
 
 
 ```
-2171 Solved
- - Kotlin : 1608
+2175 Solved
+ - Kotlin : 1612
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -319,6 +319,7 @@ baekjoon
       [Kotlin] 이분 그래프
       [Kotlin] 이중 우선순위 큐
       [Kotlin] 이진 검색 트리
+      [Kotlin] 장미
       [Kotlin] 적의 적
       [Kotlin] 전력난
       [Kotlin] 좋다
@@ -374,6 +375,7 @@ baekjoon
       [Kotlin] 보물섬
       [Kotlin] 빗물
       [Kotlin] 상범 빌딩
+      [Kotlin] 상어 초등학교
       [Kotlin] 선발 명단
       [Kotlin] 소셜 네트워킹 어플리케이션
       [Kotlin] 수 나누기 게임
@@ -920,6 +922,7 @@ baekjoon
       [Kotlin] Number Maximization
       [Kotlin] Numbersrebmun
       [Kotlin] Palindromes
+      [Kotlin] Presents
       [Kotlin] Reverse Text
       [Kotlin] Split
       [Kotlin] Strfry
@@ -971,6 +974,7 @@ baekjoon
       [Kotlin] 배수들의 합
       [Kotlin] 백설 공주와 일곱 난쟁이
       [Kotlin] 별 찍기 - 21
+      [Kotlin] 복호화
       [Kotlin] 분해합
       [Kotlin] 브실이의 띠부띠부씰 컬렉션
       [Kotlin] 비교 연산자
