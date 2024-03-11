@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-10 15:26:16 <br>
+Last Update : 2024-03-11 11:35:56 <br>
 
 
 ```
-2175 Solved
- - Kotlin : 1612
+2178 Solved
+ - Kotlin : 1615
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -631,6 +631,7 @@ baekjoon
       [Kotlin] 2+1 세일
       [Kotlin] 30
       [Kotlin] ATM
+      [Kotlin] GCD 합
       [Kotlin] Prime
       [Kotlin] Router
       [Kotlin] solvedac
@@ -1343,6 +1344,7 @@ baekjoon
       [Kotlin] 헬멧과 조끼
       [Kotlin] 홀수
       [Kotlin] 홀수일까 짝수일까
+      [Kotlin] 홀짝 칵테일
       [Python] Zbiór
       [Python] 네 번째 점
       [Python] 열 개씩 끊어 출력하기
@@ -1485,6 +1487,7 @@ baekjoon
       [Kotlin] 과목선택
       [Kotlin] 과자
       [Kotlin] 관공 어찌하여 목만 오셨소
+      [Kotlin] 그게 무슨 코드니
       [Kotlin] 나이 계산하기
       [Kotlin] 녹색거탑
       [Kotlin] 뉴비의 기준은 뭘까
