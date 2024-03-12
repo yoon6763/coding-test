@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-11 11:35:56 <br>
+Last Update : 2024-03-13 00:51:49 <br>
 
 
 ```
-2178 Solved
- - Kotlin : 1615
+2183 Solved
+ - Kotlin : 1620
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -76,6 +76,7 @@ baekjoon
       [Kotlin] 거의 최단 경로
       [Kotlin] 경찰차
       [Kotlin] 고층 빌딩
+      [Kotlin] 다이아몬드 광산
       [Kotlin] 도로포장
       [Kotlin] 배열에서 이동
       [Kotlin] 백조의 호수
@@ -352,6 +353,7 @@ baekjoon
       [Kotlin] Fly me to the Alpha Centauri
       [Kotlin] LCS
       [Kotlin] 감소하는 수
+      [Kotlin] 강의실
       [Kotlin] 강의실 배정
       [Kotlin] 경쟁적 전염
       [Kotlin] 계란으로 계란치기
@@ -650,6 +652,7 @@ baekjoon
       [Kotlin] 덱
       [Kotlin] 동전 0
       [Kotlin] 듣보잡
+      [Kotlin] 등수 구하기
       [Kotlin] 로봇
       [Kotlin] 로프
       [Kotlin] 바닥 장식
@@ -1546,6 +1549,7 @@ baekjoon
       [Kotlin] 파일 옮기기
       [Kotlin] 평균 점수
       [Kotlin] 한글
+      [Kotlin] 한글 2
       [Kotlin] 헛간 청약
       [Kotlin] 히스토그램
       [Python] 27110
@@ -1582,6 +1586,7 @@ baekjoon
       [Kotlin] Java Warriors
       [Kotlin] Julka
       [Kotlin] Larger Sport Facility
+      [Kotlin] Lucky 7
       [Kotlin] Mathematics
       [Kotlin] Metronome
       [Kotlin] Multiply
@@ -1706,8 +1711,8 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [C#] A+B
       [JavaScript] A+B
+      [C#] A+B
       [Swift] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
