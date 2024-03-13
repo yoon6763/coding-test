@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-13 00:51:49 <br>
+Last Update : 2024-03-13 15:24:20 <br>
 
 
 ```
-2183 Solved
- - Kotlin : 1620
+2190 Solved
+ - Kotlin : 1627
  - Python : 265
  - Java : 148
  - SQL : 78
@@ -435,6 +435,7 @@ baekjoon
       [Kotlin] 데스 나이트
       [Kotlin] 동물원
       [Kotlin] 미로 탐색
+      [Kotlin] 버섯 농장
       [Kotlin] 소수&팰린드롬
       [Kotlin] 숨바꼭질
       [Kotlin] 숨바꼭질 6118
@@ -496,6 +497,7 @@ baekjoon
       [Kotlin] 결혼식
       [Kotlin] 골드바흐의 추측
       [Kotlin] 과일 서리
+      [Kotlin] 꽃길
       [Kotlin] 나무 자르기
       [Kotlin] 로또
       [Kotlin] 마인크래프트
@@ -580,6 +582,7 @@ baekjoon
       [Kotlin] 게임
       [Kotlin] 계단 오르기
       [Kotlin] 구간 합 구하기 4
+      [Kotlin] 다음 순열
       [Kotlin] 달팽이
       [Kotlin] 두 수의 합
       [Kotlin] 로마 숫자 만들기
@@ -609,6 +612,7 @@ baekjoon
       [Kotlin] 장난감 강아지
       [Kotlin] 절사평균
       [Kotlin] 주유소
+      [Kotlin] 죽음의 게임
       [Kotlin] 카드 놓기
       [Kotlin] 크리스마스 선물
       [Kotlin] 터렛
@@ -671,6 +675,7 @@ baekjoon
       [Kotlin] 수학숙제
       [Kotlin] 순서쌍의 곱의 합
       [Kotlin] 숫자 카드 2
+      [Kotlin] 스위치 켜고 끄기
       [Kotlin] 스택
       [Kotlin] 악마 게임
       [Kotlin] 알바생 강호
@@ -864,6 +869,7 @@ baekjoon
       [Kotlin] 일곱 난쟁이
       [Kotlin] 적어도 대부분의 배수
       [Kotlin] 진법 변환 2
+      [Kotlin] 차량 번호판 1
       [Kotlin] 초성 변환
       [Kotlin] 초콜릿 자르기
       [Kotlin] 최대공약수와 최소공배수
@@ -1548,6 +1554,7 @@ baekjoon
       [Kotlin] 팀 나누기
       [Kotlin] 파일 옮기기
       [Kotlin] 평균 점수
+      [Kotlin] 폰 노이만과 파리
       [Kotlin] 한글
       [Kotlin] 한글 2
       [Kotlin] 헛간 청약
@@ -1711,8 +1718,8 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [JavaScript] A+B
       [C#] A+B
+      [JavaScript] A+B
       [Swift] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
