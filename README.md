@@ -14,15 +14,15 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-14 15:36:01 <br>
+Last Update : 2024-03-14 15:42:28 <br>
 
 
 ```
-2197 Solved
+2198 Solved
  - Kotlin : 1634
  - Python : 265
  - Java : 148
- - SQL : 78
+ - SQL : 79
  - C : 23
  - C++ : 12
  - JavaScript : 10
@@ -1945,6 +1945,7 @@ programmers
     [Kotlin] 크기가 작은 부분문자열
     [Kotlin] 푸드 파이트 대회
     [SQL] 12세 이하인 여자 환자 목록 출력하기
+    [SQL] Python 개발자 찾기
     [SQL] 가장 비싼 상품 구하기
     [SQL] 강원도에 위치한 생산공장 목록 출력하기
     [SQL] 경기도에 위치한 식품창고 목록 출력하기
