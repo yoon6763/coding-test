@@ -2,16 +2,14 @@ package baekjoon.gold.g3.`성곽`
 
 lateinit var map: Array<List<Int>>
 lateinit var visited: Array<IntArray>
-val dx = intArrayOf(0, 0, 1, -1)
-val dy = intArrayOf(1, -1, 0, 0)
 var roomSize = 0
 var n = 0
 var m = 0
 
 fun main() = with(System.`in`.bufferedReader()) {
     val mn = readLine().split(" ").map { it.toInt() }
-    n = mn[1]
     m = mn[0]
+    n = mn[1]
 
     visited = Array(n) { IntArray(m) }
     map = Array(n) { readLine().split(" ").map { it.toInt() } }
@@ -36,11 +34,12 @@ fun main() = with(System.`in`.bufferedReader()) {
 
     for (x in 0..<n) {
         for (y in 0..<m) {
-            for (k in 0..<4) {
-                val nx = x + dx[k]
-                val ny = y + dy[k]
+            for ((dx, dy) in arrayOf(0 to 1, 1 to 0)) {
+                val nx = x + dx
+                val ny = y + dy
                 if (nx !in 0..<n || ny !in 0..<m || visited[x][y] == visited[nx][ny]) continue
-                maxSizeOfWhenWallBroken = maxOf(maxSizeOfWhenWallBroken, groupSizes[visited[x][y]] + groupSizes[visited[nx][ny]])
+                maxSizeOfWhenWallBroken =
+                    maxOf(maxSizeOfWhenWallBroken, groupSizes[visited[x][y]] + groupSizes[visited[nx][ny]])
             }
         }
     }
