@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-14 15:42:28 <br>
+Last Update : 2024-03-15 20:05:06 <br>
 
 
 ```
-2198 Solved
- - Kotlin : 1634
+2205 Solved
+ - Kotlin : 1641
  - Python : 265
  - Java : 148
  - SQL : 79
@@ -181,6 +181,7 @@ baekjoon
       [Kotlin] 상어 중학교
       [Kotlin] 색종이 붙이기
       [Kotlin] 선분 교차 2
+      [Kotlin] 악덕 영주 혜유
       [Kotlin] 연료 채우기
       [Kotlin] 우수 마을
       [Kotlin] 저울
@@ -208,6 +209,7 @@ baekjoon
       [Kotlin] Dance Dance Revolution
       [Kotlin] IQ Test
       [Kotlin] LCA
+      [Kotlin] MST 게임
       [Kotlin] Philosopher’s Walk
       [Kotlin] 개미굴
       [Kotlin] 게임 개발
@@ -247,6 +249,7 @@ baekjoon
       [Kotlin] 움직이는 미로 탈출
       [Kotlin] 웜홀
       [Kotlin] 음악프로그램
+      [Kotlin] 일감호에 다리 놓기
       [Kotlin] 저울
       [Kotlin] 정복자
       [Kotlin] 줄 세우기
@@ -1018,6 +1021,7 @@ baekjoon
       [Kotlin] 오각형, 오각형, 오각형…
       [Kotlin] 오르막
       [Kotlin] 오타맨 고창영
+      [Kotlin] 완전수
       [Kotlin] 완전제곱수
       [Kotlin] 요다
       [Kotlin] 욱제는 효도쟁이야
@@ -1057,6 +1061,7 @@ baekjoon
       [Kotlin] 카드 역배치
       [Kotlin] 커트라인
       [Kotlin] 콘테스트
+      [Kotlin] 클레어와 팰린드롬
       [Kotlin] 탄산 음료
       [Kotlin] 태보태보 총난타
       [Kotlin] 트럭 주차
@@ -1161,6 +1166,7 @@ baekjoon
       [Kotlin] Rating Problems
       [Kotlin] Ratownik
       [Kotlin] Report Card Time
+      [Kotlin] SAHUR & IMSA’
       [Kotlin] Simple Collatz Sequence
       [Kotlin] Since 1973
       [Kotlin] Sort 마스터 배지훈
@@ -1437,6 +1443,7 @@ baekjoon
       [Kotlin] Os últimos serão os primeiros
       [Kotlin] Paslpta suma
       [Kotlin] Patyki
+      [Kotlin] Periods
       [Kotlin] Petrol
       [Kotlin] Piece of Cake
       [Kotlin] Pizza
