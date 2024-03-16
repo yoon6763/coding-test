@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-15 20:05:06 <br>
+Last Update : 2024-03-16 15:21:56 <br>
 
 
 ```
-2205 Solved
- - Kotlin : 1641
+2211 Solved
+ - Kotlin : 1647
  - Python : 265
  - Java : 148
  - SQL : 79
@@ -225,6 +225,7 @@ baekjoon
       [Kotlin] 드래곤 커브
       [Kotlin] 마법사 상어와 파이어스톰
       [Kotlin] 말이 되고픈 원숭이
+      [Kotlin] 모양 만들기
       [Kotlin] 무엇을 아느냐가 아니라 누구를 아느냐가 문제다
       [Kotlin] 미로 탈출하기
       [Kotlin] 벽 부수고 이동하기
@@ -910,6 +911,7 @@ baekjoon
       [C] 피보나치 수 2
       [Rust] 알고리즘 수업 - 피보나치 수 1
     b2
+      [Kotlin] !!초콜릿 중독 주의!!
       [Kotlin] 16진수
       [Kotlin] 1번부터 문제의 상태가
       [Kotlin] 2009년
@@ -968,6 +970,7 @@ baekjoon
       [Kotlin] 나의 학점은
       [Kotlin] 너의 이름은 몇 점이니
       [Kotlin] 농구 경기
+      [Kotlin] 니모를 찾아서
       [Kotlin] 닉네임에 갓 붙이기
       [Kotlin] 단어순서 뒤집기
       [Kotlin] 대출 요청
@@ -1013,6 +1016,7 @@ baekjoon
       [Kotlin] 아름다운 수
       [Kotlin] 아즈텍 피라미드
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 6
+      [Kotlin] 알파벳 거리
       [Kotlin] 알파벳 전부 쓰기
       [Kotlin] 애너그램 만들기
       [Kotlin] 야바위 대장
@@ -1224,6 +1228,7 @@ baekjoon
       [Kotlin] 나는 요리사다
       [Kotlin] 남욱이의 닭장
       [Kotlin] 내 학점을 구해줘
+      [Kotlin] 네 번째 수
       [Kotlin] 네 수
       [Kotlin] 노솔브 방지문제야!!
       [Kotlin] 다음수
@@ -1266,6 +1271,7 @@ baekjoon
       [Kotlin] 사나운 개
       [Kotlin] 사분면
       [Kotlin] 사탕 선생 고창영
+      [Kotlin] 삼각 김밥
       [Kotlin] 삼각 무늬 - 1
       [Kotlin] 삼각형 분류
       [Kotlin] 삼각형과 세 변
