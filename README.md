@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-16 15:21:56 <br>
+Last Update : 2024-03-17 17:21:16 <br>
 
 
 ```
-2211 Solved
- - Kotlin : 1647
+2213 Solved
+ - Kotlin : 1649
  - Python : 265
  - Java : 148
  - SQL : 79
@@ -491,6 +491,7 @@ baekjoon
       [Kotlin] 1, 2, 3 더하기 3
       [Kotlin] A to B
       [Kotlin] Bad Grass
+      [Kotlin] Bitmap
       [Kotlin] DFS와 BFS
       [Kotlin] DNA 비밀번호
       [Kotlin] Invasion of the Milkweed
@@ -1136,6 +1137,7 @@ baekjoon
       [Kotlin] Culture shock
       [Kotlin] Digit Count
       [Kotlin] Divisionals Spelling
+      [Kotlin] Even or Odd
       [Kotlin] Extreme Temperatures
       [Kotlin] FBI
       [Kotlin] Fan Death
