@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-17 17:21:16 <br>
+Last Update : 2024-03-18 11:29:52 <br>
 
 
 ```
-2213 Solved
- - Kotlin : 1649
+2219 Solved
+ - Kotlin : 1655
  - Python : 265
  - Java : 148
  - SQL : 79
@@ -331,6 +331,7 @@ baekjoon
       [Kotlin] 적의 적
       [Kotlin] 전력난
       [Kotlin] 좋다
+      [Kotlin] 직사각형 탈출
       [Kotlin] 집합의 표현
       [Kotlin] 최단경로
       [Kotlin] 최소 스패닝 트리
@@ -389,6 +390,7 @@ baekjoon
       [Kotlin] 소셜 네트워킹 어플리케이션
       [Kotlin] 수 나누기 게임
       [Kotlin] 숨바꼭질 3
+      [Kotlin] 숫자고르기
       [Kotlin] 스타트링크
       [Kotlin] 신기한 소수
       [Kotlin] 암호 만들기
@@ -440,6 +442,7 @@ baekjoon
       [Kotlin] 나이트의 이동
       [Kotlin] 단지번호붙이기
       [Kotlin] 데스 나이트
+      [Kotlin] 돌다리
       [Kotlin] 동물원
       [Kotlin] 미로 탐색
       [Kotlin] 버섯 농장
@@ -552,6 +555,7 @@ baekjoon
       [Kotlin] 촌수계산
       [Kotlin] 최대 힙
       [Kotlin] 최소 힙
+      [Kotlin] 친구
       [Kotlin] 침투
       [Kotlin] 카이사르 암호
       [Kotlin] 키로거
@@ -619,6 +623,7 @@ baekjoon
       [Kotlin] 이친수
       [Kotlin] 장난감 강아지
       [Kotlin] 절사평균
+      [Kotlin] 정수 a를 k로 만들기
       [Kotlin] 주유소
       [Kotlin] 죽음의 게임
       [Kotlin] 카드 놓기
@@ -1411,6 +1416,7 @@ baekjoon
       [Kotlin] CASIO
       [Kotlin] Checkers
       [Kotlin] Chili Peppers
+      [Kotlin] Circus
       [Kotlin] Communication Channels
       [Kotlin] Contemporary Art
       [Kotlin] Counting Antibodies
