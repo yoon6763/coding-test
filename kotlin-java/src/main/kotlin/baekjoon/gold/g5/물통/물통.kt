@@ -1,6 +1,6 @@
 package baekjoon.gold.g5.물통
 
-import java.lang.StringBuilder
+import java.util.HashSet
 import java.util.LinkedList
 import java.util.Queue
 
@@ -11,22 +11,19 @@ fun main() = with(System.`in`.bufferedReader()) {
 
     // a, b는 빔, c는 가득 참
     val visited = Array(capacity[0] + 1) { Array(capacity[1] + 1) { Array(capacity[2] + 1) { false } } }
-    val answer = Array(capacity[2] + 1) { false }
+    val answer = HashSet<Int>()
 
     val q = LinkedList<Bottle>() as Queue<Bottle>
     q.offer(Bottle(0, 0, capacity[2]))
 
     while (q.isNotEmpty()) {
-        val target = q.poll()
-        val a = target.a
-        val b = target.b
-        val c = target.c
+        val (a, b, c) = q.poll()
 
         if (visited[a][b][c]) continue
         visited[a][b][c] = true
 
         if (a == 0) {
-            answer[c] = true
+            answer.add(c)
         }
 
         // a -> b
@@ -71,13 +68,5 @@ fun main() = with(System.`in`.bufferedReader()) {
             q.offer(Bottle(a, b + c, 0))
         }
     }
-
-    val sb = StringBuilder()
-    for (i in 0..capacity[2]) {
-        if (answer[i]) {
-            sb.append("$i ")
-        }
-    }
-
-    println(sb.toString())
+    println(answer.sorted().joinToString(" "))
 }
