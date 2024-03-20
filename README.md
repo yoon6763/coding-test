@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-19 11:59:19 <br>
+Last Update : 2024-03-20 12:50:31 <br>
 
 
 ```
-2226 Solved
- - Kotlin : 1662
+2230 Solved
+ - Kotlin : 1666
  - Python : 265
  - Java : 148
  - SQL : 79
@@ -360,6 +360,7 @@ baekjoon
       [Kotlin] CCW
       [Kotlin] Fly me to the Alpha Centauri
       [Kotlin] LCS
+      [Kotlin] 간선 이어가기 2
       [Kotlin] 감소하는 수
       [Kotlin] 강의실
       [Kotlin] 강의실 배정
@@ -431,6 +432,7 @@ baekjoon
       [Kotlin] Red and Black
       [Kotlin] Small World Network
       [Kotlin] Z
+      [Kotlin] n단 논법
       [Kotlin] 가장 가까운 세 사람의 심리적 거리
       [Kotlin] 경로 찾기
       [Kotlin] 골드바흐의 추측
@@ -511,6 +513,7 @@ baekjoon
       [Kotlin] 그대, 그머가 되어
       [Kotlin] 꽃길
       [Kotlin] 나무 자르기
+      [Kotlin] 도영이가 만든 맛있는 음식
       [Kotlin] 로또
       [Kotlin] 마인크래프트
       [Kotlin] 부분수열의 합
@@ -879,6 +882,7 @@ baekjoon
       [Kotlin] 유니대전 퀴즈쇼
       [Kotlin] 유니크
       [Kotlin] 유레카 이론
+      [Kotlin] 유진수
       [Kotlin] 이번학기 평점은 몇점
       [Kotlin] 이진수 덧셈
       [Kotlin] 이항 계수 1
