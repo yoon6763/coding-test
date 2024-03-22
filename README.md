@@ -14,15 +14,15 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-21 16:03:45 <br>
+Last Update : 2024-03-22 15:22:53 <br>
 
 
 ```
-2239 Solved
- - Kotlin : 1675
+2246 Solved
+ - Kotlin : 1677
  - Python : 265
  - Java : 148
- - SQL : 79
+ - SQL : 84
  - C : 23
  - C++ : 12
  - JavaScript : 10
@@ -1028,6 +1028,7 @@ baekjoon
       [Kotlin] 수빈이와 수열
       [Kotlin] 수학은 비대면강의입니다
       [Kotlin] 숫자
+      [Kotlin] 숫자 놀이
       [Kotlin] 숫자의 개수 2
       [Kotlin] 시각
       [Kotlin] 시간복잡도를 배운 도도
@@ -1835,6 +1836,7 @@ programmers
     [Kotlin] 양과 늑대
     [Kotlin] 여행경로
     [Kotlin] 이중우선순위큐
+    [Kotlin] 입국심사
     [Kotlin] 징검다리 건너기
     [Kotlin] 타겟 넘버
     [Kotlin] 합승 택시 요금
@@ -1988,6 +1990,7 @@ programmers
     [SQL] 12세 이하인 여자 환자 목록 출력하기
     [SQL] Python 개발자 찾기
     [SQL] 가장 비싼 상품 구하기
+    [SQL] 가장 큰 물고기 10마리 구하기
     [SQL] 강원도에 위치한 생산공장 목록 출력하기
     [SQL] 경기도에 위치한 식품창고 목록 출력하기
     [SQL] 과일로 만든 아이스크림 고르기
@@ -2003,12 +2006,16 @@ programmers
     [SQL] 이름이 있는 동물의 아이디
     [SQL] 인기있는 아이스크림
     [SQL] 자동차 대여 기록에서 장기 단기 대여 구분하기
+    [SQL] 잔챙이 잡은 수 구하기
+    [SQL] 잡은 물고기 중 가장 큰 물고기의 길이 구하기
+    [SQL] 잡은 물고기의 평균 길이 구하기
     [SQL] 조건에 맞는 도서 리스트 출력하기
     [SQL] 조건에 맞는 회원수 구하기
     [SQL] 조건에 부합하는 중고거래 댓글 조회하기
     [SQL] 최댓값 구하기
     [SQL] 특정 옵션이 포함된 자동차 리스트 구하기
     [SQL] 평균 일일 대여 요금 구하기
+    [SQL] 한 해에 잡은 물고기 수 구하기
     [SQL] 흉부외과 또는 일반외과 의사 목록 출력하기
     [Java] K번째수
     [Java] _2016년
