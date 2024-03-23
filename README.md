@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-22 15:22:53 <br>
+Last Update : 2024-03-23 20:12:47 <br>
 
 
 ```
-2246 Solved
- - Kotlin : 1677
+2248 Solved
+ - Kotlin : 1679
  - Python : 265
  - Java : 148
  - SQL : 84
@@ -1157,6 +1157,7 @@ baekjoon
       [Kotlin] Baseball
       [Kotlin] Bałwanek
       [Kotlin] Billing
+      [Kotlin] Broken Calculator
       [Kotlin] Culture shock
       [Kotlin] Digit Count
       [Kotlin] Divisionals Spelling
@@ -1247,6 +1248,7 @@ baekjoon
       [Kotlin] 공 넣기
       [Kotlin] 공 바꾸기
       [Kotlin] 과 조사하기
+      [Kotlin] 괴짜 교수
       [Kotlin] 그대로 출력하기 2
       [Kotlin] 길면 기차, 기차는 빨라, 빠른 것은 비행기
       [Kotlin] 꼬리를 무는 숫자 나열
