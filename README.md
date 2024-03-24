@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-23 20:12:47 <br>
+Last Update : 2024-03-24 13:23:14 <br>
 
 
 ```
-2248 Solved
- - Kotlin : 1679
+2249 Solved
+ - Kotlin : 1680
  - Python : 265
  - Java : 148
  - SQL : 84
@@ -1497,6 +1497,7 @@ baekjoon
       [Kotlin] SASA 모형을 만들어보자
       [Kotlin] SMS from MCHS
       [Kotlin] Schronisko
+      [Kotlin] Silnia
       [Kotlin] Simple Sum
       [Kotlin] Skarpetki
       [Kotlin] Sounds fishy
