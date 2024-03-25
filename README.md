@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-24 13:23:14 <br>
+Last Update : 2024-03-25 18:11:25 <br>
 
 
 ```
-2249 Solved
- - Kotlin : 1680
+2250 Solved
+ - Kotlin : 1681
  - Python : 265
  - Java : 148
  - SQL : 84
@@ -1080,6 +1080,7 @@ baekjoon
       [Kotlin] 직사각형을 만드는 방법
       [Kotlin] 진법 변환
       [Kotlin] 진짜 공간
+      [Kotlin] 창영마을
       [Kotlin] 창영이의 일기장
       [Kotlin] 초6 수학
       [Kotlin] 추론
