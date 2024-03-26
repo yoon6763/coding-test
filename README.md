@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-25 18:11:25 <br>
+Last Update : 2024-03-26 19:21:17 <br>
 
 
 ```
-2250 Solved
- - Kotlin : 1681
+2251 Solved
+ - Kotlin : 1682
  - Python : 265
  - Java : 148
  - SQL : 84
@@ -1434,6 +1434,7 @@ baekjoon
       [Kotlin] Bank Transfer
       [Kotlin] Bicycle
       [Kotlin] Big Number
+      [Kotlin] Body Mass Index
       [Kotlin] Boiling Water
       [Kotlin] CASIO
       [Kotlin] Checkers
