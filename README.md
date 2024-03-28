@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-27 12:53:32 <br>
+Last Update : 2024-03-28 21:19:27 <br>
 
 
 ```
-2252 Solved
- - Kotlin : 1683
+2256 Solved
+ - Kotlin : 1687
  - Python : 265
  - Java : 148
  - SQL : 84
@@ -836,6 +836,7 @@ baekjoon
       [Kotlin] 2진수 8진수
       [Kotlin] 6174
       [Kotlin] A divide B - 2
+      [Kotlin] Doubles
       [Kotlin] MINESWEEPER
       [Kotlin] N-퍼즐
       [Kotlin] No Duplicates
@@ -1058,6 +1059,7 @@ baekjoon
       [Kotlin] 이상한 곱셈
       [Kotlin] 이진수 덧셈
       [Kotlin] 이진수 변환
+      [Kotlin] 이진수 연산
       [Kotlin] 이진수 합
       [Kotlin] 인생 점수
       [Kotlin] 자기복제수
@@ -1206,6 +1208,7 @@ baekjoon
       [Kotlin] Stopki
       [Kotlin] Sum of Odd Sequence
       [Kotlin] TGN
+      [Kotlin] Transactions
       [Kotlin] Trident
       [Kotlin] UOSPC 세기
       [Kotlin] Vending Machine
@@ -1221,6 +1224,7 @@ baekjoon
       [Kotlin] ДИНИ
       [Kotlin] Клавиатура
       [Kotlin] Пары
+      [Kotlin] 改元
       [Kotlin] 文字列の反転 (Inversion of a String)
       [Kotlin] 가뭄(Small)
       [Kotlin] 가위 바위 보
