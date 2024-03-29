@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-28 21:19:27 <br>
+Last Update : 2024-03-29 15:55:25 <br>
 
 
 ```
-2256 Solved
- - Kotlin : 1687
+2263 Solved
+ - Kotlin : 1694
  - Python : 265
  - Java : 148
  - SQL : 84
@@ -234,6 +234,7 @@ baekjoon
       [Kotlin] 별자리 만들기
       [Kotlin] 불우이웃돕기
       [Kotlin] 사회망 서비스(SNS)
+      [Kotlin] 산책 (small)
       [Kotlin] 성곽
       [Kotlin] 세 용액
       [Kotlin] 소문난 칠공주
@@ -462,6 +463,7 @@ baekjoon
       [Kotlin] 안전 영역
       [Kotlin] 양
       [Kotlin] 양치기 꿍
+      [Kotlin] 에너지 모으기
       [Kotlin] 연산자 끼워넣기
       [Kotlin] 영역 구하기
       [Kotlin] 오르막 수
@@ -899,6 +901,7 @@ baekjoon
       [Kotlin] 인생은 한 방
       [Kotlin] 일곱 난쟁이
       [Kotlin] 적어도 대부분의 배수
+      [Kotlin] 주디와 당근농장
       [Kotlin] 진법 변환 2
       [Kotlin] 차량 번호판 1
       [Kotlin] 초성 변환
@@ -935,6 +938,7 @@ baekjoon
       [Rust] 알고리즘 수업 - 피보나치 수 1
     b2
       [Kotlin] !!초콜릿 중독 주의!!
+      [Kotlin] 10174팰린드롬
       [Kotlin] 16진수
       [Kotlin] 1번부터 문제의 상태가
       [Kotlin] 2009년
@@ -958,6 +962,7 @@ baekjoon
       [Kotlin] JOI ソート (JOI Sort)
       [Kotlin] JOI와 IOI
       [Kotlin] Java Bitecode
+      [Kotlin] Joke
       [Kotlin] KMP는 왜 KMP일까
       [Kotlin] Max
       [Kotlin] NN
@@ -989,6 +994,7 @@ baekjoon
       [Kotlin] 그릇
       [Kotlin] 기숙사 바닥
       [Kotlin] 나누기
+      [Kotlin] 나는 너가 살아온 날을 알고 있다
       [Kotlin] 나는 친구가 적다 (Large)
       [Kotlin] 나의 학점은
       [Kotlin] 너의 이름은 몇 점이니
@@ -1491,6 +1497,7 @@ baekjoon
       [Kotlin] Piece of Cake
       [Kotlin] Pizza
       [Kotlin] Pizza Deal
+      [Kotlin] Pokemon Buddy
       [Kotlin] Population
       [Kotlin] Poziome serca
       [Kotlin] Previous Level
