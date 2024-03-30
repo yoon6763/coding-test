@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-29 15:55:25 <br>
+Last Update : 2024-03-30 14:19:46 <br>
 
 
 ```
-2263 Solved
- - Kotlin : 1694
+2272 Solved
+ - Kotlin : 1703
  - Python : 265
  - Java : 148
  - SQL : 84
@@ -76,6 +76,7 @@ baekjoon
       [Kotlin] 거의 최단 경로
       [Kotlin] 경찰차
       [Kotlin] 고층 빌딩
+      [Kotlin] 공장
       [Kotlin] 다이아몬드 광산
       [Kotlin] 도로포장
       [Kotlin] 배열에서 이동
@@ -855,6 +856,7 @@ baekjoon
       [Kotlin] 그림 비교
       [Kotlin] 기상청 인턴 신현수
       [Kotlin] 긴급 회의
+      [Kotlin] 나머지와 몫이 같은 수
       [Kotlin] 나무 조각
       [Kotlin] 너의 핸들은
       [Kotlin] 논리학 교수
@@ -873,6 +875,7 @@ baekjoon
       [Kotlin] 문자메시지
       [Kotlin] 민균이의 비밀번호
       [Kotlin] 박스
+      [Kotlin] 반복
       [Kotlin] 반올림
       [Kotlin] 비밀편지
       [Kotlin] 색종이
@@ -881,11 +884,13 @@ baekjoon
       [Kotlin] 세로읽기
       [Kotlin] 소가 길을 건너간 이유 1
       [Kotlin] 소인수분해
+      [Kotlin] 수 정렬하기 3
       [Kotlin] 슈퍼 마리오
       [Kotlin] 스캐너
       [Kotlin] 싸이클
       [Kotlin] 알고리즘 수업 - 선택 정렬 2
       [Kotlin] 알고리즘 수업 - 피보나치 수 1
+      [Kotlin] 암호
       [Kotlin] 애너그램
       [Kotlin] 약수
       [Kotlin] 약수들의 합
@@ -1114,6 +1119,7 @@ baekjoon
       [Kotlin] 피시방 알바
       [Kotlin] 하얀 칸
       [Kotlin] 학점계산프로그램
+      [Kotlin] 할리갈리
       [Kotlin] 해밍 거리
       [Kotlin] 행복
       [Kotlin] 헤일스톤 수열
@@ -1228,6 +1234,7 @@ baekjoon
       [Kotlin] `ソーシャルゲーム (Social Game)`
       [Kotlin] Выражение
       [Kotlin] ДИНИ
+      [Kotlin] КУРИЕРИ
       [Kotlin] Клавиатура
       [Kotlin] Пары
       [Kotlin] 改元
@@ -1443,6 +1450,7 @@ baekjoon
       [Kotlin] Area
       [Kotlin] Atrium
       [Kotlin] Bank Transfer
+      [Kotlin] Betting
       [Kotlin] Bicycle
       [Kotlin] Big Number
       [Kotlin] Body Mass Index
@@ -1517,6 +1525,7 @@ baekjoon
       [Kotlin] Sounds fishy
       [Kotlin] Speed fines are not fine!
       [Kotlin] Squares
+      [Kotlin] Telemarketer or not
       [Kotlin] The Merchant of Venice
       [Kotlin] The Walking Adam
       [Kotlin] Tournament Selection
