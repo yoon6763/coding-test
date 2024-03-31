@@ -14,15 +14,15 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-30 18:05:34 <br>
+Last Update : 2024-03-31 12:38:18 <br>
 
 
 ```
-2274 Solved
- - Kotlin : 1705
+2278 Solved
+ - Kotlin : 1706
  - Python : 265
  - Java : 148
- - SQL : 84
+ - SQL : 87
  - C : 23
  - C++ : 12
  - JavaScript : 10
@@ -1669,6 +1669,7 @@ baekjoon
       [Kotlin] Java Warriors
       [Kotlin] Julka
       [Kotlin] Larger Sport Facility
+      [Kotlin] Loteria Falha
       [Kotlin] Lucky 7
       [Kotlin] Mathematics
       [Kotlin] Metronome
@@ -1870,6 +1871,8 @@ programmers
     [Kotlin] 합승 택시 요금
     [SQL] 대여 기록이 존재하는 자동차 리스트 구하기
     [SQL] 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기
+    [SQL] 대장균들의 자식의 수 구하기
+    [SQL] 대장균의 크기에 따라 분류하기 1
     [SQL] 없어진 기록 찾기
     [SQL] 오랜 기간 보호한 동물(1)
     [SQL] 오랜 기간 보호한 동물(2)
@@ -1960,6 +1963,7 @@ programmers
     [SQL] 진료과별 총 예약 횟수 출력하기
     [SQL] 최솟값 구하기
     [SQL] 카테고리 별 상품 개수 구하기
+    [SQL] 특정 물고기를 잡은 총 수 구하기
     [Java] _124_나라의_숫자
     [Java] _2_x_n_타일링
     [Java] 가장_큰_정사각형_찾기
