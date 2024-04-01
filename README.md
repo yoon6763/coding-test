@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-03-31 12:38:18 <br>
+Last Update : 2024-04-01 15:43:16 <br>
 
 
 ```
-2278 Solved
- - Kotlin : 1706
+2281 Solved
+ - Kotlin : 1709
  - Python : 265
  - Java : 148
  - SQL : 87
@@ -1003,6 +1003,7 @@ baekjoon
       [Kotlin] 나누기
       [Kotlin] 나는 너가 살아온 날을 알고 있다
       [Kotlin] 나는 친구가 적다 (Large)
+      [Kotlin] 나는 친구가 적다 (Small)
       [Kotlin] 나의 학점은
       [Kotlin] 너의 이름은 몇 점이니
       [Kotlin] 농구 경기
@@ -1222,6 +1223,7 @@ baekjoon
       [Kotlin] Stopki
       [Kotlin] Sum of Odd Sequence
       [Kotlin] TGN
+      [Kotlin] Tax
       [Kotlin] Transactions
       [Kotlin] Trident
       [Kotlin] UOSPC 세기
@@ -1447,6 +1449,7 @@ baekjoon
       [Kotlin] A+B-C
       [Kotlin] AFC 윔블던
       [Kotlin] Abbey Courtyard
+      [Kotlin] Absolutely
       [Kotlin] Andando no tempo
       [Kotlin] Another Eruption
       [Kotlin] Area
