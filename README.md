@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-01 15:43:16 <br>
+Last Update : 2024-04-02 15:53:20 <br>
 
 
 ```
-2281 Solved
- - Kotlin : 1709
+2291 Solved
+ - Kotlin : 1719
  - Python : 265
  - Java : 148
  - SQL : 87
@@ -208,12 +208,14 @@ baekjoon
       [Kotlin] 200년간 폐관수련했더니 PS 최강자가 된 건에 대하여
       [Kotlin] ACM Craft
       [Kotlin] BFS 스페셜 저지
+      [Kotlin] Baaaaaaaaaduk2 (Easy)
       [Kotlin] Dance Dance Revolution
       [Kotlin] IQ Test
       [Kotlin] LCA
       [Kotlin] MST 게임
       [Kotlin] Philosopher’s Walk
       [Kotlin] 개미굴
+      [Kotlin] 거울 설치
       [Kotlin] 게임 개발
       [Kotlin] 과제
       [Kotlin] 교환
@@ -225,6 +227,8 @@ baekjoon
       [Kotlin] 다리 만들기
       [Kotlin] 두 배열의 합
       [Kotlin] 드래곤 커브
+      [Kotlin] 등수 찾기
+      [Kotlin] 로봇
       [Kotlin] 마법사 상어와 파이어스톰
       [Kotlin] 말이 되고픈 원숭이
       [Kotlin] 모양 만들기
@@ -294,6 +298,7 @@ baekjoon
       [Kotlin] 녹색 옷 입은 애가 젤다지
       [Kotlin] 도시 건설
       [Kotlin] 도시 분할 계획
+      [Kotlin] 떡장수와 호랑이
       [Kotlin] 로봇 조립
       [Kotlin] 마법사 상어와 파이어볼
       [Kotlin] 무기 공학
@@ -887,6 +892,7 @@ baekjoon
       [Kotlin] 소가 길을 건너간 이유 1
       [Kotlin] 소인수분해
       [Kotlin] 수 정렬하기 3
+      [Kotlin] 수열의 변화
       [Kotlin] 슈퍼 마리오
       [Kotlin] 스캐너
       [Kotlin] 싸이클
@@ -953,6 +959,7 @@ baekjoon
       [Kotlin] 2진수 뒤집기
       [Kotlin] 3000번 버스
       [Kotlin] 3대 측정
+      [Kotlin] 3의 배수
       [Kotlin] 5와 6의 차이
       [Kotlin] 5의 수난
       [Kotlin] 8진수
@@ -1229,6 +1236,7 @@ baekjoon
       [Kotlin] UOSPC 세기
       [Kotlin] Vending Machine
       [Kotlin] Viva la Diferencia
+      [Kotlin] Volta
       [Kotlin] Vowel Count
       [Kotlin] What is n, Daddy
       [Kotlin] Who Has Seen The Wind
@@ -1245,6 +1253,7 @@ baekjoon
       [Kotlin] 文字列の反転 (Inversion of a String)
       [Kotlin] 가뭄(Small)
       [Kotlin] 가위 바위 보
+      [Kotlin] 갈래의 색종이 자르기
       [Kotlin] 개표
       [Kotlin] 거북이
       [Kotlin] 거울, 오! 거울
@@ -1492,6 +1501,7 @@ baekjoon
       [Kotlin] ISBN
       [Kotlin] IT Passport Examination
       [Kotlin] Identifying tea
+      [Kotlin] Is Y a Vowel
       [Kotlin] Judging Moose
       [Kotlin] Koszykarz
       [Kotlin] Kuber
