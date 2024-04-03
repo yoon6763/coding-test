@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-02 15:53:20 <br>
+Last Update : 2024-04-03 14:04:08 <br>
 
 
 ```
-2291 Solved
- - Kotlin : 1719
+2292 Solved
+ - Kotlin : 1720
  - Python : 265
  - Java : 148
  - SQL : 87
@@ -1213,6 +1213,7 @@ baekjoon
       [Kotlin] Missing Numbers
       [Kotlin] Monety
       [Kotlin] N M 찍기
+      [Kotlin] NASLJEDSTVO
       [Kotlin] Not A + B
       [Kotlin] Odd Gnome
       [Kotlin] Olympic Games
