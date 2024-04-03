@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-03 14:04:08 <br>
+Last Update : 2024-04-03 23:42:38 <br>
 
 
 ```
-2292 Solved
- - Kotlin : 1720
+2293 Solved
+ - Kotlin : 1721
  - Python : 265
  - Java : 148
  - SQL : 87
@@ -1351,6 +1351,7 @@ baekjoon
       [Kotlin] 수학적 호기심
       [Kotlin] 숫자 맞추기 게임
       [Kotlin] 스케이트보드
+      [Kotlin] 스타후르츠
       [Kotlin] 스트릿 코딩 파이터
       [Kotlin] 신기한 수
       [Kotlin] 쌍의 합
