@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-04 14:51:56 <br>
+Last Update : 2024-04-04 16:51:34 <br>
 
 
 ```
-2298 Solved
- - Kotlin : 1726
+2299 Solved
+ - Kotlin : 1727
  - Python : 265
  - Java : 148
  - SQL : 87
@@ -246,6 +246,7 @@ baekjoon
       [Kotlin] 세 용액
       [Kotlin] 소문난 칠공주
       [Kotlin] 소수의 연속합
+      [Kotlin] 소형기관차
       [Kotlin] 순회강연
       [Kotlin] 싸지방에 간 준하
       [Kotlin] 아기 상어
@@ -1816,8 +1817,8 @@ baekjoon
       [C++] 큰 수 A+B
       [Text] 한별 찍기
       [JavaScript] A+B
-      [C#] A+B
       [Swift] A+B
+      [C#] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
