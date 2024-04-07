@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-05 14:54:54 <br>
+Last Update : 2024-04-06 13:35:47 <br>
 
 
 ```
-2302 Solved
- - Kotlin : 1730
+2305 Solved
+ - Kotlin : 1733
  - Python : 265
  - Java : 148
  - SQL : 87
@@ -995,6 +995,7 @@ baekjoon
       [Kotlin] String
       [Kotlin] Stół
       [Kotlin] TV 크기
+      [Kotlin] Words
       [Kotlin] `첼시를 도와줘`
       [Kotlin] e 계산
       [Kotlin] include Google IO h
@@ -1048,6 +1049,7 @@ baekjoon
       [Kotlin] 분해합
       [Kotlin] 브실이의 띠부띠부씰 컬렉션
       [Kotlin] 비교 연산자
+      [Kotlin] 비슷한 전화번호 표시
       [Kotlin] 사칙연산
       [Kotlin] 상근이의 체스판
       [Kotlin] 새
@@ -1464,6 +1466,7 @@ baekjoon
       [Kotlin] 2 番目に大きい整数 (The Second Largest Integer)
       [Kotlin] 2023은 무엇이 특별할까
       [Kotlin] 3 つの整数 (Three Integers)
+      [Kotlin] A Simple Problem
       [Kotlin] A+B-C
       [Kotlin] AFC 윔블던
       [Kotlin] Abbey Courtyard
