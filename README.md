@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-06 13:35:47 <br>
+Last Update : 2024-04-07 12:48:14 <br>
 
 
 ```
-2305 Solved
- - Kotlin : 1733
+2306 Solved
+ - Kotlin : 1734
  - Python : 265
  - Java : 148
  - SQL : 87
@@ -1037,6 +1037,7 @@ baekjoon
       [Kotlin] 만취한 상범
       [Kotlin] 모르고리즘 회장 정하기
       [Kotlin] 모스 부호
+      [Kotlin] 무지개 만들기
       [Kotlin] 문자가 몇갤까
       [Kotlin] 문자열 분석
       [Kotlin] 바구니 뒤집기
@@ -1823,8 +1824,8 @@ baekjoon
       [C++] 큰 수 A+B
       [Text] 한별 찍기
       [JavaScript] A+B
-      [C#] A+B
       [Swift] A+B
+      [C#] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
