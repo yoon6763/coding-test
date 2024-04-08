@@ -16,7 +16,7 @@ fun main() = with(System.`in`.bufferedReader()) {
     while (q.isNotEmpty()) {
         val visited = Array(n) { BooleanArray(n) }
 
-        for (i in 0 until q.size) {
+        for (i in 0..<q.size) {
             val target = q.poll()
             if (map[target.x][target.y] == '#') continue
             if (target.x == 0 && target.y == 7) {
@@ -24,10 +24,10 @@ fun main() = with(System.`in`.bufferedReader()) {
                 return
             }
 
-            for (j in 0 until 9) {
+            for (j in 0..<9) {
                 val nx = target.x + dx[j]
                 val ny = target.y + dy[j]
-                if (nx !in 0 until n || ny !in 0 until n || map[nx][ny] == '#' || visited[nx][ny]) continue
+                if (nx !in 0..<n || ny !in 0..<n || map[nx][ny] == '#' || visited[nx][ny]) continue
                 visited[nx][ny] = true
                 q.add(Node(nx, ny))
             }
