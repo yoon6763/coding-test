@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-07 12:48:14 <br>
+Last Update : 2024-04-08 15:47:11 <br>
 
 
 ```
-2306 Solved
- - Kotlin : 1734
+2307 Solved
+ - Kotlin : 1735
  - Python : 265
  - Java : 148
  - SQL : 87
@@ -861,6 +861,7 @@ baekjoon
       [Kotlin] XORXORXOR
       [Kotlin] Yangjojang of The Year
       [Kotlin] 가장 큰 금민수
+      [Kotlin] 경제학과 정원영
       [Kotlin] 고양이 사료
       [Kotlin] 교수님 그림이 깨지는데요
       [Kotlin] 귀여운 수
