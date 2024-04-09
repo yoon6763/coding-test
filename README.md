@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-08 15:47:11 <br>
+Last Update : 2024-04-09 11:10:33 <br>
 
 
 ```
-2307 Solved
- - Kotlin : 1735
+2311 Solved
+ - Kotlin : 1739
  - Python : 265
  - Java : 148
  - SQL : 87
@@ -243,6 +243,7 @@ baekjoon
       [Kotlin] 불우이웃돕기
       [Kotlin] 사회망 서비스(SNS)
       [Kotlin] 산책 (small)
+      [Kotlin] 서울 지하철 2호선
       [Kotlin] 성곽
       [Kotlin] 세 용액
       [Kotlin] 소문난 칠공주
@@ -1433,6 +1434,7 @@ baekjoon
       [Kotlin] 통학의 신
       [Kotlin] 특정 대문자를 소문자로 바꾸기
       [Kotlin] 파인만
+      [Kotlin] 팰린드롬 소떡소떡
       [Kotlin] 페르시아의 왕들
       [Kotlin] 평균 중앙값 문제
       [Kotlin] 폰 노이만
@@ -1575,6 +1577,7 @@ baekjoon
       [Kotlin] Граничные клетки
       [Kotlin] Лифт
       [Kotlin] Миша и негатив
+      [Kotlin] НАМИСЛИХ СИ ЧИСЛО
       [Kotlin] ПЧЕЛИЧКАТА МАЯ
       [Kotlin] Поп-ит
       [Kotlin] Простая задача
@@ -1654,6 +1657,7 @@ baekjoon
       [Kotlin] 타일 채우기 4
       [Kotlin] 타임 카드
       [Kotlin] 탁구 경기
+      [Kotlin] 특별한 가지
       [Kotlin] 특별한 날
       [Kotlin] 팀 나누기
       [Kotlin] 파일 옮기기
