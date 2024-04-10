@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-09 11:10:33 <br>
+Last Update : 2024-04-10 11:58:41 <br>
 
 
 ```
-2311 Solved
- - Kotlin : 1739
+2312 Solved
+ - Kotlin : 1740
  - Python : 265
  - Java : 148
  - SQL : 87
@@ -1730,6 +1730,7 @@ baekjoon
       [Kotlin] ゾロ目 (Same Numbers)
       [Kotlin] 三方比較 (Three-Way Comparison)
       [Kotlin] 余り (Remainder)
+      [Kotlin] 分 (Minutes)
       [Kotlin] 時間 (Hour)
       [Kotlin] 母音を数える (Counting Vowels)
       [Kotlin] 立方体 (Cube)
