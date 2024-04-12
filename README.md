@@ -14,14 +14,14 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-11 14:11:40 <br>
+Last Update : 2024-04-12 17:33:19 <br>
 
 
 ```
-2314 Solved
- - Kotlin : 1742
+2320 Solved
+ - Kotlin : 1747
  - Python : 265
- - Java : 148
+ - Java : 149
  - SQL : 87
  - C : 23
  - C++ : 12
@@ -985,6 +985,7 @@ baekjoon
       [Kotlin] Java Bitecode
       [Kotlin] Joke
       [Kotlin] KMP는 왜 KMP일까
+      [Kotlin] Letter Count
       [Kotlin] Max
       [Kotlin] NN
       [Kotlin] Number Maximization
@@ -1217,6 +1218,7 @@ baekjoon
       [Kotlin] JOI エディタ (JOI Editor)
       [Kotlin] JavaScript
       [Kotlin] Jazz Enthusiast
+      [Kotlin] Jumbled Compass
       [Kotlin] J박스
       [Kotlin] Koncert
       [Kotlin] Liczba
@@ -1495,6 +1497,7 @@ baekjoon
       [Kotlin] Contest Timing
       [Kotlin] Counting Antibodies
       [Kotlin] Covid-19
+      [Kotlin] DKSH 찾기
       [Kotlin] Darius님 한타 안 함
       [Kotlin] Dedupe
       [Kotlin] Deliv-e-droid
@@ -1551,6 +1554,7 @@ baekjoon
       [Kotlin] SASA 모형을 만들어보자
       [Kotlin] SMS from MCHS
       [Kotlin] Schronisko
+      [Kotlin] Shipping
       [Kotlin] Silnia
       [Kotlin] Simple Sum
       [Kotlin] Skarpetki
@@ -1577,6 +1581,7 @@ baekjoon
       [Kotlin] ГРАДИНА
       [Kotlin] Граничные клетки
       [Kotlin] Лифт
+      [Kotlin] Любитель нулей
       [Kotlin] Миша и негатив
       [Kotlin] НАМИСЛИХ СИ ЧИСЛО
       [Kotlin] ПЧЕЛИЧКАТА МАЯ
@@ -1880,6 +1885,7 @@ programmers
     [SQL] 저자 별 카테고리 별 매출액 집계하기
     [SQL] 주문량이 많은 아이스크림들 조회하기
     [SQL] 취소되지 않은 진료 예약 조회하기
+    [Java] 도둑질
 
   Level 3
     [Python] [PCCP 모의고사 #2] 4번 - 보물 지도
