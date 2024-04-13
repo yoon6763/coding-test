@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-13 11:43:29 <br>
+Last Update : 2024-04-13 12:24:05 <br>
 
 
 ```
-2321 Solved
- - Kotlin : 1748
+2322 Solved
+ - Kotlin : 1749
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -1268,6 +1268,7 @@ baekjoon
       [Kotlin] Пары
       [Kotlin] 改元
       [Kotlin] 文字列の反転 (Inversion of a String)
+      [Kotlin] 次の文字 (Next Character)
       [Kotlin] 가뭄(Small)
       [Kotlin] 가위 바위 보
       [Kotlin] 갈래의 색종이 자르기
