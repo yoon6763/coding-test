@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-12 17:33:19 <br>
+Last Update : 2024-04-13 11:43:29 <br>
 
 
 ```
-2320 Solved
- - Kotlin : 1747
+2321 Solved
+ - Kotlin : 1748
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -959,6 +959,8 @@ baekjoon
     b2
       [Kotlin] !!초콜릿 중독 주의!!
       [Kotlin] 10174팰린드롬
+      [Kotlin] 13300 방 배정
+      [Kotlin] 13304 방 배정
       [Kotlin] 16진수
       [Kotlin] 1번부터 문제의 상태가
       [Kotlin] 2009년
@@ -1045,7 +1047,6 @@ baekjoon
       [Kotlin] 문자열 분석
       [Kotlin] 바구니 뒤집기
       [Kotlin] 박사 과정
-      [Kotlin] 방 배정
       [Kotlin] 방 배정하기
       [Kotlin] 배수들의 합
       [Kotlin] 백설 공주와 일곱 난쟁이
