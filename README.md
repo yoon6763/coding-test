@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-14 19:54:27 <br>
+Last Update : 2024-04-15 15:16:56 <br>
 
 
 ```
-2324 Solved
- - Kotlin : 1751
+2327 Solved
+ - Kotlin : 1754
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -635,6 +635,7 @@ baekjoon
       [Kotlin] 서로 다른 부분 문자열의 개수
       [Kotlin] 세 번 이내에 사과를 먹자
       [Kotlin] 소수 구하기
+      [Kotlin] 수 복원하기
       [Kotlin] 수강신청
       [Kotlin] 수리공 항승
       [Kotlin] 수열
@@ -981,6 +982,7 @@ baekjoon
       [Kotlin] Count Me In
       [Kotlin] Farm
       [Kotlin] Fridge of Your Dreams
+      [Kotlin] From 1987 to 2013
       [Kotlin] Happy Number
       [Kotlin] Hashing
       [Kotlin] JOI ソート (JOI Sort)
@@ -995,6 +997,7 @@ baekjoon
       [Kotlin] Numbersrebmun
       [Kotlin] Palindromes
       [Kotlin] Presents
+      [Kotlin] Refrigerator Magnets
       [Kotlin] Reverse Text
       [Kotlin] Split
       [Kotlin] Strfry
