@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-13 12:24:05 <br>
+Last Update : 2024-04-14 19:54:27 <br>
 
 
 ```
-2322 Solved
- - Kotlin : 1749
+2324 Solved
+ - Kotlin : 1751
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -873,6 +873,7 @@ baekjoon
       [Kotlin] 나무 조각
       [Kotlin] 너의 핸들은
       [Kotlin] 논리학 교수
+      [Kotlin] 다중 항목 선호도 조사 (Small)
       [Kotlin] 단어 뒤집기
       [Kotlin] 단어 퍼즐
       [Kotlin] 달팽이2
@@ -1324,6 +1325,7 @@ baekjoon
       [Kotlin] 명장 남정훈
       [Kotlin] 모음의 개수
       [Kotlin] 미국 스타일
+      [Kotlin] 받아올림
       [Kotlin] 방어력 무시 계산하기
       [Kotlin] 배수 찾기
       [Kotlin] 배수와 약수
