@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-15 15:16:56 <br>
+Last Update : 2024-04-15 16:18:59 <br>
 
 
 ```
-2327 Solved
- - Kotlin : 1754
+2334 Solved
+ - Kotlin : 1761
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -863,6 +863,7 @@ baekjoon
       [Kotlin] XORXORXOR
       [Kotlin] Yangjojang of The Year
       [Kotlin] 가장 큰 금민수
+      [Kotlin] 가희야 거기서 자는 거 아니야
       [Kotlin] 경제학과 정원영
       [Kotlin] 고양이 사료
       [Kotlin] 교수님 그림이 깨지는데요
@@ -1132,6 +1133,7 @@ baekjoon
       [Kotlin] 카드게임
       [Kotlin] 커트라인
       [Kotlin] 콘테스트
+      [Kotlin] 쿼리 맛보기
       [Kotlin] 클레어와 팰린드롬
       [Kotlin] 탄산 음료
       [Kotlin] 태보태보 총난타
@@ -1193,6 +1195,7 @@ baekjoon
       [Kotlin] 2의 제곱인가
       [Kotlin] 369
       [Kotlin] 3n+1 수열
+      [Kotlin] 7종 경기
       [Kotlin] A divide B - 3
       [Kotlin] A+B - 6
       [Kotlin] ABC
@@ -1202,6 +1205,7 @@ baekjoon
       [Kotlin] Bałwanek
       [Kotlin] Billing
       [Kotlin] Broken Calculator
+      [Kotlin] Buffoon
       [Kotlin] Culture shock
       [Kotlin] Digit Count
       [Kotlin] Divisionals Spelling
@@ -1516,6 +1520,7 @@ baekjoon
       [Kotlin] FYI
       [Kotlin] Fill the Rowboats!
       [Kotlin] Final Price
+      [Kotlin] Find the Twins
       [Kotlin] Football Team
       [Kotlin] Gnome Sequencing
       [Kotlin] Gorvio
@@ -1571,6 +1576,7 @@ baekjoon
       [Kotlin] Telemarketer or not
       [Kotlin] The Merchant of Venice
       [Kotlin] The Walking Adam
+      [Kotlin] Time to Decompress
       [Kotlin] Tournament Selection
       [Kotlin] Tren del Fin del Mundo
       [Kotlin] Tri-du
@@ -1601,6 +1607,7 @@ baekjoon
       [Kotlin] Шахматная доска
       [Kotlin] アイスクリーム (Ice Cream)
       [Kotlin] 末尾の文字 (Last Letter)
+      [Kotlin] 画数数え (Stroke Count)
       [Kotlin] 短針 (Hour Hand)
       [Kotlin] 移動 (Moving)
       [Kotlin] 計算 (Calculation)
