@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-15 16:18:59 <br>
+Last Update : 2024-04-16 11:06:52 <br>
 
 
 ```
-2334 Solved
- - Kotlin : 1761
+2338 Solved
+ - Kotlin : 1765
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -1066,6 +1066,7 @@ baekjoon
       [Kotlin] 새
       [Kotlin] 소수 단어
       [Kotlin] 수 뒤집기
+      [Kotlin] 수 이어 쓰기 3
       [Kotlin] 수빈이와 수열
       [Kotlin] 수학은 비대면강의입니다
       [Kotlin] 숫자
@@ -1196,6 +1197,7 @@ baekjoon
       [Kotlin] 369
       [Kotlin] 3n+1 수열
       [Kotlin] 7종 경기
+      [Kotlin] 99 Problems
       [Kotlin] A divide B - 3
       [Kotlin] A+B - 6
       [Kotlin] ABC
@@ -1448,6 +1450,7 @@ baekjoon
       [Kotlin] 통학의 신
       [Kotlin] 특정 대문자를 소문자로 바꾸기
       [Kotlin] 파인만
+      [Kotlin] 팩토리얼 진법
       [Kotlin] 팰린드롬 소떡소떡
       [Kotlin] 페르시아의 왕들
       [Kotlin] 평균 중앙값 문제
@@ -1683,6 +1686,7 @@ baekjoon
       [Kotlin] 파일 옮기기
       [Kotlin] 평균 점수
       [Kotlin] 폰 노이만과 파리
+      [Kotlin] 학번을 찾아줘!
       [Kotlin] 한글
       [Kotlin] 한글 2
       [Kotlin] 헛간 청약
