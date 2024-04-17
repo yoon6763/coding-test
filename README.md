@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-16 11:06:52 <br>
+Last Update : 2024-04-17 20:38:22 <br>
 
 
 ```
-2338 Solved
- - Kotlin : 1765
+2343 Solved
+ - Kotlin : 1770
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -877,6 +877,7 @@ baekjoon
       [Kotlin] 논리학 교수
       [Kotlin] 다중 항목 선호도 조사 (Small)
       [Kotlin] 단어 뒤집기
+      [Kotlin] 단어 사다리
       [Kotlin] 단어 퍼즐
       [Kotlin] 달팽이2
       [Kotlin] 더하기 2
@@ -1149,6 +1150,7 @@ baekjoon
       [Kotlin] 폭죽쇼
       [Kotlin] 피로도
       [Kotlin] 피시방 알바
+      [Kotlin] 피자는 나눌 수록 커지잖아요
       [Kotlin] 하얀 칸
       [Kotlin] 학점계산프로그램
       [Kotlin] 할리갈리
@@ -1329,6 +1331,7 @@ baekjoon
       [Kotlin] 등장하지 않는 문자의 합
       [Kotlin] 등차수열에서 항 번호 찾기
       [Kotlin] 디지털 루트
+      [Kotlin] 루트
       [Kotlin] 맞았는데 왜 틀리죠
       [Kotlin] 멀티탭 충분하니
       [Kotlin] 명장 남정훈
@@ -1548,6 +1551,7 @@ baekjoon
       [Kotlin] No Brainer
       [Kotlin] Oddities
       [Kotlin] Os últimos serão os primeiros
+      [Kotlin] Pakirobot Manhattanis
       [Kotlin] Paslpta suma
       [Kotlin] Patyki
       [Kotlin] Periods
@@ -1601,6 +1605,7 @@ baekjoon
       [Kotlin] Миша и негатив
       [Kotlin] НАМИСЛИХ СИ ЧИСЛО
       [Kotlin] ПЧЕЛИЧКАТА МАЯ
+      [Kotlin] Планеты двух измерений
       [Kotlin] Поп-ит
       [Kotlin] Простая задача
       [Kotlin] Сравнение комнат
