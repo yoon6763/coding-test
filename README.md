@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-17 20:38:22 <br>
+Last Update : 2024-04-18 10:25:22 <br>
 
 
 ```
-2343 Solved
- - Kotlin : 1770
+2348 Solved
+ - Kotlin : 1775
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -752,6 +752,7 @@ baekjoon
       [C++] 수면 장애
     s5
       [Kotlin] 2차원 배열의 합
+      [Kotlin] 3의 배수
       [Kotlin] BABBA
       [Kotlin] Best Grass
       [Kotlin] Bold
@@ -855,6 +856,7 @@ baekjoon
       [Kotlin] Doubles
       [Kotlin] MINESWEEPER
       [Kotlin] N-퍼즐
+      [Kotlin] Nine Knights
       [Kotlin] No Duplicates
       [Kotlin] N번째 큰 수
       [Kotlin] ROT13
@@ -886,6 +888,7 @@ baekjoon
       [Kotlin] 뒤집힌 덧셈
       [Kotlin] 드높은 남산 위에 우뚝 선
       [Kotlin] 뚊
+      [Kotlin] 롤 케이크
       [Kotlin] 마술사 이민혁
       [Kotlin] 명령 프롬프트
       [Kotlin] 몬스터 트럭
@@ -987,6 +990,7 @@ baekjoon
       [Kotlin] From 1987 to 2013
       [Kotlin] Happy Number
       [Kotlin] Hashing
+      [Kotlin] Imiona mrówek
       [Kotlin] JOI ソート (JOI Sort)
       [Kotlin] JOI와 IOI
       [Kotlin] Java Bitecode
@@ -1006,6 +1010,7 @@ baekjoon
       [Kotlin] String
       [Kotlin] Stół
       [Kotlin] TV 크기
+      [Kotlin] Union Maplestory
       [Kotlin] Words
       [Kotlin] `첼시를 도와줘`
       [Kotlin] e 계산
