@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-18 10:25:22 <br>
+Last Update : 2024-04-19 10:40:56 <br>
 
 
 ```
-2348 Solved
- - Kotlin : 1775
+2356 Solved
+ - Kotlin : 1783
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -192,6 +192,7 @@ baekjoon
       [Kotlin] 중앙값 구하기
       [Kotlin] 책 나눠주기
       [Kotlin] 철로
+      [Kotlin] 청소년 상어
       [Kotlin] 친구 네트워크
       [Kotlin] 컬러볼
       [Kotlin] 컵라면
@@ -991,6 +992,7 @@ baekjoon
       [Kotlin] Happy Number
       [Kotlin] Hashing
       [Kotlin] Imiona mrówek
+      [Kotlin] Is It Even
       [Kotlin] JOI ソート (JOI Sort)
       [Kotlin] JOI와 IOI
       [Kotlin] Java Bitecode
@@ -1066,6 +1068,7 @@ baekjoon
       [Kotlin] 분해합
       [Kotlin] 브실이의 띠부띠부씰 컬렉션
       [Kotlin] 비교 연산자
+      [Kotlin] 비밀번호 체크
       [Kotlin] 비슷한 전화번호 표시
       [Kotlin] 사칙연산
       [Kotlin] 상근이의 체스판
@@ -1093,6 +1096,7 @@ baekjoon
       [Kotlin] 야바위 대장
       [Kotlin] 에어팟
       [Kotlin] 연속구간
+      [Kotlin] 영리한 아리의 포탈 타기
       [Kotlin] 오각형, 오각형, 오각형…
       [Kotlin] 오르막
       [Kotlin] 오타맨 고창영
@@ -1274,6 +1278,7 @@ baekjoon
       [Kotlin] Vowel Count
       [Kotlin] What is n, Daddy
       [Kotlin] Who Has Seen The Wind
+      [Kotlin] Window on the Wall
       [Kotlin] Word Searching
       [Kotlin] ZOAC 5
       [Kotlin] Zegarek
@@ -1414,6 +1419,7 @@ baekjoon
       [Kotlin] 유치원생 파댕이 돌보기
       [Kotlin] 윷놀이
       [Kotlin] 이 문제는 D2 입니다
+      [Kotlin] 이게 분수
       [Kotlin] 이진수
       [Kotlin] 일반 화학 실험
       [Kotlin] 일우는 야바위꾼
@@ -1605,6 +1611,7 @@ baekjoon
       [Kotlin] Большой удой
       [Kotlin] ГРАДИНА
       [Kotlin] Граничные клетки
+      [Kotlin] Дневник Гравити Фолз
       [Kotlin] Лифт
       [Kotlin] Любитель нулей
       [Kotlin] Миша и негатив
@@ -1642,6 +1649,7 @@ baekjoon
       [Kotlin] 단순한 문제 (Small)
       [Kotlin] 뜨거운 붕어빵
       [Kotlin] 럭비 클럽
+      [Kotlin] 모범생 포닉스
       [Kotlin] 모비스
       [Kotlin] 모음의 개수
       [Kotlin] 미션 도네이션
