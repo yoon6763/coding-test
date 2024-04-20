@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-19 10:40:56 <br>
+Last Update : 2024-04-20 15:40:38 <br>
 
 
 ```
-2356 Solved
- - Kotlin : 1783
+2364 Solved
+ - Kotlin : 1791
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -900,6 +900,7 @@ baekjoon
       [Kotlin] 반복
       [Kotlin] 반올림
       [Kotlin] 비밀편지
+      [Kotlin] 비숍 투어
       [Kotlin] 색종이
       [Kotlin] 선 그리기
       [Kotlin] 성 지키기
@@ -911,6 +912,7 @@ baekjoon
       [Kotlin] 슈퍼 마리오
       [Kotlin] 스캐너
       [Kotlin] 싸이클
+      [Kotlin] 아기 석환 뚜루루 뚜루
       [Kotlin] 알고리즘 수업 - 선택 정렬 2
       [Kotlin] 알고리즘 수업 - 피보나치 수 1
       [Kotlin] 암호
@@ -923,6 +925,7 @@ baekjoon
       [Kotlin] 유니크
       [Kotlin] 유레카 이론
       [Kotlin] 유진수
+      [Kotlin] 이름궁합 테스트
       [Kotlin] 이번학기 평점은 몇점
       [Kotlin] 이진수 덧셈
       [Kotlin] 이항 계수 1
@@ -1056,6 +1059,7 @@ baekjoon
       [Kotlin] 모르고리즘 회장 정하기
       [Kotlin] 모스 부호
       [Kotlin] 무지개 만들기
+      [Kotlin] 문어 숫자
       [Kotlin] 문자가 몇갤까
       [Kotlin] 문자열 분석
       [Kotlin] 바구니 뒤집기
@@ -1280,6 +1284,7 @@ baekjoon
       [Kotlin] Who Has Seen The Wind
       [Kotlin] Window on the Wall
       [Kotlin] Word Searching
+      [Kotlin] Wykreślanka
       [Kotlin] ZOAC 5
       [Kotlin] Zegarek
       [Kotlin] `ソーシャルゲーム (Social Game)`
@@ -1430,6 +1435,7 @@ baekjoon
       [Kotlin] 접시 안의 원
       [Kotlin] 정육각형과 삼각형
       [Kotlin] 조교는 새디스트야
+      [Kotlin] 종이접기
       [Kotlin] 좌석 배치도
       [Kotlin] 주사위
       [Kotlin] 주사위 게임
@@ -1626,6 +1632,8 @@ baekjoon
       [Kotlin] ЧАСОВНИК
       [Kotlin] Шахматная доска
       [Kotlin] アイスクリーム (Ice Cream)
+      [Kotlin] 三連続 (Three Consecutive)
+      [Kotlin] 帰省 (Homecoming)
       [Kotlin] 末尾の文字 (Last Letter)
       [Kotlin] 画数数え (Stroke Count)
       [Kotlin] 短針 (Hour Hand)
