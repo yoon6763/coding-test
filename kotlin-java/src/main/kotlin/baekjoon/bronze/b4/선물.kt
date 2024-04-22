@@ -1,4 +1,4 @@
-package baekjoon.bronze
+package baekjoon.bronze.b4
 
 fun main() {
     val (n, x) = readln().split(" ").map { it.toLong() }
