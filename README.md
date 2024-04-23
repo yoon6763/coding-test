@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-20 15:40:38 <br>
+Last Update : 2024-04-22 11:06:14 <br>
 
 
 ```
-2364 Solved
- - Kotlin : 1791
+2380 Solved
+ - Kotlin : 1807
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -905,6 +905,7 @@ baekjoon
       [Kotlin] 선 그리기
       [Kotlin] 성 지키기
       [Kotlin] 세로읽기
+      [Kotlin] 세준세비
       [Kotlin] 소가 길을 건너간 이유 1
       [Kotlin] 소인수분해
       [Kotlin] 수 정렬하기 3
@@ -1010,6 +1011,7 @@ baekjoon
       [Kotlin] Presents
       [Kotlin] Refrigerator Magnets
       [Kotlin] Reverse Text
+      [Kotlin] SMUPC의 등장
       [Kotlin] Split
       [Kotlin] Strfry
       [Kotlin] String
@@ -1017,7 +1019,9 @@ baekjoon
       [Kotlin] TV 크기
       [Kotlin] Union Maplestory
       [Kotlin] Words
+      [Kotlin] X marks the Spot
       [Kotlin] `첼시를 도와줘`
+      [Kotlin] asdf
       [Kotlin] e 계산
       [Kotlin] include Google IO h
       [Kotlin] Ресторан
@@ -1152,9 +1156,11 @@ baekjoon
       [Kotlin] 클레어와 팰린드롬
       [Kotlin] 탄산 음료
       [Kotlin] 태보태보 총난타
+      [Kotlin] 투표
       [Kotlin] 트럭 주차
       [Kotlin] 특별한 학교 이름 암호화
       [Kotlin] 파일 완전 삭제
+      [Kotlin] 패리티
       [Kotlin] 팩토리얼
       [Kotlin] 팬그램
       [Kotlin] 팰린드롬
@@ -1221,6 +1227,7 @@ baekjoon
       [Kotlin] Baseball
       [Kotlin] Bałwanek
       [Kotlin] Billing
+      [Kotlin] Birthday Graph
       [Kotlin] Broken Calculator
       [Kotlin] Buffoon
       [Kotlin] Culture shock
@@ -1241,6 +1248,8 @@ baekjoon
       [Kotlin] Hawk eyes
       [Kotlin] IBM 빼기 1
       [Kotlin] ID
+      [Kotlin] ID Key
+      [Kotlin] Its Cold Here
       [Kotlin] JOI エディタ (JOI Editor)
       [Kotlin] JavaScript
       [Kotlin] Jazz Enthusiast
@@ -1268,6 +1277,7 @@ baekjoon
       [Kotlin] Simple Collatz Sequence
       [Kotlin] Since 1973
       [Kotlin] Sort 마스터 배지훈
+      [Kotlin] Speed Limit
       [Kotlin] Square Pasture
       [Kotlin] Stopki
       [Kotlin] Sum of Odd Sequence
@@ -1382,6 +1392,7 @@ baekjoon
       [Kotlin] 삼각형 분류
       [Kotlin] 삼각형과 세 변
       [Kotlin] 삼각형의 합
+      [Kotlin] 생장점
       [Kotlin] 서버
       [Kotlin] 서울사이버대학을 다니고
       [Kotlin] 선린인터넷고등학교 교가
@@ -1512,6 +1523,7 @@ baekjoon
       [Kotlin] AFC 윔블던
       [Kotlin] Abbey Courtyard
       [Kotlin] Absolutely
+      [Kotlin] Affischutskicket
       [Kotlin] Andando no tempo
       [Kotlin] Another Eruption
       [Kotlin] Area
@@ -1597,6 +1609,7 @@ baekjoon
       [Kotlin] Sounds fishy
       [Kotlin] Speed fines are not fine!
       [Kotlin] Squares
+      [Kotlin] St Ives
       [Kotlin] Telemarketer or not
       [Kotlin] The Merchant of Venice
       [Kotlin] The Walking Adam
@@ -1613,6 +1626,7 @@ baekjoon
       [Kotlin] ZOAC 6
       [Kotlin] Zagubiona litera
       [Kotlin] Zero or One
+      [Kotlin] chino shock
       [Kotlin] Äpplen och päron
       [Kotlin] Большой удой
       [Kotlin] ГРАДИНА
@@ -1670,12 +1684,14 @@ baekjoon
       [Kotlin] 삼각형 외우기
       [Kotlin] 상근이의 친구들
       [Kotlin] 샤틀버스
+      [Kotlin] 선물
       [Kotlin] 세수정렬
       [Kotlin] 수찬은 마린보이야!!
       [Kotlin] 수학은 체육과목 입니다 2
       [Kotlin] 스타워즈 로고
       [Kotlin] 시험 점수
       [Kotlin] 심부름 가는 길
+      [Kotlin] 안밖 밖안 계단 역계단
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 2
       [Kotlin] 알파벳 개수
       [Kotlin] 양말 짝 맞추기
