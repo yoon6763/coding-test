@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-22 11:06:14 <br>
+Last Update : 2024-04-23 16:12:37 <br>
 
 
 ```
-2380 Solved
- - Kotlin : 1807
+2388 Solved
+ - Kotlin : 1815
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -95,6 +95,7 @@ baekjoon
       [Kotlin] 전깃줄 - 2
       [Kotlin] 정점들의 거리
       [Kotlin] 조별과제 멈춰
+      [Kotlin] 중앙값
       [Kotlin] 찾기
       [Kotlin] 최솟값 찾기
       [Kotlin] 카드 게임
@@ -949,6 +950,7 @@ baekjoon
       [Kotlin] 피카츄
       [Kotlin] 한조서열정리하고옴ㅋㅋ
       [Kotlin] 행복한지 슬픈지
+      [Kotlin] 히든 넘버
       [Python] 가단조와 다장조
       [Python] 단어 공부
       [Python] 딱지놀이
@@ -1021,11 +1023,12 @@ baekjoon
       [Kotlin] Words
       [Kotlin] X marks the Spot
       [Kotlin] `첼시를 도와줘`
-      [Kotlin] asdf
       [Kotlin] e 계산
       [Kotlin] include Google IO h
       [Kotlin] Ресторан
       [Kotlin] 問題1
+      [Kotlin] 希少な数 (Rare Number)
+      [Kotlin] 比較 (Comparison)
       [Kotlin] 複雑な文字列 (Complex String)
       [Kotlin] 가장 많은 글자
       [Kotlin] 가장 쉬운 문제를 찾는 문제
@@ -1227,6 +1230,7 @@ baekjoon
       [Kotlin] Baseball
       [Kotlin] Bałwanek
       [Kotlin] Billing
+      [Kotlin] Binary numbers
       [Kotlin] Birthday Graph
       [Kotlin] Broken Calculator
       [Kotlin] Buffoon
@@ -1246,6 +1250,7 @@ baekjoon
       [Kotlin] Handebol
       [Kotlin] Haughty Cuisine
       [Kotlin] Hawk eyes
+      [Kotlin] Head or Tail
       [Kotlin] IBM 빼기 1
       [Kotlin] ID
       [Kotlin] ID Key
@@ -1286,6 +1291,7 @@ baekjoon
       [Kotlin] Transactions
       [Kotlin] Trident
       [Kotlin] UOSPC 세기
+      [Kotlin] V for Vendetta
       [Kotlin] Vending Machine
       [Kotlin] Viva la Diferencia
       [Kotlin] Volta
@@ -1523,6 +1529,7 @@ baekjoon
       [Kotlin] AFC 윔블던
       [Kotlin] Abbey Courtyard
       [Kotlin] Absolutely
+      [Kotlin] Acres
       [Kotlin] Affischutskicket
       [Kotlin] Andando no tempo
       [Kotlin] Another Eruption
@@ -1802,6 +1809,7 @@ baekjoon
       [Kotlin] 立方体 (Cube)
       [Kotlin] 身長 (Height)
       [Kotlin] 長方形 (Rectangle)
+      [Kotlin] 飴の袋詰め (Drops Packing)
       [Kotlin] 개수 세기
       [Kotlin] 고려대는 사랑입니다
       [Kotlin] 과제 안 내신 분
