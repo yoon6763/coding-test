@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-23 16:12:37 <br>
+Last Update : 2024-04-24 14:50:41 <br>
 
 
 ```
-2388 Solved
- - Kotlin : 1815
+2389 Solved
+ - Kotlin : 1816
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -1103,6 +1103,7 @@ baekjoon
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 6
       [Kotlin] 알파벳 거리
       [Kotlin] 알파벳 전부 쓰기
+      [Kotlin] 암호
       [Kotlin] 애너그램 만들기
       [Kotlin] 야바위 대장
       [Kotlin] 에어팟
