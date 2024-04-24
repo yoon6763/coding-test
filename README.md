@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-24 14:50:41 <br>
+Last Update : 2024-04-25 01:12:57 <br>
 
 
 ```
-2389 Solved
- - Kotlin : 1816
+2406 Solved
+ - Kotlin : 1833
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -856,6 +856,7 @@ baekjoon
       [Kotlin] 6174
       [Kotlin] A divide B - 2
       [Kotlin] Doubles
+      [Kotlin] ISBN
       [Kotlin] MINESWEEPER
       [Kotlin] N-퍼즐
       [Kotlin] Nine Knights
@@ -997,6 +998,7 @@ baekjoon
       [Kotlin] From 1987 to 2013
       [Kotlin] Happy Number
       [Kotlin] Hashing
+      [Kotlin] ICPC Score Totalizer Software
       [Kotlin] Imiona mrówek
       [Kotlin] Is It Even
       [Kotlin] JOI ソート (JOI Sort)
@@ -1004,6 +1006,7 @@ baekjoon
       [Kotlin] Java Bitecode
       [Kotlin] Joke
       [Kotlin] KMP는 왜 KMP일까
+      [Kotlin] KOREA 문자열 만들기
       [Kotlin] Letter Count
       [Kotlin] Max
       [Kotlin] NN
@@ -1025,6 +1028,7 @@ baekjoon
       [Kotlin] `첼시를 도와줘`
       [Kotlin] e 계산
       [Kotlin] include Google IO h
+      [Kotlin] ПОДАРЪК
       [Kotlin] Ресторан
       [Kotlin] 問題1
       [Kotlin] 希少な数 (Rare Number)
@@ -1075,6 +1079,7 @@ baekjoon
       [Kotlin] 배수들의 합
       [Kotlin] 백설 공주와 일곱 난쟁이
       [Kotlin] 별 찍기 - 21
+      [Kotlin] 보너스 점수
       [Kotlin] 복호화
       [Kotlin] 분해합
       [Kotlin] 브실이의 띠부띠부씰 컬렉션
@@ -1091,6 +1096,7 @@ baekjoon
       [Kotlin] 수학은 비대면강의입니다
       [Kotlin] 숫자
       [Kotlin] 숫자 놀이
+      [Kotlin] 숫자 카드놀이
       [Kotlin] 숫자의 개수 2
       [Kotlin] 시각
       [Kotlin] 시간복잡도를 배운 도도
@@ -1217,6 +1223,7 @@ baekjoon
       [Kotlin] 17배
       [Kotlin] 2017 아주대학교 프로그래밍 경시대회 (Small)
       [Kotlin] 2017 연세대학교 프로그래밍 경시대회
+      [Kotlin] 2018 연세대학교 프로그래밍 경진대회
       [Kotlin] 2루수 이름이 뭐야
       [Kotlin] 2의 제곱인가
       [Kotlin] 369
@@ -1235,6 +1242,7 @@ baekjoon
       [Kotlin] Birthday Graph
       [Kotlin] Broken Calculator
       [Kotlin] Buffoon
+      [Kotlin] Coffee Cup Combo
       [Kotlin] Culture shock
       [Kotlin] Digit Count
       [Kotlin] Divisionals Spelling
@@ -1265,6 +1273,7 @@ baekjoon
       [Kotlin] Liczba
       [Kotlin] Liczenie punktów
       [Kotlin] Matches
+      [Kotlin] Mean Words
       [Kotlin] Mini Fantasy War
       [Kotlin] Missing Numbers
       [Kotlin] Monety
@@ -1274,6 +1283,7 @@ baekjoon
       [Kotlin] Odd Gnome
       [Kotlin] Olympic Games
       [Kotlin] Overdraft
+      [Kotlin] Quick Estimates
       [Kotlin] RICE SACK
       [Kotlin] Rating Problems
       [Kotlin] Ratownik
@@ -1531,6 +1541,7 @@ baekjoon
       [Kotlin] Abbey Courtyard
       [Kotlin] Absolutely
       [Kotlin] Acres
+      [Kotlin] Advance to Taoyuan Regional
       [Kotlin] Affischutskicket
       [Kotlin] Andando no tempo
       [Kotlin] Another Eruption
@@ -1610,6 +1621,7 @@ baekjoon
       [Kotlin] SASA 모형을 만들어보자
       [Kotlin] SMS from MCHS
       [Kotlin] Schronisko
+      [Kotlin] SciComLove (2024)
       [Kotlin] Shipping
       [Kotlin] Silnia
       [Kotlin] Simple Sum
@@ -1635,11 +1647,13 @@ baekjoon
       [Kotlin] Zagubiona litera
       [Kotlin] Zero or One
       [Kotlin] chino shock
+      [Kotlin] gahui and sousenkyo 3
       [Kotlin] Äpplen och päron
       [Kotlin] Большой удой
       [Kotlin] ГРАДИНА
       [Kotlin] Граничные клетки
       [Kotlin] Дневник Гравити Фолз
+      [Kotlin] Комната
       [Kotlin] Лифт
       [Kotlin] Любитель нулей
       [Kotlin] Миша и негатив
@@ -1655,6 +1669,7 @@ baekjoon
       [Kotlin] Шахматная доска
       [Kotlin] アイスクリーム (Ice Cream)
       [Kotlin] 三連続 (Three Consecutive)
+      [Kotlin] 和の判定 (Sum Checker)
       [Kotlin] 帰省 (Homecoming)
       [Kotlin] 末尾の文字 (Last Letter)
       [Kotlin] 画数数え (Stroke Count)
@@ -1740,6 +1755,7 @@ baekjoon
       [Kotlin] 한글
       [Kotlin] 한글 2
       [Kotlin] 헛간 청약
+      [Kotlin] 호반우가 학교에 지각한 이유 1
       [Kotlin] 히스토그램
       [Python] 27110
       [Python] 별 찍기 - 2
@@ -1798,6 +1814,7 @@ baekjoon
       [Kotlin] Zadanie problem 2
       [Kotlin] Zadanie próbne
       [Kotlin] Арифметическая магия
+      [Kotlin] Конвейер
       [Kotlin] РАВЕНСТВО
       [Kotlin] Робинзон Крузо
       [Kotlin] Счастье Мистера Бина
