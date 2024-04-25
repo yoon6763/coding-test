@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-25 01:12:57 <br>
+Last Update : 2024-04-25 17:01:22 <br>
 
 
 ```
-2406 Solved
- - Kotlin : 1833
+2413 Solved
+ - Kotlin : 1840
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -562,6 +562,7 @@ baekjoon
       [Kotlin] 양 한마리 양 두마리
       [Kotlin] 에디터
       [Kotlin] 연결 요소의 개수
+      [Kotlin] 연산자 끼워넣기 (2)
       [Kotlin] 연속합
       [Kotlin] 영상처리
       [Kotlin] 영재의 시험
@@ -1121,6 +1122,7 @@ baekjoon
       [Kotlin] 완전수
       [Kotlin] 완전제곱수
       [Kotlin] 요다
+      [Kotlin] 우리 집 밑에 편의점이 있는데
       [Kotlin] 욱제는 효도쟁이야
       [Kotlin] 운동
       [Kotlin] 원피스
@@ -1231,6 +1233,7 @@ baekjoon
       [Kotlin] 7종 경기
       [Kotlin] 99 Problems
       [Kotlin] A divide B - 3
+      [Kotlin] A+B - 10 (제1편)
       [Kotlin] A+B - 6
       [Kotlin] ABC
       [Kotlin] Attendance
@@ -1435,6 +1438,7 @@ baekjoon
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 3
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 4
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 5
+      [Kotlin] 알파벳 뒤집기
       [Kotlin] 암호 만들기
       [Kotlin] 앵그리 창영
       [Kotlin] 약수 구하기
@@ -1577,6 +1581,7 @@ baekjoon
       [Kotlin] Find the Twins
       [Kotlin] Football Team
       [Kotlin] Gnome Sequencing
+      [Kotlin] Good Coin Denomination
       [Kotlin] Gorvio
       [Kotlin] Gömda ord
       [Kotlin] H4x0r
@@ -1631,6 +1636,7 @@ baekjoon
       [Kotlin] Squares
       [Kotlin] St Ives
       [Kotlin] Telemarketer or not
+      [Kotlin] Terms of Office
       [Kotlin] The Merchant of Venice
       [Kotlin] The Walking Adam
       [Kotlin] Time to Decompress
@@ -1658,6 +1664,7 @@ baekjoon
       [Kotlin] Любитель нулей
       [Kotlin] Миша и негатив
       [Kotlin] НАМИСЛИХ СИ ЧИСЛО
+      [Kotlin] Отряд
       [Kotlin] ПЧЕЛИЧКАТА МАЯ
       [Kotlin] Планеты двух измерений
       [Kotlin] Поп-ит
