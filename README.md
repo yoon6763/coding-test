@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-25 17:01:22 <br>
+Last Update : 2024-04-26 16:34:48 <br>
 
 
 ```
-2413 Solved
- - Kotlin : 1840
+2425 Solved
+ - Kotlin : 1852
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -566,6 +566,7 @@ baekjoon
       [Kotlin] 연속합
       [Kotlin] 영상처리
       [Kotlin] 영재의 시험
+      [Kotlin] 예산
       [Kotlin] 외판원 순회 2
       [Kotlin] 유기농 배추
       [Kotlin] 이동하기
@@ -579,6 +580,7 @@ baekjoon
       [Kotlin] 주식
       [Kotlin] 차이를 최대로
       [Kotlin] 참외밭
+      [Kotlin] 창고 다각형
       [Kotlin] 촌수계산
       [Kotlin] 최대 힙
       [Kotlin] 최소 힙
@@ -760,6 +762,7 @@ baekjoon
       [Kotlin] Best Grass
       [Kotlin] Bold
       [Kotlin] D-Day
+      [Kotlin] K-세준수
       [Kotlin] K번째 수
       [Kotlin] LCM
       [Kotlin] PLAYERJINAH’S BOTTLEGROUNDS
@@ -896,6 +899,7 @@ baekjoon
       [Kotlin] 마술사 이민혁
       [Kotlin] 명령 프롬프트
       [Kotlin] 몬스터 트럭
+      [Kotlin] 무알콜 칵테일
       [Kotlin] 문자 인식
       [Kotlin] 문자메시지
       [Kotlin] 민균이의 비밀번호
@@ -1035,6 +1039,7 @@ baekjoon
       [Kotlin] 希少な数 (Rare Number)
       [Kotlin] 比較 (Comparison)
       [Kotlin] 複雑な文字列 (Complex String)
+      [Kotlin] 가계부 (Easy)
       [Kotlin] 가장 많은 글자
       [Kotlin] 가장 쉬운 문제를 찾는 문제
       [Kotlin] 감정이입
@@ -1377,6 +1382,7 @@ baekjoon
       [Kotlin] 등차수열에서 항 번호 찾기
       [Kotlin] 디지털 루트
       [Kotlin] 루트
+      [Kotlin] 리본 (Easy)
       [Kotlin] 맞았는데 왜 틀리죠
       [Kotlin] 멀티탭 충분하니
       [Kotlin] 명장 남정훈
@@ -1433,6 +1439,7 @@ baekjoon
       [Kotlin] 신기한 수
       [Kotlin] 쌍의 합
       [Kotlin] 아이 러브 크로아티아
+      [Kotlin] 아이들은 사탕을 좋아해
       [Kotlin] 악마의 제안
       [Kotlin] 안녕 클레오파트라 세상에서 제일가는 포테이토칩
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 3
@@ -1515,6 +1522,7 @@ baekjoon
       [Kotlin] 헬멧과 조끼
       [Kotlin] 홀수
       [Kotlin] 홀수일까 짝수일까
+      [Kotlin] 홀짝 수열
       [Kotlin] 홀짝 칵테일
       [Python] Zbiór
       [Python] 네 번째 점
@@ -1566,6 +1574,7 @@ baekjoon
       [Kotlin] Contest Timing
       [Kotlin] Counting Antibodies
       [Kotlin] Covid-19
+      [Kotlin] Cutting Corners
       [Kotlin] DKSH 찾기
       [Kotlin] Darius님 한타 안 함
       [Kotlin] Dedupe
@@ -1678,6 +1687,7 @@ baekjoon
       [Kotlin] 三連続 (Three Consecutive)
       [Kotlin] 和の判定 (Sum Checker)
       [Kotlin] 帰省 (Homecoming)
+      [Kotlin] 揃った文字 (Matched Letters)
       [Kotlin] 末尾の文字 (Last Letter)
       [Kotlin] 画数数え (Stroke Count)
       [Kotlin] 短針 (Hour Hand)
@@ -1783,6 +1793,7 @@ baekjoon
       [Kotlin] A+B
       [Kotlin] A+B - 9
       [Kotlin] An Easy-Peasy Problem
+      [Kotlin] Arno's Sleep Schedule
       [Kotlin] Bottle Return
       [Kotlin] CAPS
       [Kotlin] Can you add this
@@ -1831,6 +1842,7 @@ baekjoon
       [Kotlin] 分 (Minutes)
       [Kotlin] 時間 (Hour)
       [Kotlin] 母音を数える (Counting Vowels)
+      [Kotlin] 火曜日 (Tuesday)
       [Kotlin] 立方体 (Cube)
       [Kotlin] 身長 (Height)
       [Kotlin] 長方形 (Rectangle)
