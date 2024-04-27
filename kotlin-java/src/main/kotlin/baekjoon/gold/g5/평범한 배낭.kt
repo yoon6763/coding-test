@@ -1,16 +1,16 @@
 package baekjoon.gold.g5
 
 fun main() = with(System.`in`.bufferedReader()) {
-    val (n, k) = readLine().split(" ").map(String::toInt)
-    val arr = Array(n + 1) { Array(2) { 0 } } // 0 - 무게, 1 - 가치
+    val (n, k) = readLine().split(" ").map { it.toInt() }
 
-    for (i in 1 until n) {
-        val (w, v) = readLine().split(" ").map(String::toInt)
-        arr[i][0] = w
-        arr[i][1] = v
+    val arr = Array(n + 1) { IntArray(2) }
+    for (i in 1..n) {
+        val (weight, value) = readLine().split(" ").map { it.toInt() }
+        arr[i][0] = weight
+        arr[i][1] = value
     }
 
-    val dp = Array(n + 1) { Array(k + 1) { 0 } }
+    val dp = Array(n + 1) { IntArray(k + 1) }
 
     for (i in 1..n) {
         for (j in 1..k) {
