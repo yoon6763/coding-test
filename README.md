@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-26 16:34:48 <br>
+Last Update : 2024-04-27 18:31:11 <br>
 
 
 ```
-2425 Solved
- - Kotlin : 1852
+2427 Solved
+ - Kotlin : 1854
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -1325,6 +1325,7 @@ baekjoon
       [Kotlin] `ソーシャルゲーム (Social Game)`
       [Kotlin] Выражение
       [Kotlin] ДИНИ
+      [Kotlin] Изгороди
       [Kotlin] КУРИЕРИ
       [Kotlin] Клавиатура
       [Kotlin] Пары
@@ -1608,6 +1609,7 @@ baekjoon
       [Kotlin] Laptop Sticker
       [Kotlin] Lunacy
       [Kotlin] Majestic 10
+      [Kotlin] Median
       [Kotlin] Máquina de café
       [Kotlin] Next in line
       [Kotlin] No Brainer
