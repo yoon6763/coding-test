@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-27 18:31:11 <br>
+Last Update : 2024-04-28 18:06:01 <br>
 
 
 ```
-2427 Solved
- - Kotlin : 1854
+2436 Solved
+ - Kotlin : 1863
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -461,6 +461,7 @@ baekjoon
       [Kotlin] 구간 합 구하기 5
       [Kotlin] 그림
       [Kotlin] 기타 레슨
+      [Kotlin] 기타콘서트
       [Kotlin] 나이트의 이동
       [Kotlin] 단지번호붙이기
       [Kotlin] 데스 나이트
@@ -859,6 +860,8 @@ baekjoon
       [Kotlin] 2진수 8진수
       [Kotlin] 6174
       [Kotlin] A divide B - 2
+      [Kotlin] An Interactive Problem
+      [Kotlin] Do You Know Your ABCs
       [Kotlin] Doubles
       [Kotlin] ISBN
       [Kotlin] MINESWEEPER
@@ -895,6 +898,7 @@ baekjoon
       [Kotlin] 뒤집힌 덧셈
       [Kotlin] 드높은 남산 위에 우뚝 선
       [Kotlin] 뚊
+      [Kotlin] 랜덤 게임
       [Kotlin] 롤 케이크
       [Kotlin] 마술사 이민혁
       [Kotlin] 명령 프롬프트
@@ -921,6 +925,7 @@ baekjoon
       [Kotlin] 스캐너
       [Kotlin] 싸이클
       [Kotlin] 아기 석환 뚜루루 뚜루
+      [Kotlin] 알고리즘 수업 - 버블 정렬 1
       [Kotlin] 알고리즘 수업 - 선택 정렬 2
       [Kotlin] 알고리즘 수업 - 피보나치 수 1
       [Kotlin] 암호
@@ -1022,6 +1027,7 @@ baekjoon
       [Kotlin] Refrigerator Magnets
       [Kotlin] Reverse Text
       [Kotlin] SMUPC의 등장
+      [Kotlin] SciComLove (2022)
       [Kotlin] Split
       [Kotlin] Strfry
       [Kotlin] String
@@ -1095,6 +1101,7 @@ baekjoon
       [Kotlin] 사칙연산
       [Kotlin] 상근이의 체스판
       [Kotlin] 새
+      [Kotlin] 생일 축하합니다~
       [Kotlin] 소수 단어
       [Kotlin] 수 뒤집기
       [Kotlin] 수 이어 쓰기 3
@@ -1291,6 +1298,7 @@ baekjoon
       [Kotlin] Odd Gnome
       [Kotlin] Olympic Games
       [Kotlin] Overdraft
+      [Kotlin] Penalty calculation
       [Kotlin] Quick Estimates
       [Kotlin] RICE SACK
       [Kotlin] Rating Problems
@@ -1657,6 +1665,7 @@ baekjoon
       [Kotlin] Triangle Height
       [Kotlin] Triangles
       [Kotlin] Triathlon
+      [Kotlin] Triple Sevens
       [Kotlin] Which Alien
       [Kotlin] Winning Score
       [Kotlin] X に最も近い値 (The Nearest Value)
