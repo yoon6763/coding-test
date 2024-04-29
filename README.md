@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-28 18:06:01 <br>
+Last Update : 2024-04-29 10:55:29 <br>
 
 
 ```
-2436 Solved
- - Kotlin : 1863
+2448 Solved
+ - Kotlin : 1875
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -869,8 +869,10 @@ baekjoon
       [Kotlin] Nine Knights
       [Kotlin] No Duplicates
       [Kotlin] N번째 큰 수
+      [Kotlin] Presidents
       [Kotlin] ROT13
       [Kotlin] Send me the money
+      [Kotlin] Snowflakes
       [Kotlin] Starman
       [Kotlin] XORXORXOR
       [Kotlin] Yangjojang of The Year
@@ -1041,6 +1043,7 @@ baekjoon
       [Kotlin] include Google IO h
       [Kotlin] ПОДАРЪК
       [Kotlin] Ресторан
+      [Kotlin] 分割 (Split)
       [Kotlin] 問題1
       [Kotlin] 希少な数 (Rare Number)
       [Kotlin] 比較 (Comparison)
@@ -1056,6 +1059,7 @@ baekjoon
       [Kotlin] 공약수
       [Kotlin] 관리자는 누구
       [Kotlin] 그릇
+      [Kotlin] 기념일 1
       [Kotlin] 기숙사 바닥
       [Kotlin] 끝말잇기
       [Kotlin] 나누기
@@ -1200,6 +1204,7 @@ baekjoon
       [Kotlin] 해밍 거리
       [Kotlin] 행복
       [Kotlin] 헤일스톤 수열
+      [Kotlin] 홍익 절대평가
       [Kotlin] 화성 수학
       [Kotlin] 회전
       [Python] ACM 호텔
@@ -1259,6 +1264,7 @@ baekjoon
       [Kotlin] Buffoon
       [Kotlin] Coffee Cup Combo
       [Kotlin] Culture shock
+      [Kotlin] Decoder
       [Kotlin] Digit Count
       [Kotlin] Divisionals Spelling
       [Kotlin] Even or Odd
@@ -1276,6 +1282,7 @@ baekjoon
       [Kotlin] Hawk eyes
       [Kotlin] Head or Tail
       [Kotlin] IBM 빼기 1
+      [Kotlin] ICONS
       [Kotlin] ID
       [Kotlin] ID Key
       [Kotlin] Its Cold Here
@@ -1306,6 +1313,7 @@ baekjoon
       [Kotlin] Report Card Time
       [Kotlin] SAHUR & IMSA’
       [Kotlin] Serious Problem
+      [Kotlin] Shattered Cake
       [Kotlin] Simple Collatz Sequence
       [Kotlin] Since 1973
       [Kotlin] Sort 마스터 배지훈
@@ -1314,6 +1322,7 @@ baekjoon
       [Kotlin] Stopki
       [Kotlin] Sum of Odd Sequence
       [Kotlin] TGN
+      [Kotlin] Tawla
       [Kotlin] Tax
       [Kotlin] Transactions
       [Kotlin] Trident
@@ -1337,6 +1346,7 @@ baekjoon
       [Kotlin] КУРИЕРИ
       [Kotlin] Клавиатура
       [Kotlin] Пары
+      [Kotlin] マラソン大会 (Marathon Race)
       [Kotlin] 改元
       [Kotlin] 文字列の反転 (Inversion of a String)
       [Kotlin] 次の文字 (Next Character)
@@ -1387,6 +1397,7 @@ baekjoon
       [Kotlin] 더하기 4
       [Kotlin] 덧셈과 곱셈
       [Kotlin] 도미노
+      [Kotlin] 두~~부 두부 두부
       [Kotlin] 등장하지 않는 문자의 합
       [Kotlin] 등차수열에서 항 번호 찾기
       [Kotlin] 디지털 루트
@@ -1700,6 +1711,7 @@ baekjoon
       [Kotlin] 帰省 (Homecoming)
       [Kotlin] 揃った文字 (Matched Letters)
       [Kotlin] 末尾の文字 (Last Letter)
+      [Kotlin] 桁 (Digit)
       [Kotlin] 画数数え (Stroke Count)
       [Kotlin] 短針 (Hour Hand)
       [Kotlin] 移動 (Moving)
