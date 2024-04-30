@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-29 10:55:29 <br>
+Last Update : 2024-04-30 15:20:31 <br>
 
 
 ```
-2448 Solved
- - Kotlin : 1875
+2460 Solved
+ - Kotlin : 1887
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -79,6 +79,7 @@ baekjoon
       [Kotlin] 공장
       [Kotlin] 다이아몬드 광산
       [Kotlin] 도로포장
+      [Kotlin] 문자열 제곱
       [Kotlin] 배열에서 이동
       [Kotlin] 백조의 호수
       [Kotlin] 버블 소트
@@ -863,6 +864,7 @@ baekjoon
       [Kotlin] An Interactive Problem
       [Kotlin] Do You Know Your ABCs
       [Kotlin] Doubles
+      [Kotlin] Favorite Number
       [Kotlin] ISBN
       [Kotlin] MINESWEEPER
       [Kotlin] N-퍼즐
@@ -1239,6 +1241,7 @@ baekjoon
     b3
       [Kotlin] 1 = cute
       [Kotlin] 10103 주사위 게임
+      [Kotlin] 11월 11일
       [Kotlin] 17배
       [Kotlin] 2017 아주대학교 프로그래밍 경시대회 (Small)
       [Kotlin] 2017 연세대학교 프로그래밍 경시대회
@@ -1255,6 +1258,7 @@ baekjoon
       [Kotlin] ABC
       [Kotlin] Attendance
       [Kotlin] Automated Telephone Exchange
+      [Kotlin] Average scores
       [Kotlin] Baseball
       [Kotlin] Bałwanek
       [Kotlin] Billing
@@ -1281,6 +1285,7 @@ baekjoon
       [Kotlin] Haughty Cuisine
       [Kotlin] Hawk eyes
       [Kotlin] Head or Tail
+      [Kotlin] Holes
       [Kotlin] IBM 빼기 1
       [Kotlin] ICONS
       [Kotlin] ID
@@ -1294,6 +1299,7 @@ baekjoon
       [Kotlin] Koncert
       [Kotlin] Liczba
       [Kotlin] Liczenie punktów
+      [Kotlin] Lobby
       [Kotlin] Matches
       [Kotlin] Mean Words
       [Kotlin] Mini Fantasy War
@@ -1454,6 +1460,7 @@ baekjoon
       [Kotlin] 수학적 호기심
       [Kotlin] 숫자 맞추기 게임
       [Kotlin] 스케이트보드
+      [Kotlin] 스키테일 암호
       [Kotlin] 스타후르츠
       [Kotlin] 스트릿 코딩 파이터
       [Kotlin] 신기한 수
@@ -1475,6 +1482,7 @@ baekjoon
       [Kotlin] 연길이의 이상형
       [Kotlin] 연세여 사랑한다
       [Kotlin] 영수증
+      [Kotlin] 예비 소집 결과 보고서
       [Kotlin] 오버플로우와 모듈러
       [Kotlin] 오븐 시계
       [Kotlin] 완전 세제곱
@@ -1706,12 +1714,14 @@ baekjoon
       [Kotlin] ЧАСОВНИК
       [Kotlin] Шахматная доска
       [Kotlin] アイスクリーム (Ice Cream)
+      [Kotlin] ハミング距離 (Hamming Distance)
       [Kotlin] 三連続 (Three Consecutive)
       [Kotlin] 和の判定 (Sum Checker)
       [Kotlin] 帰省 (Homecoming)
       [Kotlin] 揃った文字 (Matched Letters)
       [Kotlin] 末尾の文字 (Last Letter)
       [Kotlin] 桁 (Digit)
+      [Kotlin] 現れている数字 (Appearing Numbers)
       [Kotlin] 画数数え (Stroke Count)
       [Kotlin] 短針 (Hour Hand)
       [Kotlin] 移動 (Moving)
@@ -1815,6 +1825,7 @@ baekjoon
       [Kotlin] 2033년 밈 투표
       [Kotlin] A+B
       [Kotlin] A+B - 9
+      [Kotlin] Adding Trouble
       [Kotlin] An Easy-Peasy Problem
       [Kotlin] Arno's Sleep Schedule
       [Kotlin] Bottle Return
@@ -1855,6 +1866,7 @@ baekjoon
       [Kotlin] Zadanie problem 2
       [Kotlin] Zadanie próbne
       [Kotlin] Арифметическая магия
+      [Kotlin] Киноманы
       [Kotlin] Конвейер
       [Kotlin] РАВЕНСТВО
       [Kotlin] Робинзон Крузо
