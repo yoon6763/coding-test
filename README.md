@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-04-30 15:20:31 <br>
+Last Update : 2024-05-01 15:42:34 <br>
 
 
 ```
-2460 Solved
- - Kotlin : 1887
+2469 Solved
+ - Kotlin : 1896
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -540,6 +540,7 @@ baekjoon
       [Kotlin] 도영이가 만든 맛있는 음식
       [Kotlin] 로또
       [Kotlin] 마인크래프트
+      [Kotlin] 부등호
       [Kotlin] 부분수열의 합
       [Kotlin] 빠른 숫자 탐색
       [Kotlin] 색종이 만들기
@@ -742,6 +743,7 @@ baekjoon
       [Kotlin] 차집합
       [Kotlin] 체스판 다시 칠하기
       [Kotlin] 카드
+      [Kotlin] 카드 놓기
       [Kotlin] 카드2
       [Kotlin] 큐
       [Kotlin] 큐 2
@@ -936,6 +938,7 @@ baekjoon
       [Kotlin] 애너그램
       [Kotlin] 약수
       [Kotlin] 약수들의 합
+      [Kotlin] 열 순서
       [Kotlin] 영화 평가
       [Kotlin] 오르막길
       [Kotlin] 유니대전 퀴즈쇼
@@ -1318,6 +1321,7 @@ baekjoon
       [Kotlin] Ratownik
       [Kotlin] Report Card Time
       [Kotlin] SAHUR & IMSA’
+      [Kotlin] Scale
       [Kotlin] Serious Problem
       [Kotlin] Shattered Cake
       [Kotlin] Simple Collatz Sequence
@@ -1352,7 +1356,9 @@ baekjoon
       [Kotlin] КУРИЕРИ
       [Kotlin] Клавиатура
       [Kotlin] Пары
+      [Kotlin] СРЕЩА НА ПРИЯТЕЛИ
       [Kotlin] マラソン大会 (Marathon Race)
+      [Kotlin] 問題 １
       [Kotlin] 改元
       [Kotlin] 文字列の反転 (Inversion of a String)
       [Kotlin] 次の文字 (Next Character)
@@ -1503,6 +1509,7 @@ baekjoon
       [Kotlin] 정육각형과 삼각형
       [Kotlin] 조교는 새디스트야
       [Kotlin] 종이접기
+      [Kotlin] 좋은 암호
       [Kotlin] 좌석 배치도
       [Kotlin] 주사위
       [Kotlin] 주사위 게임
@@ -1625,6 +1632,7 @@ baekjoon
       [Kotlin] HOMWRK
       [Kotlin] Hard choice
       [Kotlin] Hello Judge
+      [Kotlin] Hurra
       [Kotlin] ICPC
       [Kotlin] ISBN
       [Kotlin] IT Passport Examination
@@ -1634,6 +1642,7 @@ baekjoon
       [Kotlin] Koszykarz
       [Kotlin] Kuber
       [Kotlin] Laptop Sticker
+      [Kotlin] Lots of Liquid
       [Kotlin] Lunacy
       [Kotlin] Majestic 10
       [Kotlin] Median
