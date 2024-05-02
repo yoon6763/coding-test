@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-01 15:42:34 <br>
+Last Update : 2024-05-02 10:25:13 <br>
 
 
 ```
-2469 Solved
- - Kotlin : 1896
+2471 Solved
+ - Kotlin : 1898
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -443,6 +443,7 @@ baekjoon
 
   silver
     s1
+      [Kotlin] 1, 2, 3 더하기 2
       [Kotlin] 1로 만들기 2
       [Kotlin] IOIOI
       [Kotlin] Islands
@@ -1288,6 +1289,7 @@ baekjoon
       [Kotlin] Haughty Cuisine
       [Kotlin] Hawk eyes
       [Kotlin] Head or Tail
+      [Kotlin] Heart Rate
       [Kotlin] Holes
       [Kotlin] IBM 빼기 1
       [Kotlin] ICONS
