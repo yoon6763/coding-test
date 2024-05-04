@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-03 11:18:55 <br>
+Last Update : 2024-05-04 11:24:32 <br>
 
 
 ```
-2472 Solved
- - Kotlin : 1899
+2480 Solved
+ - Kotlin : 1907
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -991,6 +991,7 @@ baekjoon
       [Rust] 알고리즘 수업 - 피보나치 수 1
     b2
       [Kotlin] !!초콜릿 중독 주의!!
+      [Kotlin] '나교수' 교수님의 악필
       [Kotlin] 10174팰린드롬
       [Kotlin] 13300 방 배정
       [Kotlin] 13304 방 배정
@@ -1068,6 +1069,7 @@ baekjoon
       [Kotlin] 그릇
       [Kotlin] 기념일 1
       [Kotlin] 기숙사 바닥
+      [Kotlin] 꿍 가라사대
       [Kotlin] 끝말잇기
       [Kotlin] 나누기
       [Kotlin] 나는 너가 살아온 날을 알고 있다
@@ -1185,6 +1187,7 @@ baekjoon
       [Kotlin] 친구
       [Kotlin] 카드 역배치
       [Kotlin] 카드게임
+      [Kotlin] 커맨드
       [Kotlin] 커트라인
       [Kotlin] 콘테스트
       [Kotlin] 쿼리 맛보기
@@ -1265,6 +1268,7 @@ baekjoon
       [Kotlin] Automated Telephone Exchange
       [Kotlin] Average scores
       [Kotlin] Baseball
+      [Kotlin] Baskets of Gold Coins
       [Kotlin] Bałwanek
       [Kotlin] Billing
       [Kotlin] Binary numbers
@@ -1280,6 +1284,7 @@ baekjoon
       [Kotlin] Extreme Temperatures
       [Kotlin] FBI
       [Kotlin] Fan Death
+      [Kotlin] Fence Painting
       [Kotlin] Filling Out the Team
       [Kotlin] Gift
       [Kotlin] Gift Expire Date
@@ -1441,6 +1446,7 @@ baekjoon
       [Kotlin] 별 찍기 - 7
       [Kotlin] 별 찍기 - 8
       [Kotlin] 별 찍기 - 9
+      [Kotlin] 별자리가 될 수 있다면
       [Kotlin] 부호
       [Kotlin] 빅데이터 vs 정보보호 vs 인공지능
       [Kotlin] 빅데이터 정보보호
@@ -1604,6 +1610,7 @@ baekjoon
       [Kotlin] Body Mass Index
       [Kotlin] Boiling Water
       [Kotlin] CASIO
+      [Kotlin] Champernowne Verification
       [Kotlin] Checkers
       [Kotlin] Chili Peppers
       [Kotlin] Circus
@@ -1888,6 +1895,7 @@ baekjoon
       [Kotlin] 余り (Remainder)
       [Kotlin] 分 (Minutes)
       [Kotlin] 時間 (Hour)
+      [Kotlin] 果物 (Fruit)
       [Kotlin] 母音を数える (Counting Vowels)
       [Kotlin] 火曜日 (Tuesday)
       [Kotlin] 立方体 (Cube)
