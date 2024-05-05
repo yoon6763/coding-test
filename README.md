@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-05 17:05:52 <br>
+Last Update : 2024-05-06 02:01:21 <br>
 
 
 ```
-2481 Solved
- - Kotlin : 1908
+2497 Solved
+ - Kotlin : 1924
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -525,6 +525,7 @@ baekjoon
       [Kotlin] DFS와 BFS
       [Kotlin] DNA 비밀번호
       [Kotlin] Invasion of the Milkweed
+      [Kotlin] Kahe käigu ratsu
       [Kotlin] N번째 큰 수
       [Kotlin] Sheba’s Amoebas
       [Kotlin] Space Exploration
@@ -881,6 +882,7 @@ baekjoon
       [Kotlin] Starman
       [Kotlin] XORXORXOR
       [Kotlin] Yangjojang of The Year
+      [Kotlin] 問題 ２
       [Kotlin] 가장 큰 금민수
       [Kotlin] 가희야 거기서 자는 거 아니야
       [Kotlin] 경제학과 정원영
@@ -941,6 +943,7 @@ baekjoon
       [Kotlin] 약수들의 합
       [Kotlin] 열 순서
       [Kotlin] 영화 평가
+      [Kotlin] 오렌지먹은지오랜지
       [Kotlin] 오르막길
       [Kotlin] 유니대전 퀴즈쇼
       [Kotlin] 유니크
@@ -968,6 +971,7 @@ baekjoon
       [Kotlin] 피보나치 수
       [Kotlin] 피카츄
       [Kotlin] 한조서열정리하고옴ㅋㅋ
+      [Kotlin] 핸드폰 번호 궁합
       [Kotlin] 행복한지 슬픈지
       [Kotlin] 히든 넘버
       [Python] 가단조와 다장조
@@ -1015,6 +1019,7 @@ baekjoon
       [Kotlin] Farm
       [Kotlin] Fridge of Your Dreams
       [Kotlin] From 1987 to 2013
+      [Kotlin] George Boole
       [Kotlin] Happy Number
       [Kotlin] Hashing
       [Kotlin] ICPC Score Totalizer Software
@@ -1053,6 +1058,7 @@ baekjoon
       [Kotlin] 分割 (Split)
       [Kotlin] 問題1
       [Kotlin] 希少な数 (Rare Number)
+      [Kotlin] 年齢の差 (Age Difference)
       [Kotlin] 比較 (Comparison)
       [Kotlin] 複雑な文字列 (Complex String)
       [Kotlin] 가계부 (Easy)
@@ -1264,6 +1270,7 @@ baekjoon
       [Kotlin] A+B - 10 (제1편)
       [Kotlin] A+B - 6
       [Kotlin] ABC
+      [Kotlin] Another Cow Number Game
       [Kotlin] Attendance
       [Kotlin] Automated Telephone Exchange
       [Kotlin] Average scores
@@ -1277,6 +1284,7 @@ baekjoon
       [Kotlin] Buffoon
       [Kotlin] Coffee Cup Combo
       [Kotlin] Culture shock
+      [Kotlin] Death Knight Hero
       [Kotlin] Decoder
       [Kotlin] Digit Count
       [Kotlin] Divisionals Spelling
@@ -1328,7 +1336,9 @@ baekjoon
       [Kotlin] Rating Problems
       [Kotlin] Ratownik
       [Kotlin] Report Card Time
+      [Kotlin] Right Triangle
       [Kotlin] SAHUR & IMSA’
+      [Kotlin] Sarah's Toys
       [Kotlin] Scale
       [Kotlin] Serious Problem
       [Kotlin] Shattered Cake
@@ -1449,6 +1459,7 @@ baekjoon
       [Kotlin] 별 찍기 - 9
       [Kotlin] 별자리가 될 수 있다면
       [Kotlin] 부호
+      [Kotlin] 브실혜성
       [Kotlin] 빅데이터 vs 정보보호 vs 인공지능
       [Kotlin] 빅데이터 정보보호
       [Kotlin] 사과
@@ -1547,6 +1558,7 @@ baekjoon
       [Kotlin] 친구 친구
       [Kotlin] 카트라이더 드리프트
       [Kotlin] 캥거루 세마리
+      [Kotlin] 캥거루 세마리2
       [Kotlin] 컵라편 측정하기
       [Kotlin] 쿠키애호가
       [Kotlin] 쿠폰
@@ -1616,6 +1628,7 @@ baekjoon
       [Kotlin] Chili Peppers
       [Kotlin] Circus
       [Kotlin] Communication Channels
+      [Kotlin] Congruent Numbers
       [Kotlin] Contemporary Art
       [Kotlin] Contest Timing
       [Kotlin] Counting Antibodies
@@ -1693,6 +1706,7 @@ baekjoon
       [Kotlin] Speed fines are not fine!
       [Kotlin] Squares
       [Kotlin] St Ives
+      [Kotlin] Sun and Moon
       [Kotlin] Telemarketer or not
       [Kotlin] Terms of Office
       [Kotlin] The Merchant of Venice
@@ -1719,6 +1733,7 @@ baekjoon
       [Kotlin] Граничные клетки
       [Kotlin] Дневник Гравити Фолз
       [Kotlin] Комната
+      [Kotlin] ЛОВНО КУЧЕ
       [Kotlin] Лифт
       [Kotlin] Любитель нулей
       [Kotlin] Миша и негатив
@@ -1881,6 +1896,7 @@ baekjoon
       [Kotlin] The Fastest Sorting Algorithm In The World
       [Kotlin] The World Responds
       [Kotlin] WARBOY
+      [Kotlin] Welcome to SMUPC!
       [Kotlin] Who is in the middle
       [Kotlin] Wynik meczu
       [Kotlin] Zadanie problem 2
