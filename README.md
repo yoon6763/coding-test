@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-04 11:24:32 <br>
+Last Update : 2024-05-05 17:05:52 <br>
 
 
 ```
-2480 Solved
- - Kotlin : 1907
+2481 Solved
+ - Kotlin : 1908
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -1334,6 +1334,7 @@ baekjoon
       [Kotlin] Shattered Cake
       [Kotlin] Simple Collatz Sequence
       [Kotlin] Since 1973
+      [Kotlin] Some Sum
       [Kotlin] Sort 마스터 배지훈
       [Kotlin] Speed Limit
       [Kotlin] Square Pasture
