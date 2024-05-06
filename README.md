@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-06 02:01:21 <br>
+Last Update : 2024-05-06 15:51:44 <br>
 
 
 ```
-2497 Solved
- - Kotlin : 1924
+2504 Solved
+ - Kotlin : 1931
  - Python : 265
  - Java : 149
  - SQL : 87
@@ -48,6 +48,7 @@ baekjoon
       [Kotlin] N-Rook
       [Kotlin] 게시판 구멍 막기
       [Kotlin] 교수님은 기다리지 않는다
+      [Kotlin] 달리기
       [Kotlin] 돌멩이 제거
       [Kotlin] 레드 블루 스패닝 트리
       [Kotlin] 룩 배치하기
@@ -1055,6 +1056,7 @@ baekjoon
       [Kotlin] include Google IO h
       [Kotlin] ПОДАРЪК
       [Kotlin] Ресторан
+      [Kotlin] キャピタリゼーション (Capitalization)
       [Kotlin] 分割 (Split)
       [Kotlin] 問題1
       [Kotlin] 希少な数 (Rare Number)
@@ -1070,6 +1072,7 @@ baekjoon
       [Kotlin] 거스름돈
       [Kotlin] 고무오리 디버깅
       [Kotlin] 고장난 시계
+      [Kotlin] 공사장 표지판
       [Kotlin] 공약수
       [Kotlin] 관리자는 누구
       [Kotlin] 그릇
@@ -1288,6 +1291,7 @@ baekjoon
       [Kotlin] Decoder
       [Kotlin] Digit Count
       [Kotlin] Divisionals Spelling
+      [Kotlin] Dyslexia
       [Kotlin] Even or Odd
       [Kotlin] Extreme Temperatures
       [Kotlin] FBI
@@ -1316,6 +1320,7 @@ baekjoon
       [Kotlin] Jumbled Compass
       [Kotlin] J박스
       [Kotlin] Koncert
+      [Kotlin] Kortos
       [Kotlin] Liczba
       [Kotlin] Liczenie punktów
       [Kotlin] Lobby
@@ -1614,6 +1619,7 @@ baekjoon
       [Kotlin] Affischutskicket
       [Kotlin] Andando no tempo
       [Kotlin] Another Eruption
+      [Kotlin] Archivist
       [Kotlin] Area
       [Kotlin] Atrium
       [Kotlin] Bank Transfer
@@ -1650,6 +1656,7 @@ baekjoon
       [Kotlin] Football Team
       [Kotlin] Gnome Sequencing
       [Kotlin] Good Coin Denomination
+      [Kotlin] Goodbye, Code Jam
       [Kotlin] Gorvio
       [Kotlin] Gömda ord
       [Kotlin] H4x0r
