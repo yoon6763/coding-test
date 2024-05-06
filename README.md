@@ -14,17 +14,17 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-06 15:51:44 <br>
+Last Update : 2024-05-06 15:57:44 <br>
 
 
 ```
-2504 Solved
+2505 Solved
  - Kotlin : 1931
  - Python : 265
  - Java : 149
  - SQL : 87
  - C : 23
- - C++ : 12
+ - C++ : 13
  - JavaScript : 10
  - Ruby : 9
  - Text : 5
@@ -1255,6 +1255,7 @@ baekjoon
       [C] 피보나치 수
       [C++] Happy Number
       [C++] 분산처리
+      [C++] 지수연산
     b3
       [Kotlin] 1 = cute
       [Kotlin] 10103 주사위 게임
