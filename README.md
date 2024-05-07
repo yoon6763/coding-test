@@ -14,15 +14,15 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-06 15:57:44 <br>
+Last Update : 2024-05-07 10:59:27 <br>
 
 
 ```
-2505 Solved
- - Kotlin : 1931
+2517 Solved
+ - Kotlin : 1942
  - Python : 265
  - Java : 149
- - SQL : 87
+ - SQL : 88
  - C : 23
  - C++ : 13
  - JavaScript : 10
@@ -920,6 +920,7 @@ baekjoon
       [Kotlin] 박스
       [Kotlin] 반복
       [Kotlin] 반올림
+      [Kotlin] 변수명
       [Kotlin] 비밀편지
       [Kotlin] 비숍 투어
       [Kotlin] 색종이
@@ -939,6 +940,7 @@ baekjoon
       [Kotlin] 알고리즘 수업 - 선택 정렬 2
       [Kotlin] 알고리즘 수업 - 피보나치 수 1
       [Kotlin] 암호
+      [Kotlin] 암호 키
       [Kotlin] 애너그램
       [Kotlin] 약수
       [Kotlin] 약수들의 합
@@ -1018,6 +1020,7 @@ baekjoon
       [Kotlin] CTP공국으로 이민 가자
       [Kotlin] Count Me In
       [Kotlin] Farm
+      [Kotlin] Fraud Busters
       [Kotlin] Fridge of Your Dreams
       [Kotlin] From 1987 to 2013
       [Kotlin] George Boole
@@ -1286,6 +1289,7 @@ baekjoon
       [Kotlin] Birthday Graph
       [Kotlin] Broken Calculator
       [Kotlin] Buffoon
+      [Kotlin] Chessboard
       [Kotlin] Coffee Cup Combo
       [Kotlin] Culture shock
       [Kotlin] Death Knight Hero
@@ -1330,6 +1334,7 @@ baekjoon
       [Kotlin] Mini Fantasy War
       [Kotlin] Missing Numbers
       [Kotlin] Monety
+      [Kotlin] More Dice
       [Kotlin] N M 찍기
       [Kotlin] NASLJEDSTVO
       [Kotlin] Not A + B
@@ -1337,16 +1342,19 @@ baekjoon
       [Kotlin] Olympic Games
       [Kotlin] Overdraft
       [Kotlin] Penalty calculation
+      [Kotlin] Piłeczka
       [Kotlin] Quick Estimates
       [Kotlin] RICE SACK
       [Kotlin] Rating Problems
       [Kotlin] Ratownik
+      [Kotlin] Rectangles
       [Kotlin] Report Card Time
       [Kotlin] Right Triangle
       [Kotlin] SAHUR & IMSA’
       [Kotlin] Sarah's Toys
       [Kotlin] Scale
       [Kotlin] Serious Problem
+      [Kotlin] Sharing Birthdays
       [Kotlin] Shattered Cake
       [Kotlin] Simple Collatz Sequence
       [Kotlin] Since 1973
@@ -1521,6 +1529,7 @@ baekjoon
       [Kotlin] 완전 세제곱
       [Kotlin] 완전 제곱수
       [Kotlin] 우유 축제
+      [Kotlin] 욱제는 건축왕이야!!
       [Kotlin] 유치원생 파댕이 돌보기
       [Kotlin] 윷놀이
       [Kotlin] 이 문제는 D2 입니다
@@ -1647,6 +1656,7 @@ baekjoon
       [Kotlin] Deliv-e-droid
       [Kotlin] Do Not Touch Anything
       [Kotlin] Dog Treats
+      [Kotlin] Easy-to-Solve Expressions
       [Kotlin] Equality
       [Kotlin] Every Second Counts
       [Kotlin] FA
@@ -1844,6 +1854,7 @@ baekjoon
       [Kotlin] 파일 옮기기
       [Kotlin] 평균 점수
       [Kotlin] 폰 노이만과 파리
+      [Kotlin] 푸앙이와 종윤이
       [Kotlin] 학번을 찾아줘!
       [Kotlin] 한글
       [Kotlin] 한글 2
@@ -2100,6 +2111,7 @@ programmers
     [SQL] 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기
     [SQL] 대장균들의 자식의 수 구하기
     [SQL] 대장균의 크기에 따라 분류하기 1
+    [SQL] 부서별 평균 연봉 조회하기
     [SQL] 없어진 기록 찾기
     [SQL] 오랜 기간 보호한 동물(1)
     [SQL] 오랜 기간 보호한 동물(2)
