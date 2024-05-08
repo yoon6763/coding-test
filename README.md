@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-07 10:59:27 <br>
+Last Update : 2024-05-08 10:57:44 <br>
 
 
 ```
-2517 Solved
- - Kotlin : 1942
+2532 Solved
+ - Kotlin : 1957
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -916,6 +916,7 @@ baekjoon
       [Kotlin] 무알콜 칵테일
       [Kotlin] 문자 인식
       [Kotlin] 문자메시지
+      [Kotlin] 미역은 식물 아닌데요
       [Kotlin] 민균이의 비밀번호
       [Kotlin] 박스
       [Kotlin] 반복
@@ -976,6 +977,7 @@ baekjoon
       [Kotlin] 한조서열정리하고옴ㅋㅋ
       [Kotlin] 핸드폰 번호 궁합
       [Kotlin] 행복한지 슬픈지
+      [Kotlin] 희주의 수학시험
       [Kotlin] 히든 넘버
       [Python] 가단조와 다장조
       [Python] 단어 공부
@@ -1026,6 +1028,7 @@ baekjoon
       [Kotlin] George Boole
       [Kotlin] Happy Number
       [Kotlin] Hashing
+      [Kotlin] Hide those Letters
       [Kotlin] ICPC Score Totalizer Software
       [Kotlin] Imiona mrówek
       [Kotlin] Is It Even
@@ -1046,6 +1049,7 @@ baekjoon
       [Kotlin] Reverse Text
       [Kotlin] SMUPC의 등장
       [Kotlin] SciComLove (2022)
+      [Kotlin] Skaičiai
       [Kotlin] Split
       [Kotlin] Strfry
       [Kotlin] String
@@ -1116,6 +1120,7 @@ baekjoon
       [Kotlin] 배수들의 합
       [Kotlin] 백설 공주와 일곱 난쟁이
       [Kotlin] 별 찍기 - 21
+      [Kotlin] 병영외 급식
       [Kotlin] 보너스 점수
       [Kotlin] 복호화
       [Kotlin] 분해합
@@ -1291,11 +1296,13 @@ baekjoon
       [Kotlin] Buffoon
       [Kotlin] Chessboard
       [Kotlin] Coffee Cup Combo
+      [Kotlin] Collatz Conjecture
       [Kotlin] Culture shock
       [Kotlin] Death Knight Hero
       [Kotlin] Decoder
       [Kotlin] Digit Count
       [Kotlin] Divisionals Spelling
+      [Kotlin] Dominos
       [Kotlin] Dyslexia
       [Kotlin] Even or Odd
       [Kotlin] Extreme Temperatures
@@ -1323,6 +1330,7 @@ baekjoon
       [Kotlin] JavaScript
       [Kotlin] Jazz Enthusiast
       [Kotlin] Jumbled Compass
+      [Kotlin] Just A Minim
       [Kotlin] J박스
       [Kotlin] Koncert
       [Kotlin] Kortos
@@ -1333,10 +1341,12 @@ baekjoon
       [Kotlin] Mean Words
       [Kotlin] Mini Fantasy War
       [Kotlin] Missing Numbers
+      [Kotlin] Missing Runners
       [Kotlin] Monety
       [Kotlin] More Dice
       [Kotlin] N M 찍기
       [Kotlin] NASLJEDSTVO
+      [Kotlin] Nadan
       [Kotlin] Not A + B
       [Kotlin] Odd Gnome
       [Kotlin] Olympic Games
@@ -1350,6 +1360,7 @@ baekjoon
       [Kotlin] Rectangles
       [Kotlin] Report Card Time
       [Kotlin] Right Triangle
+      [Kotlin] Rotating letters
       [Kotlin] SAHUR & IMSA’
       [Kotlin] Sarah's Toys
       [Kotlin] Scale
@@ -1363,6 +1374,7 @@ baekjoon
       [Kotlin] Speed Limit
       [Kotlin] Square Pasture
       [Kotlin] Stopki
+      [Kotlin] Stopwatch
       [Kotlin] Sum of Odd Sequence
       [Kotlin] TGN
       [Kotlin] Tawla
@@ -1388,6 +1400,7 @@ baekjoon
       [Kotlin] Изгороди
       [Kotlin] КУРИЕРИ
       [Kotlin] Клавиатура
+      [Kotlin] Класс
       [Kotlin] Пары
       [Kotlin] СРЕЩА НА ПРИЯТЕЛИ
       [Kotlin] マラソン大会 (Marathon Race)
@@ -1590,6 +1603,7 @@ baekjoon
       [Kotlin] 한다 안한다
       [Kotlin] 할로윈의 사탕
       [Kotlin] 핸드폰 요금
+      [Kotlin] 행운의 편지
       [Kotlin] 헤라클레스와 히드라
       [Kotlin] 헬멧과 조끼
       [Kotlin] 홀수
@@ -1750,6 +1764,7 @@ baekjoon
       [Kotlin] ГРАДИНА
       [Kotlin] Граничные клетки
       [Kotlin] Дневник Гравити Фолз
+      [Kotlin] ЗЛАТНАТА СРЕДА
       [Kotlin] Комната
       [Kotlin] ЛОВНО КУЧЕ
       [Kotlin] Лифт
