@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-08 10:57:44 <br>
+Last Update : 2024-05-09 15:03:12 <br>
 
 
 ```
-2532 Solved
- - Kotlin : 1957
+2547 Solved
+ - Kotlin : 1972
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -245,6 +245,7 @@ baekjoon
       [Kotlin] 벽 부수고 이동하기 2
       [Kotlin] 별자리 만들기
       [Kotlin] 불우이웃돕기
+      [Kotlin] 사다리 조작
       [Kotlin] 사회망 서비스(SNS)
       [Kotlin] 산책 (small)
       [Kotlin] 서울 지하철 2호선
@@ -596,6 +597,7 @@ baekjoon
       [Kotlin] 키로거
       [Kotlin] 트리의 부모 찾기
       [Kotlin] 특정 거리의 도시 찾기
+      [Kotlin] 폴짝폴짝
       [Kotlin] 헌내기는 친구가 필요해
       [Python] 랜선 자르기
       [Java] DFS와 BFS
@@ -687,9 +689,11 @@ baekjoon
       [Kotlin] 2+1 세일
       [Kotlin] 30
       [Kotlin] ATM
+      [Kotlin] Bucket Brigade
       [Kotlin] GCD 합
       [Kotlin] Prime
       [Kotlin] Router
+      [Kotlin] The Game of Death
       [Kotlin] solvedac
       [Kotlin] 게임을 만든 동준이
       [Kotlin] 고양이 카페
@@ -939,6 +943,7 @@ baekjoon
       [Kotlin] 아기 석환 뚜루루 뚜루
       [Kotlin] 알고리즘 수업 - 버블 정렬 1
       [Kotlin] 알고리즘 수업 - 선택 정렬 2
+      [Kotlin] 알고리즘 수업 - 선택 정렬 5
       [Kotlin] 알고리즘 수업 - 피보나치 수 1
       [Kotlin] 암호
       [Kotlin] 암호 키
@@ -960,6 +965,7 @@ baekjoon
       [Kotlin] 인생은 한 방
       [Kotlin] 일곱 난쟁이
       [Kotlin] 적어도 대부분의 배수
+      [Kotlin] 제자리
       [Kotlin] 주디와 당근농장
       [Kotlin] 진법 변환 2
       [Kotlin] 차량 번호판 1
@@ -1025,6 +1031,7 @@ baekjoon
       [Kotlin] Fraud Busters
       [Kotlin] Fridge of Your Dreams
       [Kotlin] From 1987 to 2013
+      [Kotlin] Furiosa AI 영상 처리 가속
       [Kotlin] George Boole
       [Kotlin] Happy Number
       [Kotlin] Hashing
@@ -1045,6 +1052,7 @@ baekjoon
       [Kotlin] Numbersrebmun
       [Kotlin] Palindromes
       [Kotlin] Presents
+      [Kotlin] Ragaman
       [Kotlin] Refrigerator Magnets
       [Kotlin] Reverse Text
       [Kotlin] SMUPC의 등장
@@ -1109,6 +1117,7 @@ baekjoon
       [Kotlin] 막대기
       [Kotlin] 만취한 상범
       [Kotlin] 모르고리즘 회장 정하기
+      [Kotlin] 모르고리즘 회장님 추천 받습니다
       [Kotlin] 모스 부호
       [Kotlin] 무지개 만들기
       [Kotlin] 문어 숫자
@@ -1155,6 +1164,7 @@ baekjoon
       [Kotlin] 암호
       [Kotlin] 애너그램 만들기
       [Kotlin] 야바위 대장
+      [Kotlin] 양념 반 후라이드 반
       [Kotlin] 에어팟
       [Kotlin] 연속구간
       [Kotlin] 영리한 아리의 포탈 타기
@@ -1278,6 +1288,7 @@ baekjoon
       [Kotlin] 3n+1 수열
       [Kotlin] 7종 경기
       [Kotlin] 99 Problems
+      [Kotlin] A Serious Reading Problem
       [Kotlin] A divide B - 3
       [Kotlin] A+B - 10 (제1편)
       [Kotlin] A+B - 6
@@ -1313,6 +1324,7 @@ baekjoon
       [Kotlin] Gift
       [Kotlin] Gift Expire Date
       [Kotlin] Golf
+      [Kotlin] Good times
       [Kotlin] Greetings!
       [Kotlin] HI-ARC
       [Kotlin] Handebol
@@ -1404,10 +1416,12 @@ baekjoon
       [Kotlin] Пары
       [Kotlin] СРЕЩА НА ПРИЯТЕЛИ
       [Kotlin] マラソン大会 (Marathon Race)
+      [Kotlin] 割り勘
       [Kotlin] 問題 １
       [Kotlin] 改元
       [Kotlin] 文字列の反転 (Inversion of a String)
       [Kotlin] 次の文字 (Next Character)
+      [Kotlin] 点数 (Score)
       [Kotlin] 가뭄(Small)
       [Kotlin] 가위 바위 보
       [Kotlin] 갈래의 색종이 자르기
@@ -1486,6 +1500,7 @@ baekjoon
       [Kotlin] 별 찍기 - 9
       [Kotlin] 별자리가 될 수 있다면
       [Kotlin] 부호
+      [Kotlin] 분수좋아해
       [Kotlin] 브실혜성
       [Kotlin] 빅데이터 vs 정보보호 vs 인공지능
       [Kotlin] 빅데이터 정보보호
