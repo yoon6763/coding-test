@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-09 15:03:12 <br>
+Last Update : 2024-05-10 12:38:13 <br>
 
 
 ```
-2547 Solved
- - Kotlin : 1972
+2559 Solved
+ - Kotlin : 1984
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -394,6 +394,7 @@ baekjoon
       [Kotlin] 내려가기
       [Kotlin] 노드사이의 거리
       [Kotlin] 다각형의 면적
+      [Kotlin] 도넛 행성
       [Kotlin] 동전 1
       [Kotlin] 동전 2
       [Kotlin] 두 용액
@@ -541,6 +542,7 @@ baekjoon
       [Kotlin] 그대, 그머가 되어
       [Kotlin] 꽃길
       [Kotlin] 나무 자르기
+      [Kotlin] 너구리 구구
       [Kotlin] 도영이가 만든 맛있는 음식
       [Kotlin] 로또
       [Kotlin] 마인크래프트
@@ -874,6 +876,7 @@ baekjoon
       [Kotlin] Do You Know Your ABCs
       [Kotlin] Doubles
       [Kotlin] Favorite Number
+      [Kotlin] FizzBuzz
       [Kotlin] ISBN
       [Kotlin] MINESWEEPER
       [Kotlin] N-퍼즐
@@ -892,6 +895,7 @@ baekjoon
       [Kotlin] 가희야 거기서 자는 거 아니야
       [Kotlin] 경제학과 정원영
       [Kotlin] 고양이 사료
+      [Kotlin] 고양이는 많을수록 좋다
       [Kotlin] 교수님 그림이 깨지는데요
       [Kotlin] 귀여운 수
       [Kotlin] 그림 비교
@@ -1026,6 +1030,7 @@ baekjoon
       [Kotlin] 9진수
       [Kotlin] Anagram Checker
       [Kotlin] CTP공국으로 이민 가자
+      [Kotlin] Carousel Rides
       [Kotlin] Count Me In
       [Kotlin] Farm
       [Kotlin] Fraud Busters
@@ -1043,9 +1048,11 @@ baekjoon
       [Kotlin] JOI와 IOI
       [Kotlin] Java Bitecode
       [Kotlin] Joke
+      [Kotlin] KABISA
       [Kotlin] KMP는 왜 KMP일까
       [Kotlin] KOREA 문자열 만들기
       [Kotlin] Letter Count
+      [Kotlin] Longest Subsequence
       [Kotlin] Max
       [Kotlin] NN
       [Kotlin] Number Maximization
@@ -1082,6 +1089,7 @@ baekjoon
       [Kotlin] 가장 많은 글자
       [Kotlin] 가장 쉬운 문제를 찾는 문제
       [Kotlin] 감정이입
+      [Kotlin] 개미
       [Kotlin] 거꾸로 구구단
       [Kotlin] 거리의 합
       [Kotlin] 거스름돈
@@ -1305,9 +1313,11 @@ baekjoon
       [Kotlin] Birthday Graph
       [Kotlin] Broken Calculator
       [Kotlin] Buffoon
+      [Kotlin] Cabin Baggage
       [Kotlin] Chessboard
       [Kotlin] Coffee Cup Combo
       [Kotlin] Collatz Conjecture
+      [Kotlin] Counting Swann’s Coins
       [Kotlin] Culture shock
       [Kotlin] Death Knight Hero
       [Kotlin] Decoder
@@ -1337,6 +1347,7 @@ baekjoon
       [Kotlin] ICONS
       [Kotlin] ID
       [Kotlin] ID Key
+      [Kotlin] International Dates
       [Kotlin] Its Cold Here
       [Kotlin] JOI エディタ (JOI Editor)
       [Kotlin] JavaScript
@@ -1794,6 +1805,7 @@ baekjoon
       [Kotlin] Сравнение комнат
       [Kotlin] Таблица результатов
       [Kotlin] Торговый центр
+      [Kotlin] ФАКИР
       [Kotlin] ЧАСОВНИК
       [Kotlin] Шахматная доска
       [Kotlin] アイスクリーム (Ice Cream)
