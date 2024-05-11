@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-10 12:38:13 <br>
+Last Update : 2024-05-11 14:26:33 <br>
 
 
 ```
-2559 Solved
- - Kotlin : 1984
+2560 Solved
+ - Kotlin : 1985
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -583,6 +583,7 @@ baekjoon
       [Kotlin] 잃어버린 괄호
       [Kotlin] 점프 점프
       [Kotlin] 점프 점프
+      [Kotlin] 제곱수의 합
       [Kotlin] 종이의 개수
       [Kotlin] 좌표 압축
       [Kotlin] 좌표 정렬하기 2
