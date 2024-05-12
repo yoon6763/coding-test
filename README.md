@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-11 14:26:33 <br>
+Last Update : 2024-05-12 17:29:41 <br>
 
 
 ```
-2560 Solved
- - Kotlin : 1985
+2561 Solved
+ - Kotlin : 1986
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -481,6 +481,7 @@ baekjoon
       [Kotlin] 쉬운 계단 수
       [Kotlin] 쉬운 최단거리
       [Kotlin] 스티커
+      [Kotlin] 신입 사원
       [Kotlin] 안전 영역
       [Kotlin] 양
       [Kotlin] 양치기 꿍
