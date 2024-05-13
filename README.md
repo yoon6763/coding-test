@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-12 17:29:41 <br>
+Last Update : 2024-05-13 17:19:44 <br>
 
 
 ```
-2561 Solved
- - Kotlin : 1986
+2562 Solved
+ - Kotlin : 1987
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -60,6 +60,7 @@ baekjoon
     p4
       [Kotlin] K번째 최단경로 찾기
       [Kotlin] 노트북의 주인을 찾아서
+      [Kotlin] 단절점
       [Kotlin] 도시 왕복하기 1
       [Kotlin] 들쥐의 탈출
       [Kotlin] 문명
