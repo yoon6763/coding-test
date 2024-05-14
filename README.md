@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-13 17:19:44 <br>
+Last Update : 2024-05-14 13:03:23 <br>
 
 
 ```
-2562 Solved
- - Kotlin : 1987
+2564 Solved
+ - Kotlin : 1989
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -511,6 +511,7 @@ baekjoon
       [Kotlin] 컴백홈
       [Kotlin] 케빈 베이컨의 6단계 법칙
       [Kotlin] 쿼드트리
+      [Kotlin] 통나무 건너뛰기
       [Kotlin] 트리 순회
       [Kotlin] 팔
       [Kotlin] 포도주 시식
@@ -1393,6 +1394,7 @@ baekjoon
       [Kotlin] Serious Problem
       [Kotlin] Sharing Birthdays
       [Kotlin] Shattered Cake
+      [Kotlin] Shifty Sum
       [Kotlin] Simple Collatz Sequence
       [Kotlin] Since 1973
       [Kotlin] Some Sum
