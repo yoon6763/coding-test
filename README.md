@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-14 13:03:23 <br>
+Last Update : 2024-05-15 14:55:23 <br>
 
 
 ```
-2564 Solved
- - Kotlin : 1989
+2566 Solved
+ - Kotlin : 1991
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -352,6 +352,7 @@ baekjoon
       [Kotlin] 적의 적
       [Kotlin] 전력난
       [Kotlin] 좋다
+      [Kotlin] 좋은수열
       [Kotlin] 직사각형 탈출
       [Kotlin] 집합의 표현
       [Kotlin] 최단경로
@@ -1371,6 +1372,7 @@ baekjoon
       [Kotlin] Missing Runners
       [Kotlin] Monety
       [Kotlin] More Dice
+      [Kotlin] Muffinspelet
       [Kotlin] N M 찍기
       [Kotlin] NASLJEDSTVO
       [Kotlin] Nadan
