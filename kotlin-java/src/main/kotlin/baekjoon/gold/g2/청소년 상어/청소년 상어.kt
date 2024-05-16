@@ -48,7 +48,7 @@ fun moveSharkDFS(sharkX: Int, sharkY: Int, dir: Int, scoreSum: Int, fishList: Ar
 
         if (fishX !in 0..<4 || fishY !in 0..<4) break
 
-        val copiedFishList = Array(17) { Fish(fishList[it].x, fishList[it].y, fishList[it].dir, fishList[it].isAlive) }
+        val copiedFishList = Array(17) { fishList[it].copy() }
         val copiedMap = Array(4) { x -> IntArray(4) { y -> map[x][y] } }
 
         if (copiedMap[fishX][fishY] != EMPTY) {
