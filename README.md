@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-15 14:55:23 <br>
+Last Update : 2024-05-16 13:59:49 <br>
 
 
 ```
-2566 Solved
- - Kotlin : 1991
+2567 Solved
+ - Kotlin : 1992
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -983,6 +983,7 @@ baekjoon
       [Kotlin] 최대공약수와 최소공배수
       [Kotlin] 최소공배수
       [Kotlin] 캠핑
+      [Kotlin] 콘도 선정
       [Kotlin] 크로스워드 만들기
       [Kotlin] 택시 거리
       [Kotlin] 팰린드롬수
@@ -2081,8 +2082,8 @@ baekjoon
       [C++] 큰 수 A+B
       [Text] 한별 찍기
       [JavaScript] A+B
-      [Swift] A+B
       [C#] A+B
+      [Swift] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
