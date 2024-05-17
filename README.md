@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-16 13:59:49 <br>
+Last Update : 2024-05-17 11:24:09 <br>
 
 
 ```
-2567 Solved
- - Kotlin : 1992
+2568 Solved
+ - Kotlin : 1993
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -1434,6 +1434,7 @@ baekjoon
       [Kotlin] Класс
       [Kotlin] Пары
       [Kotlin] СРЕЩА НА ПРИЯТЕЛИ
+      [Kotlin] カレー作り
       [Kotlin] マラソン大会 (Marathon Race)
       [Kotlin] 割り勘
       [Kotlin] 問題 １
