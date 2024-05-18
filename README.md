@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-17 11:24:09 <br>
+Last Update : 2024-05-18 13:18:02 <br>
 
 
 ```
-2568 Solved
- - Kotlin : 1993
+2569 Solved
+ - Kotlin : 1994
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -450,6 +450,7 @@ baekjoon
     s1
       [Kotlin] 1, 2, 3 더하기 2
       [Kotlin] 1로 만들기 2
+      [Kotlin] Holes
       [Kotlin] IOIOI
       [Kotlin] Islands
       [Kotlin] Knight
