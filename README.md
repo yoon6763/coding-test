@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-18 13:18:02 <br>
+Last Update : 2024-05-19 13:10:58 <br>
 
 
 ```
-2569 Solved
- - Kotlin : 1994
+2570 Solved
+ - Kotlin : 1995
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -535,6 +535,7 @@ baekjoon
       [Kotlin] Invasion of the Milkweed
       [Kotlin] Kahe käigu ratsu
       [Kotlin] N번째 큰 수
+      [Kotlin] Oil Deposits
       [Kotlin] Sheba’s Amoebas
       [Kotlin] Space Exploration
       [Kotlin] 가장 긴 감소하는 부분 수열
