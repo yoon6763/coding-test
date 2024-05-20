@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-19 13:10:58 <br>
+Last Update : 2024-05-20 14:44:45 <br>
 
 
 ```
-2570 Solved
- - Kotlin : 1995
+2573 Solved
+ - Kotlin : 1998
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -100,6 +100,7 @@ baekjoon
       [Kotlin] 조별과제 멈춰
       [Kotlin] 중앙값
       [Kotlin] 찾기
+      [Kotlin] 체스판 여행 1
       [Kotlin] 최솟값 찾기
       [Kotlin] 카드 게임
       [Kotlin] 큐빙
@@ -538,6 +539,7 @@ baekjoon
       [Kotlin] Oil Deposits
       [Kotlin] Sheba’s Amoebas
       [Kotlin] Space Exploration
+      [Kotlin] The Chivalrous Cow
       [Kotlin] 가장 긴 감소하는 부분 수열
       [Kotlin] 가장 긴 증가하는 부분 수열
       [Kotlin] 가장 큰 증가하는 부분 수열
@@ -832,6 +834,7 @@ baekjoon
       [Kotlin] 재귀함수가 뭔가요
       [Kotlin] 점수 계산
       [Kotlin] 점프왕 쩰리 (Small)
+      [Kotlin] 정열적인 정렬
       [Kotlin] 종이자르기
       [Kotlin] 좌표 정렬하기
       [Kotlin] 중복 빼고 정렬하기
