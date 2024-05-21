@@ -15,6 +15,7 @@ fun main() = with(System.`in`.bufferedReader()) {
     map = Array(n) { readLine().split(" ").map { it.toInt() }.toIntArray() }
     var cnt = 0
 
+
     repeat(n){x->
         repeat(m){y->
             if(map[x][y] != 0) {
