@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-20 14:44:45 <br>
+Last Update : 2024-05-21 09:40:41 <br>
 
 
 ```
-2573 Solved
- - Kotlin : 1998
+2574 Solved
+ - Kotlin : 1999
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -1359,6 +1359,7 @@ baekjoon
       [Kotlin] ID
       [Kotlin] ID Key
       [Kotlin] International Dates
+      [Kotlin] Isn’t It Funny How a Bear Likes Honey
       [Kotlin] Its Cold Here
       [Kotlin] JOI エディタ (JOI Editor)
       [Kotlin] JavaScript
