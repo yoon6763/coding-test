@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-22 00:49:03 <br>
+Last Update : 2024-05-23 13:24:35 <br>
 
 
 ```
-2574 Solved
- - Kotlin : 1999
+2575 Solved
+ - Kotlin : 2000
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -1039,6 +1039,7 @@ baekjoon
       [Kotlin] 8진수 2진수
       [Kotlin] 8진수, 10진수, 16진수
       [Kotlin] 9진수
+      [Kotlin] Adding Reversed Numbers
       [Kotlin] Anagram Checker
       [Kotlin] CTP공국으로 이민 가자
       [Kotlin] Carousel Rides
