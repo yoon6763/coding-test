@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-23 13:24:35 <br>
+Last Update : 2024-05-24 11:11:36 <br>
 
 
 ```
-2575 Solved
- - Kotlin : 2000
+2576 Solved
+ - Kotlin : 2001
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -504,6 +504,7 @@ baekjoon
       [Kotlin] 점프왕 쩰리 (Large)
       [Kotlin] 정수 삼각형
       [Kotlin] 지름길
+      [Kotlin] 체스
       [Kotlin] 체스
       [Kotlin] 최대공약수
       [Kotlin] 출근
