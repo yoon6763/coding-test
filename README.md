@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-24 11:11:36 <br>
+Last Update : 2024-05-25 13:41:35 <br>
 
 
 ```
-2576 Solved
- - Kotlin : 2001
+2578 Solved
+ - Kotlin : 2003
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -1314,6 +1314,7 @@ baekjoon
       [Kotlin] A+B - 10 (제1편)
       [Kotlin] A+B - 6
       [Kotlin] ABC
+      [Kotlin] Ahmed Aly
       [Kotlin] Another Cow Number Game
       [Kotlin] Attendance
       [Kotlin] Automated Telephone Exchange
@@ -1436,6 +1437,7 @@ baekjoon
       [Kotlin] `ソーシャルゲーム (Social Game)`
       [Kotlin] Выражение
       [Kotlin] ДИНИ
+      [Kotlin] Звездочки
       [Kotlin] Изгороди
       [Kotlin] КУРИЕРИ
       [Kotlin] Клавиатура
