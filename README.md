@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-25 13:41:35 <br>
+Last Update : 2024-05-26 16:55:47 <br>
 
 
 ```
-2578 Solved
- - Kotlin : 2003
+2579 Solved
+ - Kotlin : 2004
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -72,6 +72,7 @@ baekjoon
       [Kotlin] 축사 배정
       [Kotlin] 탈옥
     p5
+      [Kotlin] 0과 1
       [Kotlin] LCA 2
       [Kotlin] Strongly Connected Component
       [Kotlin] 가장 긴 증가하는 부분 수열 5
