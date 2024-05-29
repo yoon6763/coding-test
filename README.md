@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-28 16:32:51 <br>
+Last Update : 2024-05-29 12:33:54 <br>
 
 
 ```
-2585 Solved
- - Kotlin : 2010
+2587 Solved
+ - Kotlin : 2012
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -457,6 +457,7 @@ baekjoon
       [Kotlin] Islands
       [Kotlin] Knight
       [Kotlin] Knight Moves
+      [Kotlin] Milk Factory
       [Kotlin] NM과 K (1)
       [Kotlin] RGB거리
       [Kotlin] Red and Black
@@ -535,6 +536,7 @@ baekjoon
       [Kotlin] Bitmap
       [Kotlin] DFS와 BFS
       [Kotlin] DNA 비밀번호
+      [Kotlin] DOM
       [Kotlin] Invasion of the Milkweed
       [Kotlin] Kahe käigu ratsu
       [Kotlin] N번째 큰 수
