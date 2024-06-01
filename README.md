@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-05-31 14:46:19 <br>
+Last Update : 2024-06-01 20:10:19 <br>
 
 
 ```
-2591 Solved
- - Kotlin : 2016
+2592 Solved
+ - Kotlin : 2017
  - Python : 265
  - Java : 149
  - SQL : 88
@@ -1251,6 +1251,7 @@ baekjoon
       [Kotlin] 투표
       [Kotlin] 트럭 주차
       [Kotlin] 특별한 학교 이름 암호화
+      [Kotlin] 팀명 정하기 2
       [Kotlin] 파일 완전 삭제
       [Kotlin] 패리티
       [Kotlin] 팩토리얼
