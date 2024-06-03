@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-01 20:10:19 <br>
+Last Update : 2024-06-02 20:30:32 <br>
 
 
 ```
-2592 Solved
- - Kotlin : 2017
- - Python : 265
+2595 Solved
+ - Kotlin : 2019
+ - Python : 266
  - Java : 149
  - SQL : 88
  - C : 23
@@ -85,6 +85,7 @@ baekjoon
       [Kotlin] 문자열 제곱
       [Kotlin] 배열에서 이동
       [Kotlin] 백조의 호수
+      [Kotlin] 뱀
       [Kotlin] 버블 소트
       [Kotlin] 벌집
       [Kotlin] 블록껍질
@@ -355,6 +356,7 @@ baekjoon
       [Kotlin] 전력난
       [Kotlin] 좋다
       [Kotlin] 좋은수열
+      [Kotlin] 즐거운 단어
       [Kotlin] 직사각형 탈출
       [Kotlin] 집합의 표현
       [Kotlin] 최단경로
@@ -1273,6 +1275,7 @@ baekjoon
       [Kotlin] 화성 수학
       [Kotlin] 회전
       [Python] ACM 호텔
+      [Python] Calculate
       [Python] OX퀴즈
       [Python] ZOAC 2
       [Python] 나머지
