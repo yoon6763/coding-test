@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-02 20:30:32 <br>
+Last Update : 2024-06-03 14:34:42 <br>
 
 
 ```
-2595 Solved
- - Kotlin : 2019
+2597 Solved
+ - Kotlin : 2021
  - Python : 266
  - Java : 149
  - SQL : 88
@@ -1050,6 +1050,7 @@ baekjoon
       [Kotlin] CTP공국으로 이민 가자
       [Kotlin] Carousel Rides
       [Kotlin] Count Me In
+      [Kotlin] Divide and Conquer
       [Kotlin] Farm
       [Kotlin] Fraud Busters
       [Kotlin] Fridge of Your Dreams
@@ -1310,6 +1311,7 @@ baekjoon
       [Kotlin] 10103 주사위 게임
       [Kotlin] 11월 11일
       [Kotlin] 17배
+      [Kotlin] 2 2K
       [Kotlin] 2017 아주대학교 프로그래밍 경시대회 (Small)
       [Kotlin] 2017 연세대학교 프로그래밍 경시대회
       [Kotlin] 2018 연세대학교 프로그래밍 경진대회
