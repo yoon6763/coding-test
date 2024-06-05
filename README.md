@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-04 09:22:04 <br>
+Last Update : 2024-06-05 12:47:44 <br>
 
 
 ```
-2598 Solved
- - Kotlin : 2022
+2599 Solved
+ - Kotlin : 2023
  - Python : 266
  - Java : 149
  - SQL : 88
@@ -475,6 +475,7 @@ baekjoon
       [Kotlin] 그림
       [Kotlin] 기타 레슨
       [Kotlin] 기타콘서트
+      [Kotlin] 나무 탈출
       [Kotlin] 나이트의 이동
       [Kotlin] 단지번호붙이기
       [Kotlin] 데스 나이트
