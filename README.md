@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-05 12:47:44 <br>
+Last Update : 2024-06-06 10:13:50 <br>
 
 
 ```
-2599 Solved
- - Kotlin : 2023
+2603 Solved
+ - Kotlin : 2027
  - Python : 266
  - Java : 149
  - SQL : 88
@@ -544,16 +544,19 @@ baekjoon
       [Kotlin] Kahe käigu ratsu
       [Kotlin] N번째 큰 수
       [Kotlin] Oil Deposits
+      [Kotlin] Satellite Photographs
       [Kotlin] Sheba’s Amoebas
       [Kotlin] Space Exploration
       [Kotlin] The Chivalrous Cow
       [Kotlin] 가장 긴 감소하는 부분 수열
       [Kotlin] 가장 긴 증가하는 부분 수열
       [Kotlin] 가장 큰 증가하는 부분 수열
+      [Kotlin] 값이 k인 트리 노드의 깊이
       [Kotlin] 거리가 k이하인 트리 노드에서 사과 수확하기
       [Kotlin] 결혼식
       [Kotlin] 골드바흐의 추측
       [Kotlin] 과일 서리
+      [Kotlin] 과일 탕후루
       [Kotlin] 그대, 그머가 되어
       [Kotlin] 꽃길
       [Kotlin] 나무 자르기
@@ -708,6 +711,7 @@ baekjoon
       [Kotlin] 30
       [Kotlin] ATM
       [Kotlin] Bucket Brigade
+      [Kotlin] Emacs
       [Kotlin] GCD 합
       [Kotlin] Prime
       [Kotlin] Router
