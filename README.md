@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-06 10:13:50 <br>
+Last Update : 2024-06-07 16:26:16 <br>
 
 
 ```
-2603 Solved
- - Kotlin : 2027
+2605 Solved
+ - Kotlin : 2029
  - Python : 266
  - Java : 149
  - SQL : 88
@@ -466,6 +466,7 @@ baekjoon
       [Kotlin] Small World Network
       [Kotlin] Z
       [Kotlin] n단 논법
+      [Kotlin] カーペット (Carpet)
       [Kotlin] 가장 가까운 세 사람의 심리적 거리
       [Kotlin] 경로 찾기
       [Kotlin] 골드바흐의 추측
@@ -477,6 +478,7 @@ baekjoon
       [Kotlin] 기타콘서트
       [Kotlin] 나무 탈출
       [Kotlin] 나이트의 이동
+      [Kotlin] 단절점과 단절선
       [Kotlin] 단지번호붙이기
       [Kotlin] 데스 나이트
       [Kotlin] 돌다리
