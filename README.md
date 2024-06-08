@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-07 16:26:16 <br>
+Last Update : 2024-06-08 14:11:23 <br>
 
 
 ```
-2605 Solved
- - Kotlin : 2029
+2607 Solved
+ - Kotlin : 2031
  - Python : 266
  - Java : 149
  - SQL : 88
@@ -322,6 +322,7 @@ baekjoon
       [Kotlin] 미로 탈출
       [Kotlin] 미로만들기
       [Kotlin] 미세먼지 안녕!
+      [Kotlin] 미친 로봇
       [Kotlin] 민서의 응급 수술
       [Kotlin] 민트 초코
       [Kotlin] 뱀
@@ -654,6 +655,7 @@ baekjoon
       [Kotlin] 게임
       [Kotlin] 계단 오르기
       [Kotlin] 구간 합 구하기 4
+      [Kotlin] 내 선물을 받아줘 2
       [Kotlin] 늑대와 양
       [Kotlin] 다음 순열
       [Kotlin] 달팽이
