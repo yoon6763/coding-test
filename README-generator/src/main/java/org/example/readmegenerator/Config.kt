@@ -32,7 +32,7 @@ object Config {
     val supportPlatformList = listOf<Platform>(
         Baekjoon(),
         Programmers(),
-        GroomthonChallenge(),
+        GoormLevel(),
         Softeer(),
         CodeUp(),
     )
