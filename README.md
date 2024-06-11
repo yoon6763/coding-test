@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-09 13:36:46 <br>
+Last Update : 2024-06-11 12:53:33 <br>
 
 
 ```
-2610 Solved
- - Kotlin : 2034
+2614 Solved
+ - Kotlin : 2038
  - Python : 266
  - Java : 149
  - SQL : 88
@@ -310,6 +310,7 @@ baekjoon
       [Kotlin] 그리드 네트워크
       [Kotlin] 네트워크 연결
       [Kotlin] 녹색 옷 입은 애가 젤다지
+      [Kotlin] 도서관
       [Kotlin] 도시 건설
       [Kotlin] 도시 분할 계획
       [Kotlin] 떡장수와 호랑이
@@ -346,6 +347,7 @@ baekjoon
       [Kotlin] 여행 가자
       [Kotlin] 연구소
       [Kotlin] 연구소 2
+      [Kotlin] 연산자 끼워넣기 (3)
       [Kotlin] 오큰수
       [Kotlin] 운동
       [Kotlin] 유닛 이동시키기
@@ -410,6 +412,7 @@ baekjoon
       [Kotlin] 마법사 상어와 비바라기
       [Kotlin] 맥주 마시면서 걸어가기
       [Kotlin] 물통
+      [Kotlin] 배
       [Kotlin] 백도어
       [Kotlin] 뱀과 사다리 게임
       [Kotlin] 별 찍기 - 10
@@ -752,6 +755,7 @@ baekjoon
       [Kotlin] 상근이의 여행
       [Kotlin] 색종이 - 2
       [Kotlin] 세 개의 소수 문제
+      [Kotlin] 수 이어 쓰기 1
       [Kotlin] 수 찾기
       [Kotlin] 수들의 합 2
       [Kotlin] 수열 정렬
@@ -2650,7 +2654,7 @@ programmers
     [C#] 종이 자르기
     [C#] 진료 순서 정하기
 
-Groomthon Challenge
+goorm level
   Level 3
     [Kotlin] 과일 구매
     [Kotlin] 대체 경로
