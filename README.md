@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-11 12:53:33 <br>
+Last Update : 2024-06-12 15:43:51 <br>
 
 
 ```
-2614 Solved
- - Kotlin : 2038
+2615 Solved
+ - Kotlin : 2039
  - Python : 266
  - Java : 149
  - SQL : 88
@@ -510,6 +510,7 @@ baekjoon
       [Kotlin] 올림픽 게임
       [Kotlin] 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유
       [Kotlin] 음식물 피하기
+      [Kotlin] 자바의 형변환
       [Kotlin] 작업
       [Kotlin] 전쟁 - 전투
       [Kotlin] 절대값 힙
