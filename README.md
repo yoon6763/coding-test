@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-14 12:23:57 <br>
+Last Update : 2024-06-15 19:07:25 <br>
 
 
 ```
-2651 Solved
- - Kotlin : 2075
+2653 Solved
+ - Kotlin : 2077
  - Python : 266
  - Java : 149
  - SQL : 88
@@ -191,6 +191,7 @@ baekjoon
       [Kotlin] 상어 중학교
       [Kotlin] 색종이 붙이기
       [Kotlin] 선분 교차 2
+      [Kotlin] 소풍
       [Kotlin] 악덕 영주 혜유
       [Kotlin] 연료 채우기
       [Kotlin] 우수 마을
@@ -223,6 +224,7 @@ baekjoon
       [Kotlin] IQ Test
       [Kotlin] LCA
       [Kotlin] MST 게임
+      [Kotlin] NxM 보드 완주하기
       [Kotlin] Philosopher’s Walk
       [Kotlin] 개미굴
       [Kotlin] 거울 설치
