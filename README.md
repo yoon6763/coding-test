@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-15 19:07:25 <br>
+Last Update : 2024-06-16 14:19:39 <br>
 
 
 ```
-2653 Solved
- - Kotlin : 2077
+2654 Solved
+ - Kotlin : 2078
  - Python : 266
  - Java : 149
  - SQL : 88
@@ -1636,6 +1636,7 @@ baekjoon
       [Kotlin] 일우는 야바위꾼
       [Kotlin] 자전거 속도
       [Kotlin] 저작권
+      [Kotlin] 전체 계산 횟수
       [Kotlin] 전투 드로이드 가격
       [Kotlin] 점수계산
       [Kotlin] 접시 안의 원
