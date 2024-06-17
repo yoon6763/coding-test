@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-16 14:19:39 <br>
+Last Update : 2024-06-17 19:40:50 <br>
 
 
 ```
-2654 Solved
- - Kotlin : 2078
+2655 Solved
+ - Kotlin : 2079
  - Python : 266
  - Java : 149
  - SQL : 88
@@ -1734,6 +1734,7 @@ baekjoon
       [Kotlin] Atrium
       [Kotlin] Bank Transfer
       [Kotlin] Betting
+      [Kotlin] Betygsättning
       [Kotlin] Bicycle
       [Kotlin] Big Number
       [Kotlin] Body Mass Index
