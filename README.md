@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-17 19:40:50 <br>
+Last Update : 2024-06-18 12:54:01 <br>
 
 
 ```
-2655 Solved
- - Kotlin : 2079
+2657 Solved
+ - Kotlin : 2081
  - Python : 266
  - Java : 149
  - SQL : 88
@@ -405,6 +405,7 @@ baekjoon
       [Kotlin] 끝나지 않는 파티
       [Kotlin] 내려가기
       [Kotlin] 노드사이의 거리
+      [Kotlin] 농장 관리
       [Kotlin] 다각형의 면적
       [Kotlin] 도넛 행성
       [Kotlin] 동전
@@ -455,6 +456,7 @@ baekjoon
       [Kotlin] 평범한 배낭
       [Kotlin] 행렬 덧셈
       [Kotlin] 회장뽑기
+      [Kotlin] 흙길 보수하기
       [Java]  86 에이티식스 1
       [Java] 순열의 순서
 
