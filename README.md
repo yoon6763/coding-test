@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-18 12:54:01 <br>
+Last Update : 2024-06-19 16:54:49 <br>
 
 
 ```
-2657 Solved
- - Kotlin : 2081
+2658 Solved
+ - Kotlin : 2082
  - Python : 266
  - Java : 149
  - SQL : 88
@@ -1358,6 +1358,7 @@ baekjoon
       [Kotlin] Baseball
       [Kotlin] Baskets of Gold Coins
       [Kotlin] Bałwanek
+      [Kotlin] Bike Tour
       [Kotlin] Billing
       [Kotlin] Binary numbers
       [Kotlin] Birthday Graph
@@ -2138,8 +2139,8 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [JavaScript] A+B
       [C#] A+B
+      [JavaScript] A+B
       [Swift] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
