@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-20 15:03:21 <br>
+Last Update : 2024-06-21 16:47:38 <br>
 
 
 ```
-2659 Solved
- - Kotlin : 2083
+2660 Solved
+ - Kotlin : 2084
  - Python : 266
  - Java : 149
  - SQL : 88
@@ -1127,6 +1127,7 @@ baekjoon
       [Kotlin] 希少な数 (Rare Number)
       [Kotlin] 年齢の差 (Age Difference)
       [Kotlin] 比較 (Comparison)
+      [Kotlin] 絶対階差数列 (Sequence of Absolute Differences)
       [Kotlin] 複雑な文字列 (Complex String)
       [Kotlin] 가계부 (Easy)
       [Kotlin] 가장 많은 글자
