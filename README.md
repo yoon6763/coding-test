@@ -14,14 +14,14 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-21 16:47:38 <br>
+Last Update : 2024-06-22 18:21:25 <br>
 
 
 ```
-2660 Solved
+2661 Solved
  - Kotlin : 2084
  - Python : 266
- - Java : 149
+ - Java : 150
  - SQL : 88
  - C : 23
  - C++ : 13
@@ -57,6 +57,7 @@ baekjoon
       [Kotlin] 소수 쌍
       [Kotlin] 열혈강호 3
       [Kotlin] 열혈강호 4
+      [Java] 물류창고
     p4
       [Kotlin] K번째 최단경로 찾기
       [Kotlin] 노트북의 주인을 찾아서
