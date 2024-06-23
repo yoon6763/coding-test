@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-23 12:09:13 <br>
+Last Update : 2024-06-23 13:39:53 <br>
 
 
 ```
-2662 Solved
- - Kotlin : 2085
- - Python : 266
+2669 Solved
+ - Kotlin : 2091
+ - Python : 267
  - Java : 150
  - SQL : 88
  - C : 23
@@ -923,6 +923,7 @@ baekjoon
       [Kotlin] Nine Knights
       [Kotlin] No Duplicates
       [Kotlin] N번째 큰 수
+      [Kotlin] Obraz
       [Kotlin] Presidents
       [Kotlin] ROT13
       [Kotlin] Send me the money
@@ -1030,6 +1031,7 @@ baekjoon
       [Kotlin] 행복한지 슬픈지
       [Kotlin] 희주의 수학시험
       [Kotlin] 히든 넘버
+      [Python] Odchudzanie
       [Python] 가단조와 다장조
       [Python] 단어 공부
       [Python] 딱지놀이
@@ -1435,6 +1437,7 @@ baekjoon
       [Kotlin] Overdraft
       [Kotlin] Penalty calculation
       [Kotlin] Piłeczka
+      [Kotlin] Quadratics
       [Kotlin] Quick Estimates
       [Kotlin] RICE SACK
       [Kotlin] Rating Problems
@@ -1467,6 +1470,7 @@ baekjoon
       [Kotlin] UOSPC 세기
       [Kotlin] V for Vendetta
       [Kotlin] Vending Machine
+      [Kotlin] Vikingahackare
       [Kotlin] Viva la Diferencia
       [Kotlin] Volta
       [Kotlin] Vowel Count
@@ -1486,6 +1490,7 @@ baekjoon
       [Kotlin] КУРИЕРИ
       [Kotlin] Клавиатура
       [Kotlin] Класс
+      [Kotlin] Космический корабль
       [Kotlin] Пары
       [Kotlin] СРЕЩА НА ПРИЯТЕЛИ
       [Kotlin] カレー作り
@@ -1725,6 +1730,7 @@ baekjoon
       [Kotlin] 2 番目に大きい整数 (The Second Largest Integer)
       [Kotlin] 2023은 무엇이 특별할까
       [Kotlin] 3 つの整数 (Three Integers)
+      [Kotlin] A Hero Named Magnus
       [Kotlin] A Simple Problem
       [Kotlin] A+B-C
       [Kotlin] AFC 윔블던
@@ -1762,6 +1768,7 @@ baekjoon
       [Kotlin] Darius님 한타 안 함
       [Kotlin] Dedupe
       [Kotlin] Deliv-e-droid
+      [Kotlin] Divide the Cash
       [Kotlin] Do Not Touch Anything
       [Kotlin] Dog Treats
       [Kotlin] Easy-to-Solve Expressions
