@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-22 18:21:25 <br>
+Last Update : 2024-06-23 12:09:13 <br>
 
 
 ```
-2661 Solved
- - Kotlin : 2084
+2662 Solved
+ - Kotlin : 2085
  - Python : 266
  - Java : 150
  - SQL : 88
@@ -1961,6 +1961,7 @@ baekjoon
       [Kotlin] 탁구 경기
       [Kotlin] 특별한 가지
       [Kotlin] 특별한 날
+      [Kotlin] 특별한 작은 분수
       [Kotlin] 팀 나누기
       [Kotlin] 파일 옮기기
       [Kotlin] 평균 점수
