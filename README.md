@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-23 13:39:53 <br>
+Last Update : 2024-06-24 12:07:46 <br>
 
 
 ```
-2669 Solved
- - Kotlin : 2091
+2679 Solved
+ - Kotlin : 2101
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -498,6 +498,7 @@ baekjoon
       [Kotlin] 버섯 농장
       [Kotlin] 본대 산책
       [Kotlin] 봄버맨
+      [Kotlin] 부분수열의 합
       [Kotlin] 비밀번호
       [Kotlin] 소수&팰린드롬
       [Kotlin] 숨바꼭질
@@ -558,6 +559,7 @@ baekjoon
       [Kotlin] DOM
       [Kotlin] Invasion of the Milkweed
       [Kotlin] Kahe käigu ratsu
+      [Kotlin] K번째 소수
       [Kotlin] N번째 큰 수
       [Kotlin] Oil Deposits
       [Kotlin] Satellite Photographs
@@ -582,6 +584,7 @@ baekjoon
       [Kotlin] 마인크래프트
       [Kotlin] 부등호
       [Kotlin] 부분수열의 합
+      [Kotlin] 비슷한 단어
       [Kotlin] 빠른 숫자 탐색
       [Kotlin] 색종이 만들기
       [Kotlin] 생태학
@@ -700,6 +703,7 @@ baekjoon
       [Kotlin] 영단어 암기는 괴로워
       [Kotlin] 이친수
       [Kotlin] 장난감 강아지
+      [Kotlin] 전쟁 - 땅따먹기
       [Kotlin] 절사평균
       [Kotlin] 정수 a를 k로 만들기
       [Kotlin] 주유소
@@ -711,6 +715,7 @@ baekjoon
       [Kotlin] 통계학
       [Kotlin] 퇴사
       [Kotlin] 파도반 수열
+      [Kotlin] 파일 정리
       [Kotlin] 패션왕 신해빈
       [Kotlin] 팰린드롬 만들기
       [Kotlin] 프린터 큐
@@ -838,6 +843,7 @@ baekjoon
       [Kotlin] 막대기
       [Kotlin] 멘토와 멘티
       [Kotlin] 문자를 받은 승환이
+      [Kotlin] 반지
       [Kotlin] 방 번호
       [Kotlin] 배열 합치기
       [Kotlin] 백대열
@@ -1280,6 +1286,7 @@ baekjoon
       [Kotlin] 태보태보 총난타
       [Kotlin] 투표
       [Kotlin] 트럭 주차
+      [Kotlin] 트로피 진열
       [Kotlin] 특별한 학교 이름 암호화
       [Kotlin] 팀명 정하기
       [Kotlin] 팀명 정하기 2
@@ -1401,6 +1408,7 @@ baekjoon
       [Kotlin] Head or Tail
       [Kotlin] Heart Rate
       [Kotlin] Holes
+      [Kotlin] Hot Dogs
       [Kotlin] IBM 빼기 1
       [Kotlin] ICONS
       [Kotlin] ID
@@ -1465,6 +1473,7 @@ baekjoon
       [Kotlin] TGN
       [Kotlin] Tawla
       [Kotlin] Tax
+      [Kotlin] Teleportation
       [Kotlin] Transactions
       [Kotlin] Trident
       [Kotlin] UOSPC 세기
@@ -1790,6 +1799,7 @@ baekjoon
       [Kotlin] Hard choice
       [Kotlin] Hello Judge
       [Kotlin] Hurra
+      [Kotlin] I Speak TXTMSG
       [Kotlin] ICPC
       [Kotlin] ISBN
       [Kotlin] IT Passport Examination
