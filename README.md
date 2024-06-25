@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-24 12:07:46 <br>
+Last Update : 2024-06-25 13:32:34 <br>
 
 
 ```
-2679 Solved
- - Kotlin : 2101
+2680 Solved
+ - Kotlin : 2102
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1789,6 +1789,7 @@ baekjoon
       [Kotlin] Final Price
       [Kotlin] Find the Twins
       [Kotlin] Football Team
+      [Kotlin] Gahui and Soongsil University station
       [Kotlin] Gnome Sequencing
       [Kotlin] Good Coin Denomination
       [Kotlin] Goodbye, Code Jam
