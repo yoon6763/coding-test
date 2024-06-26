@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-25 13:32:34 <br>
+Last Update : 2024-06-26 22:39:35 <br>
 
 
 ```
-2680 Solved
- - Kotlin : 2102
+2681 Solved
+ - Kotlin : 2103
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1413,6 +1413,7 @@ baekjoon
       [Kotlin] ICONS
       [Kotlin] ID
       [Kotlin] ID Key
+      [Kotlin] Increasing Sublist
       [Kotlin] International Dates
       [Kotlin] Isn’t It Funny How a Bear Likes Honey
       [Kotlin] Its Cold Here
