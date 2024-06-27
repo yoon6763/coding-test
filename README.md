@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-26 22:39:35 <br>
+Last Update : 2024-06-28 00:40:14 <br>
 
 
 ```
-2681 Solved
- - Kotlin : 2103
+2682 Solved
+ - Kotlin : 2104
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1396,6 +1396,7 @@ baekjoon
       [Kotlin] Filling Out the Team
       [Kotlin] Flat
       [Kotlin] Flower Festival
+      [Kotlin] Gauß
       [Kotlin] Gift
       [Kotlin] Gift Expire Date
       [Kotlin] Golf
