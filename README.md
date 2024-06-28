@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-28 00:40:14 <br>
+Last Update : 2024-06-28 15:26:51 <br>
 
 
 ```
-2682 Solved
- - Kotlin : 2104
+2683 Solved
+ - Kotlin : 2105
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1446,6 +1446,7 @@ baekjoon
       [Kotlin] Olympic Games
       [Kotlin] Overdraft
       [Kotlin] Penalty calculation
+      [Kotlin] Pirates
       [Kotlin] Piłeczka
       [Kotlin] Quadratics
       [Kotlin] Quick Estimates
