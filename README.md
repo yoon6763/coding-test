@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-28 15:26:51 <br>
+Last Update : 2024-06-29 15:12:06 <br>
 
 
 ```
-2683 Solved
- - Kotlin : 2105
+2684 Solved
+ - Kotlin : 2106
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1570,6 +1570,7 @@ baekjoon
       [Kotlin] 멀티탭 충분하니
       [Kotlin] 명장 남정훈
       [Kotlin] 모음의 개수
+      [Kotlin] 모험의 시작
       [Kotlin] 미국 스타일
       [Kotlin] 받아올림
       [Kotlin] 방어력 무시 계산하기
