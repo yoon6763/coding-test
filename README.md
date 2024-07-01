@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-06-30 09:09:11 <br>
+Last Update : 2024-07-01 22:14:28 <br>
 
 
 ```
-2685 Solved
- - Kotlin : 2107
+2686 Solved
+ - Kotlin : 2108
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -484,6 +484,7 @@ baekjoon
       [Kotlin] 곱셈
       [Kotlin] 괄호의 값
       [Kotlin] 구간 합 구하기 5
+      [Kotlin] 그래프 탐색 2
       [Kotlin] 그림
       [Kotlin] 기타 레슨
       [Kotlin] 기타콘서트
