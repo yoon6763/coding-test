@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-01 22:14:28 <br>
+Last Update : 2024-07-02 23:45:58 <br>
 
 
 ```
-2686 Solved
- - Kotlin : 2108
+2687 Solved
+ - Kotlin : 2109
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1362,6 +1362,7 @@ baekjoon
       [Kotlin] A+B - 10 (제1편)
       [Kotlin] A+B - 6
       [Kotlin] ABC
+      [Kotlin] Absolutely Flat
       [Kotlin] Ahmed Aly
       [Kotlin] Another Cow Number Game
       [Kotlin] Attendance
