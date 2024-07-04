@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-03 21:46:13 <br>
+Last Update : 2024-07-04 23:40:51 <br>
 
 
 ```
-2688 Solved
- - Kotlin : 2110
+2689 Solved
+ - Kotlin : 2111
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1436,6 +1436,7 @@ baekjoon
       [Kotlin] Lobby
       [Kotlin] Matches
       [Kotlin] Mean Words
+      [Kotlin] Meeting Near the Fountain
       [Kotlin] Mini Fantasy War
       [Kotlin] Missing Numbers
       [Kotlin] Missing Runners
