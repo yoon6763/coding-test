@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-04 23:40:51 <br>
+Last Update : 2024-07-05 23:16:27 <br>
 
 
 ```
-2689 Solved
- - Kotlin : 2111
+2690 Solved
+ - Kotlin : 2112
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1922,6 +1922,7 @@ baekjoon
       [Kotlin] 鉛筆 (Pencils)
       [Kotlin] 가희와 방어율 무시
       [Kotlin] 감마선을 맞은 컴퓨터
+      [Kotlin] 강당 대란
       [Kotlin] 개표
       [Kotlin] 공백 없는 A+B
       [Kotlin] 과목선택
