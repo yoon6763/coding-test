@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-05 23:16:27 <br>
+Last Update : 2024-07-06 20:17:03 <br>
 
 
 ```
-2690 Solved
- - Kotlin : 2112
+2691 Solved
+ - Kotlin : 2113
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -539,6 +539,7 @@ baekjoon
       [Kotlin] 컴백홈
       [Kotlin] 케빈 베이컨의 6단계 법칙
       [Kotlin] 쿼드트리
+      [Kotlin] 태권왕
       [Kotlin] 통나무 건너뛰기
       [Kotlin] 트리 순회
       [Kotlin] 팔
