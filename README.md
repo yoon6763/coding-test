@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-06 20:17:03 <br>
+Last Update : 2024-07-07 13:46:09 <br>
 
 
 ```
-2691 Solved
- - Kotlin : 2113
+2692 Solved
+ - Kotlin : 2114
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -675,6 +675,7 @@ baekjoon
       [Kotlin] 게임
       [Kotlin] 계단 오르기
       [Kotlin] 구간 합 구하기 4
+      [Kotlin] 그녀를 찾아서
       [Kotlin] 내 선물을 받아줘 2
       [Kotlin] 늑대와 양
       [Kotlin] 다음 순열
