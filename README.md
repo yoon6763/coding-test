@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-08 20:31:34 <br>
+Last Update : 2024-07-09 22:18:38 <br>
 
 
 ```
-2693 Solved
- - Kotlin : 2115
+2696 Solved
+ - Kotlin : 2118
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -266,6 +266,7 @@ baekjoon
       [Kotlin] 싸지방에 간 준하
       [Kotlin] 아기 상어
       [Kotlin] 안정적인 네트워크
+      [Kotlin] 알파 틱택토
       [Kotlin] 앱
       [Kotlin] 역사
       [Kotlin] 연구소 3
@@ -518,6 +519,7 @@ baekjoon
       [Kotlin] 오목
       [Kotlin] 올림픽 게임
       [Kotlin] 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유
+      [Kotlin] 유턴 싫어
       [Kotlin] 음식물 피하기
       [Kotlin] 자바의 형변환
       [Kotlin] 작업
@@ -852,6 +854,7 @@ baekjoon
       [Kotlin] 배열 합치기
       [Kotlin] 백대열
       [Kotlin] 비밀번호 발음하기
+      [Kotlin] 사과 담기 게임
       [Kotlin] 삼각형만들기
       [Kotlin] 색종이
       [Kotlin] 생일
