@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-10 21:59:00 <br>
+Last Update : 2024-07-11 22:48:15 <br>
 
 
 ```
-2697 Solved
- - Kotlin : 2119
+2698 Solved
+ - Kotlin : 2120
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1506,6 +1506,7 @@ baekjoon
       [Kotlin] ZOAC 5
       [Kotlin] Zegarek
       [Kotlin] `ソーシャルゲーム (Social Game)`
+      [Kotlin] gahui and sousenkyo 2
       [Kotlin] Выражение
       [Kotlin] ДИНИ
       [Kotlin] Звездочки
