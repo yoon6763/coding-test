@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-11 22:48:15 <br>
+Last Update : 2024-07-12 20:16:28 <br>
 
 
 ```
-2698 Solved
- - Kotlin : 2120
+2699 Solved
+ - Kotlin : 2121
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1277,6 +1277,7 @@ baekjoon
       [Kotlin] 진법 변환
       [Kotlin] 진수 변환기
       [Kotlin] 진짜 공간
+      [Kotlin] 창고지기
       [Kotlin] 창영마을
       [Kotlin] 창영이의 일기장
       [Kotlin] 초6 수학
