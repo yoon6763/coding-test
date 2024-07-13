@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-12 20:16:28 <br>
+Last Update : 2024-07-13 22:39:20 <br>
 
 
 ```
-2699 Solved
- - Kotlin : 2121
+2700 Solved
+ - Kotlin : 2122
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1107,6 +1107,7 @@ baekjoon
       [Kotlin] JOI와 IOI
       [Kotlin] Java Bitecode
       [Kotlin] Joke
+      [Kotlin] K512에 바이러스 퍼뜨리기
       [Kotlin] KABISA
       [Kotlin] KMP는 왜 KMP일까
       [Kotlin] KOREA 문자열 만들기
