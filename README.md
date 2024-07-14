@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-13 22:39:20 <br>
+Last Update : 2024-07-14 15:31:26 <br>
 
 
 ```
-2700 Solved
- - Kotlin : 2122
+2701 Solved
+ - Kotlin : 2123
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1090,6 +1090,7 @@ baekjoon
       [Kotlin] CTP공국으로 이민 가자
       [Kotlin] Carousel Rides
       [Kotlin] Count Me In
+      [Kotlin] Cryptoquote
       [Kotlin] Divide and Conquer
       [Kotlin] Farm
       [Kotlin] Fraud Busters
