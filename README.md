@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-14 15:31:26 <br>
+Last Update : 2024-07-15 21:33:13 <br>
 
 
 ```
-2701 Solved
- - Kotlin : 2123
+2702 Solved
+ - Kotlin : 2124
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -520,6 +520,7 @@ baekjoon
       [Kotlin] 오목
       [Kotlin] 올림픽 게임
       [Kotlin] 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유
+      [Kotlin] 유턴 싫어
       [Kotlin] 유턴 싫어
       [Kotlin] 음식물 피하기
       [Kotlin] 자바의 형변환
