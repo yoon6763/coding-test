@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-15 21:33:13 <br>
+Last Update : 2024-07-16 21:28:15 <br>
 
 
 ```
-2702 Solved
- - Kotlin : 2124
+2703 Solved
+ - Kotlin : 2125
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -545,6 +545,7 @@ baekjoon
       [Kotlin] 쿼드트리
       [Kotlin] 태권왕
       [Kotlin] 통나무 건너뛰기
+      [Kotlin] 튜터-튜티 관계의 수
       [Kotlin] 트리 순회
       [Kotlin] 팔
       [Kotlin] 포도주 시식
