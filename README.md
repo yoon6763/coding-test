@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-16 21:28:15 <br>
+Last Update : 2024-07-17 23:02:35 <br>
 
 
 ```
-2703 Solved
- - Kotlin : 2125
+2704 Solved
+ - Kotlin : 2126
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -590,6 +590,7 @@ baekjoon
       [Kotlin] 도영이가 만든 맛있는 음식
       [Kotlin] 로또
       [Kotlin] 마인크래프트
+      [Kotlin] 맹세
       [Kotlin] 부등호
       [Kotlin] 부분수열의 합
       [Kotlin] 비슷한 단어
