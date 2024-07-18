@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-17 23:02:35 <br>
+Last Update : 2024-07-18 13:17:09 <br>
 
 
 ```
-2704 Solved
- - Kotlin : 2126
+2705 Solved
+ - Kotlin : 2127
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -364,6 +364,7 @@ baekjoon
       [Kotlin] 전력난
       [Kotlin] 좋다
       [Kotlin] 좋은수열
+      [Kotlin] 주난의 난(難)
       [Kotlin] 즐거운 단어
       [Kotlin] 직사각형 탈출
       [Kotlin] 집합의 표현
