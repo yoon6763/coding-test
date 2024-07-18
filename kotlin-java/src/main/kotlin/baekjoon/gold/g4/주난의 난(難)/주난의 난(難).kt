@@ -6,6 +6,7 @@ data class Node(val x: Int, val y: Int, val type: Int, val depth: Int)
 
 fun main() = with(System.`in`.bufferedReader()) {
     val (n, m) = readLine().split(" ").map { it.toInt() }
+
     val (jx, jy, tx, ty) = readLine().split(" ").map { it.toInt() - 1 }
     val map = Array(n) { readLine() }
 
@@ -25,14 +26,14 @@ fun main() = with(System.`in`.bufferedReader()) {
             val ny = cur.y + dy[i]
 
             if (nx !in 0..<n || ny !in 0..<m || visited[nx][ny]) continue
+            visited[nx][ny] = true
 
             if (nx == tx && ny == ty) {
                 println(cur.depth + 1)
                 return
             }
 
-            visited[nx][ny] = true
-            q.add(Node(nx, ny, cur.type, cur.depth + if (map[nx][ny] == '0') 0 else 1))
+            q.add(Node(nx, ny, cur.type + map[nx][ny].digitToInt(), cur.depth + map[nx][ny].digitToInt()))
         }
     }
 }
