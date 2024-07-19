@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-18 13:27:21 <br>
+Last Update : 2024-07-19 21:32:03 <br>
 
 
 ```
-2705 Solved
- - Kotlin : 2127
+2706 Solved
+ - Kotlin : 2128
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -430,6 +430,7 @@ baekjoon
       [Kotlin] 상어 초등학교
       [Kotlin] 선발 명단
       [Kotlin] 소셜 네트워킹 어플리케이션
+      [Kotlin] 수 고르기
       [Kotlin] 수 나누기 게임
       [Kotlin] 숨바꼭질 3
       [Kotlin] 숫자고르기
