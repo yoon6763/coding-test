@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-19 21:32:03 <br>
+Last Update : 2024-07-20 20:46:45 <br>
 
 
 ```
-2706 Solved
- - Kotlin : 2128
+2707 Solved
+ - Kotlin : 2129
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -846,6 +846,7 @@ baekjoon
       [Kotlin] 날짜 계산
       [Kotlin] 너의 평점은
       [Kotlin] 누울 자리를 찾아라
+      [Kotlin] 다각형의 대각선
       [Kotlin] 다리 놓기
       [Kotlin] 단어 나누기
       [Kotlin] 단어 정렬
