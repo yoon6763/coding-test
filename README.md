@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-20 20:46:45 <br>
+Last Update : 2024-07-21 19:23:57 <br>
 
 
 ```
-2707 Solved
- - Kotlin : 2129
+2708 Solved
+ - Kotlin : 2130
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -562,6 +562,7 @@ baekjoon
       [Kotlin] -2진수
       [Kotlin] 1, 2, 3 더하기 3
       [Kotlin] A to B
+      [Kotlin] A-maze-ing Lakes
       [Kotlin] Bad Grass
       [Kotlin] Bitmap
       [Kotlin] DFS와 BFS
