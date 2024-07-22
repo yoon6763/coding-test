@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-21 19:23:57 <br>
+Last Update : 2024-07-22 21:09:13 <br>
 
 
 ```
-2708 Solved
- - Kotlin : 2130
+2709 Solved
+ - Kotlin : 2131
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -576,6 +576,7 @@ baekjoon
       [Kotlin] Satellite Photographs
       [Kotlin] Sheba’s Amoebas
       [Kotlin] Space Exploration
+      [Kotlin] Spawn of Ungoliant
       [Kotlin] The Chivalrous Cow
       [Kotlin] 가장 긴 감소하는 부분 수열
       [Kotlin] 가장 긴 증가하는 부분 수열
