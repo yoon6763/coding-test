@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-24 22:27:18 <br>
+Last Update : 2024-07-25 21:20:37 <br>
 
 
 ```
-2711 Solved
- - Kotlin : 2133
+2712 Solved
+ - Kotlin : 2134
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -601,6 +601,7 @@ baekjoon
       [Kotlin] 부분수열의 합
       [Kotlin] 비슷한 단어
       [Kotlin] 빠른 숫자 탐색
+      [Kotlin] 상자넣기
       [Kotlin] 색종이 만들기
       [Kotlin] 생태학
       [Kotlin] 섬의 개수
