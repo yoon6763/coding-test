@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-25 21:20:37 <br>
+Last Update : 2024-07-26 21:22:35 <br>
 
 
 ```
-2712 Solved
- - Kotlin : 2134
+2713 Solved
+ - Kotlin : 2135
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -715,6 +715,7 @@ baekjoon
       [Kotlin] 숫자 야구
       [Kotlin] 숫자 정사각형
       [Kotlin] 스택 수열
+      [Kotlin] 스피카
       [Kotlin] 시리얼 번호
       [Kotlin] 어린 왕자
       [Kotlin] 영단어 암기는 괴로워
