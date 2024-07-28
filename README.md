@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-26 21:22:35 <br>
+Last Update : 2024-07-28 10:53:47 <br>
 
 
 ```
-2713 Solved
- - Kotlin : 2135
+2715 Solved
+ - Kotlin : 2137
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -936,6 +936,7 @@ baekjoon
       [Kotlin] 0의 개수
       [Kotlin] 2007년
       [Kotlin] 2진수 8진수
+      [Kotlin] 4번째 점
       [Kotlin] 6174
       [Kotlin] A divide B - 2
       [Kotlin] An Interactive Problem
@@ -1036,6 +1037,7 @@ baekjoon
       [Kotlin] 인생은 한 방
       [Kotlin] 일곱 난쟁이
       [Kotlin] 적어도 대부분의 배수
+      [Kotlin] 접두사 배열
       [Kotlin] 제자리
       [Kotlin] 주디와 당근농장
       [Kotlin] 진법 변환 2
