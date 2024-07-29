@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-28 10:53:47 <br>
+Last Update : 2024-07-29 23:29:56 <br>
 
 
 ```
-2715 Solved
- - Kotlin : 2137
+2716 Solved
+ - Kotlin : 2138
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -339,6 +339,7 @@ baekjoon
       [Kotlin] 불!
       [Kotlin] 빙산
       [Kotlin] 사이클 게임
+      [Kotlin] 사전 순 최대 공통 부분 수열
       [Kotlin] 샘터
       [Kotlin] 서강그라운드
       [Kotlin] 세부
