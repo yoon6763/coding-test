@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-29 23:29:56 <br>
+Last Update : 2024-07-30 23:54:26 <br>
 
 
 ```
-2716 Solved
- - Kotlin : 2138
+2717 Solved
+ - Kotlin : 2139
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1333,6 +1333,7 @@ baekjoon
       [Kotlin] 해밍 거리
       [Kotlin] 행복
       [Kotlin] 헤일스톤 수열
+      [Kotlin] 홀짝홀짝
       [Kotlin] 홍익 절대평가
       [Kotlin] 화성 수학
       [Kotlin] 회전
