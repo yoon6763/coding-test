@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-30 23:54:26 <br>
+Last Update : 2024-07-31 22:43:20 <br>
 
 
 ```
-2717 Solved
- - Kotlin : 2139
+2718 Solved
+ - Kotlin : 2140
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -458,6 +458,7 @@ baekjoon
       [Kotlin] 토마토
       [Kotlin] 톱니바퀴
       [Kotlin] 트리
+      [Kotlin] 트리와 쿼리
       [Kotlin] 파이프 옮기기 1
       [Kotlin] 평범한 배낭
       [Kotlin] 합분해
