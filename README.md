@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-07-31 22:43:20 <br>
+Last Update : 2024-08-01 23:56:00 <br>
 
 
 ```
-2718 Solved
- - Kotlin : 2140
+2719 Solved
+ - Kotlin : 2141
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -946,6 +946,7 @@ baekjoon
       [Kotlin] Doubles
       [Kotlin] Favorite Number
       [Kotlin] FizzBuzz
+      [Kotlin] Go Latin
       [Kotlin] ISBN
       [Kotlin] MINESWEEPER
       [Kotlin] N-퍼즐
