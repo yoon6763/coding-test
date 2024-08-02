@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-01 23:56:00 <br>
+Last Update : 2024-08-02 21:37:37 <br>
 
 
 ```
-2719 Solved
- - Kotlin : 2141
+2721 Solved
+ - Kotlin : 2143
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -577,6 +577,7 @@ baekjoon
       [Kotlin] K번째 소수
       [Kotlin] N번째 큰 수
       [Kotlin] Oil Deposits
+      [Kotlin] RAINFOREST CANOPY
       [Kotlin] Satellite Photographs
       [Kotlin] Sheba’s Amoebas
       [Kotlin] Space Exploration
@@ -959,6 +960,7 @@ baekjoon
       [Kotlin] Send me the money
       [Kotlin] Snowflakes
       [Kotlin] Starman
+      [Kotlin] Szyfr
       [Kotlin] XORXORXOR
       [Kotlin] Yangjojang of The Year
       [Kotlin] 問題 ２
