@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-03 16:13:54 <br>
+Last Update : 2024-08-04 22:18:45 <br>
 
 
 ```
-2722 Solved
- - Kotlin : 2144
+2723 Solved
+ - Kotlin : 2145
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -851,6 +851,7 @@ baekjoon
       [Kotlin] 교수님 저는 취업할래요
       [Kotlin] 국회의원 선거
       [Kotlin] 귀걸이
+      [Kotlin] 기상캐스터
       [Kotlin] 꿀벌
       [Kotlin] 나이순 정렬
       [Kotlin] 날짜 계산
