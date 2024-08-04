@@ -1,7 +1,5 @@
 package baekjoon.gold.g5.`항체 인식`
 
-package baekjoon.gold.g5.`항체 인식`
-
 import java.util.LinkedList
 import java.util.Queue
 
