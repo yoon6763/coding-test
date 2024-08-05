@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-04 22:18:45 <br>
+Last Update : 2024-08-05 22:31:20 <br>
 
 
 ```
-2723 Solved
- - Kotlin : 2145
+2724 Solved
+ - Kotlin : 2146
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -704,6 +704,7 @@ baekjoon
       [Kotlin] 문자열 집합
       [Kotlin] 바이러스
       [Kotlin] 베르트랑 공준
+      [Kotlin] 분수 합
       [Kotlin] 블로그
       [Kotlin] 빈도 정렬
       [Kotlin] 사과 빨리 먹기
