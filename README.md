@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-05 22:31:20 <br>
+Last Update : 2024-08-06 22:43:19 <br>
 
 
 ```
-2724 Solved
- - Kotlin : 2146
+2725 Solved
+ - Kotlin : 2147
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1256,6 +1256,7 @@ baekjoon
       [Kotlin] 알파벳 거리
       [Kotlin] 알파벳 전부 쓰기
       [Kotlin] 암호
+      [Kotlin] 애너그램 거리
       [Kotlin] 애너그램 만들기
       [Kotlin] 야바위 대장
       [Kotlin] 양념 반 후라이드 반
