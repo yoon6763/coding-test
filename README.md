@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-06 22:43:19 <br>
+Last Update : 2024-08-07 21:52:35 <br>
 
 
 ```
-2725 Solved
- - Kotlin : 2147
+2726 Solved
+ - Kotlin : 2148
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -882,6 +882,7 @@ baekjoon
       [Kotlin] 수 정렬하기 2
       [Kotlin] 수 정렬하기 4
       [Kotlin] 수들의 합 5
+      [Kotlin] 숫자 빈도수
       [Kotlin] 숫자 카드
       [Kotlin] 스네이크버드
       [Kotlin] 스텔라(STELLA)가 치킨을 선물했어요
