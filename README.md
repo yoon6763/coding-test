@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-07 21:52:35 <br>
+Last Update : 2024-08-08 19:53:57 <br>
 
 
 ```
-2726 Solved
- - Kotlin : 2148
+2727 Solved
+ - Kotlin : 2149
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -893,6 +893,7 @@ baekjoon
       [Kotlin] 연도 진행바
       [Kotlin] 연속인가
       [Kotlin] 요세푸스 문제 0
+      [Kotlin] 이름 궁합
       [Kotlin] 이장님 초대
       [Kotlin] 재귀함수가 뭔가요
       [Kotlin] 점수 계산
