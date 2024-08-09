@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-08 19:53:57 <br>
+Last Update : 2024-08-09 23:15:12 <br>
 
 
 ```
-2727 Solved
- - Kotlin : 2149
+2728 Solved
+ - Kotlin : 2150
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1877,6 +1877,7 @@ baekjoon
       [Kotlin] Population
       [Kotlin] Poziome serca
       [Kotlin] Previous Level
+      [Kotlin] Quadrants
       [Kotlin] Quadrilateral
       [Kotlin] R2
       [Kotlin] Rainy Diary
