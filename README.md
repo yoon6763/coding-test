@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-09 23:15:12 <br>
+Last Update : 2024-08-10 21:06:21 <br>
 
 
 ```
-2728 Solved
- - Kotlin : 2150
+2729 Solved
+ - Kotlin : 2151
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -807,6 +807,7 @@ baekjoon
       [Kotlin] 암기왕
       [Kotlin] 암호 해독
       [Kotlin] 에라토스테네스의 체
+      [Kotlin] 연속부분최대곱
       [Kotlin] 온라인 판매
       [Kotlin] 요세푸스 문제
       [Kotlin] 인사성 밝은 곰곰이
