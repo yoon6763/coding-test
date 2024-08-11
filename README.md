@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-10 21:06:21 <br>
+Last Update : 2024-08-11 23:14:05 <br>
 
 
 ```
-2729 Solved
- - Kotlin : 2151
+2730 Solved
+ - Kotlin : 2152
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -613,6 +613,7 @@ baekjoon
       [Kotlin] 쇠막대기
       [Kotlin] 숫자판 점프
       [Kotlin] 스타트와 링크
+      [Kotlin] 신나는 함수 실행
       [Kotlin] 싸이버개강총회
       [Kotlin] 아기 상어 2
       [Kotlin] 알고리즘 수업 - 깊이 우선 탐색 1
