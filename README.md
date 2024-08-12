@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-11 23:14:05 <br>
+Last Update : 2024-08-12 21:23:09 <br>
 
 
 ```
-2730 Solved
- - Kotlin : 2152
+2731 Solved
+ - Kotlin : 2153
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -566,6 +566,7 @@ baekjoon
     s2
       [Kotlin] -2진수
       [Kotlin] 1, 2, 3 더하기 3
+      [Kotlin] 1, 2, 3 더하기 5
       [Kotlin] A to B
       [Kotlin] A-maze-ing Lakes
       [Kotlin] Bad Grass
