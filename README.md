@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-12 21:23:09 <br>
+Last Update : 2024-08-13 20:22:21 <br>
 
 
 ```
-2731 Solved
- - Kotlin : 2153
+2732 Solved
+ - Kotlin : 2154
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -669,6 +669,7 @@ baekjoon
       [Java] 섬의개수
     s3
       [Kotlin] 01타일
+      [Kotlin] 1
       [Kotlin] 1, 2, 3 더하기
       [Kotlin] 13일의 금요일
       [Kotlin] 1로 만들기
