@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-13 20:22:21 <br>
+Last Update : 2024-08-14 22:44:58 <br>
 
 
 ```
-2732 Solved
- - Kotlin : 2154
+2733 Solved
+ - Kotlin : 2155
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -993,6 +993,7 @@ baekjoon
       [Kotlin] 단어 퍼즐
       [Kotlin] 달팽이2
       [Kotlin] 더하기 2
+      [Kotlin] 데칼코마니
       [Kotlin] 도비의 난독증 테스트
       [Kotlin] 동전 게임
       [Kotlin] 뒤집힌 덧셈
