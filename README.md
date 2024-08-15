@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-14 22:44:58 <br>
+Last Update : 2024-08-15 23:12:32 <br>
 
 
 ```
-2733 Solved
- - Kotlin : 2155
+2734 Solved
+ - Kotlin : 2156
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -858,6 +858,7 @@ baekjoon
       [Kotlin] 귀걸이
       [Kotlin] 기상캐스터
       [Kotlin] 꿀벌
+      [Kotlin] 끝말잇기
       [Kotlin] 나이순 정렬
       [Kotlin] 날짜 계산
       [Kotlin] 너의 평점은
