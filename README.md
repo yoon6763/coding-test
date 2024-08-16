@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-15 23:12:32 <br>
+Last Update : 2024-08-16 21:20:18 <br>
 
 
 ```
-2734 Solved
- - Kotlin : 2156
+2735 Solved
+ - Kotlin : 2157
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -910,6 +910,7 @@ baekjoon
       [Kotlin] 지뢰 찾기
       [Kotlin] 지뢰찾기
       [Kotlin] 직사각형 네개의 합집합의 면적 구하기
+      [Kotlin] 짐 챙기는 숌
       [Kotlin] 집합
       [Kotlin] 창문 닫기
       [Kotlin] 최소공배수
