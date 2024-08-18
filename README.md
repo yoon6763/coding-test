@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-17 23:32:15 <br>
+Last Update : 2024-08-18 13:21:07 <br>
 
 
 ```
-2736 Solved
- - Kotlin : 2158
+2742 Solved
+ - Kotlin : 2164
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -606,6 +606,7 @@ baekjoon
       [Kotlin] 부분수열의 합
       [Kotlin] 비슷한 단어
       [Kotlin] 빠른 숫자 탐색
+      [Kotlin] 사탕 게임
       [Kotlin] 상자넣기
       [Kotlin] 색종이 만들기
       [Kotlin] 생태학
@@ -1291,6 +1292,7 @@ baekjoon
       [Kotlin] 이진수 합
       [Kotlin] 인생 점수
       [Kotlin] 자기복제수
+      [Kotlin] 자작나무가 없소~
       [Kotlin] 재귀의 귀재
       [Kotlin] 저항
       [Kotlin] 전구
@@ -1407,7 +1409,9 @@ baekjoon
       [Kotlin] A+B - 6
       [Kotlin] ABC
       [Kotlin] Absolutely Flat
+      [Kotlin] Adding Commas
       [Kotlin] Ahmed Aly
+      [Kotlin] Animal King Election
       [Kotlin] Another Cow Number Game
       [Kotlin] Attendance
       [Kotlin] Automated Telephone Exchange
@@ -1434,6 +1438,7 @@ baekjoon
       [Kotlin] Digit Count
       [Kotlin] Divisionals Spelling
       [Kotlin] Dominos
+      [Kotlin] Double Password
       [Kotlin] Dyslexia
       [Kotlin] Even or Odd
       [Kotlin] Extreme Temperatures
@@ -1443,6 +1448,7 @@ baekjoon
       [Kotlin] Filling Out the Team
       [Kotlin] Flat
       [Kotlin] Flower Festival
+      [Kotlin] Game Show!
       [Kotlin] Gauß
       [Kotlin] Gift
       [Kotlin] Gift Expire Date
