@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-18 13:21:07 <br>
+Last Update : 2024-08-19 22:31:56 <br>
 
 
 ```
-2742 Solved
- - Kotlin : 2164
+2743 Solved
+ - Kotlin : 2165
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -676,6 +676,7 @@ baekjoon
       [Kotlin] 1로 만들기
       [Kotlin] 2×n 타일링
       [Kotlin] 2×n 타일링 2
+      [Kotlin] Daisy Chains in the Field
       [Kotlin] Four Squares
       [Kotlin] Java vs C++
       [Kotlin] Knight Hop
