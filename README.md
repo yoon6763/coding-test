@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-19 22:31:56 <br>
+Last Update : 2024-08-20 23:43:16 <br>
 
 
 ```
-2743 Solved
- - Kotlin : 2165
+2744 Solved
+ - Kotlin : 2166
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1762,6 +1762,7 @@ baekjoon
       [Kotlin] 파인만
       [Kotlin] 팩토리얼 진법
       [Kotlin] 팰린드롬 소떡소떡
+      [Kotlin] 팰린드롬 척화비
       [Kotlin] 페르시아의 왕들
       [Kotlin] 평균 중앙값 문제
       [Kotlin] 폰 노이만
