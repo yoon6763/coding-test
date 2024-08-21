@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-20 23:43:16 <br>
+Last Update : 2024-08-21 21:38:05 <br>
 
 
 ```
-2744 Solved
- - Kotlin : 2166
+2745 Solved
+ - Kotlin : 2167
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -702,6 +702,7 @@ baekjoon
       [Kotlin] 늑대와 양
       [Kotlin] 다음 순열
       [Kotlin] 달팽이
+      [Kotlin] 돌 게임 3
       [Kotlin] 두 수의 합
       [Kotlin] 로마 숫자 만들기
       [Kotlin] 먹을 것인가 먹힐 것인가
