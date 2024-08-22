@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-21 21:38:05 <br>
+Last Update : 2024-08-22 21:56:55 <br>
 
 
 ```
-2745 Solved
- - Kotlin : 2167
+2746 Solved
+ - Kotlin : 2168
  - Python : 267
  - Java : 150
  - SQL : 88
@@ -1257,6 +1257,7 @@ baekjoon
       [Kotlin] 숫자 놀이
       [Kotlin] 숫자 카드놀이
       [Kotlin] 숫자의 개수 2
+      [Kotlin] 스물셋
       [Kotlin] 시각
       [Kotlin] 시간복잡도를 배운 도도
       [Kotlin] 시그마
