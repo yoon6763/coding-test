@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-22 21:56:55 <br>
+Last Update : 2024-08-26 00:02:23 <br>
 
 
 ```
-2746 Solved
- - Kotlin : 2168
- - Python : 267
+2749 Solved
+ - Kotlin : 2170
+ - Python : 268
  - Java : 150
  - SQL : 88
  - C : 23
@@ -1331,6 +1331,7 @@ baekjoon
       [Kotlin] 콘테스트
       [Kotlin] 쿼리 맛보기
       [Kotlin] 클레어와 팰린드롬
+      [Kotlin] 타임머신
       [Kotlin] 탄산 음료
       [Kotlin] 태보태보 총난타
       [Kotlin] 투표
@@ -1441,6 +1442,7 @@ baekjoon
       [Kotlin] Digit Count
       [Kotlin] Divisionals Spelling
       [Kotlin] Dominos
+      [Kotlin] Don’t pass me the ball!
       [Kotlin] Double Password
       [Kotlin] Dyslexia
       [Kotlin] Even or Odd
@@ -2191,6 +2193,7 @@ baekjoon
       [Python] A+B - 5
       [Python] A+B - 8
       [Python] Hello World
+      [Python] Pups
       [Python] 검증수
       [Python] 긴자리 계산
       [Python] 알파벳 찾기
