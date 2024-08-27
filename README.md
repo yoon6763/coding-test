@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-26 13:51:57 <br>
+Last Update : 2024-08-27 23:32:18 <br>
 
 
 ```
-2750 Solved
- - Kotlin : 2171
+2751 Solved
+ - Kotlin : 2172
  - Python : 268
  - Java : 150
  - SQL : 88
@@ -1546,6 +1546,7 @@ baekjoon
       [Kotlin] Viva la Diferencia
       [Kotlin] Volta
       [Kotlin] Vowel Count
+      [Kotlin] Walk Like an Egyptian
       [Kotlin] What is n, Daddy
       [Kotlin] Who Has Seen The Wind
       [Kotlin] Window on the Wall
