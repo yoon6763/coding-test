@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-27 23:32:18 <br>
+Last Update : 2024-08-28 22:51:18 <br>
 
 
 ```
-2751 Solved
- - Kotlin : 2172
+2752 Solved
+ - Kotlin : 2173
  - Python : 268
  - Java : 150
  - SQL : 88
@@ -2029,6 +2029,7 @@ baekjoon
       [Kotlin] 임스의 메이플컵
       [Kotlin] 입실 관리
       [Kotlin] 자동완성
+      [Kotlin] 재수강
       [Kotlin] 전자레인지
       [Kotlin] 전자레인지14470
       [Kotlin] 주사위 세개
