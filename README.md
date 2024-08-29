@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-28 22:51:18 <br>
+Last Update : 2024-08-29 23:56:00 <br>
 
 
 ```
-2752 Solved
- - Kotlin : 2173
+2753 Solved
+ - Kotlin : 2174
  - Python : 268
  - Java : 150
  - SQL : 88
@@ -957,6 +957,7 @@ baekjoon
       [Kotlin] 6174
       [Kotlin] A divide B - 2
       [Kotlin] An Interactive Problem
+      [Kotlin] Daisy Chains
       [Kotlin] Do You Know Your ABCs
       [Kotlin] Doubles
       [Kotlin] Favorite Number
