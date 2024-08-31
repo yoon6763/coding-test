@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-29 23:56:00 <br>
+Last Update : 2024-08-31 16:55:37 <br>
 
 
 ```
-2753 Solved
- - Kotlin : 2174
- - Python : 268
+2755 Solved
+ - Kotlin : 2175
+ - Python : 269
  - Java : 150
  - SQL : 88
  - C : 23
@@ -318,6 +318,7 @@ baekjoon
       [Kotlin] 도서관
       [Kotlin] 도시 건설
       [Kotlin] 도시 분할 계획
+      [Kotlin] 돌 그룹
       [Kotlin] 두 로봇
       [Kotlin] 떡장수와 호랑이
       [Kotlin] 로봇 조립
@@ -1787,6 +1788,7 @@ baekjoon
       [Kotlin] 홀짝 칵테일
       [Python] Zbiór
       [Python] 네 번째 점
+      [Python] 사격 내기
       [Python] 열 개씩 끊어 출력하기
       [Python] 직각삼각형
       [Python] 직사각형에서 탈출
