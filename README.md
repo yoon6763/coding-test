@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-18 13:21:07 <br>
+Last Update : 2024-08-29 23:56:00 <br>
 
 
 ```
-2742 Solved
- - Kotlin : 2164
- - Python : 267
+2753 Solved
+ - Kotlin : 2174
+ - Python : 268
  - Java : 150
  - SQL : 88
  - C : 23
@@ -676,6 +676,7 @@ baekjoon
       [Kotlin] 1로 만들기
       [Kotlin] 2×n 타일링
       [Kotlin] 2×n 타일링 2
+      [Kotlin] Daisy Chains in the Field
       [Kotlin] Four Squares
       [Kotlin] Java vs C++
       [Kotlin] Knight Hop
@@ -701,6 +702,7 @@ baekjoon
       [Kotlin] 늑대와 양
       [Kotlin] 다음 순열
       [Kotlin] 달팽이
+      [Kotlin] 돌 게임 3
       [Kotlin] 두 수의 합
       [Kotlin] 로마 숫자 만들기
       [Kotlin] 먹을 것인가 먹힐 것인가
@@ -955,6 +957,7 @@ baekjoon
       [Kotlin] 6174
       [Kotlin] A divide B - 2
       [Kotlin] An Interactive Problem
+      [Kotlin] Daisy Chains
       [Kotlin] Do You Know Your ABCs
       [Kotlin] Doubles
       [Kotlin] Favorite Number
@@ -967,6 +970,7 @@ baekjoon
       [Kotlin] No Duplicates
       [Kotlin] N번째 큰 수
       [Kotlin] Obraz
+      [Kotlin] Pen Pineapple Apple Pen
       [Kotlin] Presidents
       [Kotlin] ROT13
       [Kotlin] Send me the money
@@ -1255,6 +1259,7 @@ baekjoon
       [Kotlin] 숫자 놀이
       [Kotlin] 숫자 카드놀이
       [Kotlin] 숫자의 개수 2
+      [Kotlin] 스물셋
       [Kotlin] 시각
       [Kotlin] 시간복잡도를 배운 도도
       [Kotlin] 시그마
@@ -1328,6 +1333,7 @@ baekjoon
       [Kotlin] 콘테스트
       [Kotlin] 쿼리 맛보기
       [Kotlin] 클레어와 팰린드롬
+      [Kotlin] 타임머신
       [Kotlin] 탄산 음료
       [Kotlin] 태보태보 총난타
       [Kotlin] 투표
@@ -1438,6 +1444,7 @@ baekjoon
       [Kotlin] Digit Count
       [Kotlin] Divisionals Spelling
       [Kotlin] Dominos
+      [Kotlin] Don’t pass me the ball!
       [Kotlin] Double Password
       [Kotlin] Dyslexia
       [Kotlin] Even or Odd
@@ -1540,6 +1547,7 @@ baekjoon
       [Kotlin] Viva la Diferencia
       [Kotlin] Volta
       [Kotlin] Vowel Count
+      [Kotlin] Walk Like an Egyptian
       [Kotlin] What is n, Daddy
       [Kotlin] Who Has Seen The Wind
       [Kotlin] Window on the Wall
@@ -1761,6 +1769,7 @@ baekjoon
       [Kotlin] 파인만
       [Kotlin] 팩토리얼 진법
       [Kotlin] 팰린드롬 소떡소떡
+      [Kotlin] 팰린드롬 척화비
       [Kotlin] 페르시아의 왕들
       [Kotlin] 평균 중앙값 문제
       [Kotlin] 폰 노이만
@@ -2021,6 +2030,7 @@ baekjoon
       [Kotlin] 임스의 메이플컵
       [Kotlin] 입실 관리
       [Kotlin] 자동완성
+      [Kotlin] 재수강
       [Kotlin] 전자레인지
       [Kotlin] 전자레인지14470
       [Kotlin] 주사위 세개
@@ -2187,6 +2197,7 @@ baekjoon
       [Python] A+B - 5
       [Python] A+B - 8
       [Python] Hello World
+      [Python] Pups
       [Python] 검증수
       [Python] 긴자리 계산
       [Python] 알파벳 찾기
