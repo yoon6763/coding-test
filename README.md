@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-08-31 16:55:37 <br>
+Last Update : 2024-09-01 18:31:20 <br>
 
 
 ```
-2755 Solved
- - Kotlin : 2175
+2756 Solved
+ - Kotlin : 2176
  - Python : 269
  - Java : 150
  - SQL : 88
@@ -1175,6 +1175,7 @@ baekjoon
       [Kotlin] `첼시를 도와줘`
       [Kotlin] e 계산
       [Kotlin] include Google IO h
+      [Kotlin] БОЯДИСВАНЕ НА ОГРАДА
       [Kotlin] ПОДАРЪК
       [Kotlin] Ресторан
       [Kotlin] キャピタリゼーション (Capitalization)
