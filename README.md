@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-01 18:31:20 <br>
+Last Update : 2024-09-02 20:43:12 <br>
 
 
 ```
-2756 Solved
- - Kotlin : 2176
+2757 Solved
+ - Kotlin : 2177
  - Python : 269
  - Java : 150
  - SQL : 88
@@ -2028,6 +2028,7 @@ baekjoon
       [Kotlin] 연세대학교
       [Kotlin] 와글와글 숭고한
       [Kotlin] 욱 제
+      [Kotlin] 이 대회는 이제 제 겁니다
       [Kotlin] 이칙연산
       [Kotlin] 인공지능 시계
       [Kotlin] 임스의 메이플컵
