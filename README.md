@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-02 20:43:12 <br>
+Last Update : 2024-09-03 23:39:51 <br>
 
 
 ```
-2757 Solved
- - Kotlin : 2177
+2758 Solved
+ - Kotlin : 2178
  - Python : 269
  - Java : 150
  - SQL : 88
@@ -989,6 +989,7 @@ baekjoon
       [Kotlin] 교수님 그림이 깨지는데요
       [Kotlin] 귀여운 수
       [Kotlin] 그림 비교
+      [Kotlin] 기념일 2
       [Kotlin] 기상청 인턴 신현수
       [Kotlin] 긴급 회의
       [Kotlin] 나머지와 몫이 같은 수
@@ -2238,9 +2239,9 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [JavaScript] A+B
       [C#] A+B
       [Swift] A+B
+      [JavaScript] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
