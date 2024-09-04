@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-03 23:39:51 <br>
+Last Update : 2024-09-04 20:36:05 <br>
 
 
 ```
-2758 Solved
- - Kotlin : 2178
+2759 Solved
+ - Kotlin : 2179
  - Python : 269
  - Java : 150
  - SQL : 88
@@ -1450,6 +1450,7 @@ baekjoon
       [Kotlin] Don’t pass me the ball!
       [Kotlin] Double Password
       [Kotlin] Dyslexia
+      [Kotlin] Even Sum More Than Odd Sum
       [Kotlin] Even or Odd
       [Kotlin] Extreme Temperatures
       [Kotlin] FBI
@@ -2239,9 +2240,9 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
+      [JavaScript] A+B
       [C#] A+B
       [Swift] A+B
-      [JavaScript] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
