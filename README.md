@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-05 22:38:48 <br>
+Last Update : 2024-09-07 21:52:39 <br>
 
 
 ```
-2760 Solved
- - Kotlin : 2180
+2762 Solved
+ - Kotlin : 2182
  - Python : 269
  - Java : 150
  - SQL : 88
@@ -1314,6 +1314,7 @@ baekjoon
       [Kotlin] 주사위
       [Kotlin] 주사위 네개
       [Kotlin] 주차의 신
+      [Kotlin] 준석이의 사탕 사기
       [Kotlin] 줄 세우기 1681
       [Kotlin] 줄 세우기 2605
       [Kotlin] 줄임말 만들기
@@ -1768,6 +1769,7 @@ baekjoon
       [Kotlin] 컵라편 측정하기
       [Kotlin] 쿠키애호가
       [Kotlin] 쿠폰
+      [Kotlin] 크림빵
       [Kotlin] 터널의 입구와 출구
       [Kotlin] 통학의 신
       [Kotlin] 특정 대문자를 소문자로 바꾸기
