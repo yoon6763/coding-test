@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-07 21:52:39 <br>
+Last Update : 2024-09-08 19:17:28 <br>
 
 
 ```
-2762 Solved
- - Kotlin : 2182
+2763 Solved
+ - Kotlin : 2183
  - Python : 269
  - Java : 150
  - SQL : 88
@@ -1998,6 +1998,7 @@ baekjoon
       [Kotlin] 과자
       [Kotlin] 관공 어찌하여 목만 오셨소
       [Kotlin] 그게 무슨 코드니
+      [Kotlin] 글로벌 포닉스
       [Kotlin] 나이 계산하기
       [Kotlin] 녹색거탑
       [Kotlin] 뉴비의 기준은 뭘까
