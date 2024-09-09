@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-08 19:17:28 <br>
+Last Update : 2024-09-09 22:52:45 <br>
 
 
 ```
-2763 Solved
- - Kotlin : 2183
+2764 Solved
+ - Kotlin : 2184
  - Python : 269
  - Java : 150
  - SQL : 88
@@ -1341,6 +1341,7 @@ baekjoon
       [Kotlin] 타임머신
       [Kotlin] 탄산 음료
       [Kotlin] 태보태보 총난타
+      [Kotlin] 텔레프라임
       [Kotlin] 투표
       [Kotlin] 트럭 주차
       [Kotlin] 트로피 진열
