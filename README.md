@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-09 22:52:45 <br>
+Last Update : 2024-09-10 22:58:54 <br>
 
 
 ```
-2764 Solved
- - Kotlin : 2184
+2765 Solved
+ - Kotlin : 2185
  - Python : 269
  - Java : 150
  - SQL : 88
@@ -2069,6 +2069,7 @@ baekjoon
       [Kotlin] 폰 노이만과 파리
       [Kotlin] 푸앙이와 종윤이
       [Kotlin] 학번을 찾아줘!
+      [Kotlin] 학식 사주기
       [Kotlin] 한글
       [Kotlin] 한글 2
       [Kotlin] 헛간 청약
