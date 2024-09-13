@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-12 22:21:34 <br>
+Last Update : 2024-09-13 23:15:08 <br>
 
 
 ```
-2767 Solved
- - Kotlin : 2187
+2768 Solved
+ - Kotlin : 2188
  - Python : 269
  - Java : 150
  - SQL : 88
@@ -1849,6 +1849,7 @@ baekjoon
       [Kotlin] Congruent Numbers
       [Kotlin] Contemporary Art
       [Kotlin] Contest Timing
+      [Kotlin] Corona Virus Testing
       [Kotlin] Counting Antibodies
       [Kotlin] Counting Clauses
       [Kotlin] Covid-19
