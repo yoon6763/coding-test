@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-15 22:45:25 <br>
+Last Update : 2024-09-16 16:21:41 <br>
 
 
 ```
-2770 Solved
- - Kotlin : 2190
+2771 Solved
+ - Kotlin : 2191
  - Python : 269
  - Java : 150
  - SQL : 88
@@ -1171,6 +1171,7 @@ baekjoon
       [Kotlin] String
       [Kotlin] Stół
       [Kotlin] TV 크기
+      [Kotlin] The Cow-Signal
       [Kotlin] Union Maplestory
       [Kotlin] Words
       [Kotlin] X marks the Spot
