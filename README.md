@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-17 22:29:22 <br>
+Last Update : 2024-09-18 16:16:44 <br>
 
 
 ```
-2773 Solved
- - Kotlin : 2193
+2774 Solved
+ - Kotlin : 2194
  - Python : 269
  - Java : 150
  - SQL : 88
@@ -450,6 +450,7 @@ baekjoon
       [Kotlin] 적록색약
       [Kotlin] 점프 게임
       [Kotlin] 줄어드는 수
+      [Kotlin] 진우의 민트초코우유
       [Kotlin] 최소 회의실 개수
       [Kotlin] 최소비용 구하기
       [Kotlin] 치킨 배달
