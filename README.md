@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-21 19:29:24 <br>
+Last Update : 2024-09-21 20:29:53 <br>
 
 
 ```
-2777 Solved
- - Kotlin : 2196
+2783 Solved
+ - Kotlin : 2202
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -1071,6 +1071,7 @@ baekjoon
       [Kotlin] 진법 변환 2
       [Kotlin] 차량 번호판 1
       [Kotlin] 초성 변환
+      [Kotlin] 초성 중성 종성
       [Kotlin] 초콜릿 자르기
       [Kotlin] 최대공약수와 최소공배수
       [Kotlin] 최소공배수
@@ -1299,6 +1300,7 @@ baekjoon
       [Kotlin] 원피스
       [Kotlin] 유학 금지
       [Kotlin] 이상한 곱셈
+      [Kotlin] 이상한 섞기 연산
       [Kotlin] 이진수 덧셈
       [Kotlin] 이진수 변환
       [Kotlin] 이진수 연산
@@ -1495,6 +1497,7 @@ baekjoon
       [Kotlin] Jumbled Compass
       [Kotlin] Just A Minim
       [Kotlin] J박스
+      [Kotlin] Kick
       [Kotlin] Koncert
       [Kotlin] Kortos
       [Kotlin] License to Launch
@@ -1514,6 +1517,7 @@ baekjoon
       [Kotlin] NASLJEDSTVO
       [Kotlin] Nadan
       [Kotlin] Not A + B
+      [Kotlin] Odd Even Strings
       [Kotlin] Odd Gnome
       [Kotlin] Olympic Games
       [Kotlin] Overdraft
@@ -1578,6 +1582,7 @@ baekjoon
       [Kotlin] Клавиатура
       [Kotlin] Класс
       [Kotlin] Космический корабль
+      [Kotlin] Монетки
       [Kotlin] Пары
       [Kotlin] СРЕЩА НА ПРИЯТЕЛИ
       [Kotlin] カレー作り
@@ -1998,6 +2003,7 @@ baekjoon
       [Kotlin] 移動 (Moving)
       [Kotlin] 計算 (Calculation)
       [Kotlin] 試験 (Exam)
+      [Kotlin] 部員の変遷
       [Kotlin] 金平糖 (Konpeito)
       [Kotlin] 鉛筆 (Pencils)
       [Kotlin] 가희와 방어율 무시
