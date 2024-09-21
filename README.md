@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-18 16:16:44 <br>
+Last Update : 2024-09-21 19:29:24 <br>
 
 
 ```
-2774 Solved
- - Kotlin : 2194
- - Python : 269
+2777 Solved
+ - Kotlin : 2196
+ - Python : 270
  - Java : 150
  - SQL : 88
  - C : 23
@@ -1520,6 +1520,7 @@ baekjoon
       [Kotlin] Penalty calculation
       [Kotlin] Pirates
       [Kotlin] Piłeczka
+      [Kotlin] Pyramidbygge
       [Kotlin] Quadratics
       [Kotlin] Quick Estimates
       [Kotlin] RICE SACK
@@ -1676,6 +1677,7 @@ baekjoon
       [Kotlin] 사탕 선생 고창영
       [Kotlin] 삼각 김밥
       [Kotlin] 삼각 무늬 - 1
+      [Kotlin] 삼각 무늬 - 2
       [Kotlin] 삼각형 분류
       [Kotlin] 삼각형과 세 변
       [Kotlin] 삼각형의 합
@@ -1800,6 +1802,7 @@ baekjoon
       [Kotlin] 홀짝 수열
       [Kotlin] 홀짝 칵테일
       [Python] Zbiór
+      [Python] 가지 한 두름 주세요
       [Python] 네 번째 점
       [Python] 사격 내기
       [Python] 열 개씩 끊어 출력하기
@@ -2255,9 +2258,9 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [C#] A+B
-      [Swift] A+B
       [JavaScript] A+B
+      [Swift] A+B
+      [C#] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
