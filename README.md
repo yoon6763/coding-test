@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-15 22:45:25 <br>
+Last Update : 2024-09-18 16:16:44 <br>
 
 
 ```
-2770 Solved
- - Kotlin : 2190
+2774 Solved
+ - Kotlin : 2194
  - Python : 269
  - Java : 150
  - SQL : 88
@@ -294,6 +294,7 @@ baekjoon
       [Kotlin] 할로윈의 양아치
       [Kotlin] 행렬 곱셈 순서
     g4
+      [Kotlin] 4연산
       [Kotlin] CTP 왕국은 한솔 왕국을 이길 수 있을까
       [Kotlin] Count Circle Groups
       [Kotlin] DSLR
@@ -449,6 +450,7 @@ baekjoon
       [Kotlin] 적록색약
       [Kotlin] 점프 게임
       [Kotlin] 줄어드는 수
+      [Kotlin] 진우의 민트초코우유
       [Kotlin] 최소 회의실 개수
       [Kotlin] 최소비용 구하기
       [Kotlin] 치킨 배달
@@ -1171,6 +1173,7 @@ baekjoon
       [Kotlin] String
       [Kotlin] Stół
       [Kotlin] TV 크기
+      [Kotlin] The Cow-Signal
       [Kotlin] Union Maplestory
       [Kotlin] Words
       [Kotlin] X marks the Spot
@@ -2061,6 +2064,7 @@ baekjoon
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스 2
       [Kotlin] 카드 뽑기
+      [Kotlin] 코드마스터 2024
       [Kotlin] 키위퀴즈
       [Kotlin] 타일 채우기 4
       [Kotlin] 타임 카드
