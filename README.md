@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-21 20:29:53 <br>
+Last Update : 2024-09-22 15:08:20 <br>
 
 
 ```
-2783 Solved
- - Kotlin : 2202
+2785 Solved
+ - Kotlin : 2204
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -66,6 +66,7 @@ baekjoon
       [Kotlin] 들쥐의 탈출
       [Kotlin] 문명
       [Kotlin] 불 끄기
+      [Kotlin] 섬
       [Kotlin] 열혈강호
       [Kotlin] 열혈강호 2
       [Kotlin] 영화 수집
@@ -460,6 +461,7 @@ baekjoon
       [Kotlin] 토마토
       [Kotlin] 토마토
       [Kotlin] 톱니바퀴
+      [Kotlin] 퇴사 2
       [Kotlin] 트리
       [Kotlin] 트리와 쿼리
       [Kotlin] 파이프 옮기기 1
