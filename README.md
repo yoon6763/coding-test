@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-22 15:08:20 <br>
+Last Update : 2024-09-22 17:24:08 <br>
 
 
 ```
-2785 Solved
- - Kotlin : 2204
+2786 Solved
+ - Kotlin : 2205
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -228,6 +228,7 @@ baekjoon
       [Kotlin] MST 게임
       [Kotlin] NxM 보드 완주하기
       [Kotlin] Philosopher’s Walk
+      [Kotlin] Watering the Fields
       [Kotlin] 개미굴
       [Kotlin] 거울 설치
       [Kotlin] 게임 개발
