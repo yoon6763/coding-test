@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-22 17:24:08 <br>
+Last Update : 2024-09-23 21:53:40 <br>
 
 
 ```
-2786 Solved
- - Kotlin : 2205
+2787 Solved
+ - Kotlin : 2206
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -926,6 +926,7 @@ baekjoon
       [Kotlin] 최소공배수
       [Kotlin] 칠무해
       [Kotlin] 카드1
+      [Kotlin] 콰트로치즈피자
       [Kotlin] 트ㅏㅊ;
       [Kotlin] 팩토리얼 0의 개수
       [Kotlin] 폴리오미노
