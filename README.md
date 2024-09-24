@@ -14,17 +14,17 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-23 21:53:40 <br>
+Last Update : 2024-09-24 22:52:39 <br>
 
 
 ```
-2787 Solved
- - Kotlin : 2206
+2790 Solved
+ - Kotlin : 2208
  - Python : 270
  - Java : 150
  - SQL : 88
  - C : 23
- - C++ : 13
+ - C++ : 14
  - JavaScript : 10
  - Ruby : 9
  - Text : 5
@@ -1431,6 +1431,7 @@ baekjoon
       [Kotlin] A+B - 6
       [Kotlin] ABC
       [Kotlin] Absolutely Flat
+      [Kotlin] Academic Distance
       [Kotlin] Adding Commas
       [Kotlin] Ahmed Aly
       [Kotlin] Animal King Election
@@ -1655,6 +1656,7 @@ baekjoon
       [Kotlin] 명장 남정훈
       [Kotlin] 모음의 개수
       [Kotlin] 모험의 시작
+      [Kotlin] 문문문
       [Kotlin] 미국 스타일
       [Kotlin] 받아올림
       [Kotlin] 방어력 무시 계산하기
@@ -2259,6 +2261,7 @@ baekjoon
       [Java] 팩토리얼
       [Java] 합
       [C] 조별과제를 하려는데 조장이 사라졌다
+      [C++] A + B 32260
       [C++] A+B
       [C++] A+B - 2
       [C++] A+B - 3
