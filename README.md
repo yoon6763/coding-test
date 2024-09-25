@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-24 22:52:39 <br>
+Last Update : 2024-09-25 22:03:19 <br>
 
 
 ```
-2790 Solved
- - Kotlin : 2208
+2793 Solved
+ - Kotlin : 2211
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -1046,6 +1046,7 @@ baekjoon
       [Kotlin] 싸이클
       [Kotlin] 아기 석환 뚜루루 뚜루
       [Kotlin] 알고리즘 수업 - 버블 정렬 1
+      [Kotlin] 알고리즘 수업 - 선택 정렬 1
       [Kotlin] 알고리즘 수업 - 선택 정렬 2
       [Kotlin] 알고리즘 수업 - 선택 정렬 5
       [Kotlin] 알고리즘 수업 - 피보나치 수 1
@@ -1121,6 +1122,7 @@ baekjoon
       [Kotlin] 16진수
       [Kotlin] 1번부터 문제의 상태가
       [Kotlin] 2009년
+      [Kotlin] 2018년을 되돌아보며
       [Kotlin] 24
       [Kotlin] 2진수 뒤집기
       [Kotlin] 3000번 버스
@@ -1246,6 +1248,7 @@ baekjoon
       [Kotlin] 문자가 몇갤까
       [Kotlin] 문자열 분석
       [Kotlin] 바구니 뒤집기
+      [Kotlin] 바구니 순서 바꾸기
       [Kotlin] 박사 과정
       [Kotlin] 방 배정하기
       [Kotlin] 배수들의 합
