@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-25 22:03:19 <br>
+Last Update : 2024-09-26 17:34:43 <br>
 
 
 ```
-2793 Solved
- - Kotlin : 2211
+2794 Solved
+ - Kotlin : 2212
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -1756,6 +1756,7 @@ baekjoon
       [Kotlin] 전투 드로이드 가격
       [Kotlin] 점수계산
       [Kotlin] 접시 안의 원
+      [Kotlin] 젓가락 게임
       [Kotlin] 정육각형과 삼각형
       [Kotlin] 조교는 새디스트야
       [Kotlin] 종이접기
