@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-26 17:34:43 <br>
+Last Update : 2024-09-28 22:12:28 <br>
 
 
 ```
-2794 Solved
- - Kotlin : 2212
+2799 Solved
+ - Kotlin : 2217
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -1055,6 +1055,7 @@ baekjoon
       [Kotlin] 애너그램
       [Kotlin] 약수
       [Kotlin] 약수들의 합
+      [Kotlin] 여우 사인
       [Kotlin] 열 순서
       [Kotlin] 영화 평가
       [Kotlin] 오렌지먹은지오랜지
@@ -1529,6 +1530,7 @@ baekjoon
       [Kotlin] Odd Gnome
       [Kotlin] Olympic Games
       [Kotlin] Overdraft
+      [Kotlin] POT
       [Kotlin] Penalty calculation
       [Kotlin] Pirates
       [Kotlin] Piłeczka
@@ -1551,6 +1553,7 @@ baekjoon
       [Kotlin] Shifty Sum
       [Kotlin] Simple Collatz Sequence
       [Kotlin] Since 1973
+      [Kotlin] Snacks within 300 Yen
       [Kotlin] Some Sum
       [Kotlin] Sort 마스터 배지훈
       [Kotlin] Speed Limit
@@ -1975,6 +1978,7 @@ baekjoon
       [Kotlin] Zagubiona litera
       [Kotlin] Zero or One
       [Kotlin] chino shock
+      [Kotlin] gahui and sousenkyo 1
       [Kotlin] gahui and sousenkyo 3
       [Kotlin] Äpplen och päron
       [Kotlin] Большой удой
@@ -2048,6 +2052,7 @@ baekjoon
       [Kotlin] 상근이의 친구들
       [Kotlin] 샤틀버스
       [Kotlin] 선물
+      [Kotlin] 선택 가능성이 가장 높은 자료형
       [Kotlin] 세수정렬
       [Kotlin] 수찬은 마린보이야!!
       [Kotlin] 수학은 체육과목 입니다 2
