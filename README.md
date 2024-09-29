@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-28 22:12:28 <br>
+Last Update : 2024-09-29 15:31:48 <br>
 
 
 ```
-2799 Solved
- - Kotlin : 2217
+2805 Solved
+ - Kotlin : 2223
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -67,6 +67,7 @@ baekjoon
       [Kotlin] 문명
       [Kotlin] 불 끄기
       [Kotlin] 섬
+      [Kotlin] 숫자의 신
       [Kotlin] 열혈강호
       [Kotlin] 열혈강호 2
       [Kotlin] 영화 수집
@@ -683,6 +684,7 @@ baekjoon
       [Kotlin] 1로 만들기
       [Kotlin] 2×n 타일링
       [Kotlin] 2×n 타일링 2
+      [Kotlin] Binary tree
       [Kotlin] Daisy Chains in the Field
       [Kotlin] Four Squares
       [Kotlin] Java vs C++
@@ -1136,6 +1138,7 @@ baekjoon
       [Kotlin] 8진수, 10진수, 16진수
       [Kotlin] 9진수
       [Kotlin] Adding Reversed Numbers
+      [Kotlin] Affine Cipher
       [Kotlin] Anagram Checker
       [Kotlin] CTP공국으로 이민 가자
       [Kotlin] Carousel Rides
@@ -1477,6 +1480,7 @@ baekjoon
       [Kotlin] Filling Out the Team
       [Kotlin] Flat
       [Kotlin] Flower Festival
+      [Kotlin] Forced Choice
       [Kotlin] Game Show!
       [Kotlin] Gauß
       [Kotlin] Gift
@@ -1520,6 +1524,7 @@ baekjoon
       [Kotlin] Missing Numbers
       [Kotlin] Missing Runners
       [Kotlin] Monety
+      [Kotlin] Monitor DPI
       [Kotlin] More Dice
       [Kotlin] Muffinspelet
       [Kotlin] N M 찍기
@@ -1605,6 +1610,7 @@ baekjoon
       [Kotlin] 次の文字 (Next Character)
       [Kotlin] 点数 (Score)
       [Kotlin] 가뭄(Small)
+      [Kotlin] 가변 배열
       [Kotlin] 가위 바위 보
       [Kotlin] 갈래의 색종이 자르기
       [Kotlin] 개표
