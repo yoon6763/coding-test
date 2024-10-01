@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-09-30 20:51:55 <br>
+Last Update : 2024-10-01 12:43:33 <br>
 
 
 ```
-2806 Solved
- - Kotlin : 2224
+2807 Solved
+ - Kotlin : 2225
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -1872,6 +1872,7 @@ baekjoon
       [Kotlin] Big Number
       [Kotlin] Body Mass Index
       [Kotlin] Boiling Water
+      [Kotlin] Buying in Bulk
       [Kotlin] CASIO
       [Kotlin] Champernowne Verification
       [Kotlin] Checkers
