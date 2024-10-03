@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-02 17:27:23 <br>
+Last Update : 2024-10-03 12:23:24 <br>
 
 
 ```
-2808 Solved
- - Kotlin : 2226
+2809 Solved
+ - Kotlin : 2227
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -1467,6 +1467,7 @@ baekjoon
       [Kotlin] Decoder
       [Kotlin] Digit Count
       [Kotlin] Divisionals Spelling
+      [Kotlin] Divvying Up
       [Kotlin] Dominos
       [Kotlin] Don’t pass me the ball!
       [Kotlin] Double Password
