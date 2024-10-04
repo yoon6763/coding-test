@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-04 12:39:02 <br>
+Last Update : 2024-10-04 15:49:11 <br>
 
 
 ```
-2810 Solved
- - Kotlin : 2228
+2812 Solved
+ - Kotlin : 2230
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -319,6 +319,7 @@ baekjoon
       [Kotlin] 그리드 네트워크
       [Kotlin] 네트워크 연결
       [Kotlin] 녹색 옷 입은 애가 젤다지
+      [Kotlin] 다이어트
       [Kotlin] 도서관
       [Kotlin] 도시 건설
       [Kotlin] 도시 분할 계획
@@ -1868,6 +1869,7 @@ baekjoon
       [Kotlin] Area
       [Kotlin] Atrium
       [Kotlin] Bank Transfer
+      [Kotlin] Basketball One-on-One
       [Kotlin] Betting
       [Kotlin] Betygsättning
       [Kotlin] Bicycle
