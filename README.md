@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-04 15:49:11 <br>
+Last Update : 2024-10-05 16:41:58 <br>
 
 
 ```
-2812 Solved
- - Kotlin : 2230
+2814 Solved
+ - Kotlin : 2232
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -1048,6 +1048,7 @@ baekjoon
       [Kotlin] 스캐너
       [Kotlin] 싸이클
       [Kotlin] 아기 석환 뚜루루 뚜루
+      [Kotlin] 아스키 아트
       [Kotlin] 알고리즘 수업 - 버블 정렬 1
       [Kotlin] 알고리즘 수업 - 선택 정렬 1
       [Kotlin] 알고리즘 수업 - 선택 정렬 2
@@ -1191,6 +1192,7 @@ baekjoon
       [Kotlin] X marks the Spot
       [Kotlin] Zero
       [Kotlin] `첼시를 도와줘`
+      [Kotlin] driip
       [Kotlin] e 계산
       [Kotlin] include Google IO h
       [Kotlin] БОЯДИСВАНЕ НА ОГРАДА
