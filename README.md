@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-05 16:41:58 <br>
+Last Update : 2024-10-06 14:38:23 <br>
 
 
 ```
-2814 Solved
- - Kotlin : 2232
+2815 Solved
+ - Kotlin : 2233
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -414,6 +414,7 @@ baekjoon
       [Kotlin] 공주님을 구해라
       [Kotlin] 괄호 제거
       [Kotlin] 끝나지 않는 파티
+      [Kotlin] 나의 인생에는 수학과 함께
       [Kotlin] 내려가기
       [Kotlin] 노드사이의 거리
       [Kotlin] 농장 관리
