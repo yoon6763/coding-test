@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-06 14:38:23 <br>
+Last Update : 2024-10-07 19:59:13 <br>
 
 
 ```
-2815 Solved
- - Kotlin : 2233
+2816 Solved
+ - Kotlin : 2234
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -1216,6 +1216,7 @@ baekjoon
       [Kotlin] 거리의 합
       [Kotlin] 거스름돈
       [Kotlin] 거울반사
+      [Kotlin] 거울상
       [Kotlin] 고무오리 디버깅
       [Kotlin] 고장난 시계
       [Kotlin] 공간을 만들어 봅시다
