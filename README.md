@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-07 19:59:13 <br>
+Last Update : 2024-10-09 00:06:45 <br>
 
 
 ```
-2816 Solved
- - Kotlin : 2234
+2817 Solved
+ - Kotlin : 2235
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -1903,6 +1903,7 @@ baekjoon
       [Kotlin] Do Not Touch Anything
       [Kotlin] Dog Treats
       [Kotlin] Easy-to-Solve Expressions
+      [Kotlin] Electric Bill
       [Kotlin] Equality
       [Kotlin] Every Second Counts
       [Kotlin] FA
