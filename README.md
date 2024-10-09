@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-09 00:06:45 <br>
+Last Update : 2024-10-09 21:49:27 <br>
 
 
 ```
-2817 Solved
- - Kotlin : 2235
+2818 Solved
+ - Kotlin : 2236
  - Python : 270
  - Java : 150
  - SQL : 88
@@ -1448,6 +1448,7 @@ baekjoon
       [Kotlin] Ahmed Aly
       [Kotlin] Animal King Election
       [Kotlin] Another Cow Number Game
+      [Kotlin] Arm Coordination
       [Kotlin] Attendance
       [Kotlin] Automated Telephone Exchange
       [Kotlin] Average scores
@@ -2298,9 +2299,9 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [JavaScript] A+B
       [Swift] A+B
       [C#] A+B
+      [JavaScript] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
