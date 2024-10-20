@@ -30,7 +30,7 @@ class ReadMeGenerator {
         val path = file.path.split(GeneratorModeHelper.getPathSplitter())
 
         val platformNameList = platforms.map { it.platformName }
-        val platformName = path.find { platformNameList.contains(it) } ?: return
+        val platformName = path.find { it in platformNameList } ?: return
         val platform = platforms.find { it.platformName == platformName } ?: return
 
         platform.addProblem(file.path)
@@ -44,18 +44,19 @@ class ReadMeGenerator {
 
         val now = Calendar.getInstance().apply { add(Calendar.HOUR, 9) }
 
-        content.appendLine("Last Update : ${SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(now.time)} <br>")
-
-        content.appendLine()
-        content.appendLine()
-        content.appendLine("```")
+        content
+            .appendLine("Last Update : ${SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(now.time)} <br>")
+            .appendLine()
+            .appendLine()
+            .appendLine("```")
 
         stackEachLanguageSize(content)
 
         platforms.forEach { platform -> content.append(platform.generateReadmeContent()) }
 
-        content.appendLine()
-        content.appendLine("```")
+        content
+            .appendLine()
+            .appendLine("```")
 
         return content.toString()
     }
