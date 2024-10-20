@@ -26,7 +26,7 @@ object Config {
         "adb" to "Ada",
         "text" to "Text",
         "rs" to "Rust",
-        "swift" to "Swift"
+        "swift" to "Swift",
         "go" to "Go",
     )
 
