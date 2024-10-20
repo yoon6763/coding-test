@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-11 22:33:49 <br>
+Last Update : 2024-10-20 22:24:29 <br>
 
 
 ```
-2820 Solved
- - Kotlin : 2238
- - Python : 270
+2828 Solved
+ - Kotlin : 2242
+ - Python : 274
  - Java : 150
  - SQL : 88
  - C : 23
@@ -1090,6 +1090,7 @@ baekjoon
       [Kotlin] 콘도 선정
       [Kotlin] 크로스워드 만들기
       [Kotlin] 택시 거리
+      [Kotlin] 팀 이름 정하기
       [Kotlin] 팰린드롬수
       [Kotlin] 평균은 넘겠지
       [Kotlin] 피보나치 수
@@ -1244,6 +1245,7 @@ baekjoon
       [Kotlin] 대표값2
       [Kotlin] 대회 자리
       [Kotlin] 더하기
+      [Kotlin] 도깨비말
       [Kotlin] 도비의 영어 공부
       [Kotlin] 동혁 피자
       [Kotlin] 럭키 스트레이트
@@ -1404,6 +1406,7 @@ baekjoon
       [Python] 저금
       [Python] 정수 N개의 합
       [Python] 주사위 게임
+      [Python] 책 정리
       [Python] 캔디 구매
       [Java] 간지干支
       [Java] 단어의 개수
@@ -1648,6 +1651,7 @@ baekjoon
       [Kotlin] 공 넣기
       [Kotlin] 공 바꾸기
       [Kotlin] 과 조사하기
+      [Kotlin] 괄호 없는 사칙연산
       [Kotlin] 괴짜 교수
       [Kotlin] 그대로 출력하기 2
       [Kotlin] 길면 기차, 기차는 빨라, 빠른 것은 비행기
@@ -1840,6 +1844,7 @@ baekjoon
       [Python] 네 번째 점
       [Python] 사격 내기
       [Python] 열 개씩 끊어 출력하기
+      [Python] 주식 투자
       [Python] 직각삼각형
       [Python] 직사각형에서 탈출
       [Python] 최댓값
@@ -2083,6 +2088,7 @@ baekjoon
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 2
       [Kotlin] 알파벳 개수
       [Kotlin] 양말 짝 맞추기
+      [Kotlin] 양파 실험
       [Kotlin] 엘리스 트랙 매칭
       [Kotlin] 연세대학교
       [Kotlin] 와글와글 숭고한
@@ -2130,6 +2136,7 @@ baekjoon
       [Kotlin] 호반우가 학교에 지각한 이유 1
       [Kotlin] 히스토그램
       [Python] 27110
+      [Python] 바코드 닉네임
       [Python] 별 찍기 - 2
       [Python] 빠른 A+B
       [Python] 숫자의 합
@@ -2266,6 +2273,7 @@ baekjoon
       [Python] Pups
       [Python] 검증수
       [Python] 긴자리 계산
+      [Python] 사랑은 고려대입니다
       [Python] 알파벳 찾기
       [Python] 엄청난 부자2
       [Python] 큰 수 (BIG)
