@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-20 22:33:43 <br>
+Last Update : 2024-10-21 22:58:39 <br>
 
 
 ```
-2828 Solved
- - Kotlin : 2242
+2829 Solved
+ - Kotlin : 2243
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1662,6 +1662,7 @@ baekjoon
       [Kotlin] 내 학점을 구해줘
       [Kotlin] 네 번째 수
       [Kotlin] 네 수
+      [Kotlin] 노 땡스!
       [Kotlin] 노솔브 방지문제야!!
       [Kotlin] 다음수
       [Kotlin] 대지
