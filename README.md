@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-21 22:58:39 <br>
+Last Update : 2024-10-21 23:44:13 <br>
 
 
 ```
-2829 Solved
- - Kotlin : 2243
+2833 Solved
+ - Kotlin : 2247
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1212,6 +1212,7 @@ baekjoon
       [Kotlin] 가장 많은 글자
       [Kotlin] 가장 쉬운 문제를 찾는 문제
       [Kotlin] 감정이입
+      [Kotlin] 강력한 비밀번호
       [Kotlin] 개미
       [Kotlin] 거꾸로 구구단
       [Kotlin] 거리의 합
@@ -1282,6 +1283,7 @@ baekjoon
       [Kotlin] 수 이어 쓰기 3
       [Kotlin] 수빈이와 수열
       [Kotlin] 수학은 비대면강의입니다
+      [Kotlin] 순서쌍
       [Kotlin] 숫자
       [Kotlin] 숫자 놀이
       [Kotlin] 숫자 카드놀이
@@ -1474,6 +1476,7 @@ baekjoon
       [Kotlin] Culture shock
       [Kotlin] Death Knight Hero
       [Kotlin] Decoder
+      [Kotlin] Deficient, Perfect, and Abundant
       [Kotlin] Digit Count
       [Kotlin] Divisionals Spelling
       [Kotlin] Divvying Up
@@ -1732,6 +1735,7 @@ baekjoon
       [Kotlin] 소수가 아닌 수
       [Kotlin] 소음
       [Kotlin] 수도요금
+      [Kotlin] 수박 게임
       [Kotlin] 수학적 호기심
       [Kotlin] 숫자 맞추기 게임
       [Kotlin] 스케이트보드
