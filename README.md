@@ -14,11 +14,11 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-23 20:56:27 <br>
+Last Update : 2024-10-23 21:01:39 <br>
 
 
 ```
-2838 Solved
+2839 Solved
  - Kotlin : 2252
  - Python : 274
  - Java : 150
@@ -30,6 +30,7 @@ Last Update : 2024-10-23 20:56:27 <br>
  - Text : 5
  - C# : 5
  - Rust : 1
+ - Go : 1
  - Fortran : 1
  - Algol68 : 1
  - Swift : 1
@@ -1430,6 +1431,7 @@ baekjoon
       [C++] Happy Number
       [C++] 분산처리
       [C++] 지수연산
+      [Go] 운동
     b3
       [Kotlin] 1 = cute
       [Kotlin] 10103 주사위 게임
