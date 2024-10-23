@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-22 22:40:13 <br>
+Last Update : 2024-10-23 20:56:27 <br>
 
 
 ```
-2834 Solved
- - Kotlin : 2248
+2838 Solved
+ - Kotlin : 2252
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -977,6 +977,7 @@ baekjoon
       [Kotlin] Go Latin
       [Kotlin] ISBN
       [Kotlin] MINESWEEPER
+      [Kotlin] Meats On The Grill
       [Kotlin] N-퍼즐
       [Kotlin] Nine Knights
       [Kotlin] No Duplicates
@@ -1065,6 +1066,7 @@ baekjoon
       [Kotlin] 영화 평가
       [Kotlin] 오렌지먹은지오랜지
       [Kotlin] 오르막길
+      [Kotlin] 원의 분할
       [Kotlin] 유니대전 퀴즈쇼
       [Kotlin] 유니크
       [Kotlin] 유레카 이론
@@ -1188,6 +1190,7 @@ baekjoon
       [Kotlin] String
       [Kotlin] Stół
       [Kotlin] TV 크기
+      [Kotlin] Tautogram
       [Kotlin] The Cow-Signal
       [Kotlin] Union Maplestory
       [Kotlin] Words
@@ -1583,6 +1586,7 @@ baekjoon
       [Kotlin] Stopki
       [Kotlin] Stopwatch
       [Kotlin] Sum of Odd Sequence
+      [Kotlin] Sums
       [Kotlin] TGN
       [Kotlin] Tawla
       [Kotlin] Tax
