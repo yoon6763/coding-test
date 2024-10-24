@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-23 21:01:39 <br>
+Last Update : 2024-10-24 23:58:29 <br>
 
 
 ```
-2839 Solved
- - Kotlin : 2252
+2840 Solved
+ - Kotlin : 2253
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1456,6 +1456,7 @@ baekjoon
       [Kotlin] Academic Distance
       [Kotlin] Adding Commas
       [Kotlin] Ahmed Aly
+      [Kotlin] Alex Origami Squares
       [Kotlin] Animal King Election
       [Kotlin] Another Cow Number Game
       [Kotlin] Arm Coordination
