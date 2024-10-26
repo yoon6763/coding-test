@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-24 23:58:29 <br>
+Last Update : 2024-10-26 23:14:05 <br>
 
 
 ```
-2840 Solved
- - Kotlin : 2253
+2842 Solved
+ - Kotlin : 2255
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1457,6 +1457,7 @@ baekjoon
       [Kotlin] Adding Commas
       [Kotlin] Ahmed Aly
       [Kotlin] Alex Origami Squares
+      [Kotlin] Always Follow the Rules in Zombieland
       [Kotlin] Animal King Election
       [Kotlin] Another Cow Number Game
       [Kotlin] Arm Coordination
@@ -2059,6 +2060,7 @@ baekjoon
       [Kotlin] 金平糖 (Konpeito)
       [Kotlin] 鉛筆 (Pencils)
       [Kotlin] 가희와 방어율 무시
+      [Kotlin] 가희와 클럽 오디션 1
       [Kotlin] 감마선을 맞은 컴퓨터
       [Kotlin] 강당 대란
       [Kotlin] 개표
