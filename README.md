@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-26 23:14:05 <br>
+Last Update : 2024-10-27 13:41:50 <br>
 
 
 ```
-2842 Solved
- - Kotlin : 2255
+2843 Solved
+ - Kotlin : 2256
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1230,6 +1230,7 @@ baekjoon
       [Kotlin] 공약수
       [Kotlin] 관리자는 누구
       [Kotlin] 그릇
+      [Kotlin] 근우의 다이어리 꾸미기
       [Kotlin] 기념일 1
       [Kotlin] 기숙사 바닥
       [Kotlin] 꿍 가라사대
