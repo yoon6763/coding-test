@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-27 13:41:50 <br>
+Last Update : 2024-10-28 22:44:24 <br>
 
 
 ```
-2843 Solved
- - Kotlin : 2256
+2844 Solved
+ - Kotlin : 2257
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1386,6 +1386,7 @@ baekjoon
       [Kotlin] 팰린드롬
       [Kotlin] 팰린드롬인지 확인하기
       [Kotlin] 펫
+      [Kotlin] 포인트 카드
       [Kotlin] 폭죽쇼
       [Kotlin] 피로도
       [Kotlin] 피시방 알바
