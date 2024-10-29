@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-28 22:44:24 <br>
+Last Update : 2024-10-29 22:49:07 <br>
 
 
 ```
-2844 Solved
- - Kotlin : 2257
+2845 Solved
+ - Kotlin : 2258
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1833,6 +1833,7 @@ baekjoon
       [Kotlin] 쿠키애호가
       [Kotlin] 쿠폰
       [Kotlin] 크림빵
+      [Kotlin] 타슈
       [Kotlin] 터널의 입구와 출구
       [Kotlin] 통학의 신
       [Kotlin] 특정 대문자를 소문자로 바꾸기
