@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-29 22:49:07 <br>
+Last Update : 2024-10-30 23:29:43 <br>
 
 
 ```
-2845 Solved
- - Kotlin : 2258
+2846 Solved
+ - Kotlin : 2259
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1936,6 +1936,7 @@ baekjoon
       [Kotlin] Fill the Rowboats!
       [Kotlin] Final Price
       [Kotlin] Find the Twins
+      [Kotlin] Fold the Paper Nicely
       [Kotlin] Football Team
       [Kotlin] Gahui and Soongsil University station
       [Kotlin] Gnome Sequencing
