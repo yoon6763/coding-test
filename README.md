@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-10-31 23:23:30 <br>
+Last Update : 2024-11-02 15:28:49 <br>
 
 
 ```
-2847 Solved
- - Kotlin : 2260
+2849 Solved
+ - Kotlin : 2262
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -309,6 +309,7 @@ baekjoon
       [Kotlin] RGB거리 2
       [Kotlin] Σ
       [Kotlin] ⚾
+      [Kotlin] 가르침
       [Kotlin] 가장 가까운 공통 조상
       [Kotlin] 가장 긴 바이토닉 부분 수열
       [Kotlin] 가장 큰 정사각형
@@ -1680,6 +1681,7 @@ baekjoon
       [Kotlin] 노 땡스!
       [Kotlin] 노솔브 방지문제야!!
       [Kotlin] 다음수
+      [Kotlin] 단원평가
       [Kotlin] 대지
       [Kotlin] 대회 or 인턴
       [Kotlin] 더하기
