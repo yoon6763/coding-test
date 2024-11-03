@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-02 15:28:49 <br>
+Last Update : 2024-11-03 18:25:56 <br>
 
 
 ```
-2849 Solved
- - Kotlin : 2262
+2850 Solved
+ - Kotlin : 2263
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1894,6 +1894,7 @@ baekjoon
       [Kotlin] Acres
       [Kotlin] Advance to Taoyuan Regional
       [Kotlin] Affischutskicket
+      [Kotlin] Amusement Park Adventure
       [Kotlin] Andando no tempo
       [Kotlin] Another Eruption
       [Kotlin] Archivist
