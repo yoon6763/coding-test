@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-03 18:25:56 <br>
+Last Update : 2024-11-04 23:46:32 <br>
 
 
 ```
-2850 Solved
- - Kotlin : 2263
+2851 Solved
+ - Kotlin : 2264
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1760,6 +1760,7 @@ baekjoon
       [Kotlin] 신기한 수
       [Kotlin] 쌍의 합
       [Kotlin] 아이 러브 크로아티아
+      [Kotlin] 아이그루스와 화장실
       [Kotlin] 아이들은 사탕을 좋아해
       [Kotlin] 악마의 제안
       [Kotlin] 안녕 클레오파트라 세상에서 제일가는 포테이토칩
