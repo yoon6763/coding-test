@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-06 22:47:59 <br>
+Last Update : 2024-11-07 20:59:08 <br>
 
 
 ```
-2853 Solved
- - Kotlin : 2266
+2854 Solved
+ - Kotlin : 2267
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1963,6 +1963,7 @@ baekjoon
       [Kotlin] Identifying tea
       [Kotlin] Is Y a Vowel
       [Kotlin] Judging Moose
+      [Kotlin] Jumbled Scoreboards
       [Kotlin] Koszykarz
       [Kotlin] Kuber
       [Kotlin] Laptop Sticker
