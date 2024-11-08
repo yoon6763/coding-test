@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-07 20:59:08 <br>
+Last Update : 2024-11-08 23:07:22 <br>
 
 
 ```
-2854 Solved
- - Kotlin : 2267
+2855 Solved
+ - Kotlin : 2268
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1470,6 +1470,7 @@ baekjoon
       [Kotlin] Automated Telephone Exchange
       [Kotlin] Average scores
       [Kotlin] Baby Bites
+      [Kotlin] Backward numbers
       [Kotlin] Baseball
       [Kotlin] Baskets of Gold Coins
       [Kotlin] Bałwanek
