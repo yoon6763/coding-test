@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-08 23:07:22 <br>
+Last Update : 2024-11-09 16:16:48 <br>
 
 
 ```
-2855 Solved
- - Kotlin : 2268
+2856 Solved
+ - Kotlin : 2269
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1323,6 +1323,7 @@ baekjoon
       [Kotlin] 우리 집 밑에 편의점이 있는데
       [Kotlin] 욱제는 효도쟁이야
       [Kotlin] 운동
+      [Kotlin] 울타리 공사
       [Kotlin] 원피스
       [Kotlin] 유학 금지
       [Kotlin] 이상한 곱셈
