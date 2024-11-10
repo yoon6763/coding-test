@@ -6,10 +6,9 @@
 백준 아이디 - yoon6763 <br>
 [Backjoon ] Profile - https://www.acmicpc.net/user/yoon6763 <br>
 [Solved.ac] Profile - https://solved.ac/profile/yoon6763 <br>
--  백준 문제 출제자 자격 B / 검수자 자격 보유
+백준 문제 출제자 자격 B / 검수자 자격 보유 <br>
 <br>  
   [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoon6763)](https://solved.ac/yoon6763)
-
 </br>
 <br>
 <br>
