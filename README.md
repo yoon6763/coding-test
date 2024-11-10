@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-10 15:15:04 <br>
+Last Update : 2024-11-10 16:43:08 <br>
 
 
 ```
-2856 Solved
- - Kotlin : 2269
+2858 Solved
+ - Kotlin : 2271
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -61,6 +61,7 @@ baekjoon
       [Java] 물류창고
     p4
       [Kotlin] K번째 최단경로 찾기
+      [Kotlin] MooTube (Gold)
       [Kotlin] 노트북의 주인을 찾아서
       [Kotlin] 단절점
       [Kotlin] 도시 왕복하기 1
@@ -407,6 +408,7 @@ baekjoon
       [Kotlin] CCW
       [Kotlin] Fly me to the Alpha Centauri
       [Kotlin] LCS
+      [Kotlin] MooTube (Silver)
       [Kotlin] 간선 이어가기 2
       [Kotlin] 감소하는 수
       [Kotlin] 강의실
