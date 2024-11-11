@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-10 16:43:08 <br>
+Last Update : 2024-11-11 23:11:47 <br>
 
 
 ```
-2858 Solved
- - Kotlin : 2271
+2859 Solved
+ - Kotlin : 2272
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1707,6 +1707,7 @@ baekjoon
       [Kotlin] 모음의 개수
       [Kotlin] 모험의 시작
       [Kotlin] 문문문
+      [Kotlin] 문자열을 만들어요
       [Kotlin] 미국 스타일
       [Kotlin] 받아올림
       [Kotlin] 방어력 무시 계산하기
