@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-12 22:34:23 <br>
+Last Update : 2024-11-13 22:32:20 <br>
 
 
 ```
-2860 Solved
- - Kotlin : 2273
+2861 Solved
+ - Kotlin : 2274
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1540,6 +1540,7 @@ baekjoon
       [Kotlin] Jumbled Compass
       [Kotlin] Just A Minim
       [Kotlin] J박스
+      [Kotlin] Kathmandu
       [Kotlin] Kick
       [Kotlin] Koncert
       [Kotlin] Kortos
