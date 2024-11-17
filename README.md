@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-16 13:36:40 <br>
+Last Update : 2024-11-17 17:39:10 <br>
 
 
 ```
-2864 Solved
- - Kotlin : 2277
+2865 Solved
+ - Kotlin : 2278
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -779,6 +779,7 @@ baekjoon
       [Kotlin] 2+1 세일
       [Kotlin] 30
       [Kotlin] ATM
+      [Kotlin] Bookshelf 2
       [Kotlin] Bucket Brigade
       [Kotlin] Emacs
       [Kotlin] GCD 합
