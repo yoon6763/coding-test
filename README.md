@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-13 22:32:20 <br>
+Last Update : 2024-11-17 17:39:10 <br>
 
 
 ```
-2861 Solved
- - Kotlin : 2274
+2865 Solved
+ - Kotlin : 2278
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -344,6 +344,7 @@ baekjoon
       [Kotlin] 뱀
       [Kotlin] 별 찍기 11
       [Kotlin] 부분합
+      [Kotlin] 북쪽나라의 도로
       [Kotlin] 불
       [Kotlin] 불!
       [Kotlin] 빙산
@@ -360,6 +361,7 @@ baekjoon
       [Kotlin] 스도쿠2580
       [Kotlin] 알고스팟
       [Kotlin] 알파벳
+      [Kotlin] 여행
       [Kotlin] 여행 가자
       [Kotlin] 연구소
       [Kotlin] 연구소 2
@@ -777,6 +779,7 @@ baekjoon
       [Kotlin] 2+1 세일
       [Kotlin] 30
       [Kotlin] ATM
+      [Kotlin] Bookshelf 2
       [Kotlin] Bucket Brigade
       [Kotlin] Emacs
       [Kotlin] GCD 합
@@ -1520,6 +1523,7 @@ baekjoon
       [Kotlin] Greetings!
       [Kotlin] HI-ARC
       [Kotlin] Handebol
+      [Kotlin] Hangover
       [Kotlin] Haughty Cuisine
       [Kotlin] Hawk eyes
       [Kotlin] Head or Tail
