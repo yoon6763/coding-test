@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-17 17:39:10 <br>
+Last Update : 2024-11-18 23:33:47 <br>
 
 
 ```
-2865 Solved
- - Kotlin : 2278
+2867 Solved
+ - Kotlin : 2280
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1170,6 +1170,7 @@ baekjoon
       [Kotlin] ICPC Score Totalizer Software
       [Kotlin] Imiona mrówek
       [Kotlin] Is It Even
+      [Kotlin] Is it a Number
       [Kotlin] JOI ソート (JOI Sort)
       [Kotlin] JOI와 IOI
       [Kotlin] Java Bitecode
@@ -1610,6 +1611,7 @@ baekjoon
       [Kotlin] Tawla
       [Kotlin] Tax
       [Kotlin] Teleportation
+      [Kotlin] The King
       [Kotlin] Transactions
       [Kotlin] Trident
       [Kotlin] UOSPC 세기
