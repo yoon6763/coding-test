@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-18 23:33:47 <br>
+Last Update : 2024-11-19 22:19:36 <br>
 
 
 ```
-2867 Solved
- - Kotlin : 2280
+2868 Solved
+ - Kotlin : 2281
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1260,6 +1260,7 @@ baekjoon
       [Kotlin] 더하기
       [Kotlin] 도깨비말
       [Kotlin] 도비의 영어 공부
+      [Kotlin] 동아리비 횡령
       [Kotlin] 동혁 피자
       [Kotlin] 럭키 스트레이트
       [Kotlin] 막대기
