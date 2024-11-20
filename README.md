@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-19 22:19:36 <br>
+Last Update : 2024-11-20 21:46:23 <br>
 
 
 ```
-2868 Solved
- - Kotlin : 2281
+2869 Solved
+ - Kotlin : 2282
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1708,6 +1708,7 @@ baekjoon
       [Kotlin] 등장하지 않는 문자의 합
       [Kotlin] 등차수열에서 항 번호 찾기
       [Kotlin] 디지털 루트
+      [Kotlin] 레몬 따기
       [Kotlin] 루트
       [Kotlin] 리본 (Easy)
       [Kotlin] 맞았는데 왜 틀리죠
