@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-21 22:50:36 <br>
+Last Update : 2024-11-23 14:00:30 <br>
 
 
 ```
-2870 Solved
- - Kotlin : 2283
+2871 Solved
+ - Kotlin : 2284
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -357,6 +357,7 @@ baekjoon
       [Kotlin] 수 묶기
       [Kotlin] 숨바꼭질 2
       [Kotlin] 숨바꼭질 4
+      [Kotlin] 스-스-스도쿠
       [Kotlin] 스도쿠2239
       [Kotlin] 스도쿠2580
       [Kotlin] 알고스팟
