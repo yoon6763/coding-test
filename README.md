@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-24 14:11:40 <br>
+Last Update : 2024-11-25 22:57:21 <br>
 
 
 ```
-2872 Solved
- - Kotlin : 2285
+2873 Solved
+ - Kotlin : 2286
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1477,6 +1477,7 @@ baekjoon
       [Kotlin] Animal King Election
       [Kotlin] Another Cow Number Game
       [Kotlin] Arm Coordination
+      [Kotlin] Aron
       [Kotlin] Attendance
       [Kotlin] Automated Telephone Exchange
       [Kotlin] Average scores
