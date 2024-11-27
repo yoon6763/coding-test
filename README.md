@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-26 23:21:40 <br>
+Last Update : 2024-11-27 22:44:50 <br>
 
 
 ```
-2874 Solved
- - Kotlin : 2287
+2875 Solved
+ - Kotlin : 2288
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1494,6 +1494,7 @@ baekjoon
       [Kotlin] Broken Calculator
       [Kotlin] Buffoon
       [Kotlin] Cabin Baggage
+      [Kotlin] Cakes
       [Kotlin] Canadians, eh
       [Kotlin] Chessboard
       [Kotlin] Coffee Cup Combo
