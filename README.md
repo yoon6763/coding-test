@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-28 22:14:54 <br>
+Last Update : 2024-11-28 23:03:13 <br>
 
 
 ```
-2876 Solved
- - Kotlin : 2289
+2877 Solved
+ - Kotlin : 2290
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1872,6 +1872,7 @@ baekjoon
       [Kotlin] 평균 중앙값 문제
       [Kotlin] 폰 노이만
       [Kotlin] 플러그
+      [Kotlin] 피드백
       [Kotlin] 핑크빈 레이드
       [Kotlin] 한다 안한다
       [Kotlin] 할로윈의 사탕
