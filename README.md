@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-28 23:03:13 <br>
+Last Update : 2024-11-29 23:06:11 <br>
 
 
 ```
-2877 Solved
- - Kotlin : 2290
+2878 Solved
+ - Kotlin : 2291
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2144,6 +2144,7 @@ baekjoon
       [Kotlin] 욱 제
       [Kotlin] 이 대회는 이제 제 겁니다
       [Kotlin] 이칙연산
+      [Kotlin] 인간은 무엇인가
       [Kotlin] 인공지능 시계
       [Kotlin] 임스의 메이플컵
       [Kotlin] 입실 관리
