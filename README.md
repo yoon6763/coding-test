@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-11-29 23:06:11 <br>
+Last Update : 2024-11-30 13:35:26 <br>
 
 
 ```
-2878 Solved
- - Kotlin : 2291
+2879 Solved
+ - Kotlin : 2292
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -414,6 +414,7 @@ baekjoon
       [Kotlin] MooTube (Silver)
       [Kotlin] 간선 이어가기 2
       [Kotlin] 감소하는 수
+      [Kotlin] 감시 피하기
       [Kotlin] 강의실
       [Kotlin] 강의실 배정
       [Kotlin] 경쟁적 전염
