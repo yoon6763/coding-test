@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-01 22:50:58 <br>
+Last Update : 2024-12-02 22:51:07 <br>
 
 
 ```
-2880 Solved
- - Kotlin : 2293
+2881 Solved
+ - Kotlin : 2294
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1474,6 +1474,7 @@ baekjoon
       [Kotlin] Adding Commas
       [Kotlin] Ahmed Aly
       [Kotlin] Alex Origami Squares
+      [Kotlin] Alien
       [Kotlin] Always Follow the Rules in Zombieland
       [Kotlin] Angles
       [Kotlin] Animal King Election
