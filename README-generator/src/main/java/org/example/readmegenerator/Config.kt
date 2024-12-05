@@ -28,6 +28,7 @@ object Config {
         "rs" to "Rust",
         "swift" to "Swift",
         "go" to "Go",
+        "aheui" to "아희",
     )
 
     val supportPlatformList = listOf<Platform>(
