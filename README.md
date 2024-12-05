@@ -14,11 +14,11 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-05 23:01:34 <br>
+Last Update : 2024-12-05 23:33:05 <br>
 
 
 ```
-2884 Solved
+2885 Solved
  - Kotlin : 2297
  - Python : 274
  - Java : 150
@@ -33,6 +33,7 @@ Last Update : 2024-12-05 23:01:34 <br>
  - Go : 1
  - Fortran : 1
  - Algol68 : 1
+ - 아희 : 1
  - Swift : 1
  - Visual Basic : 1
  - Ada : 1
@@ -2366,6 +2367,7 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
+      [아희] A+B
       [Swift] A+B
       [C#] A+B
       [JavaScript] A+B
