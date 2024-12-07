@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-05 23:33:05 <br>
+Last Update : 2024-12-07 15:25:27 <br>
 
 
 ```
-2885 Solved
- - Kotlin : 2297
+2889 Solved
+ - Kotlin : 2301
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -254,6 +254,7 @@ baekjoon
       [Kotlin] 말이 되고픈 원숭이
       [Kotlin] 모양 만들기
       [Kotlin] 무엇을 아느냐가 아니라 누구를 아느냐가 문제다
+      [Kotlin] 문자판
       [Kotlin] 미로 탈출하기
       [Kotlin] 벽 부수고 이동하기
       [Kotlin] 벽 부수고 이동하기 2
@@ -309,6 +310,7 @@ baekjoon
       [Kotlin] N으로 만들기
       [Kotlin] Puyo Puyo
       [Kotlin] RGB거리 2
+      [Kotlin] Yes or yes
       [Kotlin] Σ
       [Kotlin] ⚾
       [Kotlin] 가르침
@@ -341,6 +343,7 @@ baekjoon
       [Kotlin] 미세먼지 안녕!
       [Kotlin] 미친 로봇
       [Kotlin] 민서의 응급 수술
+      [Kotlin] 민준이와 마산 그리고 건우
       [Kotlin] 민트 초코
       [Kotlin] 뱀
       [Kotlin] 별 찍기 11
@@ -363,6 +366,7 @@ baekjoon
       [Kotlin] 스도쿠2580
       [Kotlin] 알고스팟
       [Kotlin] 알파벳
+      [Kotlin] 암벽 등반
       [Kotlin] 여행
       [Kotlin] 여행 가자
       [Kotlin] 연구소
