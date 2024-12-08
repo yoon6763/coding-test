@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-07 15:25:27 <br>
+Last Update : 2024-12-08 18:26:39 <br>
 
 
 ```
-2889 Solved
- - Kotlin : 2301
+2890 Solved
+ - Kotlin : 2302
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1733,6 +1733,7 @@ baekjoon
       [Kotlin] 명장 남정훈
       [Kotlin] 모음의 개수
       [Kotlin] 모험의 시작
+      [Kotlin] 모형결정
       [Kotlin] 문문문
       [Kotlin] 문자열을 만들어요
       [Kotlin] 미국 스타일
