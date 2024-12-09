@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-08 18:26:39 <br>
+Last Update : 2024-12-09 23:45:02 <br>
 
 
 ```
-2890 Solved
- - Kotlin : 2302
+2891 Solved
+ - Kotlin : 2303
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1854,6 +1854,7 @@ baekjoon
       [Kotlin] 질투진서
       [Kotlin] 집 주소
       [Kotlin] 짝수를 찾아라
+      [Kotlin] 찬물 샤워
       [Kotlin] 찬반투표
       [Kotlin] 창용이의 시계
       [Kotlin] 첨탑 밀어서 부수기
