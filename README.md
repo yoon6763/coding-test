@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-09 23:45:02 <br>
+Last Update : 2024-12-10 22:34:55 <br>
 
 
 ```
-2891 Solved
- - Kotlin : 2303
+2893 Solved
+ - Kotlin : 2305
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -442,6 +442,7 @@ baekjoon
       [Kotlin] 마법사 상어와 비바라기
       [Kotlin] 맥주 마시면서 걸어가기
       [Kotlin] 물통
+      [Kotlin] 방탈출
       [Kotlin] 배
       [Kotlin] 백도어
       [Kotlin] 뱀과 사다리 게임
@@ -1657,6 +1658,7 @@ baekjoon
       [Kotlin] Клавиатура
       [Kotlin] Класс
       [Kotlin] Космический корабль
+      [Kotlin] МЕД
       [Kotlin] Монетки
       [Kotlin] Пары
       [Kotlin] Различные квадраты
