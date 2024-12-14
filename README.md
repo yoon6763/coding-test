@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-12 23:58:53 <br>
+Last Update : 2024-12-14 20:41:53 <br>
 
 
 ```
-2895 Solved
- - Kotlin : 2307
+2897 Solved
+ - Kotlin : 2309
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1093,6 +1093,7 @@ baekjoon
       [Kotlin] 인생은 한 방
       [Kotlin] 일곱 난쟁이
       [Kotlin] 적어도 대부분의 배수
+      [Kotlin] 전화 요금
       [Kotlin] 접두사 배열
       [Kotlin] 제자리
       [Kotlin] 주디와 당근농장
@@ -2281,6 +2282,7 @@ baekjoon
       [Kotlin] 身長 (Height)
       [Kotlin] 長方形 (Rectangle)
       [Kotlin] 飴の袋詰め (Drops Packing)
+      [Kotlin] 가희와 4시간의 벽 1
       [Kotlin] 개수 세기
       [Kotlin] 고려대는 사랑입니다
       [Kotlin] 과제 안 내신 분
