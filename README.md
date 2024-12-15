@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-14 20:41:53 <br>
+Last Update : 2024-12-15 14:16:42 <br>
 
 
 ```
-2897 Solved
- - Kotlin : 2309
+2898 Solved
+ - Kotlin : 2310
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1354,6 +1354,7 @@ baekjoon
       [Kotlin] 이진수 합
       [Kotlin] 인생 점수
       [Kotlin] 자기복제수
+      [Kotlin] 자석 체인
       [Kotlin] 자작나무가 없소~
       [Kotlin] 재귀의 귀재
       [Kotlin] 저항
