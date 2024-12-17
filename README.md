@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-16 22:37:06 <br>
+Last Update : 2024-12-17 22:44:36 <br>
 
 
 ```
-2899 Solved
- - Kotlin : 2311
+2900 Solved
+ - Kotlin : 2312
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1163,6 +1163,7 @@ baekjoon
       [Kotlin] Affine Cipher
       [Kotlin] Anagram Checker
       [Kotlin] CTP공국으로 이민 가자
+      [Kotlin] Caesar Cipher
       [Kotlin] Carousel Rides
       [Kotlin] Centauri Prime (Small1)
       [Kotlin] Check Digits
