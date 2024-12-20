@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-18 23:15:38 <br>
+Last Update : 2024-12-20 13:26:36 <br>
 
 
 ```
-2901 Solved
- - Kotlin : 2313
+2903 Solved
+ - Kotlin : 2315
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1650,6 +1650,7 @@ baekjoon
       [Kotlin] Window on the Wall
       [Kotlin] Word Searching
       [Kotlin] Wykreślanka
+      [Kotlin] ZAMKA
       [Kotlin] ZOAC 4
       [Kotlin] ZOAC 5
       [Kotlin] Zegarek
@@ -1769,6 +1770,7 @@ baekjoon
       [Kotlin] 브실혜성
       [Kotlin] 빅데이터 vs 정보보호 vs 인공지능
       [Kotlin] 빅데이터 정보보호
+      [Kotlin] 빙고 막기
       [Kotlin] 사과
       [Kotlin] 사나운 개
       [Kotlin] 사분면
