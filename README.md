@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-20 13:26:36 <br>
+Last Update : 2024-12-21 21:48:02 <br>
 
 
 ```
-2903 Solved
- - Kotlin : 2315
+2904 Solved
+ - Kotlin : 2316
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -357,6 +357,7 @@ baekjoon
       [Kotlin] 샘터
       [Kotlin] 서강그라운드
       [Kotlin] 세부
+      [Kotlin] 소년 점프
       [Kotlin] 소수 경로
       [Kotlin] 수 묶기
       [Kotlin] 숨바꼭질 2
