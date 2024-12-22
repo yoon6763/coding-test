@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-21 21:48:02 <br>
+Last Update : 2024-12-22 23:42:46 <br>
 
 
 ```
-2904 Solved
- - Kotlin : 2316
+2905 Solved
+ - Kotlin : 2317
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1389,6 +1389,7 @@ baekjoon
       [Kotlin] 친구
       [Kotlin] 카드 역배치
       [Kotlin] 카드게임
+      [Kotlin] 카드놀이
       [Kotlin] 카카오뷰 큐레이팅 효용성 분석
       [Kotlin] 커맨드
       [Kotlin] 커트라인
