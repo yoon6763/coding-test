@@ -6,6 +6,7 @@ fun main() {
     val i = { readln().split(" ").map { it.toInt() } }
     val a = i.invoke()
     val b = i.invoke()
+
     if (a == b) {
         println("10 10")
         println("D")
@@ -17,7 +18,7 @@ fun main() {
                 else -> A(1, 1, 'D')
             }
         }.reduce { acc, score ->
-            A(acc.a * 2, acc.b * 2, if (score.c != 'D') score.c else acc.c)
+            A(acc.a + score.a, acc.b + score.b, if (score.c != 'D') score.c else acc.c)
         }
 
         println("$aScore $bScore")
