@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-22 23:54:23 <br>
+Last Update : 2024-12-23 21:28:36 <br>
 
 
 ```
-2905 Solved
- - Kotlin : 2317
+2906 Solved
+ - Kotlin : 2318
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1829,6 +1829,7 @@ baekjoon
       [Kotlin] 오버플로우와 모듈러
       [Kotlin] 오븐 시계
       [Kotlin] 온데간데없을뿐더러
+      [Kotlin] 와우와 쿼리
       [Kotlin] 완전 세제곱
       [Kotlin] 완전 제곱수
       [Kotlin] 우유 축제
