@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-23 21:28:36 <br>
+Last Update : 2024-12-24 23:01:42 <br>
 
 
 ```
-2906 Solved
- - Kotlin : 2318
+2907 Solved
+ - Kotlin : 2319
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2231,6 +2231,7 @@ baekjoon
       [Kotlin] 2033년 밈 투표
       [Kotlin] A+B
       [Kotlin] A+B - 9
+      [Kotlin] AI 선도대학
       [Kotlin] Adding Trouble
       [Kotlin] An Easy-Peasy Problem
       [Kotlin] Arno's Sleep Schedule
