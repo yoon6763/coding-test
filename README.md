@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-25 13:12:00 <br>
+Last Update : 2024-12-26 22:49:55 <br>
 
 
 ```
-2908 Solved
- - Kotlin : 2320
+2910 Solved
+ - Kotlin : 2322
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -210,6 +210,7 @@ baekjoon
       [Kotlin] 친구 네트워크
       [Kotlin] 컬러볼
       [Kotlin] 컵라면
+      [Kotlin] 탈출
       [Kotlin] 택배
       [Kotlin] 트리의 높이와 너비
       [Kotlin] 트리의 순회
@@ -1215,10 +1216,10 @@ baekjoon
       [Kotlin] Tautogram
       [Kotlin] The Cow-Signal
       [Kotlin] Union Maplestory
+      [Kotlin] Word Ratios
       [Kotlin] Words
       [Kotlin] X marks the Spot
       [Kotlin] Zero
-      [Kotlin] `첼시를 도와줘`
       [Kotlin] driip
       [Kotlin] e 계산
       [Kotlin] include Google IO h
@@ -1383,6 +1384,7 @@ baekjoon
       [Kotlin] 창고지기
       [Kotlin] 창영마을
       [Kotlin] 창영이의 일기장
+      [Kotlin] 첼시를 도와줘
       [Kotlin] 초6 수학
       [Kotlin] 추론
       [Kotlin] 치킨 쿠폰
