@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-24 23:01:42 <br>
+Last Update : 2024-12-25 13:12:00 <br>
 
 
 ```
-2907 Solved
- - Kotlin : 2319
+2908 Solved
+ - Kotlin : 2320
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1538,6 +1538,7 @@ baekjoon
       [Kotlin] Flat
       [Kotlin] Flower Festival
       [Kotlin] Forced Choice
+      [Kotlin] GIST 찍기
       [Kotlin] Game Show!
       [Kotlin] Gauß
       [Kotlin] Gift
