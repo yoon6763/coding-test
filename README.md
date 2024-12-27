@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-26 22:49:55 <br>
+Last Update : 2024-12-27 20:18:11 <br>
 
 
 ```
-2910 Solved
- - Kotlin : 2322
+2911 Solved
+ - Kotlin : 2323
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -994,6 +994,7 @@ baekjoon
       [Kotlin] Go Latin
       [Kotlin] ISBN
       [Kotlin] MINESWEEPER
+      [Kotlin] Maps
       [Kotlin] Meats On The Grill
       [Kotlin] N-퍼즐
       [Kotlin] Nine Knights
