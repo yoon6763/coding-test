@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-27 20:18:11 <br>
+Last Update : 2024-12-28 21:57:31 <br>
 
 
 ```
-2911 Solved
- - Kotlin : 2323
+2912 Solved
+ - Kotlin : 2324
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1519,6 +1519,7 @@ baekjoon
       [Kotlin] Coffee Cup Combo
       [Kotlin] Collatz Conjecture
       [Kotlin] Counting Swann’s Coins
+      [Kotlin] Cuboids
       [Kotlin] Culture shock
       [Kotlin] Death Knight Hero
       [Kotlin] Decoder
