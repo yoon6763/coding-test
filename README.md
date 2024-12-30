@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-29 22:18:12 <br>
+Last Update : 2024-12-30 21:19:45 <br>
 
 
 ```
-2913 Solved
- - Kotlin : 2325
+2914 Solved
+ - Kotlin : 2326
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2142,6 +2142,7 @@ baekjoon
       [Kotlin] 뉴비의 기준은 뭘까
       [Kotlin] 뉴턴의 사과
       [Kotlin] 단순한 문제 (Small)
+      [Kotlin] 당구 좀 치자 제발
       [Kotlin] 등교
       [Kotlin] 뜨거운 붕어빵
       [Kotlin] 럭비 클럽
