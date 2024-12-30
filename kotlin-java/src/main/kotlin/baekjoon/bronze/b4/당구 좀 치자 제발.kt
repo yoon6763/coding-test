@@ -1,15 +1,14 @@
 package baekjoon.bronze.b4
 
 fun main() {
-    val n = readln().toInt()
-    val arr = readln().split(" ").map { it.toInt() }
-    val fury = Array(n) { 0 }
-    var tmp = 0
+    readln()
+    var tmp = 0L
+    var sum = 0L
 
-    repeat(n) {
-        tmp += if (arr[it] == 1) 1 else -1
-        fury[it] = tmp
+    readln().split(" ").map { it.toLong() }.forEach {
+        tmp += if (it == 1L) 1 else -1
+        sum += tmp
     }
 
-    println(fury.sum())
+    println(sum)
 }
