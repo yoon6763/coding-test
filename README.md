@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2024-12-30 21:23:54 <br>
+Last Update : 2024-12-31 21:59:27 <br>
 
 
 ```
-2914 Solved
- - Kotlin : 2326
+2915 Solved
+ - Kotlin : 2327
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1642,6 +1642,7 @@ baekjoon
       [Kotlin] Tax
       [Kotlin] Teleportation
       [Kotlin] The King
+      [Kotlin] The fellowship of the ring
       [Kotlin] Transactions
       [Kotlin] Trident
       [Kotlin] UOSPC 세기
