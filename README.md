@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-02 22:32:08 <br>
+Last Update : 2025-01-02 22:35:08 <br>
 
 
 ```
-2917 Solved
- - Kotlin : 2329
+2918 Solved
+ - Kotlin : 2330
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2024,6 +2024,7 @@ baekjoon
       [Kotlin] Koszykarz
       [Kotlin] Kuber
       [Kotlin] Laptop Sticker
+      [Kotlin] Last Factorial Digit
       [Kotlin] Lots of Liquid
       [Kotlin] Lunacy
       [Kotlin] Majestic 10
