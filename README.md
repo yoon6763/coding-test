@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-01 23:03:47 <br>
+Last Update : 2025-01-02 22:32:08 <br>
 
 
 ```
-2916 Solved
- - Kotlin : 2328
+2917 Solved
+ - Kotlin : 2329
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1100,6 +1100,7 @@ baekjoon
       [Kotlin] 접두사 배열
       [Kotlin] 제자리
       [Kotlin] 주디와 당근농장
+      [Kotlin] 준오는 조류혐오야!!
       [Kotlin] 진법 변환 2
       [Kotlin] 차량 번호판 1
       [Kotlin] 초성 변환
