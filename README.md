@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-03 22:08:37 <br>
+Last Update : 2025-01-04 21:02:21 <br>
 
 
 ```
-2919 Solved
- - Kotlin : 2331
+2921 Solved
+ - Kotlin : 2333
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1384,6 +1384,7 @@ baekjoon
       [Kotlin] 진법 변환
       [Kotlin] 진수 변환기
       [Kotlin] 진짜 공간
+      [Kotlin] 찍기
       [Kotlin] 창고지기
       [Kotlin] 창영마을
       [Kotlin] 창영이의 일기장
@@ -2188,6 +2189,7 @@ baekjoon
       [Kotlin] 임스의 메이플컵
       [Kotlin] 입실 관리
       [Kotlin] 자동완성
+      [Kotlin] 장기
       [Kotlin] 재수강
       [Kotlin] 전자레인지
       [Kotlin] 전자레인지14470
