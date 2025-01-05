@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-04 21:02:21 <br>
+Last Update : 2025-01-05 13:36:37 <br>
 
 
 ```
-2921 Solved
- - Kotlin : 2333
+2922 Solved
+ - Kotlin : 2334
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -321,6 +321,7 @@ baekjoon
       [Kotlin] 감시
       [Kotlin] 거짓말
       [Kotlin] 게리맨더링
+      [Kotlin] 경로 찾기
       [Kotlin] 공유기 설치
       [Kotlin] 구슬 찾기
       [Kotlin] 그리드 네트워크
