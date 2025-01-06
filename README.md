@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-05 13:36:37 <br>
+Last Update : 2025-01-06 21:23:20 <br>
 
 
 ```
-2922 Solved
- - Kotlin : 2334
+2924 Solved
+ - Kotlin : 2336
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1198,6 +1198,7 @@ baekjoon
       [Kotlin] KOREA 문자열 만들기
       [Kotlin] Letter Count
       [Kotlin] Longest Subsequence
+      [Kotlin] Mad Scientist
       [Kotlin] Max
       [Kotlin] NN
       [Kotlin] Number Maximization
@@ -1219,6 +1220,7 @@ baekjoon
       [Kotlin] Tautogram
       [Kotlin] The Cow-Signal
       [Kotlin] Union Maplestory
+      [Kotlin] Word Mix
       [Kotlin] Word Ratios
       [Kotlin] Words
       [Kotlin] X marks the Spot
@@ -2404,10 +2406,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
+      [JavaScript] A+B
       [아희] A+B
       [Swift] A+B
       [C#] A+B
-      [JavaScript] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
