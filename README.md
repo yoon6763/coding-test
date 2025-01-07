@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-06 21:23:20 <br>
+Last Update : 2025-01-07 23:12:40 <br>
 
 
 ```
-2924 Solved
- - Kotlin : 2336
+2925 Solved
+ - Kotlin : 2337
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1695,6 +1695,7 @@ baekjoon
       [Kotlin] 가뭄(Small)
       [Kotlin] 가변 배열
       [Kotlin] 가위 바위 보
+      [Kotlin] 가희와 부역명
       [Kotlin] 갈래의 색종이 자르기
       [Kotlin] 개표
       [Kotlin] 거북이
