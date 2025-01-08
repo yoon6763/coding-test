@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-07 23:12:40 <br>
+Last Update : 2025-01-08 21:50:42 <br>
 
 
 ```
-2925 Solved
- - Kotlin : 2337
+2926 Solved
+ - Kotlin : 2338
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2101,6 +2101,7 @@ baekjoon
       [Kotlin] Граничные клетки
       [Kotlin] Дневник Гравити Фолз
       [Kotlin] ЗЛАТНАТА СРЕДА
+      [Kotlin] Индикатор
       [Kotlin] Комната
       [Kotlin] ЛОВНО КУЧЕ
       [Kotlin] Лифт
