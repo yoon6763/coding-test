@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-08 21:50:42 <br>
+Last Update : 2025-01-09 23:43:24 <br>
 
 
 ```
-2926 Solved
- - Kotlin : 2338
+2927 Solved
+ - Kotlin : 2339
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1172,6 +1172,7 @@ baekjoon
       [Kotlin] Carousel Rides
       [Kotlin] Centauri Prime (Small1)
       [Kotlin] Check Digits
+      [Kotlin] Complexity
       [Kotlin] Count Me In
       [Kotlin] Cryptoquote
       [Kotlin] Divide and Conquer
