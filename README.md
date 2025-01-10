@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-09 23:43:24 <br>
+Last Update : 2025-01-10 20:04:43 <br>
 
 
 ```
-2927 Solved
- - Kotlin : 2339
+2928 Solved
+ - Kotlin : 2340
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2288,6 +2288,7 @@ baekjoon
       [Kotlin] Site Score
       [Kotlin] The Fastest Sorting Algorithm In The World
       [Kotlin] The World Responds
+      [Kotlin] UOS 문자열
       [Kotlin] WARBOY
       [Kotlin] Welcome to SMUPC!
       [Kotlin] Who is in the middle
