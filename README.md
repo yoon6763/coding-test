@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-12 15:31:31 <br>
+Last Update : 2025-01-13 23:31:03 <br>
 
 
 ```
-2930 Solved
- - Kotlin : 2342
+2932 Solved
+ - Kotlin : 2344
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -484,6 +484,7 @@ baekjoon
       [Kotlin] 톱니바퀴
       [Kotlin] 퇴사 2
       [Kotlin] 트리
+      [Kotlin] 트리 색칠하기
       [Kotlin] 트리와 쿼리
       [Kotlin] 파이프 옮기기 1
       [Kotlin] 평범한 배낭
@@ -1622,6 +1623,7 @@ baekjoon
       [Kotlin] Rectangles
       [Kotlin] Report Card Time
       [Kotlin] Right Triangle
+      [Kotlin] Roll the Dice
       [Kotlin] Rotating letters
       [Kotlin] SAHUR & IMSA’
       [Kotlin] Sarah's Toys
