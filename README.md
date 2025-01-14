@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-13 23:31:03 <br>
+Last Update : 2025-01-14 23:42:17 <br>
 
 
 ```
-2932 Solved
- - Kotlin : 2344
+2933 Solved
+ - Kotlin : 2345
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -877,6 +877,7 @@ baekjoon
       [Kotlin] 2차원 배열의 합
       [Kotlin] 3의 배수
       [Kotlin] BABBA
+      [Kotlin] Base Conversion
       [Kotlin] Best Grass
       [Kotlin] Bold
       [Kotlin] D-Day
