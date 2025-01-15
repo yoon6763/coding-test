@@ -4,7 +4,15 @@ fun main() {
     val (n, m) = readln().split(" ").map { it.toInt() }
     val arr = readln().split(" ").map { it.toInt() }
 
-    println(arr.indices.reversed().find { i ->
-        arr.takeLast(n - i).sum() >= m
-    }?.plus(1) ?: -1)
+    var diet = 0
+
+    for (i in n - 1 downTo 0) {
+        diet += arr[i]
+        if (diet >= m) {
+            println(i + 1)
+            return
+        }
+    }
+
+    println(-1)
 }
