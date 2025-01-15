@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-14 23:42:17 <br>
+Last Update : 2025-01-15 22:04:24 <br>
 
 
 ```
-2933 Solved
- - Kotlin : 2345
+2934 Solved
+ - Kotlin : 2346
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1287,6 +1287,7 @@ baekjoon
       [Kotlin] 도비의 영어 공부
       [Kotlin] 동아리비 횡령
       [Kotlin] 동혁 피자
+      [Kotlin] 래환이의 여자친구 사귀기 대작전
       [Kotlin] 럭키 스트레이트
       [Kotlin] 막대기
       [Kotlin] 만취한 상범
