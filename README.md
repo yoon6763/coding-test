@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-16 22:12:28 <br>
+Last Update : 2025-01-17 22:08:23 <br>
 
 
 ```
-2935 Solved
- - Kotlin : 2347
+2936 Solved
+ - Kotlin : 2348
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -488,6 +488,7 @@ baekjoon
       [Kotlin] 트리와 쿼리
       [Kotlin] 파이프 옮기기 1
       [Kotlin] 평범한 배낭
+      [Kotlin] 핑거 스냅
       [Kotlin] 합분해
       [Kotlin] 항체 인식
       [Kotlin] 행렬 덧셈
