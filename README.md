@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-15 22:05:52 <br>
+Last Update : 2025-01-16 22:12:28 <br>
 
 
 ```
-2934 Solved
- - Kotlin : 2346
+2935 Solved
+ - Kotlin : 2347
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -691,6 +691,7 @@ baekjoon
       [Kotlin] 트리의 부모 찾기
       [Kotlin] 특정 거리의 도시 찾기
       [Kotlin] 폴짝폴짝
+      [Kotlin] 한 줄로 서기
       [Kotlin] 헌내기는 친구가 필요해
       [Python] 랜선 자르기
       [Java] DFS와 BFS
