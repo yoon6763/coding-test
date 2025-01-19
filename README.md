@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-18 14:22:37 <br>
+Last Update : 2025-01-19 22:44:13 <br>
 
 
 ```
-2937 Solved
- - Kotlin : 2349
+2938 Solved
+ - Kotlin : 2350
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1212,6 +1212,7 @@ baekjoon
       [Kotlin] Number Maximization
       [Kotlin] Numbersrebmun
       [Kotlin] Palindromes
+      [Kotlin] Permutacja
       [Kotlin] Presents
       [Kotlin] Quite a problem
       [Kotlin] Ragaman
