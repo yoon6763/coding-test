@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-19 22:44:13 <br>
+Last Update : 2025-01-20 21:27:37 <br>
 
 
 ```
-2938 Solved
- - Kotlin : 2350
+2939 Solved
+ - Kotlin : 2351
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -780,6 +780,7 @@ baekjoon
       [Kotlin] 패션왕 신해빈
       [Kotlin] 팰린드롬 만들기
       [Kotlin] 프린터 큐
+      [Kotlin] 피보나치
       [Kotlin] 피보나치 함수
       [Kotlin] 한국이 그리울 땐 서버에 접속하지
       [Kotlin] 한동이는 공부가 하기 싫어!
