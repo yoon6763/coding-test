@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-20 21:27:37 <br>
+Last Update : 2025-01-21 21:38:26 <br>
 
 
 ```
-2939 Solved
- - Kotlin : 2351
+2941 Solved
+ - Kotlin : 2353
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -295,6 +295,7 @@ baekjoon
       [Kotlin] 치즈
       [Kotlin] 캐슬 디펜스
       [Kotlin] 크게만들기
+      [Kotlin] 택배
       [Kotlin] 텀 프로젝트
       [Kotlin] 파티
       [Kotlin] 피리 부는 사나이
@@ -311,6 +312,7 @@ baekjoon
       [Kotlin] N으로 만들기
       [Kotlin] Puyo Puyo
       [Kotlin] RGB거리 2
+      [Kotlin] Two Dots
       [Kotlin] Yes or yes
       [Kotlin] Σ
       [Kotlin] ⚾
