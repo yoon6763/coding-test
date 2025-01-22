@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-21 21:38:26 <br>
+Last Update : 2025-01-22 22:55:57 <br>
 
 
 ```
-2941 Solved
- - Kotlin : 2353
+2942 Solved
+ - Kotlin : 2354
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1041,6 +1041,7 @@ baekjoon
       [Kotlin] 단어 사다리
       [Kotlin] 단어 퍼즐
       [Kotlin] 달팽이2
+      [Kotlin] 당직 근무표
       [Kotlin] 더하기 2
       [Kotlin] 데칼코마니
       [Kotlin] 도비의 난독증 테스트
@@ -2423,10 +2424,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [JavaScript] A+B
       [아희] A+B
-      [Swift] A+B
       [C#] A+B
+      [Swift] A+B
+      [JavaScript] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
