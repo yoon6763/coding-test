@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-22 22:55:57 <br>
+Last Update : 2025-01-23 22:37:50 <br>
 
 
 ```
-2942 Solved
- - Kotlin : 2354
+2943 Solved
+ - Kotlin : 2355
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1187,6 +1187,7 @@ baekjoon
       [Kotlin] Count Me In
       [Kotlin] Cryptoquote
       [Kotlin] Divide and Conquer
+      [Kotlin] Egg Drop
       [Kotlin] Farm
       [Kotlin] Fraud Busters
       [Kotlin] Fridge of Your Dreams
