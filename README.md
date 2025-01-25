@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-23 22:37:50 <br>
+Last Update : 2025-01-25 21:37:32 <br>
 
 
 ```
-2943 Solved
- - Kotlin : 2355
+2945 Solved
+ - Kotlin : 2357
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1907,6 +1907,7 @@ baekjoon
       [Kotlin] 최댓값
       [Kotlin] 최소, 최대 2
       [Kotlin] 최장 스트릭
+      [Kotlin] 추첨상 사수 대작전! (Easy)
       [Kotlin] 추첨을 통해 커피를 받자
       [Kotlin] 출제비 재분배
       [Kotlin] 친구 친구
@@ -2273,6 +2274,7 @@ baekjoon
       [Kotlin] Bottle Return
       [Kotlin] CAPS
       [Kotlin] Can you add this
+      [Kotlin] Christmas Tree Adapter
       [Kotlin] Copier
       [Kotlin] Correct
       [Kotlin] Cupcake Party
