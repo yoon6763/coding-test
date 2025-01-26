@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-25 21:37:32 <br>
+Last Update : 2025-01-26 16:32:11 <br>
 
 
 ```
-2945 Solved
- - Kotlin : 2357
+2946 Solved
+ - Kotlin : 2358
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -431,6 +431,7 @@ baekjoon
       [Kotlin] 계란으로 계란치기
       [Kotlin] 공주님을 구해라
       [Kotlin] 괄호 제거
+      [Kotlin] 귀찮은 해강이
       [Kotlin] 끝나지 않는 파티
       [Kotlin] 나의 인생에는 수학과 함께
       [Kotlin] 내려가기
