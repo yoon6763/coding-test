@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-26 16:32:11 <br>
+Last Update : 2025-01-26 23:25:20 <br>
 
 
 ```
-2946 Solved
- - Kotlin : 2358
+2947 Solved
+ - Kotlin : 2359
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1740,6 +1740,7 @@ baekjoon
       [Kotlin] 공 바꾸기
       [Kotlin] 과 조사하기
       [Kotlin] 과민성 대장 증후군
+      [Kotlin] 과자 사기
       [Kotlin] 괄호 없는 사칙연산
       [Kotlin] 괴짜 교수
       [Kotlin] 그대로 출력하기 2
