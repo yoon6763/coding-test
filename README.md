@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-26 23:25:20 <br>
+Last Update : 2025-01-27 15:11:45 <br>
 
 
 ```
-2947 Solved
- - Kotlin : 2359
+2948 Solved
+ - Kotlin : 2360
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1359,6 +1359,7 @@ baekjoon
       [Kotlin] 에어팟
       [Kotlin] 연속구간
       [Kotlin] 영리한 아리의 포탈 타기
+      [Kotlin] 영식이와 친구들
       [Kotlin] 오각형, 오각형, 오각형…
       [Kotlin] 오르막
       [Kotlin] 오타맨 고창영
