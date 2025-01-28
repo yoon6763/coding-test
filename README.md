@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-27 15:11:45 <br>
+Last Update : 2025-01-28 16:23:45 <br>
 
 
 ```
-2948 Solved
- - Kotlin : 2360
+2949 Solved
+ - Kotlin : 2361
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -422,6 +422,7 @@ baekjoon
       [Kotlin] Fly me to the Alpha Centauri
       [Kotlin] LCS
       [Kotlin] MooTube (Silver)
+      [Kotlin] チーズ (Cheese)
       [Kotlin] 간선 이어가기 2
       [Kotlin] 감소하는 수
       [Kotlin] 감시 피하기
