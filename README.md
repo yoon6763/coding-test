@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-28 16:23:45 <br>
+Last Update : 2025-01-29 11:52:49 <br>
 
 
 ```
-2949 Solved
- - Kotlin : 2361
+2950 Solved
+ - Kotlin : 2362
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1225,6 +1225,7 @@ baekjoon
       [Kotlin] Ragaman
       [Kotlin] Refrigerator Magnets
       [Kotlin] Reverse Text
+      [Kotlin] Reverse Words (Large)
       [Kotlin] SMUPC의 등장
       [Kotlin] SciComLove (2022)
       [Kotlin] Skaičiai
