@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-29 11:52:49 <br>
+Last Update : 2025-01-30 20:43:00 <br>
 
 
 ```
-2950 Solved
- - Kotlin : 2362
+2951 Solved
+ - Kotlin : 2363
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1841,6 +1841,7 @@ baekjoon
       [Kotlin] 시간과 날짜
       [Kotlin] 신기한 수
       [Kotlin] 쌍의 합
+      [Kotlin] 아 맞다 마늘
       [Kotlin] 아이 러브 크로아티아
       [Kotlin] 아이그루스와 화장실
       [Kotlin] 아이들은 사탕을 좋아해
