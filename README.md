@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-30 20:43:00 <br>
+Last Update : 2025-01-31 21:48:20 <br>
 
 
 ```
-2951 Solved
- - Kotlin : 2363
+2952 Solved
+ - Kotlin : 2364
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -468,6 +468,7 @@ baekjoon
       [Kotlin] 신기한 소수
       [Kotlin] 암호 만들기
       [Kotlin] 암호코드
+      [Kotlin] 애너그램
       [Kotlin] 여러분의 다리가 되어 드리겠습니다
       [Kotlin] 연속합 2
       [Kotlin] 옥상 정원 꾸미기
