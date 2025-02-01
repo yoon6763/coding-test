@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-01-31 21:48:20 <br>
+Last Update : 2025-02-01 13:46:40 <br>
 
 
 ```
-2952 Solved
- - Kotlin : 2364
+2953 Solved
+ - Kotlin : 2365
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -447,6 +447,7 @@ baekjoon
       [Kotlin] 로봇 청소기
       [Kotlin] 리모컨
       [Kotlin] 마법사 상어와 비바라기
+      [Kotlin] 매직 스타
       [Kotlin] 맥주 마시면서 걸어가기
       [Kotlin] 물통
       [Kotlin] 방탈출
