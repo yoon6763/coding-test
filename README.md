@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-02 17:53:40 <br>
+Last Update : 2025-02-03 18:51:18 <br>
 
 
 ```
-2954 Solved
- - Kotlin : 2366
+2955 Solved
+ - Kotlin : 2367
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1566,6 +1566,7 @@ baekjoon
       [Kotlin] Fan Death
       [Kotlin] Fence Painting
       [Kotlin] Filling Out the Team
+      [Kotlin] FizzBuzz
       [Kotlin] Flat
       [Kotlin] Flower Festival
       [Kotlin] Forced Choice
