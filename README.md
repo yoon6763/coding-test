@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-03 18:51:18 <br>
+Last Update : 2025-02-04 21:13:37 <br>
 
 
 ```
-2955 Solved
- - Kotlin : 2367
+2956 Solved
+ - Kotlin : 2368
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -537,6 +537,7 @@ baekjoon
       [Kotlin] 데스 나이트
       [Kotlin] 돌다리
       [Kotlin] 동물원
+      [Kotlin] 무한부스터
       [Kotlin] 미로 탐색
       [Kotlin] 버섯 농장
       [Kotlin] 본대 산책
