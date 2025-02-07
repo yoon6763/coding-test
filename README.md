@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-06 23:42:05 <br>
+Last Update : 2025-02-07 23:17:02 <br>
 
 
 ```
-2958 Solved
- - Kotlin : 2370
+2959 Solved
+ - Kotlin : 2371
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1525,6 +1525,7 @@ baekjoon
       [Kotlin] Arm Coordination
       [Kotlin] Aron
       [Kotlin] Attendance
+      [Kotlin] Automated Checking Machine
       [Kotlin] Automated Telephone Exchange
       [Kotlin] Average scores
       [Kotlin] Baby Bites
