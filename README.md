@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-07 23:17:02 <br>
+Last Update : 2025-02-08 22:22:40 <br>
 
 
 ```
-2959 Solved
- - Kotlin : 2371
+2960 Solved
+ - Kotlin : 2372
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1555,6 +1555,7 @@ baekjoon
       [Kotlin] Deficient, Perfect, and Abundant
       [Kotlin] Digit Count
       [Kotlin] Dishonest Lottery
+      [Kotlin] Disposable Cup
       [Kotlin] Divisionals Spelling
       [Kotlin] Divisors
       [Kotlin] Divvying Up
