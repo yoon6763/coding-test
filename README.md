@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-08 22:22:40 <br>
+Last Update : 2025-02-09 18:31:49 <br>
 
 
 ```
-2960 Solved
- - Kotlin : 2372
+2961 Solved
+ - Kotlin : 2373
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1563,6 +1563,7 @@ baekjoon
       [Kotlin] Don’t pass me the ball!
       [Kotlin] Double Password
       [Kotlin] Dyslexia
+      [Kotlin] Dyslexia8387
       [Kotlin] Even Sum More Than Odd Sum
       [Kotlin] Even or Odd
       [Kotlin] Extreme Temperatures
