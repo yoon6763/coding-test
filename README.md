@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-10 22:05:23 <br>
+Last Update : 2025-02-11 22:47:57 <br>
 
 
 ```
-2962 Solved
- - Kotlin : 2374
+2963 Solved
+ - Kotlin : 2375
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1446,6 +1446,7 @@ baekjoon
       [Kotlin] 펫
       [Kotlin] 포인트 카드
       [Kotlin] 폭죽쇼
+      [Kotlin] 풍선 놀이
       [Kotlin] 피로도
       [Kotlin] 피시방 알바
       [Kotlin] 피자는 나눌 수록 커지잖아요
