@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-11 22:47:57 <br>
+Last Update : 2025-02-12 22:18:58 <br>
 
 
 ```
-2963 Solved
- - Kotlin : 2375
+2964 Solved
+ - Kotlin : 2376
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -621,6 +621,7 @@ baekjoon
       [Kotlin] Space Exploration
       [Kotlin] Spawn of Ungoliant
       [Kotlin] The Chivalrous Cow
+      [Kotlin] Tractor Path
       [Kotlin] Your life
       [Kotlin] 가장 긴 감소하는 부분 수열
       [Kotlin] 가장 긴 증가하는 부분 수열
@@ -2445,10 +2446,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [아희] A+B
       [C#] A+B
-      [Swift] A+B
+      [아희] A+B
       [JavaScript] A+B
+      [Swift] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
