@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-12 22:18:58 <br>
+Last Update : 2025-02-13 22:50:58 <br>
 
 
 ```
-2964 Solved
- - Kotlin : 2376
+2965 Solved
+ - Kotlin : 2377
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2014,6 +2014,7 @@ baekjoon
       [Kotlin] Champernowne Verification
       [Kotlin] Checkers
       [Kotlin] Chili Peppers
+      [Kotlin] Chips
       [Kotlin] Circus
       [Kotlin] Communication Channels
       [Kotlin] Congruent Numbers
