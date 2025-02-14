@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-13 22:50:58 <br>
+Last Update : 2025-02-14 19:34:18 <br>
 
 
 ```
-2965 Solved
- - Kotlin : 2377
+2966 Solved
+ - Kotlin : 2378
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1566,6 +1566,7 @@ baekjoon
       [Kotlin] Double Password
       [Kotlin] Dyslexia
       [Kotlin] Dyslexia8387
+      [Kotlin] Error Detection
       [Kotlin] Even Sum More Than Odd Sum
       [Kotlin] Even or Odd
       [Kotlin] Extreme Temperatures
