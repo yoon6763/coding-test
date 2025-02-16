@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-15 16:07:57 <br>
+Last Update : 2025-02-16 14:54:09 <br>
 
 
 ```
-2967 Solved
- - Kotlin : 2379
+2968 Solved
+ - Kotlin : 2380
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -467,6 +467,7 @@ baekjoon
       [Kotlin] 숫자고르기
       [Kotlin] 스타트링크
       [Kotlin] 신기한 소수
+      [Kotlin] 십자뒤집기
       [Kotlin] 암호 만들기
       [Kotlin] 암호코드
       [Kotlin] 애너그램
