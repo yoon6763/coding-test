@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-16 14:54:09 <br>
+Last Update : 2025-02-17 23:10:18 <br>
 
 
 ```
-2968 Solved
- - Kotlin : 2380
+2969 Solved
+ - Kotlin : 2381
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1607,6 +1607,7 @@ baekjoon
       [Kotlin] JOI エディタ (JOI Editor)
       [Kotlin] JavaScript
       [Kotlin] Jazz Enthusiast
+      [Kotlin] Judging Olympia
       [Kotlin] Jumbled Compass
       [Kotlin] Just A Minim
       [Kotlin] J박스
