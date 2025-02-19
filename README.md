@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-18 22:24:11 <br>
+Last Update : 2025-02-19 21:10:02 <br>
 
 
 ```
-2970 Solved
- - Kotlin : 2382
+2971 Solved
+ - Kotlin : 2383
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1694,6 +1694,7 @@ baekjoon
       [Kotlin] Vowel Count
       [Kotlin] Walk Like an Egyptian
       [Kotlin] What is n, Daddy
+      [Kotlin] When Do We Finish
       [Kotlin] Who Has Seen The Wind
       [Kotlin] Window on the Wall
       [Kotlin] Word Searching
