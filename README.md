@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-21 23:26:18 <br>
+Last Update : 2025-02-23 14:43:21 <br>
 
 
 ```
-2973 Solved
- - Kotlin : 2385
+2975 Solved
+ - Kotlin : 2387
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -312,6 +312,7 @@ baekjoon
       [Kotlin] N으로 만들기
       [Kotlin] Puyo Puyo
       [Kotlin] RGB거리 2
+      [Kotlin] Tree
       [Kotlin] Two Dots
       [Kotlin] Yes or yes
       [Kotlin] Σ
@@ -495,6 +496,7 @@ baekjoon
       [Kotlin] 트리와 쿼리
       [Kotlin] 파이프 옮기기 1
       [Kotlin] 평범한 배낭
+      [Kotlin] 피자 오븐
       [Kotlin] 핑거 스냅
       [Kotlin] 합분해
       [Kotlin] 항체 인식
