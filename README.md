@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-24 20:48:54 <br>
+Last Update : 2025-02-24 22:14:18 <br>
 
 
 ```
-2976 Solved
- - Kotlin : 2388
+2977 Solved
+ - Kotlin : 2389
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1865,6 +1865,7 @@ baekjoon
       [Kotlin] 아이 러브 크로아티아
       [Kotlin] 아이그루스와 화장실
       [Kotlin] 아이들은 사탕을 좋아해
+      [Kotlin] 아카라카 2
       [Kotlin] 악마의 제안
       [Kotlin] 안녕 클레오파트라 세상에서 제일가는 포테이토칩
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 3
