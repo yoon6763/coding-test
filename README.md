@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-24 22:14:18 <br>
+Last Update : 2025-02-25 23:15:19 <br>
 
 
 ```
-2977 Solved
- - Kotlin : 2389
+2978 Solved
+ - Kotlin : 2390
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2331,6 +2331,7 @@ baekjoon
       [Kotlin] Pyramids
       [Kotlin] Rats
       [Kotlin] Rook
+      [Kotlin] SUAPC 2023 Summer
       [Kotlin] SciComLove
       [Kotlin] Serca
       [Kotlin] Shares
