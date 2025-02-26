@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-25 23:15:19 <br>
+Last Update : 2025-02-26 20:40:13 <br>
 
 
 ```
-2978 Solved
- - Kotlin : 2390
+2979 Solved
+ - Kotlin : 2391
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1765,6 +1765,7 @@ baekjoon
       [Kotlin] 괄호 없는 사칙연산
       [Kotlin] 괴짜 교수
       [Kotlin] 그대로 출력하기 2
+      [Kotlin] 그래서 님 푼 문제 수가
       [Kotlin] 길면 기차, 기차는 빨라, 빠른 것은 비행기
       [Kotlin] 꼬리를 무는 숫자 나열
       [Kotlin] 꿍의 우주여행
@@ -2460,10 +2461,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [C#] A+B
       [아희] A+B
       [JavaScript] A+B
       [Swift] A+B
+      [C#] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
