@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-26 20:40:13 <br>
+Last Update : 2025-02-27 21:39:34 <br>
 
 
 ```
-2979 Solved
- - Kotlin : 2391
+2980 Solved
+ - Kotlin : 2392
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1676,6 +1676,7 @@ baekjoon
       [Kotlin] Speed Limit
       [Kotlin] Square
       [Kotlin] Square Pasture
+      [Kotlin] Statistics
       [Kotlin] Stopki
       [Kotlin] Stopwatch
       [Kotlin] Sum of Odd Sequence
