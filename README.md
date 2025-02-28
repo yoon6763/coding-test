@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-27 21:39:34 <br>
+Last Update : 2025-02-28 22:23:11 <br>
 
 
 ```
-2980 Solved
- - Kotlin : 2392
+2981 Solved
+ - Kotlin : 2393
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1924,6 +1924,7 @@ baekjoon
       [Kotlin] 지속
       [Kotlin] 지영 공주님의 마법 거울
       [Kotlin] 직각 삼각형의 두 변
+      [Kotlin] 진주로 가자! (Easy)
       [Kotlin] 질투진서
       [Kotlin] 집 주소
       [Kotlin] 짝수를 찾아라
