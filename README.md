@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-02-28 22:23:11 <br>
+Last Update : 2025-03-01 22:15:45 <br>
 
 
 ```
-2981 Solved
- - Kotlin : 2393
+2982 Solved
+ - Kotlin : 2394
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1941,6 +1941,7 @@ baekjoon
       [Kotlin] 추첨을 통해 커피를 받자
       [Kotlin] 출제비 재분배
       [Kotlin] 친구 친구
+      [Kotlin] 카드
       [Kotlin] 카트라이더 드리프트
       [Kotlin] 캥거루 세마리
       [Kotlin] 캥거루 세마리2
