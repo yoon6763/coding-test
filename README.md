@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-01 22:15:45 <br>
+Last Update : 2025-03-02 22:03:12 <br>
 
 
 ```
-2982 Solved
- - Kotlin : 2394
+2983 Solved
+ - Kotlin : 2395
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2177,6 +2177,7 @@ baekjoon
       [Kotlin] 和の判定 (Sum Checker)
       [Kotlin] 帰省 (Homecoming)
       [Kotlin] 揃った文字 (Matched Letters)
+      [Kotlin] 散歩 (Walking)
       [Kotlin] 末尾の文字 (Last Letter)
       [Kotlin] 桁 (Digit)
       [Kotlin] 現れている数字 (Appearing Numbers)
