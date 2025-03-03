@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-02 22:03:12 <br>
+Last Update : 2025-03-03 14:53:43 <br>
 
 
 ```
-2983 Solved
- - Kotlin : 2395
+2984 Solved
+ - Kotlin : 2396
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -421,6 +421,7 @@ baekjoon
       [Kotlin] AC
       [Kotlin] CCW
       [Kotlin] Fly me to the Alpha Centauri
+      [Kotlin] Fruit Feast
       [Kotlin] LCS
       [Kotlin] MooTube (Silver)
       [Kotlin] チーズ (Cheese)
