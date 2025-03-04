@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-03 14:53:43 <br>
+Last Update : 2025-03-04 21:35:10 <br>
 
 
 ```
-2984 Solved
- - Kotlin : 2396
+2985 Solved
+ - Kotlin : 2397
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1231,6 +1231,7 @@ baekjoon
       [Kotlin] Palindromes
       [Kotlin] Permutacja
       [Kotlin] Presents
+      [Kotlin] Quicksum
       [Kotlin] Quite a problem
       [Kotlin] Ragaman
       [Kotlin] Refrigerator Magnets
