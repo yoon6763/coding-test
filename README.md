@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-04 21:35:10 <br>
+Last Update : 2025-03-06 00:22:37 <br>
 
 
 ```
-2985 Solved
- - Kotlin : 2397
+2986 Solved
+ - Kotlin : 2398
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2359,6 +2359,7 @@ baekjoon
       [Kotlin] Робинзон Крузо
       [Kotlin] Счастье Мистера Бина
       [Kotlin] ゾロ目 (Same Numbers)
+      [Kotlin] ブラックジャック (Blackjack)
       [Kotlin] 三方比較 (Three-Way Comparison)
       [Kotlin] 余り (Remainder)
       [Kotlin] 分 (Minutes)
