@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-06 00:22:37 <br>
+Last Update : 2025-03-06 22:46:38 <br>
 
 
 ```
-2986 Solved
- - Kotlin : 2398
+2987 Solved
+ - Kotlin : 2399
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2171,6 +2171,7 @@ baekjoon
       [Kotlin] Таблица результатов
       [Kotlin] Торговый центр
       [Kotlin] ФАКИР
+      [Kotlin] Файлы
       [Kotlin] ЧАСОВНИК
       [Kotlin] Шахматная доска
       [Kotlin] アイスクリーム (Ice Cream)
