@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-06 22:46:38 <br>
+Last Update : 2025-03-09 22:56:52 <br>
 
 
 ```
-2987 Solved
- - Kotlin : 2399
+2990 Solved
+ - Kotlin : 2402
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1133,6 +1133,7 @@ baekjoon
       [Kotlin] 최소공배수
       [Kotlin] 캠핑
       [Kotlin] 콘도 선정
+      [Kotlin] 콘서트
       [Kotlin] 크로스워드 만들기
       [Kotlin] 택시 거리
       [Kotlin] 팀 이름 정하기
@@ -2313,6 +2314,7 @@ baekjoon
       [Kotlin] Arno's Sleep Schedule
       [Kotlin] Bottle Return
       [Kotlin] CAPS
+      [Kotlin] Call for Problems
       [Kotlin] Can you add this
       [Kotlin] Christmas Tree Adapter
       [Kotlin] Copier
@@ -2380,6 +2382,7 @@ baekjoon
       [Kotlin] 꼬마 정민
       [Kotlin] 나는 누구인가
       [Kotlin] 나는 행복합니다~
+      [Kotlin] 노트북 세 대를 가지고 왔다
       [Kotlin] 단어 길이 재기
       [Kotlin] 달달함이 넘쳐흘러
       [Kotlin] 대소문자 바꾸기
