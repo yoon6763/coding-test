@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-09 22:56:52 <br>
+Last Update : 2025-03-10 20:49:00 <br>
 
 
 ```
-2990 Solved
- - Kotlin : 2402
+2991 Solved
+ - Kotlin : 2403
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1692,6 +1692,7 @@ baekjoon
       [Kotlin] The King
       [Kotlin] The fellowship of the ring
       [Kotlin] Transactions
+      [Kotlin] Triangles
       [Kotlin] Trident
       [Kotlin] UOSPC 세기
       [Kotlin] V for Vendetta
