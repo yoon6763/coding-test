@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-10 20:49:00 <br>
+Last Update : 2025-03-11 20:26:29 <br>
 
 
 ```
-2991 Solved
- - Kotlin : 2403
+2992 Solved
+ - Kotlin : 2404
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1866,6 +1866,7 @@ baekjoon
       [Kotlin] 시간과 날짜
       [Kotlin] 시계탑
       [Kotlin] 신기한 수
+      [Kotlin] 심준의 병역판정검사
       [Kotlin] 쌍의 합
       [Kotlin] 아 맞다 마늘
       [Kotlin] 아이 러브 크로아티아
