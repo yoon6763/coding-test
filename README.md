@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-12 21:55:38 <br>
+Last Update : 2025-03-13 23:33:48 <br>
 
 
 ```
-2993 Solved
- - Kotlin : 2405
+2994 Solved
+ - Kotlin : 2406
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1580,6 +1580,7 @@ baekjoon
       [Kotlin] Extreme Temperatures
       [Kotlin] FBI
       [Kotlin] Fan Death
+      [Kotlin] Federal Voting Age
       [Kotlin] Fence Painting
       [Kotlin] Filling Out the Team
       [Kotlin] FizzBuzz
