@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-14 15:48:23 <br>
+Last Update : 2025-03-15 22:19:29 <br>
 
 
 ```
-2995 Solved
- - Kotlin : 2407
+2996 Solved
+ - Kotlin : 2408
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1827,6 +1827,7 @@ baekjoon
       [Kotlin] 별 찍기 - 8
       [Kotlin] 별 찍기 - 9
       [Kotlin] 별자리가 될 수 있다면
+      [Kotlin] 보물 찾기
       [Kotlin] 부호
       [Kotlin] 분수좋아해
       [Kotlin] 브실혜성
