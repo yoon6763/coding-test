@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-16 19:25:11 <br>
+Last Update : 2025-03-17 18:00:05 <br>
 
 
 ```
-2997 Solved
- - Kotlin : 2409
+2998 Solved
+ - Kotlin : 2410
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1628,6 +1628,7 @@ baekjoon
       [Kotlin] Liczba
       [Kotlin] Liczenie punktów
       [Kotlin] Lobby
+      [Kotlin] Manhattan
       [Kotlin] Matches
       [Kotlin] Mean Words
       [Kotlin] Meeting Near the Fountain
