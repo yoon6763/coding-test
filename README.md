@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-17 18:00:05 <br>
+Last Update : 2025-03-18 23:08:18 <br>
 
 
 ```
-2998 Solved
- - Kotlin : 2410
+2999 Solved
+ - Kotlin : 2411
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1643,6 +1643,7 @@ baekjoon
       [Kotlin] NASLJEDSTVO
       [Kotlin] Nadan
       [Kotlin] Not A + B
+      [Kotlin] Occupy parking
       [Kotlin] Odd Even Strings
       [Kotlin] Odd Gnome
       [Kotlin] Olympic Games
