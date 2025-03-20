@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-19 23:08:51 <br>
+Last Update : 2025-03-20 22:48:54 <br>
 
 
 ```
-3001 Solved
- - Kotlin : 2413
+3002 Solved
+ - Kotlin : 2414
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -702,6 +702,7 @@ baekjoon
       [Kotlin] 최대 힙
       [Kotlin] 최소 힙
       [Kotlin] 친구
+      [Kotlin] 침략자 진아
       [Kotlin] 침투
       [Kotlin] 카이사르 암호
       [Kotlin] 키로거
