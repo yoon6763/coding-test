@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-20 22:48:54 <br>
+Last Update : 2025-03-21 22:42:11 <br>
 
 
 ```
-3002 Solved
- - Kotlin : 2414
+3003 Solved
+ - Kotlin : 2415
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1965,6 +1965,7 @@ baekjoon
       [Kotlin] 타슈
       [Kotlin] 터널의 입구와 출구
       [Kotlin] 통학의 신
+      [Kotlin] 특별한 학교 탈출
       [Kotlin] 특정 대문자를 소문자로 바꾸기
       [Kotlin] 파인만
       [Kotlin] 팩토리얼 진법
