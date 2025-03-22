@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-21 22:42:11 <br>
+Last Update : 2025-03-22 11:14:57 <br>
 
 
 ```
-3003 Solved
- - Kotlin : 2415
+3006 Solved
+ - Kotlin : 2418
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -310,6 +310,7 @@ baekjoon
       [Kotlin] LCS 2
       [Kotlin] N-Queen
       [Kotlin] N으로 만들기
+      [Kotlin] Perimeter
       [Kotlin] Puyo Puyo
       [Kotlin] RGB거리 2
       [Kotlin] Tree
@@ -422,6 +423,7 @@ baekjoon
       [Kotlin] CCW
       [Kotlin] Fly me to the Alpha Centauri
       [Kotlin] Fruit Feast
+      [Kotlin] Icy Perimeter
       [Kotlin] LCS
       [Kotlin] MooTube (Silver)
       [Kotlin] チーズ (Cheese)
@@ -630,6 +632,7 @@ baekjoon
       [Kotlin] Spawn of Ungoliant
       [Kotlin] The Chivalrous Cow
       [Kotlin] Tractor Path
+      [Kotlin] Treasure Cave
       [Kotlin] Your life
       [Kotlin] 가장 긴 감소하는 부분 수열
       [Kotlin] 가장 긴 증가하는 부분 수열
