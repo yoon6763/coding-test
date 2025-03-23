@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-22 11:14:57 <br>
+Last Update : 2025-03-23 15:05:55 <br>
 
 
 ```
-3006 Solved
- - Kotlin : 2418
+3008 Solved
+ - Kotlin : 2420
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -535,6 +535,7 @@ baekjoon
       [Kotlin] 구간 합 구하기 5
       [Kotlin] 그래프 탐색 2
       [Kotlin] 그림
+      [Kotlin] 금공강 사수
       [Kotlin] 기타 레슨
       [Kotlin] 기타콘서트
       [Kotlin] 나무 탈출
@@ -544,6 +545,7 @@ baekjoon
       [Kotlin] 데스 나이트
       [Kotlin] 돌다리
       [Kotlin] 동물원
+      [Kotlin] 마니또
       [Kotlin] 무한부스터
       [Kotlin] 미로 탐색
       [Kotlin] 버섯 농장
