@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-24 22:34:38 <br>
+Last Update : 2025-03-24 22:35:51 <br>
 
 
 ```
-3008 Solved
- - Kotlin : 2420
+3003 Solved
+ - Kotlin : 2415
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -310,7 +310,6 @@ baekjoon
       [Kotlin] LCS 2
       [Kotlin] N-Queen
       [Kotlin] N으로 만들기
-      [Kotlin] Perimeter
       [Kotlin] Puyo Puyo
       [Kotlin] RGB거리 2
       [Kotlin] Tree
@@ -423,7 +422,6 @@ baekjoon
       [Kotlin] CCW
       [Kotlin] Fly me to the Alpha Centauri
       [Kotlin] Fruit Feast
-      [Kotlin] Icy Perimeter
       [Kotlin] LCS
       [Kotlin] MooTube (Silver)
       [Kotlin] チーズ (Cheese)
@@ -535,7 +533,6 @@ baekjoon
       [Kotlin] 구간 합 구하기 5
       [Kotlin] 그래프 탐색 2
       [Kotlin] 그림
-      [Kotlin] 금공강 사수
       [Kotlin] 기타 레슨
       [Kotlin] 기타콘서트
       [Kotlin] 나무 탈출
@@ -545,7 +542,6 @@ baekjoon
       [Kotlin] 데스 나이트
       [Kotlin] 돌다리
       [Kotlin] 동물원
-      [Kotlin] 마니또
       [Kotlin] 무한부스터
       [Kotlin] 미로 탐색
       [Kotlin] 버섯 농장
@@ -634,7 +630,6 @@ baekjoon
       [Kotlin] Spawn of Ungoliant
       [Kotlin] The Chivalrous Cow
       [Kotlin] Tractor Path
-      [Kotlin] Treasure Cave
       [Kotlin] Your life
       [Kotlin] 가장 긴 감소하는 부분 수열
       [Kotlin] 가장 긴 증가하는 부분 수열
@@ -1052,6 +1047,7 @@ baekjoon
       [Kotlin] 기념일 2
       [Kotlin] 기상청 인턴 신현수
       [Kotlin] 긴급 회의
+      [Kotlin] 나는 학급회장이다
       [Kotlin] 나머지와 몫이 같은 수
       [Kotlin] 나무 조각
       [Kotlin] 너의 핸들은
@@ -1970,7 +1966,6 @@ baekjoon
       [Kotlin] 타슈
       [Kotlin] 터널의 입구와 출구
       [Kotlin] 통학의 신
-      [Kotlin] 특별한 학교 탈출
       [Kotlin] 특정 대문자를 소문자로 바꾸기
       [Kotlin] 파인만
       [Kotlin] 팩토리얼 진법
