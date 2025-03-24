@@ -1,4 +1,4 @@
-package baekjoon.silver.s1.`금공강사수 `
+package baekjoon.silver.s1.금공강사수
 
 lateinit var arr: Array<IntArray>
 val schedule = Array(6) { BooleanArray(11) }
