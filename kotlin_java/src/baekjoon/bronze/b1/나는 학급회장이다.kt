@@ -1,41 +1,14 @@
 package baekjoon.bronze.b1
 
 fun main() {
-    data class Candidate(
-        var score3: Int = 0,
-        var score2: Int = 0,
-        var score1: Int = 0,
-        val index: Int
-    ) {
-        fun sum() = score3 + score2 + score1
+    val scores = Array(3) { intArrayOf(0, 0, 0, it + 1) }
+    fun IntArray.sum() = this[0] + this[1] * 2 + this[2] * 3
+    repeat(readln().toInt()) {
+        val (a, b, c) = readln().split(" ").map { it.toInt() - 1 }
+        scores[0][a]++
+        scores[1][b]++
+        scores[2][c]++
     }
-
-    val n = readln().toInt()
-    val a = Candidate(index = 1)
-    val b = Candidate(index = 2)
-    val c = Candidate(index = 3)
-
-    fun addScore(candidate: Candidate, score: Int) {
-        when (score) {
-            1 -> candidate.score1++
-            2 -> candidate.score2 += 2
-            3 -> candidate.score3 += 3
-        }
-    }
-
-    repeat(n) {
-        val (scoreA, scoreB, scoreC) = readln().split(" ").map { it.toInt() }
-        addScore(a, scoreA)
-        addScore(b, scoreB)
-        addScore(c, scoreC)
-    }
-
-
-    val candidates = listOf(a, b, c).sortedWith(compareBy({ it.sum() }, { it.score3 }, { it.score2 }))
-
-    if (candidates[0].sum() == candidates[1].sum() && candidates[0].score3 == candidates[1].score3 && candidates[0].score2 == candidates[1].score2) {
-        println("0 ${candidates[0].sum()}")
-    } else {
-        println("${candidates[0].index} ${candidates[0].sum()}")
-    }
+    scores.sortWith(compareBy({ it.sum() }, { it[2] }, { it[1] }))
+    println("${if (scores[2].sum() == scores[1].sum() && scores[2][2] == scores[1][2] && scores[2][1] == scores[1][1]) 0 else scores[2][3]} ${scores[2].sum()}")
 }
