@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-24 23:01:33 <br>
+Last Update : 2025-03-25 21:50:13 <br>
 
 
 ```
-3003 Solved
- - Kotlin : 2415
+3004 Solved
+ - Kotlin : 2416
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1109,6 +1109,7 @@ baekjoon
       [Kotlin] 여우 사인
       [Kotlin] 열 순서
       [Kotlin] 영화 평가
+      [Kotlin] 오늘도 졌다
       [Kotlin] 오렌지먹은지오랜지
       [Kotlin] 오르막길
       [Kotlin] 원의 분할
