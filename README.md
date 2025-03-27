@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-25 21:50:13 <br>
+Last Update : 2025-03-27 22:10:55 <br>
 
 
 ```
-3004 Solved
- - Kotlin : 2416
+3006 Solved
+ - Kotlin : 2418
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1064,6 +1064,7 @@ baekjoon
       [Kotlin] 동전 게임
       [Kotlin] 뒤집힌 덧셈
       [Kotlin] 드높은 남산 위에 우뚝 선
+      [Kotlin] 디지털 티비
       [Kotlin] 뚊
       [Kotlin] 랜덤 게임
       [Kotlin] 롤 케이크
@@ -2380,6 +2381,7 @@ baekjoon
       [Kotlin] 三方比較 (Three-Way Comparison)
       [Kotlin] 余り (Remainder)
       [Kotlin] 分 (Minutes)
+      [Kotlin] 徒競走 (Footrace)
       [Kotlin] 時間 (Hour)
       [Kotlin] 果物 (Fruit)
       [Kotlin] 母音を数える (Counting Vowels)
