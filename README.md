@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-27 22:10:55 <br>
+Last Update : 2025-03-28 22:54:15 <br>
 
 
 ```
-3006 Solved
- - Kotlin : 2418
+3007 Solved
+ - Kotlin : 2419
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2207,6 +2207,7 @@ baekjoon
       [Kotlin] 試験 (Exam)
       [Kotlin] 部員の変遷
       [Kotlin] 金平糖 (Konpeito)
+      [Kotlin] 鉄道旅行 3 (Railway Trip 3)
       [Kotlin] 鉛筆 (Pencils)
       [Kotlin] 가희와 방어율 무시
       [Kotlin] 가희와 클럽 오디션 1
