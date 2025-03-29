@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-28 22:54:15 <br>
+Last Update : 2025-03-29 19:34:30 <br>
 
 
 ```
-3007 Solved
- - Kotlin : 2419
+3009 Solved
+ - Kotlin : 2421
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -414,6 +414,7 @@ baekjoon
       [Kotlin] 해킹
       [Kotlin] 행렬 제곱
       [Kotlin] 행성 연결
+      [Kotlin] 회사 문화 1
       [Java] 최단경로
     g5
       [Kotlin] 86 ─에이티식스─ 1
@@ -436,6 +437,7 @@ baekjoon
       [Kotlin] 괄호 제거
       [Kotlin] 귀찮은 해강이
       [Kotlin] 끝나지 않는 파티
+      [Kotlin] 나무 위의 빗물
       [Kotlin] 나의 인생에는 수학과 함께
       [Kotlin] 내려가기
       [Kotlin] 노드사이의 거리
