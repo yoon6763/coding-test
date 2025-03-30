@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-29 19:34:30 <br>
+Last Update : 2025-03-30 23:17:59 <br>
 
 
 ```
-3009 Solved
- - Kotlin : 2421
+3010 Solved
+ - Kotlin : 2422
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1338,6 +1338,7 @@ baekjoon
       [Kotlin] 배수들의 합
       [Kotlin] 백설 공주와 일곱 난쟁이
       [Kotlin] 번호표 교환
+      [Kotlin] 벨트
       [Kotlin] 별 찍기 - 21
       [Kotlin] 병영외 급식
       [Kotlin] 보너스 점수
