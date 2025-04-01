@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-03-31 22:38:10 <br>
+Last Update : 2025-04-01 22:28:38 <br>
 
 
 ```
-3011 Solved
- - Kotlin : 2423
+3012 Solved
+ - Kotlin : 2424
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1307,6 +1307,7 @@ baekjoon
       [Kotlin] 나의 학점은
       [Kotlin] 냉동식품
       [Kotlin] 너의 이름은 몇 점이니
+      [Kotlin] 노래 악보
       [Kotlin] 농구 경기
       [Kotlin] 니모를 찾아서
       [Kotlin] 닉네임에 갓 붙이기
