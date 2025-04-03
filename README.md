@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-02 22:07:55 <br>
+Last Update : 2025-04-03 23:34:13 <br>
 
 
 ```
-3013 Solved
- - Kotlin : 2425
+3015 Solved
+ - Kotlin : 2427
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -514,6 +514,7 @@ baekjoon
     s1
       [Kotlin] 1, 2, 3 더하기 2
       [Kotlin] 1로 만들기 2
+      [Kotlin] Feeding Time
       [Kotlin] Holes
       [Kotlin] IOIOI
       [Kotlin] Islands
@@ -1919,6 +1920,7 @@ baekjoon
       [Kotlin] 윷놀이
       [Kotlin] 이 문제는 D2 입니다
       [Kotlin] 이게 분수
+      [Kotlin] 이교수님의 시험
       [Kotlin] 이진수
       [Kotlin] 일반 화학 실험
       [Kotlin] 일우는 야바위꾼
