@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-03 23:34:13 <br>
+Last Update : 2025-04-04 23:23:35 <br>
 
 
 ```
-3015 Solved
- - Kotlin : 2427
+3016 Solved
+ - Kotlin : 2428
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1351,6 +1351,7 @@ baekjoon
       [Kotlin] 비교 연산자
       [Kotlin] 비밀번호 체크
       [Kotlin] 비슷한 전화번호 표시
+      [Kotlin] 사각형 면적
       [Kotlin] 사칙연산
       [Kotlin] 상근이의 체스판
       [Kotlin] 새
