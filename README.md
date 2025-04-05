@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-04 23:23:35 <br>
+Last Update : 2025-04-05 12:56:50 <br>
 
 
 ```
-3016 Solved
- - Kotlin : 2428
+3017 Solved
+ - Kotlin : 2429
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1219,6 +1219,7 @@ baekjoon
       [Kotlin] George Boole
       [Kotlin] Happy Number
       [Kotlin] Hashing
+      [Kotlin] Hay Bales
       [Kotlin] Hide those Letters
       [Kotlin] ICPC Score Totalizer Software
       [Kotlin] Imiona mrówek
