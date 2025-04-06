@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-05 12:56:50 <br>
+Last Update : 2025-04-06 20:59:13 <br>
 
 
 ```
-3017 Solved
- - Kotlin : 2429
+3018 Solved
+ - Kotlin : 2430
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1117,6 +1117,7 @@ baekjoon
       [Kotlin] 오늘도 졌다
       [Kotlin] 오렌지먹은지오랜지
       [Kotlin] 오르막길
+      [Kotlin] 우유가 넘어지면
       [Kotlin] 원의 분할
       [Kotlin] 유니대전 퀴즈쇼
       [Kotlin] 유니크
