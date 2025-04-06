@@ -1,65 +1,21 @@
 package baekjoon.silver.s2.`섬의 개수`
 
-import java.util.*
-
 val dx = arrayOf(0, 0, 1, -1, 1, -1, 1, -1)
 val dy = arrayOf(1, -1, 0, 0, 1, -1, -1, 1)
 
-var cnt = 0
-var n = 0
-var m = 0
-
-lateinit var map: Array<Array<Int>>
-lateinit var visited: Array<Array<Boolean>>
-
-fun main() = with(System.`in`.bufferedReader()) {
-    val sb = StringBuilder()
-
-    while (true) {
-        cnt = 0
-
-        val nm = readLine().split(" ").map { it.toInt() }
-        n = nm[1]
-        m = nm[0]
-
-        if (n == 0 && m == 0) break
-
-        map = Array(n) { Array(m) { 0 } }
-        visited = Array(n) { Array(m) { false } }
-
-        repeat(n) { x ->
-            val st = StringTokenizer(readLine())
-            repeat(m) { y ->
-                map[x][y] = st.nextToken().toInt()
-            }
-        }
-
-        repeat(n) { x ->
-            repeat(m) { y ->
-                if (map[x][y] == 1 && !visited[x][y]) {
-                    dfs(x, y)
-                    cnt++
-                }
-            }
-        }
-
-        sb.append("$cnt\n")
+fun main() = print(generateSequence {
+    val (m, n) = readln().split(" ").map { it.toInt() }
+    if (n == 0 && m == 0) null else {
+        val map = Array(n) { readln().split(" ").map { it.toInt() }.toIntArray() }
+        val visited = Array(n) { BooleanArray(m) { false } }
+        (0..<n).sumOf { x -> (0..<m).sumOf { y -> dfs(x, y, n, m, map, visited) } }
     }
-
-    print(sb)
-}
+}.joinToString("\n"))
 
 
-fun dfs(x: Int, y: Int) {
+fun dfs(x: Int, y: Int, n: Int, m: Int, map: Array<IntArray>, visited: Array<BooleanArray>): Int {
+    if (x !in 0..<n || y !in 0..<m || visited[x][y] || map[x][y] == 0) return 0
     visited[x][y] = true
-
-    for (i in 0 until 8) {
-        val nx = dx[i] + x
-        val ny = dy[i] + y
-
-        if (nx < 0 || nx >= n || ny < 0 || ny >= m || visited[nx][ny] || map[nx][ny] == 0) continue
-
-        visited[nx][ny] = true
-        dfs(nx, ny)
-    }
+    repeat(8) { dfs(x + dx[it], y + dy[it], n, m, map, visited) }
+    return 1
 }

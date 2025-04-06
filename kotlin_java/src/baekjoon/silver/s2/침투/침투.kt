@@ -1,39 +1,21 @@
 package baekjoon.silver.s2.침투
 
-lateinit var map: Array<CharArray>
-lateinit var visited: Array<BooleanArray>
-val dx = intArrayOf(0, 0, 1, -1)
-val dy = intArrayOf(1, -1, 0, 0)
-var n = 0
-var m = 0
+val dx = intArrayOf(0, 1, 0, -1)
+val dy = intArrayOf(1, 0, -1, 0)
 
 fun main() = with(System.`in`.bufferedReader()) {
-    val nm = readLine().split(" ").map { it.toInt() }
-    n = nm[0]
-    m = nm[1]
+    val (n, m) = readLine().split(" ").map { it.toInt() }
+    val map = Array(n) { readLine().toCharArray() }
+    val visited = Array(n) { BooleanArray(m) }
+    println(if ((0..<m).any { dfs(0, it, n, m, map, visited) }) "YES" else "NO")
+}
 
-    visited = Array(n) { BooleanArray(m) }
-    map = Array(n) { readLine().toCharArray() }
-
-    for (i in 0..<m) {
-        if (dfs(0, i)) {
-            println("YES")
-            return
+fun dfs(x: Int, y: Int, n: Int, m: Int, map: Array<CharArray>, visited: Array<BooleanArray>): Boolean =
+    when {
+        x !in 0..<n || y !in 0..<m || visited[x][y] || map[x][y] == '1' -> false
+        x == n - 1 -> true
+        else -> {
+            visited[x][y] = true
+            (0..<4).any { dfs(x + dx[it], y + dy[it], n, m, map, visited) }
         }
     }
-    println("NO")
-}
-
-fun dfs(x: Int, y: Int): Boolean {
-    for (i in 0..<4) {
-        val nx = x + dx[i]
-        val ny = y + dy[i]
-
-        if (nx !in 0..<n || ny !in 0..<m || visited[nx][ny] || map[nx][ny] == '1') continue
-        if (nx == n - 1) return true
-        visited[nx][ny] = true
-        if (dfs(nx, ny)) return true
-    }
-
-    return false
-}
