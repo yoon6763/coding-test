@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-06 20:59:13 <br>
+Last Update : 2025-04-07 23:39:59 <br>
 
 
 ```
-3018 Solved
- - Kotlin : 2430
+3020 Solved
+ - Kotlin : 2432
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1325,6 +1325,7 @@ baekjoon
       [Kotlin] 도비의 영어 공부
       [Kotlin] 동아리비 횡령
       [Kotlin] 동혁 피자
+      [Kotlin] 두 개의 손
       [Kotlin] 래환이의 여자친구 사귀기 대작전
       [Kotlin] 럭키 스트레이트
       [Kotlin] 막대기
@@ -2249,6 +2250,7 @@ baekjoon
       [Kotlin] 베라의 패션
       [Kotlin] 별 찍기 - 3
       [Kotlin] 브실이와 친구가 되고 싶어
+      [Kotlin] 빠른 A+B
       [Kotlin] 빵
       [Kotlin] 사장님 도박은 재미로 하셔야 합니다
       [Kotlin] 삼각형 외우기
