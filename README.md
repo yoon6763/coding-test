@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-07 23:39:59 <br>
+Last Update : 2025-04-08 23:20:04 <br>
 
 
 ```
-3020 Solved
- - Kotlin : 2432
+3021 Solved
+ - Kotlin : 2433
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1013,6 +1013,7 @@ baekjoon
       [Kotlin] 4번째 점
       [Kotlin] 6174
       [Kotlin] A divide B - 2
+      [Kotlin] APC는 왜 서브태스크 대회가 되었을까
       [Kotlin] An Interactive Problem
       [Kotlin] DNA 해독
       [Kotlin] Daisy Chains
