@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-08 23:20:04 <br>
+Last Update : 2025-04-09 23:55:31 <br>
 
 
 ```
-3021 Solved
- - Kotlin : 2433
+3023 Solved
+ - Kotlin : 2435
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -620,6 +620,7 @@ baekjoon
       [Kotlin] DNA 비밀번호
       [Kotlin] DOM
       [Kotlin] Dynamic Grid (Large)
+      [Kotlin] Elephant Show
       [Kotlin] Invasion of the Milkweed
       [Kotlin] Kahe käigu ratsu
       [Kotlin] K번째 소수
@@ -1620,6 +1621,7 @@ baekjoon
       [Kotlin] Hawk eyes
       [Kotlin] Head or Tail
       [Kotlin] Heart Rate
+      [Kotlin] Hissing Microphone
       [Kotlin] Holes
       [Kotlin] Hot Dogs
       [Kotlin] IBM 빼기 1
