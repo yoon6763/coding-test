@@ -1,52 +1,31 @@
 package baekjoon.silver.s1.`Holes`
 
-lateinit var map: Array<CharArray>
-lateinit var visited: Array<BooleanArray>
 val dx = intArrayOf(-1, 1, 0, 0)
 val dy = intArrayOf(0, 0, -1, 1)
-var n = 0
-var m = 0
-var space = 0
-var section = 0
 
-fun main() = with(System.`in`.bufferedReader()) {
-    val sb = StringBuilder()
+fun main() = repeat(readln().toInt()) {
+    val (n, m) = readln().split(" ").map { it.toInt() }
+    val map = Array(n) { readln().toCharArray() }
+    val visited = Array(n) { BooleanArray(m) }
+    var space = 0
+    var section = 0
 
-    repeat(readLine().toInt()) {
-        val nm = readLine().split(" ").map { it.toInt() }
-        n = nm[0]
-        m = nm[1]
-
-        map = Array(n) { readLine().toCharArray() }
-        visited = Array(n) { BooleanArray(m) }
-
-        space = 0
-        section = 0
-
-        for (i in 0..<n) {
-            for (j in 0..<m) {
-                if (!visited[i][j] && map[i][j] == '.') {
+    repeat(n) { i ->
+        repeat(m) { j ->
+            dfs(i, j, n, m, map, visited).let {
+                if (it > 0) {
+                    space += it
                     section++
-                    dfs(i, j)
                 }
             }
         }
-
-        sb.appendLine("$section ${if (section == 1) "section" else "sections"}, $space ${if (space == 1) "space" else "spaces"}")
     }
 
-    print(sb)
+    println("$section ${if (section == 1) "section" else "sections"}, $space ${if (space == 1) "space" else "spaces"}")
 }
 
-fun dfs(x: Int, y: Int) {
+fun dfs(x: Int, y: Int, n: Int, m: Int, map: Array<CharArray>, visited: Array<BooleanArray>): Int {
+    if (x !in 0..<n || y !in 0..<m || visited[x][y] || map[x][y] == '#') return 0
     visited[x][y] = true
-    space++
-
-    for (i in 0..<4) {
-        val nx = x + dx[i]
-        val ny = y + dy[i]
-
-        if (nx !in 0..<n || ny !in 0..<m || visited[nx][ny] || map[nx][ny] == '#') continue
-        dfs(nx, ny)
-    }
+    return 1 + (0..<4).sumOf { dfs(x + dx[it], y + dy[it], n, m, map, visited) }
 }
