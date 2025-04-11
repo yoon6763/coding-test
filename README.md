@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-10 23:53:35 <br>
+Last Update : 2025-04-11 18:11:43 <br>
 
 
 ```
-3024 Solved
- - Kotlin : 2436
+3025 Solved
+ - Kotlin : 2437
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2458,6 +2458,7 @@ baekjoon
       [Kotlin] 특별한 학교 이름
       [Kotlin] 팩토리얼 2
       [Kotlin] 팬들에게 둘러싸인 홍준
+      [Kotlin] 피갤컵
       [Kotlin] 피보나치 수 5
       [Kotlin] 학점계산
       [Kotlin] 홍익대학교
