@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-11 18:11:43 <br>
+Last Update : 2025-04-12 10:07:35 <br>
 
 
 ```
-3025 Solved
- - Kotlin : 2437
+3026 Solved
+ - Kotlin : 2438
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2001,6 +2001,7 @@ baekjoon
       [Kotlin] 행운의 편지
       [Kotlin] 헤라클레스와 히드라
       [Kotlin] 헬멧과 조끼
+      [Kotlin] 현대모비스와 함께하는 부품 관리
       [Kotlin] 홀수
       [Kotlin] 홀수일까 짝수일까
       [Kotlin] 홀짝 수열
