@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-13 19:42:55 <br>
+Last Update : 2025-04-14 10:01:59 <br>
 
 
 ```
-3027 Solved
- - Kotlin : 2439
+3028 Solved
+ - Kotlin : 2440
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1707,6 +1707,7 @@ baekjoon
       [Kotlin] Statistics
       [Kotlin] Stopki
       [Kotlin] Stopwatch
+      [Kotlin] Sum Kind of Problem
       [Kotlin] Sum of Odd Sequence
       [Kotlin] Sums
       [Kotlin] TGN
