@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-14 10:01:59 <br>
+Last Update : 2025-04-15 23:06:12 <br>
 
 
 ```
-3028 Solved
- - Kotlin : 2440
+3029 Solved
+ - Kotlin : 2441
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -642,6 +642,7 @@ baekjoon
       [Kotlin] 값이 k인 트리 노드의 깊이
       [Kotlin] 거리가 k이하인 트리 노드에서 사과 수확하기
       [Kotlin] 결혼식
+      [Kotlin] 골드바흐 파티션
       [Kotlin] 골드바흐의 추측
       [Kotlin] 과일 서리
       [Kotlin] 과일 탕후루
