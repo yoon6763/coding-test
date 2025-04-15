@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-15 23:06:12 <br>
+Last Update : 2025-04-15 23:36:49 <br>
 
 
 ```
-3029 Solved
- - Kotlin : 2441
+3030 Solved
+ - Kotlin : 2442
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1241,6 +1241,7 @@ baekjoon
       [Kotlin] Longest Subsequence
       [Kotlin] Mad Scientist
       [Kotlin] Max
+      [Kotlin] Mixing Milk
       [Kotlin] NN
       [Kotlin] Number Maximization
       [Kotlin] Numbersrebmun
