@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-16 21:42:03 <br>
+Last Update : 2025-04-17 22:25:05 <br>
 
 
 ```
-3031 Solved
- - Kotlin : 2443
+3033 Solved
+ - Kotlin : 2445
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -625,6 +625,7 @@ baekjoon
       [Kotlin] Kahe käigu ratsu
       [Kotlin] K번째 소수
       [Kotlin] Meeting Time
+      [Kotlin] Neighborhoods in Graphs
       [Kotlin] N번째 큰 수
       [Kotlin] Oil Deposits
       [Kotlin] RAINFOREST CANOPY
@@ -1128,6 +1129,7 @@ baekjoon
       [Kotlin] 유진수
       [Kotlin] 이름궁합 테스트
       [Kotlin] 이번학기 평점은 몇점
+      [Kotlin] 이제는 더 이상 물러날 곳이 없다
       [Kotlin] 이진수 덧셈
       [Kotlin] 이항 계수 1
       [Kotlin] 인생은 한 방
