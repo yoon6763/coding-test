@@ -6,7 +6,10 @@ fun main() = repeat(readln().toInt()) {
 
     repeat(readln().toInt()) {
         val (`in`, out) = readln().split(" ").map { it.toInt() }
-        cur += out - `in`
+
+        cur += `in`
+        cur -= out
+
         if (cur < 0) {
             ans += -cur
             cur = 0
