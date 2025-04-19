@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-17 22:25:05 <br>
+Last Update : 2025-04-19 23:01:57 <br>
 
 
 ```
-3033 Solved
- - Kotlin : 2445
+3035 Solved
+ - Kotlin : 2447
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1244,6 +1244,7 @@ baekjoon
       [Kotlin] Mad Scientist
       [Kotlin] Max
       [Kotlin] Mixing Milk
+      [Kotlin] N! mod P (1)
       [Kotlin] NN
       [Kotlin] Number Maximization
       [Kotlin] Numbersrebmun
@@ -2358,6 +2359,7 @@ baekjoon
       [Kotlin] Call for Problems
       [Kotlin] Can you add this
       [Kotlin] Christmas Tree Adapter
+      [Kotlin] Conveyor Belt Sushi
       [Kotlin] Copier
       [Kotlin] Correct
       [Kotlin] Cupcake Party
