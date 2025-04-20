@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-19 23:01:57 <br>
+Last Update : 2025-04-20 13:26:12 <br>
 
 
 ```
-3035 Solved
- - Kotlin : 2447
+3036 Solved
+ - Kotlin : 2448
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -621,6 +621,7 @@ baekjoon
       [Kotlin] DOM
       [Kotlin] Dynamic Grid (Large)
       [Kotlin] Elephant Show
+      [Kotlin] Gruppindelning
       [Kotlin] Invasion of the Milkweed
       [Kotlin] Kahe käigu ratsu
       [Kotlin] K번째 소수
