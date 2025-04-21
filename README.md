@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-20 13:26:12 <br>
+Last Update : 2025-04-21 20:27:58 <br>
 
 
 ```
-3036 Solved
- - Kotlin : 2448
+3037 Solved
+ - Kotlin : 2449
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1013,6 +1013,7 @@ baekjoon
     b1
       [Kotlin] 0의 개수
       [Kotlin] 2007년
+      [Kotlin] 2023년은 검은 토끼의 해
       [Kotlin] 2진수 8진수
       [Kotlin] 4번째 점
       [Kotlin] 6174
