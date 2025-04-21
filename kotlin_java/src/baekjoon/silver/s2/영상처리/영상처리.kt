@@ -1,52 +1,37 @@
 package baekjoon.silver.s2.영상처리
 
-lateinit var visited: Array<BooleanArray>
-lateinit var map: Array<IntArray>
 val dx = intArrayOf(0, 0, 1, -1)
 val dy = intArrayOf(1, -1, 0, 0)
-var n = 0
-var m = 0
 
-fun main() = with(System.`in`.bufferedReader()) {
-    val nm = readLine().split(" ").map { it.toInt() }
-    n = nm[0]
-    m = nm[1]
+fun main() {
+    val (n, m) = readln().split(" ").map { it.toInt() }
+    val originMap = Array(n) { readln().split(" ").map { it.toInt() }.toIntArray() }
+    val visited = Array(n) { BooleanArray(m) }
+    val standard = readln().toInt()
 
-    val originMap = Array(n) { readLine().split(" ").map { it.toInt() }.toIntArray() }
-    visited = Array(n) { BooleanArray(m) }
-    val standard = readLine().toInt()
+    val map =
+        Array(n) { i -> IntArray(m) { j -> if ((originMap[i][j * 3] + originMap[i][j * 3 + 1] + originMap[i][j * 3 + 2]) / 3 >= standard) 1 else 0 } }
 
-    map = Array(n) { IntArray(m) }
-
-    repeat(n) { i ->
-        repeat(m) { j ->
-            map[i][j] =
-                if ((originMap[i][j * 3] + originMap[i][j * 3 + 1] + originMap[i][j * 3 + 2]) / 3 >= standard) 1 else 0
-        }
-    }
-
-    var cnt = 0
-
-    repeat(n) { i ->
-        repeat(m) { j ->
+    println((0..<n).sumOf { i ->
+        (0..<m).count { j ->
             if (map[i][j] == 1 && !visited[i][j]) {
                 visited[i][j] = true
-                dfs(i, j)
-                cnt++
+                dfs(i, j, n, m, map, visited)
+                true
+            } else {
+                false
             }
         }
-    }
-
-    println(cnt)
+    })
 }
 
-fun dfs(x: Int, y: Int) {
-    for (i in 0 until 4) {
+fun dfs(x: Int, y: Int, n: Int, m: Int, map: Array<IntArray>, visited: Array<BooleanArray>) {
+    for (i in 0..<4) {
         val nx = x + dx[i]
         val ny = y + dy[i]
 
-        if (nx !in 0 until n || ny !in 0 until m || visited[nx][ny] || map[nx][ny] == 0) continue
+        if (nx !in 0..<n || ny !in 0..<m || visited[nx][ny] || map[nx][ny] == 0) continue
         visited[nx][ny] = true
-        dfs(nx, ny)
+        dfs(nx, ny, n, m, map, visited)
     }
 }
