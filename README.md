@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-22 11:25:39 <br>
+Last Update : 2025-04-23 22:41:00 <br>
 
 
 ```
-3038 Solved
- - Kotlin : 2450
+3039 Solved
+ - Kotlin : 2451
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -33,8 +33,8 @@ Last Update : 2025-04-22 11:25:39 <br>
  - Go : 1
  - Fortran : 1
  - Algol68 : 1
- - 아희 : 1
  - Swift : 1
+ - 아희 : 1
  - Visual Basic : 1
  - Ada : 1
  - GolfScript : 1
@@ -2070,6 +2070,7 @@ baekjoon
       [Kotlin] Boiling Water
       [Kotlin] Buying in Bulk
       [Kotlin] CASIO
+      [Kotlin] CPDU
       [Kotlin] Champernowne Verification
       [Kotlin] Checkers
       [Kotlin] Chili Peppers
@@ -2520,10 +2521,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [아희] A+B
       [JavaScript] A+B
-      [Swift] A+B
       [C#] A+B
+      [Swift] A+B
+      [아희] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
