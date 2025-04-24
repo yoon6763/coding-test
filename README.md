@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-23 22:41:00 <br>
+Last Update : 2025-04-24 22:10:11 <br>
 
 
 ```
-3039 Solved
- - Kotlin : 2451
+3040 Solved
+ - Kotlin : 2452
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1344,6 +1344,7 @@ baekjoon
       [Kotlin] 모르고리즘 회장님 추천 받습니다
       [Kotlin] 모스 부호
       [Kotlin] 무지개 만들기
+      [Kotlin] 문어
       [Kotlin] 문어 숫자
       [Kotlin] 문자가 몇갤까
       [Kotlin] 문자열 분석
