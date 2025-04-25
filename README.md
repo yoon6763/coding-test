@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-24 22:10:11 <br>
+Last Update : 2025-04-25 23:26:57 <br>
 
 
 ```
-3040 Solved
- - Kotlin : 2452
+3041 Solved
+ - Kotlin : 2453
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1139,6 +1139,7 @@ baekjoon
       [Kotlin] 일곱 난쟁이
       [Kotlin] 적어도 대부분의 배수
       [Kotlin] 전화 요금
+      [Kotlin] 점프 점프
       [Kotlin] 접두사 배열
       [Kotlin] 제자리
       [Kotlin] 주디와 당근농장
