@@ -1,6 +1,5 @@
 package baekjoon.silver.s3
 
-import baekjoon.cnt
 import kotlin.math.roundToInt
 
 data class NumWithCnt(val num: Int, var cnt: Int)
