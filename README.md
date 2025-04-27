@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-26 13:04:04 <br>
+Last Update : 2025-04-27 17:17:48 <br>
 
 
 ```
-3043 Solved
- - Kotlin : 2455
+3044 Solved
+ - Kotlin : 2456
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -633,6 +633,7 @@ baekjoon
       [Kotlin] Oil Deposits
       [Kotlin] RAINFOREST CANOPY
       [Kotlin] Satellite Photographs
+      [Kotlin] Scavenger Hunt
       [Kotlin] Sheba’s Amoebas
       [Kotlin] Sheba’s Amoebas
       [Kotlin] Space Exploration
