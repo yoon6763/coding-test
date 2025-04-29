@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-28 22:57:15 <br>
+Last Update : 2025-04-29 22:16:02 <br>
 
 
 ```
-3045 Solved
- - Kotlin : 2457
+3046 Solved
+ - Kotlin : 2458
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1079,6 +1079,7 @@ baekjoon
       [Kotlin] 뒤집힌 덧셈
       [Kotlin] 드높은 남산 위에 우뚝 선
       [Kotlin] 디지털 티비
+      [Kotlin] 디지털시계
       [Kotlin] 뚊
       [Kotlin] 랜덤 게임
       [Kotlin] 롤 케이크
