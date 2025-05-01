@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-04-29 22:16:02 <br>
+Last Update : 2025-05-01 22:05:18 <br>
 
 
 ```
-3046 Solved
- - Kotlin : 2458
+3048 Solved
+ - Kotlin : 2460
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1575,6 +1575,7 @@ baekjoon
       [Kotlin] BB84
       [Kotlin] Baby Bites
       [Kotlin] Backward numbers
+      [Kotlin] Balancing Weights
       [Kotlin] Balloons Colors
       [Kotlin] Baseball
       [Kotlin] Baskets of Gold Coins
@@ -2388,6 +2389,7 @@ baekjoon
       [Kotlin] Lucky 7
       [Kotlin] Mathematics
       [Kotlin] Metronome
+      [Kotlin] Micromasters
       [Kotlin] Multiply
       [Kotlin] NFC West vs North
       [Kotlin] Plane
