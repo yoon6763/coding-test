@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-01 22:05:18 <br>
+Last Update : 2025-05-03 14:54:57 <br>
 
 
 ```
-3048 Solved
- - Kotlin : 2460
+3050 Solved
+ - Kotlin : 2462
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -339,6 +339,7 @@ baekjoon
       [Kotlin] 떡장수와 호랑이
       [Kotlin] 로봇 조립
       [Kotlin] 마법사 상어와 파이어볼
+      [Kotlin] 마약수사대
       [Kotlin] 무기 공학
       [Kotlin] 문자열 폭발
       [Kotlin] 뮤탈리스크
@@ -1732,6 +1733,7 @@ baekjoon
       [Kotlin] Tax
       [Kotlin] Teleportation
       [Kotlin] The King
+      [Kotlin] The REAL Manhattan distance
       [Kotlin] The fellowship of the ring
       [Kotlin] Transactions
       [Kotlin] Triangles
