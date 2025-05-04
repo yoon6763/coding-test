@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-03 14:54:57 <br>
+Last Update : 2025-05-04 17:27:46 <br>
 
 
 ```
-3050 Solved
- - Kotlin : 2462
+3054 Solved
+ - Kotlin : 2466
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -226,6 +226,7 @@ baekjoon
       [Kotlin] ACM Craft
       [Kotlin] BFS 스페셜 저지
       [Kotlin] Baaaaaaaaaduk2 (Easy)
+      [Kotlin] DFS 스페셜 저지
       [Kotlin] Dance Dance Revolution
       [Kotlin] Guess
       [Kotlin] IQ Test
@@ -304,11 +305,14 @@ baekjoon
       [Kotlin] 행렬 곱셈 순서
     g4
       [Kotlin] 4연산
+      [Kotlin] Bad Cowtractors
       [Kotlin] CTP 왕국은 한솔 왕국을 이길 수 있을까
       [Kotlin] Count Circle Groups
       [Kotlin] DSLR
+      [Kotlin] Jungle Roads
       [Kotlin] LCS 2
       [Kotlin] N-Queen
+      [Kotlin] Networking
       [Kotlin] N으로 만들기
       [Kotlin] Puyo Puyo
       [Kotlin] RGB거리 2
