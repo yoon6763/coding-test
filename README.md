@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-04 17:27:46 <br>
+Last Update : 2025-05-05 17:46:13 <br>
 
 
 ```
-3054 Solved
- - Kotlin : 2466
+3056 Solved
+ - Kotlin : 2468
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -171,6 +171,7 @@ baekjoon
       [Kotlin] 1의 개수 세기
       [Kotlin] 2048 (Easy)
       [Kotlin] K번째 수
+      [Kotlin] Labyrinth
       [Kotlin] Maaaaaaaaaze
       [Kotlin] N포커
       [Kotlin] 가운데를 말해요
@@ -309,6 +310,7 @@ baekjoon
       [Kotlin] CTP 왕국은 한솔 왕국을 이길 수 있을까
       [Kotlin] Count Circle Groups
       [Kotlin] DSLR
+      [Kotlin] Explorace
       [Kotlin] Jungle Roads
       [Kotlin] LCS 2
       [Kotlin] N-Queen
