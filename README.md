@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-05 17:46:13 <br>
+Last Update : 2025-05-06 23:12:11 <br>
 
 
 ```
-3056 Solved
- - Kotlin : 2468
+3057 Solved
+ - Kotlin : 2469
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -316,6 +316,7 @@ baekjoon
       [Kotlin] N-Queen
       [Kotlin] Networking
       [Kotlin] N으로 만들기
+      [Kotlin] Out of Hay
       [Kotlin] Puyo Puyo
       [Kotlin] RGB거리 2
       [Kotlin] Tree
