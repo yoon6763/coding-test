@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-06 23:12:11 <br>
+Last Update : 2025-05-07 20:53:19 <br>
 
 
 ```
-3057 Solved
- - Kotlin : 2469
+3058 Solved
+ - Kotlin : 2470
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -33,8 +33,8 @@ Last Update : 2025-05-06 23:12:11 <br>
  - Go : 1
  - Fortran : 1
  - Algol68 : 1
- - Swift : 1
  - 아희 : 1
+ - Swift : 1
  - Visual Basic : 1
  - Ada : 1
  - GolfScript : 1
@@ -306,6 +306,7 @@ baekjoon
       [Kotlin] 행렬 곱셈 순서
     g4
       [Kotlin] 4연산
+      [Kotlin] Autostrady
       [Kotlin] Bad Cowtractors
       [Kotlin] CTP 왕국은 한솔 왕국을 이길 수 있을까
       [Kotlin] Count Circle Groups
@@ -2539,10 +2540,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [JavaScript] A+B
       [C#] A+B
-      [Swift] A+B
+      [JavaScript] A+B
       [아희] A+B
+      [Swift] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
