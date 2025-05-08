@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-07 20:53:19 <br>
+Last Update : 2025-05-09 00:14:48 <br>
 
 
 ```
-3058 Solved
- - Kotlin : 2470
+3059 Solved
+ - Kotlin : 2471
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2026,6 +2026,7 @@ baekjoon
       [Kotlin] 한다 안한다
       [Kotlin] 할로윈의 사탕
       [Kotlin] 핸드폰 요금
+      [Kotlin] 햄버거 정렬
       [Kotlin] 행운의 편지
       [Kotlin] 헤라클레스와 히드라
       [Kotlin] 헬멧과 조끼
