@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-09 00:14:48 <br>
+Last Update : 2025-05-09 23:22:53 <br>
 
 
 ```
-3059 Solved
- - Kotlin : 2471
+3060 Solved
+ - Kotlin : 2472
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1049,6 +1049,7 @@ baekjoon
       [Kotlin] N번째 큰 수
       [Kotlin] Obraz
       [Kotlin] Pen Pineapple Apple Pen
+      [Kotlin] PlayStation이 아니에요
       [Kotlin] Presidents
       [Kotlin] ROT13
       [Kotlin] Send me the money
