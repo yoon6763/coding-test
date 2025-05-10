@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-09 23:22:53 <br>
+Last Update : 2025-05-10 18:01:44 <br>
 
 
 ```
-3060 Solved
- - Kotlin : 2472
+3061 Solved
+ - Kotlin : 2473
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1685,6 +1685,7 @@ baekjoon
       [Kotlin] Monitor DPI
       [Kotlin] More Dice
       [Kotlin] Muffinspelet
+      [Kotlin] Multiple Choice
       [Kotlin] N M 찍기
       [Kotlin] NASLJEDSTVO
       [Kotlin] Nadan
