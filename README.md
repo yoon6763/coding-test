@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-10 18:01:44 <br>
+Last Update : 2025-05-11 15:59:11 <br>
 
 
 ```
-3061 Solved
- - Kotlin : 2473
+3062 Solved
+ - Kotlin : 2474
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1835,6 +1835,7 @@ baekjoon
       [Kotlin] 네 수
       [Kotlin] 노 땡스!
       [Kotlin] 노솔브 방지문제야!!
+      [Kotlin] 다음 달에 봐요
       [Kotlin] 다음수
       [Kotlin] 단원평가
       [Kotlin] 대지
