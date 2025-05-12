@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-11 15:59:11 <br>
+Last Update : 2025-05-12 20:14:07 <br>
 
 
 ```
-3062 Solved
- - Kotlin : 2474
+3063 Solved
+ - Kotlin : 2475
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1056,6 +1056,7 @@ baekjoon
       [Kotlin] Snowflakes
       [Kotlin] Starman
       [Kotlin] Szyfr
+      [Kotlin] Text Roll
       [Kotlin] Word Processor
       [Kotlin] XORXORXOR
       [Kotlin] Yangjojang of The Year
