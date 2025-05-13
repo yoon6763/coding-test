@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-12 20:14:07 <br>
+Last Update : 2025-05-13 23:10:58 <br>
 
 
 ```
-3063 Solved
- - Kotlin : 2475
+3064 Solved
+ - Kotlin : 2476
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1130,6 +1130,7 @@ baekjoon
       [Kotlin] 알고리즘 수업 - 피보나치 수 1
       [Kotlin] 암호
       [Kotlin] 암호 키
+      [Kotlin] 암호해독기
       [Kotlin] 애너그램
       [Kotlin] 약수
       [Kotlin] 약수들의 합
