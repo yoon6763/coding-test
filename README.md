@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-13 23:10:58 <br>
+Last Update : 2025-05-14 21:52:50 <br>
 
 
 ```
-3064 Solved
- - Kotlin : 2476
+3065 Solved
+ - Kotlin : 2477
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -33,8 +33,8 @@ Last Update : 2025-05-13 23:10:58 <br>
  - Go : 1
  - Fortran : 1
  - Algol68 : 1
- - 아희 : 1
  - Swift : 1
+ - 아희 : 1
  - Visual Basic : 1
  - Ada : 1
  - GolfScript : 1
@@ -1171,6 +1171,7 @@ baekjoon
       [Kotlin] 콘도 선정
       [Kotlin] 콘서트
       [Kotlin] 크로스워드 만들기
+      [Kotlin] 탕수육
       [Kotlin] 택시 거리
       [Kotlin] 팀 이름 정하기
       [Kotlin] 팰린드롬수
@@ -2546,10 +2547,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [C#] A+B
+      [Swift] A+B
       [JavaScript] A+B
       [아희] A+B
-      [Swift] A+B
+      [C#] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
