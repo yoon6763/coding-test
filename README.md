@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-14 21:52:50 <br>
+Last Update : 2025-05-15 23:24:39 <br>
 
 
 ```
-3065 Solved
- - Kotlin : 2477
+3066 Solved
+ - Kotlin : 2478
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2446,6 +2446,7 @@ baekjoon
       [Kotlin] 火曜日 (Tuesday)
       [Kotlin] 立方体 (Cube)
       [Kotlin] 身長 (Height)
+      [Kotlin] 鉛筆 2 (Pencils 2)
       [Kotlin] 長方形 (Rectangle)
       [Kotlin] 飴の袋詰め (Drops Packing)
       [Kotlin] 가희와 4시간의 벽 1
