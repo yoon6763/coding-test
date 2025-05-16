@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-15 23:24:39 <br>
+Last Update : 2025-05-16 21:51:27 <br>
 
 
 ```
-3066 Solved
- - Kotlin : 2478
+3067 Solved
+ - Kotlin : 2479
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2440,6 +2440,7 @@ baekjoon
       [Kotlin] 余り (Remainder)
       [Kotlin] 分 (Minutes)
       [Kotlin] 徒競走 (Footrace)
+      [Kotlin] 所持金 (Money On Me)
       [Kotlin] 時間 (Hour)
       [Kotlin] 果物 (Fruit)
       [Kotlin] 母音を数える (Counting Vowels)
