@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-16 21:51:27 <br>
+Last Update : 2025-05-17 15:05:20 <br>
 
 
 ```
-3067 Solved
- - Kotlin : 2479
+3068 Solved
+ - Kotlin : 2480
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2261,6 +2261,7 @@ baekjoon
       [Kotlin] 金平糖 (Konpeito)
       [Kotlin] 鉄道旅行 3 (Railway Trip 3)
       [Kotlin] 鉛筆 (Pencils)
+      [Kotlin] 가희와 4시간의 벽 2
       [Kotlin] 가희와 방어율 무시
       [Kotlin] 가희와 클럽 오디션 1
       [Kotlin] 감마선을 맞은 컴퓨터
