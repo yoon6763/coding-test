@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-17 15:05:20 <br>
+Last Update : 2025-05-18 22:33:55 <br>
 
 
 ```
-3068 Solved
- - Kotlin : 2480
+3069 Solved
+ - Kotlin : 2481
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1178,6 +1178,7 @@ baekjoon
       [Kotlin] 평균은 넘겠지
       [Kotlin] 피보나치 수
       [Kotlin] 피카츄
+      [Kotlin] 피타고라스 기댓값
       [Kotlin] 한조서열정리하고옴ㅋㅋ
       [Kotlin] 핸드폰 번호 궁합
       [Kotlin] 행복한지 슬픈지
