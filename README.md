@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-18 22:33:55 <br>
+Last Update : 2025-05-19 20:57:25 <br>
 
 
 ```
-3069 Solved
- - Kotlin : 2481
+3070 Solved
+ - Kotlin : 2482
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1559,6 +1559,7 @@ baekjoon
       [Kotlin] 2017 아주대학교 프로그래밍 경시대회 (Small)
       [Kotlin] 2017 연세대학교 프로그래밍 경시대회
       [Kotlin] 2018 연세대학교 프로그래밍 경진대회
+      [Kotlin] 2025는 무엇이 특별할까
       [Kotlin] 2루수 이름이 뭐야
       [Kotlin] 2의 제곱인가
       [Kotlin] 369
