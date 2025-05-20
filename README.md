@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-19 20:57:25 <br>
+Last Update : 2025-05-20 23:33:26 <br>
 
 
 ```
-3070 Solved
- - Kotlin : 2482
+3071 Solved
+ - Kotlin : 2483
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1359,6 +1359,7 @@ baekjoon
       [Kotlin] 럭키 스트레이트
       [Kotlin] 막대기
       [Kotlin] 만취한 상범
+      [Kotlin] 맥주 99병
       [Kotlin] 모르고리즘 회장 정하기
       [Kotlin] 모르고리즘 회장님 추천 받습니다
       [Kotlin] 모스 부호
