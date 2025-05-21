@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-21 23:51:01 <br>
+Last Update : 2025-05-21 23:53:18 <br>
 
 
 ```
-3072 Solved
- - Kotlin : 2484
+3073 Solved
+ - Kotlin : 2485
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2301,6 +2301,7 @@ baekjoon
       [Kotlin] 사장님 도박은 재미로 하셔야 합니다
       [Kotlin] 삼각형 외우기
       [Kotlin] 상근이의 친구들
+      [Kotlin] 새천년관
       [Kotlin] 샤틀버스
       [Kotlin] 선물
       [Kotlin] 선택 가능성이 가장 높은 자료형
