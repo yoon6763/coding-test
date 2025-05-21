@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-20 23:33:26 <br>
+Last Update : 2025-05-21 23:51:01 <br>
 
 
 ```
-3071 Solved
- - Kotlin : 2483
+3072 Solved
+ - Kotlin : 2484
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -225,6 +225,7 @@ baekjoon
     g3
       [Kotlin] 200년간 폐관수련했더니 PS 최강자가 된 건에 대하여
       [Kotlin] ACM Craft
+      [Kotlin] Arctic Network
       [Kotlin] BFS 스페셜 저지
       [Kotlin] Baaaaaaaaaduk2 (Easy)
       [Kotlin] DFS 스페셜 저지
