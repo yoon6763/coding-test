@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-21 23:53:18 <br>
+Last Update : 2025-05-23 00:10:43 <br>
 
 
 ```
-3073 Solved
- - Kotlin : 2485
+3074 Solved
+ - Kotlin : 2486
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1269,6 +1269,7 @@ baekjoon
       [Kotlin] Mixing Milk
       [Kotlin] N! mod P (1)
       [Kotlin] NN
+      [Kotlin] Number Game
       [Kotlin] Number Maximization
       [Kotlin] Numbersrebmun
       [Kotlin] Palindromes
