@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-23 21:25:13 <br>
+Last Update : 2025-05-24 12:48:07 <br>
 
 
 ```
-3075 Solved
- - Kotlin : 2487
+3076 Solved
+ - Kotlin : 2488
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2161,6 +2161,7 @@ baekjoon
       [Kotlin] Lots of Liquid
       [Kotlin] Lunacy
       [Kotlin] Majestic 10
+      [Kotlin] Malvika is peculiar about color of balloons
       [Kotlin] Median
       [Kotlin] Máquina de café
       [Kotlin] Next in line
