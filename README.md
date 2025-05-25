@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-24 12:48:07 <br>
+Last Update : 2025-05-25 20:51:59 <br>
 
 
 ```
-3076 Solved
- - Kotlin : 2488
+3077 Solved
+ - Kotlin : 2489
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2291,6 +2291,7 @@ baekjoon
       [Kotlin] 등교
       [Kotlin] 뜨거운 붕어빵
       [Kotlin] 럭비 클럽
+      [Kotlin] 레퓨닛의 덧셈
       [Kotlin] 모범생 포닉스
       [Kotlin] 모비스
       [Kotlin] 모음의 개수
