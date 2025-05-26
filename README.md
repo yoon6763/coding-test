@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-25 20:51:59 <br>
+Last Update : 2025-05-26 20:30:45 <br>
 
 
 ```
-3077 Solved
- - Kotlin : 2489
+3078 Solved
+ - Kotlin : 2490
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -240,6 +240,7 @@ baekjoon
       [Kotlin] 개미굴
       [Kotlin] 거울 설치
       [Kotlin] 게임 개발
+      [Kotlin] 고속철도 설계하기
       [Kotlin] 과제
       [Kotlin] 교환
       [Kotlin] 군사 이동
