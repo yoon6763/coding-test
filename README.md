@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-26 20:30:45 <br>
+Last Update : 2025-05-27 21:03:18 <br>
 
 
 ```
-3078 Solved
- - Kotlin : 2490
+3079 Solved
+ - Kotlin : 2491
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -275,6 +275,7 @@ baekjoon
       [Kotlin] 소수의 연속합
       [Kotlin] 소형기관차
       [Kotlin] 순회강연
+      [Kotlin] 슬슬 가지를 먹지 않으면 죽는다
       [Kotlin] 싸지방에 간 준하
       [Kotlin] 아기 상어
       [Kotlin] 안정적인 네트워크
