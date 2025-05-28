@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-27 21:03:18 <br>
+Last Update : 2025-05-28 22:33:56 <br>
 
 
 ```
-3079 Solved
- - Kotlin : 2491
+3080 Solved
+ - Kotlin : 2492
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -33,8 +33,8 @@ Last Update : 2025-05-27 21:03:18 <br>
  - Go : 1
  - Fortran : 1
  - Algol68 : 1
- - Swift : 1
  - 아희 : 1
+ - Swift : 1
  - Visual Basic : 1
  - Ada : 1
  - GolfScript : 1
@@ -1627,6 +1627,7 @@ baekjoon
       [Kotlin] Divisors
       [Kotlin] Divvying Up
       [Kotlin] Dominos
+      [Kotlin] Donation Packaging
       [Kotlin] Don’t pass me the ball!
       [Kotlin] Double Password
       [Kotlin] Dyslexia
@@ -2561,10 +2562,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [Swift] A+B
-      [JavaScript] A+B
-      [아희] A+B
       [C#] A+B
+      [아희] A+B
+      [JavaScript] A+B
+      [Swift] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
