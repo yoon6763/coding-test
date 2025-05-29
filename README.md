@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-28 22:33:56 <br>
+Last Update : 2025-05-29 20:50:54 <br>
 
 
 ```
-3080 Solved
- - Kotlin : 2492
+3081 Solved
+ - Kotlin : 2493
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1835,6 +1835,7 @@ baekjoon
       [Kotlin] 과자 사기
       [Kotlin] 괄호 없는 사칙연산
       [Kotlin] 괴짜 교수
+      [Kotlin] 균형 잡힌 소떡소떡
       [Kotlin] 그대로 출력하기 2
       [Kotlin] 그래서 님 푼 문제 수가
       [Kotlin] 길면 기차, 기차는 빨라, 빠른 것은 비행기
