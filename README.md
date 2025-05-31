@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-30 23:16:18 <br>
+Last Update : 2025-05-31 22:57:19 <br>
 
 
 ```
-3082 Solved
- - Kotlin : 2494
+3083 Solved
+ - Kotlin : 2495
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2244,6 +2244,7 @@ baekjoon
       [Kotlin] Отряд
       [Kotlin] ПЧЕЛИЧКАТА МАЯ
       [Kotlin] Планеты двух измерений
+      [Kotlin] Плащ левитации
       [Kotlin] Поп-ит
       [Kotlin] Простая задача
       [Kotlin] Рождественская лотерея
