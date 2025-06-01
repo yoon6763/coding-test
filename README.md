@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-05-31 22:57:19 <br>
+Last Update : 2025-06-01 15:05:21 <br>
 
 
 ```
-3083 Solved
- - Kotlin : 2495
+3084 Solved
+ - Kotlin : 2496
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -315,6 +315,7 @@ baekjoon
       [Kotlin] Count Circle Groups
       [Kotlin] DSLR
       [Kotlin] Explorace
+      [Kotlin] Heavy Cargo
       [Kotlin] Jungle Roads
       [Kotlin] LCS 2
       [Kotlin] N-Queen
