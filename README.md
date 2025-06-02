@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-01 15:05:21 <br>
+Last Update : 2025-06-02 19:14:56 <br>
 
 
 ```
-3084 Solved
- - Kotlin : 2496
+3085 Solved
+ - Kotlin : 2497
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -333,6 +333,7 @@ baekjoon
       [Kotlin] 가장 가까운 공통 조상
       [Kotlin] 가장 긴 바이토닉 부분 수열
       [Kotlin] 가장 큰 정사각형
+      [Kotlin] 가희와 여행가요
       [Kotlin] 감시
       [Kotlin] 거짓말
       [Kotlin] 게리맨더링
