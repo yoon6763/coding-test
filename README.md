@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-02 19:14:56 <br>
+Last Update : 2025-06-03 16:53:47 <br>
 
 
 ```
-3085 Solved
- - Kotlin : 2497
+3086 Solved
+ - Kotlin : 2498
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -324,6 +324,7 @@ baekjoon
       [Kotlin] Out of Hay
       [Kotlin] Puyo Puyo
       [Kotlin] RGB거리 2
+      [Kotlin] Tangled in Cables
       [Kotlin] Tree
       [Kotlin] Two Dots
       [Kotlin] Yes or yes
