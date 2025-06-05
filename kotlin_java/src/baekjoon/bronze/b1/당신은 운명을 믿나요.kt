@@ -1,4 +1,6 @@
-package baekjoon.bronze
+package baekjoon.bronze.b1
+
+import kotlin.text.iterator
 
 fun main() {
     val s = readln()
