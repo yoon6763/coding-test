@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-03 16:53:47 <br>
+Last Update : 2025-06-05 22:29:13 <br>
 
 
 ```
-3086 Solved
- - Kotlin : 2498
+3088 Solved
+ - Kotlin : 2500
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1088,6 +1088,7 @@ baekjoon
       [Kotlin] 단어 사다리
       [Kotlin] 단어 퍼즐
       [Kotlin] 달팽이2
+      [Kotlin] 당신은 운명을 믿나요
       [Kotlin] 당직 근무표
       [Kotlin] 더하기 2
       [Kotlin] 데칼코마니
@@ -1731,6 +1732,7 @@ baekjoon
       [Kotlin] Sarah's Toys
       [Kotlin] Scale
       [Kotlin] Scavenger Hunt
+      [Kotlin] Secret Location
       [Kotlin] Sequences
       [Kotlin] Serious Problem
       [Kotlin] Sharing Birthdays
