@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-06 17:57:32 <br>
+Last Update : 2025-06-07 16:54:15 <br>
 
 
 ```
-3089 Solved
- - Kotlin : 2501
+3092 Solved
+ - Kotlin : 2504
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -503,6 +503,7 @@ baekjoon
       [Kotlin] 최소 회의실 개수
       [Kotlin] 최소비용 구하기
       [Kotlin] 치킨 배달
+      [Kotlin] 캠프 준비
       [Kotlin] 탑
       [Kotlin] 택배 배송
       [Kotlin] 테트로미노
@@ -1799,6 +1800,7 @@ baekjoon
       [Kotlin] Монетки
       [Kotlin] Пары
       [Kotlin] Различные квадраты
+      [Kotlin] Рыцарский щит
       [Kotlin] СРЕЩА НА ПРИЯТЕЛИ
       [Kotlin] カレー作り
       [Kotlin] マラソン大会 (Marathon Race)
@@ -1871,6 +1873,7 @@ baekjoon
       [Kotlin] 등차수열에서 항 번호 찾기
       [Kotlin] 디지털 루트
       [Kotlin] 레몬 따기
+      [Kotlin] 루미의 진정한™ 보라색 찾기
       [Kotlin] 루트
       [Kotlin] 리본 (Easy)
       [Kotlin] 맞았는데 왜 틀리죠
