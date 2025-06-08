@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-07 16:54:15 <br>
+Last Update : 2025-06-08 23:28:35 <br>
 
 
 ```
-3092 Solved
- - Kotlin : 2504
+3093 Solved
+ - Kotlin : 2505
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -959,6 +959,7 @@ baekjoon
       [Kotlin] 방 번호
       [Kotlin] 배열 합치기
       [Kotlin] 백대열
+      [Kotlin] 부분 문자열
       [Kotlin] 비밀번호 발음하기
       [Kotlin] 사과 담기 게임
       [Kotlin] 삼각형만들기
