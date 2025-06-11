@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-10 19:55:43 <br>
+Last Update : 2025-06-11 20:55:25 <br>
 
 
 ```
-3095 Solved
- - Kotlin : 2507
+3096 Solved
+ - Kotlin : 2508
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -396,6 +396,7 @@ baekjoon
       [Kotlin] 오큰수
       [Kotlin] 운동
       [Kotlin] 유닛 이동시키기
+      [Kotlin] 은하철도
       [Kotlin] 이분 그래프
       [Kotlin] 이중 우선순위 큐
       [Kotlin] 이진 검색 트리
