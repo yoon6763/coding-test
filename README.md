@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-11 20:55:25 <br>
+Last Update : 2025-06-12 21:28:27 <br>
 
 
 ```
-3096 Solved
- - Kotlin : 2508
+3097 Solved
+ - Kotlin : 2509
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -532,6 +532,7 @@ baekjoon
       [Kotlin] 1, 2, 3 더하기 2
       [Kotlin] 1로 만들기 2
       [Kotlin] Feeding Time
+      [Kotlin] Fence Planning
       [Kotlin] Holes
       [Kotlin] IOIOI
       [Kotlin] Islands
@@ -2578,10 +2579,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [C#] A+B
       [아희] A+B
-      [JavaScript] A+B
       [Swift] A+B
+      [JavaScript] A+B
+      [C#] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
