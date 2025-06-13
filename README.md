@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-12 21:28:27 <br>
+Last Update : 2025-06-13 20:34:17 <br>
 
 
 ```
-3097 Solved
- - Kotlin : 2509
+3098 Solved
+ - Kotlin : 2510
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1519,6 +1519,7 @@ baekjoon
       [Kotlin] 펭귄추락대책위원회
       [Kotlin] 포인트 카드
       [Kotlin] 폭죽쇼
+      [Kotlin] 풀만한문제
       [Kotlin] 풍선 놀이
       [Kotlin] 피로도
       [Kotlin] 피시방 알바
