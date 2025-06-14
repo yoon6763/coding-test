@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-13 20:34:17 <br>
+Last Update : 2025-06-14 23:12:37 <br>
 
 
 ```
-3098 Solved
- - Kotlin : 2510
+3099 Solved
+ - Kotlin : 2511
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -620,6 +620,7 @@ baekjoon
       [Kotlin] 하노이 탑
       [Kotlin] 하노이 탑 이동 순서
       [Kotlin] 행렬
+      [Kotlin] 행운의 문자열
       [Kotlin] 현명한 나이트
       [Kotlin] 현수막
       [Kotlin] 회의실 배정
