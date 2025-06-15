@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-14 23:12:37 <br>
+Last Update : 2025-06-15 13:55:36 <br>
 
 
 ```
-3099 Solved
- - Kotlin : 2511
+3100 Solved
+ - Kotlin : 2512
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1297,6 +1297,7 @@ baekjoon
       [Kotlin] SMUPC의 등장
       [Kotlin] SciComLove (2022)
       [Kotlin] Skaičiai
+      [Kotlin] Speeding
       [Kotlin] Split
       [Kotlin] Strfry
       [Kotlin] String
