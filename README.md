@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-15 13:55:36 <br>
+Last Update : 2025-06-16 13:25:08 <br>
 
 
 ```
-3100 Solved
- - Kotlin : 2512
+3101 Solved
+ - Kotlin : 2513
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -851,6 +851,7 @@ baekjoon
       [Kotlin] Router
       [Kotlin] The Game of Death
       [Kotlin] solvedac
+      [Kotlin] 가로수
       [Kotlin] 게임을 만든 동준이
       [Kotlin] 고양이 카페
       [Kotlin] 괄호
