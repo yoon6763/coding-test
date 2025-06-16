@@ -6,8 +6,7 @@ fun main() {
     var ans = 0
 
     for (i in 1 until n) {
-        val (t1, d1) = photos[i - 1]
-        val (t2, d2) = photos[i]
+        val (t1, d1, t2, d2) = photos[i - 1] + photos[i]
         ans = maxOf(ans, (d2 - d1) / (t2 - t1))
     }
 
