@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-16 13:25:08 <br>
+Last Update : 2025-06-17 22:27:56 <br>
 
 
 ```
-3101 Solved
- - Kotlin : 2513
+3102 Solved
+ - Kotlin : 2514
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1120,6 +1120,7 @@ baekjoon
       [Kotlin] 반복
       [Kotlin] 반올림
       [Kotlin] 반올림4539
+      [Kotlin] 배고픈 아리의 샌드위치 구매하기
       [Kotlin] 변수명
       [Kotlin] 비밀편지
       [Kotlin] 비숍 투어
