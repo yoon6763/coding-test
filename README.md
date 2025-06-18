@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-17 22:27:56 <br>
+Last Update : 2025-06-18 22:24:19 <br>
 
 
 ```
-3102 Solved
- - Kotlin : 2514
+3103 Solved
+ - Kotlin : 2515
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -433,6 +433,7 @@ baekjoon
       [Kotlin] 회사 문화 1
       [Java] 최단경로
     g5
+      [Kotlin] 0 만들기
       [Kotlin] 86 ─에이티식스─ 1
       [Kotlin] ABCDE
       [Kotlin] AC
