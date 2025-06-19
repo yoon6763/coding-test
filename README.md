@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-18 22:24:19 <br>
+Last Update : 2025-06-19 21:49:08 <br>
 
 
 ```
-3103 Solved
- - Kotlin : 2515
+3105 Solved
+ - Kotlin : 2517
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -666,6 +666,7 @@ baekjoon
       [Kotlin] 가장 큰 증가하는 부분 수열
       [Kotlin] 값이 k인 트리 노드의 깊이
       [Kotlin] 거리가 k이하인 트리 노드에서 사과 수확하기
+      [Kotlin] 걷다보니 신천역 삼 (Small)
       [Kotlin] 결혼식
       [Kotlin] 골드바흐 파티션
       [Kotlin] 골드바흐의 추측
@@ -779,6 +780,7 @@ baekjoon
       [Kotlin] 구간 합 구하기 4
       [Kotlin] 그녀를 찾아서
       [Kotlin] 내 선물을 받아줘 2
+      [Kotlin] 눈덩이 굴리기
       [Kotlin] 늑대와 양
       [Kotlin] 다음 순열
       [Kotlin] 달팽이
