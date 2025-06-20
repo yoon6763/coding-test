@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-19 21:49:08 <br>
+Last Update : 2025-06-20 21:06:35 <br>
 
 
 ```
-3105 Solved
- - Kotlin : 2517
+3106 Solved
+ - Kotlin : 2518
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2241,6 +2241,7 @@ baekjoon
       [Kotlin] Triangles
       [Kotlin] Triathlon
       [Kotlin] Triple Sevens
+      [Kotlin] Vandalism
       [Kotlin] Which Alien
       [Kotlin] Winning Score
       [Kotlin] X に最も近い値 (The Nearest Value)
