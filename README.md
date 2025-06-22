@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-21 15:49:01 <br>
+Last Update : 2025-06-22 10:50:03 <br>
 
 
 ```
-3107 Solved
- - Kotlin : 2519
+3108 Solved
+ - Kotlin : 2520
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1477,6 +1477,7 @@ baekjoon
       [Kotlin] 좋은 자동차 번호판
       [Kotlin] 좋은놈 나쁜놈
       [Kotlin] 주사위
+      [Kotlin] 주사위 게임
       [Kotlin] 주사위 네개
       [Kotlin] 주차의 신
       [Kotlin] 준석이의 사탕 사기
