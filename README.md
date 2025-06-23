@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-22 10:50:03 <br>
+Last Update : 2025-06-23 20:33:38 <br>
 
 
 ```
-3108 Solved
- - Kotlin : 2520
+3109 Solved
+ - Kotlin : 2521
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -821,6 +821,7 @@ baekjoon
       [Kotlin] 주유소
       [Kotlin] 죽음의 게임
       [Kotlin] 카드 놓기
+      [Kotlin] 칸토어 집합
       [Kotlin] 크리스마스 선물
       [Kotlin] 크면서 작은 수
       [Kotlin] 터렛
