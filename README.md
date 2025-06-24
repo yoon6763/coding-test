@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-23 20:33:38 <br>
+Last Update : 2025-06-24 21:24:55 <br>
 
 
 ```
-3109 Solved
- - Kotlin : 2521
+3110 Solved
+ - Kotlin : 2522
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -648,6 +648,7 @@ baekjoon
       [Kotlin] Kahe käigu ratsu
       [Kotlin] K번째 소수
       [Kotlin] Meeting Time
+      [Kotlin] Message Relay
       [Kotlin] Neighborhoods in Graphs
       [Kotlin] N번째 큰 수
       [Kotlin] Oil Deposits
