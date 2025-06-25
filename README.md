@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-24 21:24:55 <br>
+Last Update : 2025-06-25 21:05:57 <br>
 
 
 ```
-3110 Solved
- - Kotlin : 2522
+3111 Solved
+ - Kotlin : 2523
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -678,6 +678,7 @@ baekjoon
       [Kotlin] 나무 자르기
       [Kotlin] 너구리 구구
       [Kotlin] 도영이가 만든 맛있는 음식
+      [Kotlin] 또 전자레인지야
       [Kotlin] 로또
       [Kotlin] 마인크래프트
       [Kotlin] 맹세
@@ -2592,10 +2593,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [아희] A+B
-      [Swift] A+B
-      [JavaScript] A+B
       [C#] A+B
+      [아희] A+B
+      [JavaScript] A+B
+      [Swift] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
