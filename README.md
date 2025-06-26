@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-25 21:05:57 <br>
+Last Update : 2025-06-26 21:33:30 <br>
 
 
 ```
-3111 Solved
- - Kotlin : 2523
+3112 Solved
+ - Kotlin : 2524
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -616,6 +616,7 @@ baekjoon
       [Kotlin] 통나무 건너뛰기
       [Kotlin] 튜터-튜티 관계의 수
       [Kotlin] 트리 순회
+      [Kotlin] 트리를 간단하게 색칠하는 최소 비용
       [Kotlin] 팔
       [Kotlin] 포도주 시식
       [Kotlin] 하노이 탑
@@ -2593,10 +2594,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [C#] A+B
       [아희] A+B
-      [JavaScript] A+B
       [Swift] A+B
+      [JavaScript] A+B
+      [C#] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
