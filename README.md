@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-27 22:18:00 <br>
+Last Update : 2025-06-28 16:30:22 <br>
 
 
 ```
-3113 Solved
- - Kotlin : 2525
+3114 Solved
+ - Kotlin : 2526
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -481,6 +481,7 @@ baekjoon
       [Kotlin] 상범 빌딩
       [Kotlin] 상어 초등학교
       [Kotlin] 선발 명단
+      [Kotlin] 선수과목 (Prerequisite)
       [Kotlin] 세 친구
       [Kotlin] 소셜 네트워킹 어플리케이션
       [Kotlin] 수 고르기
