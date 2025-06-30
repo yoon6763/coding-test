@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-29 19:14:13 <br>
+Last Update : 2025-06-30 23:14:24 <br>
 
 
 ```
-3115 Solved
- - Kotlin : 2527
+3116 Solved
+ - Kotlin : 2528
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1663,6 +1663,7 @@ baekjoon
       [Kotlin] Error Detection
       [Kotlin] Even Sum More Than Odd Sum
       [Kotlin] Even or Odd
+      [Kotlin] Explicit Formula
       [Kotlin] Extreme Temperatures
       [Kotlin] FBI
       [Kotlin] Fan Death
