@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-26 21:33:30 <br>
+Last Update : 2025-06-29 19:14:13 <br>
 
 
 ```
-3112 Solved
- - Kotlin : 2524
+3115 Solved
+ - Kotlin : 2527
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -481,6 +481,7 @@ baekjoon
       [Kotlin] 상범 빌딩
       [Kotlin] 상어 초등학교
       [Kotlin] 선발 명단
+      [Kotlin] 선수과목 (Prerequisite)
       [Kotlin] 세 친구
       [Kotlin] 소셜 네트워킹 어플리케이션
       [Kotlin] 수 고르기
@@ -776,6 +777,7 @@ baekjoon
       [Kotlin] N과 M (7)
       [Kotlin] N과 M (8)
       [Kotlin] N과 M (9)
+      [Kotlin] Robot in a Maze
       [Kotlin] 가희와 파일 탐색기
       [Kotlin] 걸그룹 마스터 준석이
       [Kotlin] 게임
@@ -944,6 +946,7 @@ baekjoon
       [Kotlin] K-세준수
       [Kotlin] K번째 수
       [Kotlin] LCM
+      [Kotlin] New Time
       [Kotlin] PLAYERJINAH’S BOTTLEGROUNDS
       [Kotlin] UCPC는 무엇의 약자일까
       [Kotlin] 謎紛芥索紀 (Small)
