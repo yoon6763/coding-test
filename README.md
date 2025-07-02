@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-06-30 23:14:24 <br>
+Last Update : 2025-07-01 21:36:47 <br>
 
 
 ```
-3116 Solved
- - Kotlin : 2528
+3117 Solved
+ - Kotlin : 2529
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -606,6 +606,7 @@ baekjoon
       [Kotlin] 체스
       [Kotlin] 최대공약수
       [Kotlin] 출근
+      [Kotlin] 친구 팰린드롬
       [Kotlin] 카드 구매하기
       [Kotlin] 카드 구매하기 2
       [Kotlin] 카드 합체 놀이
