@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-01 21:36:47 <br>
+Last Update : 2025-07-02 22:27:33 <br>
 
 
 ```
-3117 Solved
- - Kotlin : 2529
+3118 Solved
+ - Kotlin : 2530
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1065,6 +1065,7 @@ baekjoon
       [Kotlin] FizzBuzz
       [Kotlin] Go Latin
       [Kotlin] ISBN
+      [Kotlin] Java String Equals
       [Kotlin] MINESWEEPER
       [Kotlin] Maps
       [Kotlin] Meats On The Grill
