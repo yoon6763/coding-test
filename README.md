@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-02 22:27:33 <br>
+Last Update : 2025-07-03 18:01:01 <br>
 
 
 ```
-3118 Solved
- - Kotlin : 2530
+3119 Solved
+ - Kotlin : 2531
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1599,6 +1599,7 @@ baekjoon
       [Kotlin] 2의 제곱인가
       [Kotlin] 369
       [Kotlin] 3n+1 수열
+      [Kotlin] 3대 512
       [Kotlin] 7종 경기
       [Kotlin] 99 Problems
       [Kotlin] A Serious Reading Problem
