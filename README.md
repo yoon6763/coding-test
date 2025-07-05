@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-03 18:01:01 <br>
+Last Update : 2025-07-04 22:46:55 <br>
 
 
 ```
-3119 Solved
- - Kotlin : 2531
+3120 Solved
+ - Kotlin : 2532
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1190,6 +1190,7 @@ baekjoon
       [Kotlin] 준오는 조류혐오야!!
       [Kotlin] 진법 변환 2
       [Kotlin] 차량 번호판 1
+      [Kotlin] 청정수열 (Easy)
       [Kotlin] 초성 변환
       [Kotlin] 초성 중성 종성
       [Kotlin] 초콜릿 자르기
