@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-05 14:38:07 <br>
+Last Update : 2025-07-06 19:59:57 <br>
 
 
 ```
-3121 Solved
- - Kotlin : 2533
+3122 Solved
+ - Kotlin : 2534
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1291,6 +1291,7 @@ baekjoon
       [Kotlin] KABISA
       [Kotlin] KMP는 왜 KMP일까
       [Kotlin] KOREA 문자열 만들기
+      [Kotlin] Kiwis vs Kangaroos
       [Kotlin] Letter Count
       [Kotlin] Longest Subsequence
       [Kotlin] Mad Scientist
