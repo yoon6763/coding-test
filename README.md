@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-06 19:59:57 <br>
+Last Update : 2025-07-07 21:59:20 <br>
 
 
 ```
-3122 Solved
- - Kotlin : 2534
+3123 Solved
+ - Kotlin : 2535
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2222,6 +2222,7 @@ baekjoon
       [Kotlin] Pokemon Buddy
       [Kotlin] Population
       [Kotlin] Poziome serca
+      [Kotlin] Practice Roll Call
       [Kotlin] Previous Level
       [Kotlin] Quadrants
       [Kotlin] Quadrilateral
