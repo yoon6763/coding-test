@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-07 21:59:20 <br>
+Last Update : 2025-07-08 22:51:56 <br>
 
 
 ```
-3123 Solved
- - Kotlin : 2535
+3124 Solved
+ - Kotlin : 2536
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1900,6 +1900,7 @@ baekjoon
       [Kotlin] 두~~부 두부 두부
       [Kotlin] 등장하지 않는 문자의 합
       [Kotlin] 등차수열에서 항 번호 찾기
+      [Kotlin] 디미고에 가고 싶어
       [Kotlin] 디지털 루트
       [Kotlin] 레몬 따기
       [Kotlin] 루미의 진정한™ 보라색 찾기
