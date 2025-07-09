@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-08 22:51:56 <br>
+Last Update : 2025-07-09 23:44:56 <br>
 
 
 ```
-3124 Solved
- - Kotlin : 2536
+3125 Solved
+ - Kotlin : 2537
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -639,6 +639,7 @@ baekjoon
       [Kotlin] Bad Grass
       [Kotlin] Bitmap
       [Kotlin] Bronze Lilypad Pond
+      [Kotlin] Clear Cold Water
       [Kotlin] DFS와 BFS
       [Kotlin] DNA 비밀번호
       [Kotlin] DOM
