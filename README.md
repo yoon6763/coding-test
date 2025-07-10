@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-09 23:44:56 <br>
+Last Update : 2025-07-10 21:56:33 <br>
 
 
 ```
-3125 Solved
- - Kotlin : 2537
+3126 Solved
+ - Kotlin : 2538
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -780,6 +780,7 @@ baekjoon
       [Kotlin] N과 M (8)
       [Kotlin] N과 M (9)
       [Kotlin] Robot in a Maze
+      [Kotlin] 問題3
       [Kotlin] 가희와 파일 탐색기
       [Kotlin] 걸그룹 마스터 준석이
       [Kotlin] 게임
