@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-10 21:56:33 <br>
+Last Update : 2025-07-11 20:12:17 <br>
 
 
 ```
-3126 Solved
- - Kotlin : 2538
+3127 Solved
+ - Kotlin : 2539
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1378,6 +1378,7 @@ baekjoon
       [Kotlin] 농구 경기
       [Kotlin] 니모를 찾아서
       [Kotlin] 닉네임에 갓 붙이기
+      [Kotlin] 다트
       [Kotlin] 단어순서 뒤집기
       [Kotlin] 대출 요청
       [Kotlin] 대충 더해
