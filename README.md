@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-11 20:12:17 <br>
+Last Update : 2025-07-12 20:15:25 <br>
 
 
 ```
-3127 Solved
- - Kotlin : 2539
+3128 Solved
+ - Kotlin : 2540
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1262,6 +1262,7 @@ baekjoon
       [Kotlin] Art
       [Kotlin] CTP공국으로 이민 가자
       [Kotlin] Caesar Cipher
+      [Kotlin] Card Game Contest
       [Kotlin] Carousel Rides
       [Kotlin] Centauri Prime (Small1)
       [Kotlin] Check Digits
@@ -2610,9 +2611,9 @@ baekjoon
       [C++] 큰 수 A+B
       [Text] 한별 찍기
       [아희] A+B
-      [Swift] A+B
-      [JavaScript] A+B
       [C#] A+B
+      [JavaScript] A+B
+      [Swift] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
