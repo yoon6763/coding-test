@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-12 20:15:25 <br>
+Last Update : 2025-07-13 10:06:35 <br>
 
 
 ```
-3128 Solved
- - Kotlin : 2540
+3129 Solved
+ - Kotlin : 2541
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1356,6 +1356,7 @@ baekjoon
       [Kotlin] 거스름돈
       [Kotlin] 거울반사
       [Kotlin] 거울상
+      [Kotlin] 게임말 올려놓기
       [Kotlin] 고무오리 디버깅
       [Kotlin] 고장난 시계
       [Kotlin] 공간을 만들어 봅시다
