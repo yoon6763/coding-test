@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-13 10:06:35 <br>
+Last Update : 2025-07-14 22:04:02 <br>
 
 
 ```
-3129 Solved
- - Kotlin : 2541
+3130 Solved
+ - Kotlin : 2542
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1054,6 +1054,7 @@ baekjoon
       [Kotlin] 2007년
       [Kotlin] 2023년은 검은 토끼의 해
       [Kotlin] 2진수 8진수
+      [Kotlin] 3개만
       [Kotlin] 4번째 점
       [Kotlin] 6174
       [Kotlin] A divide B - 2
