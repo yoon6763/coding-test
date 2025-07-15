@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-14 22:04:02 <br>
+Last Update : 2025-07-15 22:43:23 <br>
 
 
 ```
-3130 Solved
- - Kotlin : 2542
+3131 Solved
+ - Kotlin : 2543
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -541,6 +541,7 @@ baekjoon
       [Kotlin] Knight
       [Kotlin] Knight Moves
       [Kotlin] Milk Factory
+      [Kotlin] Money Matters
       [Kotlin] NM과 K (1)
       [Kotlin] RGB거리
       [Kotlin] Red and Black
