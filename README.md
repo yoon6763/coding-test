@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-15 22:43:23 <br>
+Last Update : 2025-07-16 21:49:36 <br>
 
 
 ```
-3131 Solved
- - Kotlin : 2543
+3132 Solved
+ - Kotlin : 2544
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -666,6 +666,7 @@ baekjoon
       [Kotlin] Spawn of Ungoliant
       [Kotlin] The Chivalrous Cow
       [Kotlin] Tractor Path
+      [Kotlin] Twibet (Small)
       [Kotlin] Your life
       [Kotlin] 가장 긴 감소하는 부분 수열
       [Kotlin] 가장 긴 증가하는 부분 수열
