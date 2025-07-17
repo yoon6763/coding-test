@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-16 21:49:36 <br>
+Last Update : 2025-07-17 21:23:51 <br>
 
 
 ```
-3132 Solved
- - Kotlin : 2544
+3133 Solved
+ - Kotlin : 2545
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -765,6 +765,7 @@ baekjoon
       [Kotlin] 2×n 타일링
       [Kotlin] 2×n 타일링 2
       [Kotlin] Binary tree
+      [Kotlin] Connected or Not Connected
       [Kotlin] Daisy Chains in the Field
       [Kotlin] Four Squares
       [Kotlin] Java vs C++
