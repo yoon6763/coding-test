@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-17 21:23:51 <br>
+Last Update : 2025-07-19 23:07:45 <br>
 
 
 ```
-3133 Solved
- - Kotlin : 2545
+3135 Solved
+ - Kotlin : 2547
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1710,6 +1710,7 @@ baekjoon
       [Kotlin] ICONS
       [Kotlin] ID
       [Kotlin] ID Key
+      [Kotlin] Incomplete Book
       [Kotlin] Increasing Sublist
       [Kotlin] International Dates
       [Kotlin] Isn’t It Funny How a Bear Likes Honey
@@ -2246,6 +2247,7 @@ baekjoon
       [Kotlin] SMS from MCHS
       [Kotlin] Schronisko
       [Kotlin] SciComLove (2024)
+      [Kotlin] SciComLove (2025)
       [Kotlin] Shipping
       [Kotlin] Silnia
       [Kotlin] Simple Sum
