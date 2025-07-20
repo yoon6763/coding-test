@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-19 23:07:45 <br>
+Last Update : 2025-07-20 23:20:21 <br>
 
 
 ```
-3135 Solved
- - Kotlin : 2547
+3136 Solved
+ - Kotlin : 2548
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1853,6 +1853,7 @@ baekjoon
       [Kotlin] 가변 배열
       [Kotlin] 가위 바위 보
       [Kotlin] 가희와 부역명
+      [Kotlin] 가희와 서울 지하철 2호선
       [Kotlin] 갈래의 색종이 자르기
       [Kotlin] 개표
       [Kotlin] 거북이
