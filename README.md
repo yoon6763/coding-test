@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-20 23:20:21 <br>
+Last Update : 2025-07-21 23:14:45 <br>
 
 
 ```
-3136 Solved
- - Kotlin : 2548
+3137 Solved
+ - Kotlin : 2549
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1695,6 +1695,7 @@ baekjoon
       [Kotlin] Gift Expire Date
       [Kotlin] Golf
       [Kotlin] Good times
+      [Kotlin] Gradabase
       [Kotlin] Greetings!
       [Kotlin] HI-ARC
       [Kotlin] Handebol
