@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-22 21:29:27 <br>
+Last Update : 2025-07-23 22:07:09 <br>
 
 
 ```
-3138 Solved
- - Kotlin : 2550
+3139 Solved
+ - Kotlin : 2551
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1655,6 +1655,7 @@ baekjoon
       [Kotlin] Chessboard
       [Kotlin] Coffee Cup Combo
       [Kotlin] Collatz Conjecture
+      [Kotlin] Cornhusker
       [Kotlin] Counting Swann’s Coins
       [Kotlin] Cuboids
       [Kotlin] Culture shock
