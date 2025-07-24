@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-23 22:07:09 <br>
+Last Update : 2025-07-24 21:46:21 <br>
 
 
 ```
-3139 Solved
- - Kotlin : 2551
+3140 Solved
+ - Kotlin : 2552
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -637,6 +637,7 @@ baekjoon
       [Kotlin] A to B
       [Kotlin] A-maze-ing Lakes
       [Kotlin] Alien Attack 2
+      [Kotlin] Atvirutės
       [Kotlin] Bad Grass
       [Kotlin] Bitmap
       [Kotlin] Bronze Lilypad Pond
