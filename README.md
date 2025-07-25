@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-24 21:46:21 <br>
+Last Update : 2025-07-25 22:31:00 <br>
 
 
 ```
-3140 Solved
- - Kotlin : 2552
+3141 Solved
+ - Kotlin : 2553
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1729,6 +1729,7 @@ baekjoon
       [Kotlin] Kick
       [Kotlin] Koncert
       [Kotlin] Kortos
+      [Kotlin] Leitura Ótica
       [Kotlin] License to Launch
       [Kotlin] Liczba
       [Kotlin] Liczenie punktów
