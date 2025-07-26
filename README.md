@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-25 22:31:00 <br>
+Last Update : 2025-07-26 15:42:08 <br>
 
 
 ```
-3141 Solved
- - Kotlin : 2553
+3143 Solved
+ - Kotlin : 2555
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -637,6 +637,7 @@ baekjoon
       [Kotlin] A to B
       [Kotlin] A-maze-ing Lakes
       [Kotlin] Alien Attack 2
+      [Kotlin] Architektura niezależna
       [Kotlin] Atvirutės
       [Kotlin] Bad Grass
       [Kotlin] Bitmap
@@ -1686,6 +1687,7 @@ baekjoon
       [Kotlin] Federal Voting Age
       [Kotlin] Fence Painting
       [Kotlin] Filling Out the Team
+      [Kotlin] Finding Your Coach
       [Kotlin] FizzBuzz
       [Kotlin] Flat
       [Kotlin] Flower Festival
