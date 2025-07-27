@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-26 15:42:08 <br>
+Last Update : 2025-07-27 20:42:00 <br>
 
 
 ```
-3143 Solved
- - Kotlin : 2555
+3144 Solved
+ - Kotlin : 2556
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1431,6 +1431,7 @@ baekjoon
       [Kotlin] 비슷한 전화번호 표시
       [Kotlin] 사각형 면적
       [Kotlin] 사과와 바나나 나눠주기
+      [Kotlin] 사라진 페이지 찾기
       [Kotlin] 사칙연산
       [Kotlin] 상근이의 체스판
       [Kotlin] 새
