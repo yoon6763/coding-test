@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-27 20:42:00 <br>
+Last Update : 2025-07-29 23:37:13 <br>
 
 
 ```
-3144 Solved
- - Kotlin : 2556
+3145 Solved
+ - Kotlin : 2557
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -2180,6 +2180,7 @@ baekjoon
       [Kotlin] Covid-19
       [Kotlin] Cutting Corners
       [Kotlin] DKSH 찾기
+      [Kotlin] DORO
       [Kotlin] Darius님 한타 안 함
       [Kotlin] Dedupe
       [Kotlin] Deliv-e-droid
