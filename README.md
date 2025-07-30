@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-30 21:09:24 <br>
+Last Update : 2025-07-31 08:36:04 <br>
 
 
 ```
-3146 Solved
- - Kotlin : 2558
+3147 Solved
+ - Kotlin : 2559
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1833,6 +1833,7 @@ baekjoon
       [Kotlin] Zegarek
       [Kotlin] `ソーシャルゲーム (Social Game)`
       [Kotlin] gahui and sousenkyo 2
+      [Kotlin] gg
       [Kotlin] ВРЕМЕ
       [Kotlin] Выражение
       [Kotlin] ДИНИ
