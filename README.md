@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-07-31 08:36:04 <br>
+Last Update : 2025-08-01 09:23:20 <br>
 
 
 ```
-3147 Solved
- - Kotlin : 2559
+3149 Solved
+ - Kotlin : 2561
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1730,6 +1730,7 @@ baekjoon
       [Kotlin] J박스
       [Kotlin] Kathmandu
       [Kotlin] Kick
+      [Kotlin] Knob
       [Kotlin] Koncert
       [Kotlin] Kortos
       [Kotlin] Leitura Ótica
@@ -1853,6 +1854,7 @@ baekjoon
       [Kotlin] マラソン大会 (Marathon Race)
       [Kotlin] 割り勘
       [Kotlin] 問題 １
+      [Kotlin] 差 (Difference)
       [Kotlin] 改元
       [Kotlin] 文字列の反転 (Inversion of a String)
       [Kotlin] 次の文字 (Next Character)
