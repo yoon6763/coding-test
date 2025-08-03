@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-02 23:35:55 <br>
+Last Update : 2025-08-03 09:36:14 <br>
 
 
 ```
-3150 Solved
- - Kotlin : 2562
+3152 Solved
+ - Kotlin : 2564
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -543,9 +543,11 @@ baekjoon
       [Kotlin] Milk Factory
       [Kotlin] Money Matters
       [Kotlin] NM과 K (1)
+      [Kotlin] Paint bucket
       [Kotlin] RGB거리
       [Kotlin] Red and Black
       [Kotlin] Small World Network
+      [Kotlin] Thread Tree
       [Kotlin] Z
       [Kotlin] n단 논법
       [Kotlin] カーペット (Carpet)
