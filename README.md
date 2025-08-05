@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-04 23:23:50 <br>
+Last Update : 2025-08-05 20:07:42 <br>
 
 
 ```
-3153 Solved
- - Kotlin : 2565
+3154 Solved
+ - Kotlin : 2566
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -533,6 +533,7 @@ baekjoon
     s1
       [Kotlin] 1, 2, 3 더하기 2
       [Kotlin] 1로 만들기 2
+      [Kotlin] Cow Hopscotch
       [Kotlin] Cow Picnic
       [Kotlin] Feeding Time
       [Kotlin] Fence Planning
