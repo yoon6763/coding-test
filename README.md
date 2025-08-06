@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-05 20:07:42 <br>
+Last Update : 2025-08-06 19:52:57 <br>
 
 
 ```
-3154 Solved
- - Kotlin : 2566
+3155 Solved
+ - Kotlin : 2567
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -548,6 +548,7 @@ baekjoon
       [Kotlin] Paint bucket
       [Kotlin] RGB거리
       [Kotlin] Red and Black
+      [Kotlin] Secret Chamber at Mount Rushmore
       [Kotlin] Small World Network
       [Kotlin] Thread Tree
       [Kotlin] Z
