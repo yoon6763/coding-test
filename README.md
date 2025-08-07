@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-06 19:52:57 <br>
+Last Update : 2025-08-07 22:39:19 <br>
 
 
 ```
-3155 Solved
- - Kotlin : 2567
+3156 Solved
+ - Kotlin : 2568
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1077,6 +1077,7 @@ baekjoon
       [Kotlin] Doubles
       [Kotlin] Favorite Number
       [Kotlin] FizzBuzz
+      [Kotlin] GCD
       [Kotlin] Go Latin
       [Kotlin] ISBN
       [Kotlin] Java String Equals
