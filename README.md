@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-07 22:39:19 <br>
+Last Update : 2025-08-08 18:00:01 <br>
 
 
 ```
-3156 Solved
- - Kotlin : 2568
+3157 Solved
+ - Kotlin : 2569
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1712,6 +1712,7 @@ baekjoon
       [Kotlin] HI-ARC
       [Kotlin] Handebol
       [Kotlin] Hangover
+      [Kotlin] Harshad Numbers
       [Kotlin] Haughty Cuisine
       [Kotlin] Hawk eyes
       [Kotlin] Head or Tail
