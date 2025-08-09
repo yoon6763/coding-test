@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-08 18:00:01 <br>
+Last Update : 2025-08-09 20:49:14 <br>
 
 
 ```
-3157 Solved
- - Kotlin : 2569
+3158 Solved
+ - Kotlin : 2570
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -33,8 +33,8 @@ Last Update : 2025-08-08 18:00:01 <br>
  - Go : 1
  - Fortran : 1
  - Algol68 : 1
- - 아희 : 1
  - Swift : 1
+ - 아희 : 1
  - Visual Basic : 1
  - Ada : 1
  - GolfScript : 1
@@ -1081,6 +1081,7 @@ baekjoon
       [Kotlin] Go Latin
       [Kotlin] ISBN
       [Kotlin] Java String Equals
+      [Kotlin] Lifeguards (Bronze)
       [Kotlin] MINESWEEPER
       [Kotlin] Maps
       [Kotlin] Meats On The Grill
@@ -2639,10 +2640,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [아희] A+B
-      [C#] A+B
       [JavaScript] A+B
+      [C#] A+B
       [Swift] A+B
+      [아희] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
