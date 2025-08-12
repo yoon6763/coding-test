@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-10 14:22:21 <br>
+Last Update : 2025-08-11 21:00:02 <br>
 
 
 ```
-3159 Solved
- - Kotlin : 2571
+3160 Solved
+ - Kotlin : 2572
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -546,6 +546,7 @@ baekjoon
       [Kotlin] Money Matters
       [Kotlin] NM과 K (1)
       [Kotlin] Paint bucket
+      [Kotlin] Pasture Walking
       [Kotlin] RGB거리
       [Kotlin] Red and Black
       [Kotlin] Secret Chamber at Mount Rushmore
