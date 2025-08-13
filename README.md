@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-11 21:00:02 <br>
+Last Update : 2025-08-13 22:40:05 <br>
 
 
 ```
-3160 Solved
- - Kotlin : 2572
+3162 Solved
+ - Kotlin : 2574
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -538,6 +538,7 @@ baekjoon
       [Kotlin] Feeding Time
       [Kotlin] Fence Planning
       [Kotlin] Holes
+      [Kotlin] Hotel
       [Kotlin] IOIOI
       [Kotlin] Islands
       [Kotlin] Knight
@@ -654,6 +655,7 @@ baekjoon
       [Kotlin] DNA 비밀번호
       [Kotlin] DOM
       [Kotlin] Dynamic Grid (Large)
+      [Kotlin] Dynamic Grid (Small)
       [Kotlin] Elephant Show
       [Kotlin] Ga
       [Kotlin] Gruppindelning
