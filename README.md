@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-13 22:40:05 <br>
+Last Update : 2025-08-16 14:31:04 <br>
 
 
 ```
-3162 Solved
- - Kotlin : 2574
+3165 Solved
+ - Kotlin : 2577
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1667,6 +1667,7 @@ baekjoon
       [Kotlin] Cabin Baggage
       [Kotlin] Cakes
       [Kotlin] Canadians, eh
+      [Kotlin] Chanukah Challenge
       [Kotlin] Chessboard
       [Kotlin] Coffee Cup Combo
       [Kotlin] Collatz Conjecture
@@ -1773,6 +1774,7 @@ baekjoon
       [Kotlin] Odd Gnome
       [Kotlin] Olympic Games
       [Kotlin] Overdraft
+      [Kotlin] PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네
       [Kotlin] POT
       [Kotlin] Papier kamień nożyczki
       [Kotlin] Penalty calculation
@@ -2424,6 +2426,7 @@ baekjoon
       [Kotlin] 준영이의 등급
       [Kotlin] 줄번호
       [Kotlin] 지폐 세기
+      [Kotlin] 첫 번째 문제는 정말 쉬운 문제일까
       [Kotlin] 체스 초보 브실이
       [Kotlin] 체육은 수학과목 입니다
       [Kotlin] 체육은 코딩과목 입니다
