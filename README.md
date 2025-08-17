@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-16 14:31:04 <br>
+Last Update : 2025-08-17 20:56:31 <br>
 
 
 ```
-3165 Solved
- - Kotlin : 2577
+3166 Solved
+ - Kotlin : 2578
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1909,6 +1909,7 @@ baekjoon
       [Kotlin] 과자 사기
       [Kotlin] 괄호 없는 사칙연산
       [Kotlin] 괴짜 교수
+      [Kotlin] 국방시계
       [Kotlin] 균형 잡힌 소떡소떡
       [Kotlin] 그대로 출력하기 2
       [Kotlin] 그래서 님 푼 문제 수가
