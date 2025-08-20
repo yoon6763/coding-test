@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-19 22:59:41 <br>
+Last Update : 2025-08-20 19:37:13 <br>
 
 
 ```
-3168 Solved
- - Kotlin : 2580
+3169 Solved
+ - Kotlin : 2581
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -555,6 +555,7 @@ baekjoon
       [Kotlin] Secret Chamber at Mount Rushmore
       [Kotlin] Small World Network
       [Kotlin] Thread Tree
+      [Kotlin] Yokohama Phenomena
       [Kotlin] Z
       [Kotlin] n단 논법
       [Kotlin] カーペット (Carpet)
