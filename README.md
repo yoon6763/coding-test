@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-20 19:37:13 <br>
+Last Update : 2025-08-21 23:49:18 <br>
 
 
 ```
-3169 Solved
- - Kotlin : 2581
+3170 Solved
+ - Kotlin : 2582
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -536,6 +536,7 @@ baekjoon
       [Kotlin] 3D Space Exploration
       [Kotlin] Cow Hopscotch
       [Kotlin] Cow Picnic
+      [Kotlin] Dominos 2
       [Kotlin] Feeding Time
       [Kotlin] Fence Planning
       [Kotlin] Holes
