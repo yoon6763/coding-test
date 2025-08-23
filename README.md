@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-21 23:49:18 <br>
+Last Update : 2025-08-23 14:44:59 <br>
 
 
 ```
-3170 Solved
- - Kotlin : 2582
+3172 Solved
+ - Kotlin : 2584
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1352,6 +1352,7 @@ baekjoon
       [Kotlin] Word Ratios
       [Kotlin] Words
       [Kotlin] X marks the Spot
+      [Kotlin] XORChic
       [Kotlin] Zero
       [Kotlin] driip
       [Kotlin] e 계산
@@ -2244,6 +2245,7 @@ baekjoon
       [Kotlin] Kuber
       [Kotlin] Laptop Sticker
       [Kotlin] Last Factorial Digit
+      [Kotlin] Left Beehind
       [Kotlin] Lots of Liquid
       [Kotlin] Lunacy
       [Kotlin] Majestic 10
