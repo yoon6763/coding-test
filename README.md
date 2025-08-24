@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-23 14:44:59 <br>
+Last Update : 2025-08-24 23:24:30 <br>
 
 
 ```
-3172 Solved
- - Kotlin : 2584
+3173 Solved
+ - Kotlin : 2585
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1198,6 +1198,7 @@ baekjoon
       [Kotlin] 유니크
       [Kotlin] 유레카 이론
       [Kotlin] 유진수
+      [Kotlin] 이 구역의 승자는 누구야
       [Kotlin] 이름궁합 테스트
       [Kotlin] 이번학기 평점은 몇점
       [Kotlin] 이제는 더 이상 물러날 곳이 없다
