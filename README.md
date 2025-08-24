@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-20 19:37:13 <br>
+Last Update : 2025-08-23 14:44:59 <br>
 
 
 ```
-3169 Solved
- - Kotlin : 2581
+3172 Solved
+ - Kotlin : 2584
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -536,6 +536,7 @@ baekjoon
       [Kotlin] 3D Space Exploration
       [Kotlin] Cow Hopscotch
       [Kotlin] Cow Picnic
+      [Kotlin] Dominos 2
       [Kotlin] Feeding Time
       [Kotlin] Fence Planning
       [Kotlin] Holes
@@ -1351,6 +1352,7 @@ baekjoon
       [Kotlin] Word Ratios
       [Kotlin] Words
       [Kotlin] X marks the Spot
+      [Kotlin] XORChic
       [Kotlin] Zero
       [Kotlin] driip
       [Kotlin] e 계산
@@ -2243,6 +2245,7 @@ baekjoon
       [Kotlin] Kuber
       [Kotlin] Laptop Sticker
       [Kotlin] Last Factorial Digit
+      [Kotlin] Left Beehind
       [Kotlin] Lots of Liquid
       [Kotlin] Lunacy
       [Kotlin] Majestic 10
