@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-24 23:24:30 <br>
+Last Update : 2025-08-25 21:01:25 <br>
 
 
 ```
-3173 Solved
- - Kotlin : 2585
+3174 Solved
+ - Kotlin : 2586
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -1348,6 +1348,7 @@ baekjoon
       [Kotlin] TV 크기
       [Kotlin] Tautogram
       [Kotlin] The Cow-Signal
+      [Kotlin] The Seven Percent Solution
       [Kotlin] Union Maplestory
       [Kotlin] Word Mix
       [Kotlin] Word Ratios
