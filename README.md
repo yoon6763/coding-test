@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-25 21:01:25 <br>
+Last Update : 2025-08-26 23:26:13 <br>
 
 
 ```
-3174 Solved
- - Kotlin : 2586
+3176 Solved
+ - Kotlin : 2588
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -556,6 +556,7 @@ baekjoon
       [Kotlin] Secret Chamber at Mount Rushmore
       [Kotlin] Small World Network
       [Kotlin] Thread Tree
+      [Kotlin] Torn To Pieces
       [Kotlin] Yokohama Phenomena
       [Kotlin] Z
       [Kotlin] n단 논법
@@ -1159,6 +1160,7 @@ baekjoon
       [Kotlin] 반올림4539
       [Kotlin] 배고픈 아리의 샌드위치 구매하기
       [Kotlin] 변수명
+      [Kotlin] 불안정한 수열
       [Kotlin] 비밀편지
       [Kotlin] 비숍 투어
       [Kotlin] 색종이
