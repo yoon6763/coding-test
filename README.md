@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-27 19:19:30 <br>
+Last Update : 2025-08-28 23:12:49 <br>
 
 
 ```
-3177 Solved
- - Kotlin : 2589
+3178 Solved
+ - Kotlin : 2590
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -558,6 +558,7 @@ baekjoon
       [Kotlin] Small World Network
       [Kotlin] Thread Tree
       [Kotlin] Torn To Pieces
+      [Kotlin] Transitive Closure
       [Kotlin] Yokohama Phenomena
       [Kotlin] Z
       [Kotlin] n단 논법
@@ -2659,10 +2660,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [JavaScript] A+B
-      [C#] A+B
       [Swift] A+B
+      [JavaScript] A+B
       [아희] A+B
+      [C#] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
