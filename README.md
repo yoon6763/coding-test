@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-28 23:12:49 <br>
+Last Update : 2025-08-29 20:45:49 <br>
 
 
 ```
-3178 Solved
- - Kotlin : 2590
+3179 Solved
+ - Kotlin : 2591
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -675,6 +675,7 @@ baekjoon
       [Kotlin] Message Relay
       [Kotlin] Neighborhoods in Graphs
       [Kotlin] N번째 큰 수
+      [Kotlin] Oh Those Rollers
       [Kotlin] Oil Deposits
       [Kotlin] RAINFOREST CANOPY
       [Kotlin] Satellite Photographs
