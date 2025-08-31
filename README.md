@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-30 22:21:47 <br>
+Last Update : 2025-08-31 14:44:47 <br>
 
 
 ```
-3181 Solved
- - Kotlin : 2593
+3184 Solved
+ - Kotlin : 2596
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -537,6 +537,7 @@ baekjoon
       [Kotlin] Cow Hopscotch
       [Kotlin] Cow Picnic
       [Kotlin] Dominos 2
+      [Kotlin] Far Far Away
       [Kotlin] Feeding Time
       [Kotlin] Fence Planning
       [Kotlin] Holes
@@ -564,6 +565,7 @@ baekjoon
       [Kotlin] Z
       [Kotlin] n단 논법
       [Kotlin] カーペット (Carpet)
+      [Kotlin] 光ファイバー網の整備 (Fiber)
       [Kotlin] 가장 가까운 세 사람의 심리적 거리
       [Kotlin] 경로 찾기
       [Kotlin] 골드바흐의 추측
@@ -686,6 +688,7 @@ baekjoon
       [Kotlin] Space Exploration
       [Kotlin] Spawn of Ungoliant
       [Kotlin] The Chivalrous Cow
+      [Kotlin] The Leisurely Stroll
       [Kotlin] Tractor Path
       [Kotlin] Twibet (Small)
       [Kotlin] Your life
