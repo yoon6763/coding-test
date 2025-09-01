@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-08-31 14:44:47 <br>
+Last Update : 2025-09-01 23:01:44 <br>
 
 
 ```
-3184 Solved
- - Kotlin : 2596
+3185 Solved
+ - Kotlin : 2597
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -545,6 +545,7 @@ baekjoon
       [Kotlin] Hotel
       [Kotlin] IOIOI
       [Kotlin] Islands
+      [Kotlin] Klompendans
       [Kotlin] Knight
       [Kotlin] Knight Moves
       [Kotlin] Milk Factory
