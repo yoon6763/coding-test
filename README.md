@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-01 23:01:44 <br>
+Last Update : 2025-09-02 20:48:06 <br>
 
 
 ```
-3185 Solved
- - Kotlin : 2597
+3186 Solved
+ - Kotlin : 2598
  - Python : 274
  - Java : 150
  - SQL : 88
@@ -565,6 +565,7 @@ baekjoon
       [Kotlin] Yokohama Phenomena
       [Kotlin] Z
       [Kotlin] n단 논법
+      [Kotlin] Žetva
       [Kotlin] カーペット (Carpet)
       [Kotlin] 光ファイバー網の整備 (Fiber)
       [Kotlin] 가장 가까운 세 사람의 심리적 거리
