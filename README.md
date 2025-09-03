@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-02 20:48:06 <br>
+Last Update : 2025-09-03 20:56:29 <br>
 
 
 ```
-3186 Solved
- - Kotlin : 2598
- - Python : 274
+3188 Solved
+ - Kotlin : 2599
+ - Python : 275
  - Java : 150
  - SQL : 88
  - C : 23
@@ -692,6 +692,7 @@ baekjoon
       [Kotlin] The Chivalrous Cow
       [Kotlin] The Leisurely Stroll
       [Kotlin] Tractor Path
+      [Kotlin] Twibet (Large)
       [Kotlin] Twibet (Small)
       [Kotlin] Your life
       [Kotlin] 가장 긴 감소하는 부분 수열
@@ -2147,6 +2148,7 @@ baekjoon
       [Kotlin] 홀수일까 짝수일까
       [Kotlin] 홀짝 수열
       [Kotlin] 홀짝 칵테일
+      [Python] FBI
       [Python] Zbiór
       [Python] 가지 한 두름 주세요
       [Python] 네 번째 점
