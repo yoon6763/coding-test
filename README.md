@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-05 21:26:45 <br>
+Last Update : 2025-09-08 20:11:19 <br>
 
 
 ```
-3190 Solved
- - Kotlin : 2601
+3193 Solved
+ - Kotlin : 2604
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -564,6 +564,7 @@ baekjoon
       [Kotlin] Thread Tree
       [Kotlin] Torn To Pieces
       [Kotlin] Transitive Closure
+      [Kotlin] Winter Festival
       [Kotlin] Yokohama Phenomena
       [Kotlin] Z
       [Kotlin] n단 논법
@@ -1564,6 +1565,7 @@ baekjoon
       [Kotlin] 커트라인
       [Kotlin] 콘테스트
       [Kotlin] 쿼리 맛보기
+      [Kotlin] 크리스마스 파티
       [Kotlin] 클레어와 팰린드롬
       [Kotlin] 타임머신
       [Kotlin] 탄산 음료
@@ -2272,6 +2274,7 @@ baekjoon
       [Kotlin] Máquina de café
       [Kotlin] Next in line
       [Kotlin] No Brainer
+      [Kotlin] OIJ (OIJ)
       [Kotlin] Oddities
       [Kotlin] Os últimos serão os primeiros
       [Kotlin] Pakirobot Manhattanis
