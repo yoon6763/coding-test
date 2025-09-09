@@ -12,7 +12,7 @@ fun main() {
         while (true) {
             val line = readln().split(" ")
             if (line[0] == "#") break
-            graph[line[0]] = line[1]f
+            graph[line[0]] = line[1]
         }
 
         println("Party number ${idx++}")
