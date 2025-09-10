@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-09 21:27:22 <br>
+Last Update : 2025-09-10 22:20:44 <br>
 
 
 ```
-3194 Solved
- - Kotlin : 2605
+3195 Solved
+ - Kotlin : 2606
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -541,6 +541,7 @@ baekjoon
       [Kotlin] Far Far Away
       [Kotlin] Feeding Time
       [Kotlin] Fence Planning
+      [Kotlin] Floor Plan
       [Kotlin] Holes
       [Kotlin] Horseshoes
       [Kotlin] Hotel
