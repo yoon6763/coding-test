@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-11 23:58:15 <br>
+Last Update : 2025-09-12 22:01:41 <br>
 
 
 ```
-3196 Solved
- - Kotlin : 2607
+3197 Solved
+ - Kotlin : 2608
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -611,6 +611,7 @@ baekjoon
       [Kotlin] 에너지 모으기
       [Kotlin] 연산자 끼워넣기
       [Kotlin] 영역 구하기
+      [Kotlin] 영일 마을에 살고 있는 엄은 친구의 집에 가고 싶다
       [Kotlin] 오르막 수
       [Kotlin] 오목
       [Kotlin] 올림픽 게임
