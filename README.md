@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-12 22:01:41 <br>
+Last Update : 2025-09-14 14:53:20 <br>
 
 
 ```
-3197 Solved
- - Kotlin : 2608
+3199 Solved
+ - Kotlin : 2610
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -551,6 +551,7 @@ baekjoon
       [Kotlin] Klompendans
       [Kotlin] Knight
       [Kotlin] Knight Moves
+      [Kotlin] MazeMan
       [Kotlin] Milk Factory
       [Kotlin] Money Matters
       [Kotlin] NM과 K (1)
@@ -1529,6 +1530,7 @@ baekjoon
       [Kotlin] 자기복제수
       [Kotlin] 자석 체인
       [Kotlin] 자작나무가 없소~
+      [Kotlin] 작도하자! - ②
       [Kotlin] 재귀의 귀재
       [Kotlin] 저항
       [Kotlin] 전구
