@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-14 14:53:20 <br>
+Last Update : 2025-09-15 22:36:33 <br>
 
 
 ```
-3199 Solved
- - Kotlin : 2610
+3200 Solved
+ - Kotlin : 2611
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -1179,6 +1179,7 @@ baekjoon
       [Kotlin] 불안정한 수열
       [Kotlin] 비밀편지
       [Kotlin] 비숍 투어
+      [Kotlin] 사토르 마방진
       [Kotlin] 색종이
       [Kotlin] 선 그리기
       [Kotlin] 성 지키기
