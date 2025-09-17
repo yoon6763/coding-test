@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-16 19:14:31 <br>
+Last Update : 2025-09-17 20:33:48 <br>
 
 
 ```
-3201 Solved
- - Kotlin : 2612
+3202 Solved
+ - Kotlin : 2613
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -676,6 +676,7 @@ baekjoon
       [Kotlin] Dynamic Grid (Large)
       [Kotlin] Dynamic Grid (Small)
       [Kotlin] Elephant Show
+      [Kotlin] Friends
       [Kotlin] Ga
       [Kotlin] Gruppindelning
       [Kotlin] Harvest Waterloo
