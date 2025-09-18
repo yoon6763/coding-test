@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-17 20:33:48 <br>
+Last Update : 2025-09-18 23:21:45 <br>
 
 
 ```
-3202 Solved
- - Kotlin : 2613
+3203 Solved
+ - Kotlin : 2614
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -1229,6 +1229,7 @@ baekjoon
       [Kotlin] 인생은 한 방
       [Kotlin] 일곱 난쟁이
       [Kotlin] 적어도 대부분의 배수
+      [Kotlin] 전주 듣고 노래 맞히기
       [Kotlin] 전화 요금
       [Kotlin] 점프 점프
       [Kotlin] 접두사 배열
