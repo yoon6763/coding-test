@@ -1,4 +1,4 @@
-package baekjoon.gold.g3
+package baekjoon.gold.g3.일감호에다리놓기
 
 import java.util.*
 import kotlin.collections.HashSet
