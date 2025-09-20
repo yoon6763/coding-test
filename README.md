@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-19 20:40:23 <br>
+Last Update : 2025-09-20 16:23:54 <br>
 
 
 ```
-3204 Solved
- - Kotlin : 2615
+3207 Solved
+ - Kotlin : 2618
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -236,6 +236,7 @@ baekjoon
       [Kotlin] MST 게임
       [Kotlin] NxM 보드 완주하기
       [Kotlin] Philosopher’s Walk
+      [Kotlin] Traveling SCCC President
       [Kotlin] Watering the Fields
       [Kotlin] 개미굴
       [Kotlin] 거울 설치
@@ -552,6 +553,7 @@ baekjoon
       [Kotlin] Klompendans
       [Kotlin] Knight
       [Kotlin] Knight Moves
+      [Kotlin] Legacy Code
       [Kotlin] MazeMan
       [Kotlin] Milk Factory
       [Kotlin] Money Matters
@@ -819,6 +821,7 @@ baekjoon
       [Kotlin] N과 M (8)
       [Kotlin] N과 M (9)
       [Kotlin] Robot in a Maze
+      [Kotlin] Vote (Small)
       [Kotlin] 問題3
       [Kotlin] 가희와 파일 탐색기
       [Kotlin] 걸그룹 마스터 준석이
