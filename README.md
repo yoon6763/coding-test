@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-22 22:46:04 <br>
+Last Update : 2025-09-23 20:38:21 <br>
 
 
 ```
-3209 Solved
- - Kotlin : 2620
+3210 Solved
+ - Kotlin : 2621
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -1298,6 +1298,7 @@ baekjoon
       [Kotlin] 2009년
       [Kotlin] 2018년을 되돌아보며
       [Kotlin] 24
+      [Kotlin] 2의 제곱수 계산하기
       [Kotlin] 2진수 뒤집기
       [Kotlin] 3000번 버스
       [Kotlin] 3대 측정
