@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-21 23:23:22 <br>
+Last Update : 2025-09-22 22:46:04 <br>
 
 
 ```
-3208 Solved
- - Kotlin : 2619
+3209 Solved
+ - Kotlin : 2620
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -1529,6 +1529,7 @@ baekjoon
       [Kotlin] 울타리 공사
       [Kotlin] 원피스
       [Kotlin] 유학 금지
+      [Kotlin] 이산수학 과제
       [Kotlin] 이상한 곱셈
       [Kotlin] 이상한 섞기 연산
       [Kotlin] 이진수 덧셈
