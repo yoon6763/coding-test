@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-23 20:38:21 <br>
+Last Update : 2025-09-24 23:11:34 <br>
 
 
 ```
-3210 Solved
- - Kotlin : 2621
+3211 Solved
+ - Kotlin : 2622
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -1296,6 +1296,7 @@ baekjoon
       [Kotlin] 16진수
       [Kotlin] 1번부터 문제의 상태가
       [Kotlin] 2009년
+      [Kotlin] 2017 아주대학교 프로그래밍 경시대회 (Large)
       [Kotlin] 2018년을 되돌아보며
       [Kotlin] 24
       [Kotlin] 2의 제곱수 계산하기
