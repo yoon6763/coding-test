@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-25 20:05:49 <br>
+Last Update : 2025-09-26 20:19:32 <br>
 
 
 ```
-3212 Solved
- - Kotlin : 2623
+3213 Solved
+ - Kotlin : 2624
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -1370,6 +1370,7 @@ baekjoon
       [Kotlin] Reverse Words (Large)
       [Kotlin] SMUPC의 등장
       [Kotlin] SciComLove (2022)
+      [Kotlin] Shell Game
       [Kotlin] Skaičiai
       [Kotlin] Speeding
       [Kotlin] Split
