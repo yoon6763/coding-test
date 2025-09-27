@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-26 20:19:32 <br>
+Last Update : 2025-09-27 12:19:56 <br>
 
 
 ```
-3213 Solved
- - Kotlin : 2624
+3215 Solved
+ - Kotlin : 2626
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -170,6 +170,7 @@ baekjoon
     g2
       [Kotlin] 1의 개수 세기
       [Kotlin] 2048 (Easy)
+      [Kotlin] Friends6847
       [Kotlin] K번째 수
       [Kotlin] Labyrinth
       [Kotlin] Maaaaaaaaaze
@@ -1102,6 +1103,7 @@ baekjoon
       [Kotlin] A divide B - 2
       [Kotlin] APC는 왜 서브태스크 대회가 되었을까
       [Kotlin] An Interactive Problem
+      [Kotlin] Blocked Billboard
       [Kotlin] DNA 해독
       [Kotlin] Daisy Chains
       [Kotlin] Do You Know Your ABCs
