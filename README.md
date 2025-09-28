@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-27 12:19:56 <br>
+Last Update : 2025-09-28 20:10:05 <br>
 
 
 ```
-3215 Solved
- - Kotlin : 2626
+3216 Solved
+ - Kotlin : 2627
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -1171,6 +1171,7 @@ baekjoon
       [Kotlin] 랜덤 게임
       [Kotlin] 롤 케이크
       [Kotlin] 마술사 이민혁
+      [Kotlin] 멀티버스 Ⅰ
       [Kotlin] 명령 프롬프트
       [Kotlin] 몬스터 트럭
       [Kotlin] 무알콜 칵테일
