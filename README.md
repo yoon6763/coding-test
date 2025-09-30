@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-29 19:15:24 <br>
+Last Update : 2025-09-30 20:47:50 <br>
 
 
 ```
-3217 Solved
- - Kotlin : 2628
+3218 Solved
+ - Kotlin : 2629
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -1205,6 +1205,7 @@ baekjoon
       [Kotlin] 아기 석환 뚜루루 뚜루
       [Kotlin] 아스키 아트
       [Kotlin] 알고리즘 수업 - 버블 정렬 1
+      [Kotlin] 알고리즘 수업 - 버블 정렬 2
       [Kotlin] 알고리즘 수업 - 삽입 정렬 1
       [Kotlin] 알고리즘 수업 - 선택 정렬 1
       [Kotlin] 알고리즘 수업 - 선택 정렬 2
