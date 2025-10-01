@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-09-30 20:47:50 <br>
+Last Update : 2025-10-01 19:40:35 <br>
 
 
 ```
-3218 Solved
- - Kotlin : 2629
+3219 Solved
+ - Kotlin : 2630
  - Python : 275
  - Java : 150
  - SQL : 88
@@ -1457,6 +1457,7 @@ baekjoon
       [Kotlin] 두 개의 손
       [Kotlin] 래환이의 여자친구 사귀기 대작전
       [Kotlin] 럭키 스트레이트
+      [Kotlin] 막대과자 포장
       [Kotlin] 막대기
       [Kotlin] 만취한 상범
       [Kotlin] 맥주 99병
