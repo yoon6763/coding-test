@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-01 19:40:35 <br>
+Last Update : 2025-10-02 19:12:11 <br>
 
 
 ```
-3219 Solved
+3220 Solved
  - Kotlin : 2630
- - Python : 275
+ - Python : 276
  - Java : 150
  - SQL : 88
  - C : 23
@@ -660,6 +660,7 @@ baekjoon
       [Kotlin] 현수막
       [Kotlin] 회의실 배정
       [Kotlin] 효율적인 해킹
+      [Python] Image Segmentation
     s2
       [Kotlin] -2진수
       [Kotlin] 1, 2, 3 더하기 3
