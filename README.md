@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-02 19:12:11 <br>
+Last Update : 2025-10-04 10:24:51 <br>
 
 
 ```
-3220 Solved
- - Kotlin : 2630
+3221 Solved
+ - Kotlin : 2631
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2383,6 +2383,7 @@ baekjoon
       [Kotlin] Поп-ит
       [Kotlin] Простая задача
       [Kotlin] Рождественская лотерея
+      [Kotlin] Случай с игрой
       [Kotlin] Сравнение комнат
       [Kotlin] Таблица результатов
       [Kotlin] Торговый центр
