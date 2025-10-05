@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-04 23:45:33 <br>
+Last Update : 2025-10-05 19:10:56 <br>
 
 
 ```
-3222 Solved
- - Kotlin : 2632
+3223 Solved
+ - Kotlin : 2633
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1496,6 +1496,7 @@ baekjoon
       [Kotlin] 새
       [Kotlin] 생일 축하합니다~
       [Kotlin] 소수 단어
+      [Kotlin] 손가락 게임
       [Kotlin] 수 뒤집기
       [Kotlin] 수 이어 쓰기 3
       [Kotlin] 수빈이와 수열
