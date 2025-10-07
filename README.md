@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-06 22:01:54 <br>
+Last Update : 2025-10-07 15:07:46 <br>
 
 
 ```
-3224 Solved
- - Kotlin : 2634
+3225 Solved
+ - Kotlin : 2635
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -704,6 +704,7 @@ baekjoon
       [Kotlin] The Chivalrous Cow
       [Kotlin] The Leisurely Stroll
       [Kotlin] The Loathesome Hay Baler
+      [Kotlin] The Settlers of Catan
       [Kotlin] Tractor Path
       [Kotlin] Twibet (Large)
       [Kotlin] Twibet (Small)
