@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-08 23:35:54 <br>
+Last Update : 2025-10-09 17:33:26 <br>
 
 
 ```
-3226 Solved
- - Kotlin : 2636
+3227 Solved
+ - Kotlin : 2637
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2333,6 +2333,7 @@ baekjoon
       [Kotlin] Rust Study
       [Kotlin] SASA 모형을 만들어보자
       [Kotlin] SMS from MCHS
+      [Kotlin] SUAPC 의자 준비하기
       [Kotlin] Schronisko
       [Kotlin] SciComLove (2024)
       [Kotlin] SciComLove (2025)
