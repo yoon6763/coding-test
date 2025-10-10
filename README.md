@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-09 17:33:26 <br>
+Last Update : 2025-10-10 19:42:50 <br>
 
 
 ```
-3227 Solved
- - Kotlin : 2637
+3228 Solved
+ - Kotlin : 2638
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1632,6 +1632,7 @@ baekjoon
       [Kotlin] 홀짝홀짝
       [Kotlin] 홍익 절대평가
       [Kotlin] 화성 수학
+      [Kotlin] 회문
       [Kotlin] 회전
       [Python] ACM 호텔
       [Python] Calculate
