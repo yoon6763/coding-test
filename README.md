@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-10 19:42:50 <br>
+Last Update : 2025-10-11 18:00:48 <br>
 
 
 ```
-3228 Solved
- - Kotlin : 2638
+3229 Solved
+ - Kotlin : 2639
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2649,6 +2649,7 @@ baekjoon
       [Kotlin] 정보섬의 대중교통
       [Kotlin] 제리와 톰
       [Kotlin] 진흥원 세미나
+      [Kotlin] 찾아오시는 길
       [Kotlin] 체육은 수학과목 입니다 2
       [Kotlin] 초코바
       [Kotlin] 카드 게임
