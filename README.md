@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-11 18:00:48 <br>
+Last Update : 2025-10-12 14:51:39 <br>
 
 
 ```
-3229 Solved
- - Kotlin : 2639
+3232 Solved
+ - Kotlin : 2642
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -680,7 +680,9 @@ baekjoon
       [Kotlin] Dynamic Grid (Large)
       [Kotlin] Dynamic Grid (Small)
       [Kotlin] Elephant Show
+      [Kotlin] Free food
       [Kotlin] Friends
+      [Kotlin] Friends6847
       [Kotlin] Ga
       [Kotlin] Gruppindelning
       [Kotlin] Harvest Waterloo
@@ -1808,6 +1810,7 @@ baekjoon
       [Kotlin] Liczba
       [Kotlin] Liczenie punktów
       [Kotlin] Lobby
+      [Kotlin] Long Division
       [Kotlin] Manhattan
       [Kotlin] Matches
       [Kotlin] Mean Words
