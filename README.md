@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-13 20:41:11 <br>
+Last Update : 2025-10-14 21:07:26 <br>
 
 
 ```
-3233 Solved
- - Kotlin : 2643
+3234 Solved
+ - Kotlin : 2644
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2121,6 +2121,7 @@ baekjoon
       [Kotlin] 접시 안의 원
       [Kotlin] 젓가락 게임
       [Kotlin] 정육각형과 삼각형
+      [Kotlin] 제곱 수
       [Kotlin] 조교는 새디스트야
       [Kotlin] 종이접기
       [Kotlin] 좋은 암호
