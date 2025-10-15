@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-14 21:07:26 <br>
+Last Update : 2025-10-15 20:46:55 <br>
 
 
 ```
-3234 Solved
- - Kotlin : 2644
+3235 Solved
+ - Kotlin : 2645
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1108,6 +1108,7 @@ baekjoon
       [Kotlin] APC는 왜 서브태스크 대회가 되었을까
       [Kotlin] An Interactive Problem
       [Kotlin] Blocked Billboard
+      [Kotlin] Cow Gymnastics
       [Kotlin] DNA 해독
       [Kotlin] Daisy Chains
       [Kotlin] Do You Know Your ABCs
