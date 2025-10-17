@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-15 20:46:55 <br>
+Last Update : 2025-10-16 19:24:09 <br>
 
 
 ```
-3235 Solved
- - Kotlin : 2645
+3236 Solved
+ - Kotlin : 2646
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2384,6 +2384,7 @@ baekjoon
       [Kotlin] ЗЛАТНАТА СРЕДА
       [Kotlin] Индикатор
       [Kotlin] Комната
+      [Kotlin] Короли
       [Kotlin] ЛОВНО КУЧЕ
       [Kotlin] Лифт
       [Kotlin] Любитель нулей
