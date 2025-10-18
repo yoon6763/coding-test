@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-17 19:11:28 <br>
+Last Update : 2025-10-18 13:34:26 <br>
 
 
 ```
-3237 Solved
- - Kotlin : 2647
+3238 Solved
+ - Kotlin : 2648
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -33,8 +33,8 @@ Last Update : 2025-10-17 19:11:28 <br>
  - Go : 1
  - Fortran : 1
  - Algol68 : 1
- - Swift : 1
  - 아희 : 1
+ - Swift : 1
  - Visual Basic : 1
  - Ada : 1
  - GolfScript : 1
@@ -1170,6 +1170,7 @@ baekjoon
       [Kotlin] 데칼코마니
       [Kotlin] 도비의 난독증 테스트
       [Kotlin] 동전 게임
+      [Kotlin] 동전 복사
       [Kotlin] 뒤집힌 덧셈
       [Kotlin] 드높은 남산 위에 우뚝 선
       [Kotlin] 디지털 티비
@@ -2719,10 +2720,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
+      [C#] A+B
+      [아희] A+B
       [Swift] A+B
       [JavaScript] A+B
-      [아희] A+B
-      [C#] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
