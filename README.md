@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-20 22:49:54 <br>
+Last Update : 2025-10-21 20:23:15 <br>
 
 
 ```
-3240 Solved
- - Kotlin : 2650
+3241 Solved
+ - Kotlin : 2651
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -33,8 +33,8 @@ Last Update : 2025-10-20 22:49:54 <br>
  - Go : 1
  - Fortran : 1
  - Algol68 : 1
- - 아희 : 1
  - Swift : 1
+ - 아희 : 1
  - Visual Basic : 1
  - Ada : 1
  - GolfScript : 1
@@ -2295,6 +2295,7 @@ baekjoon
       [Kotlin] HOMWRK
       [Kotlin] Hard choice
       [Kotlin] Hello Judge
+      [Kotlin] Hezardastan’s Annual Report
       [Kotlin] Hurra
       [Kotlin] I Speak TXTMSG
       [Kotlin] ICPC
@@ -2722,10 +2723,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [C#] A+B
-      [아희] A+B
       [Swift] A+B
       [JavaScript] A+B
+      [아희] A+B
+      [C#] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
