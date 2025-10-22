@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-21 20:23:15 <br>
+Last Update : 2025-10-22 21:04:12 <br>
 
 
 ```
-3241 Solved
- - Kotlin : 2651
+3242 Solved
+ - Kotlin : 2652
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1402,6 +1402,7 @@ baekjoon
       [Kotlin] X marks the Spot
       [Kotlin] XORChic
       [Kotlin] Zero
+      [Kotlin] bunnies
       [Kotlin] driip
       [Kotlin] e 계산
       [Kotlin] include Google IO h
