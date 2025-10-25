@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-23 20:38:07 <br>
+Last Update : 2025-10-25 22:10:50 <br>
 
 
 ```
-3243 Solved
- - Kotlin : 2653
+3245 Solved
+ - Kotlin : 2655
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1595,6 +1595,7 @@ baekjoon
       [Kotlin] 추론
       [Kotlin] 치킨 쿠폰
       [Kotlin] 친구
+      [Kotlin] 카드 게임 (Easy)
       [Kotlin] 카드 역배치
       [Kotlin] 카드게임
       [Kotlin] 카드놀이
@@ -2561,6 +2562,7 @@ baekjoon
       [Kotlin] Call for Problems
       [Kotlin] Can you add this
       [Kotlin] Christmas Tree Adapter
+      [Kotlin] Class Photo
       [Kotlin] Conveyor Belt Sushi
       [Kotlin] Copier
       [Kotlin] Correct
