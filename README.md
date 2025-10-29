@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-28 18:57:00 <br>
+Last Update : 2025-10-29 23:20:25 <br>
 
 
 ```
-3248 Solved
- - Kotlin : 2658
+3249 Solved
+ - Kotlin : 2659
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1849,6 +1849,7 @@ baekjoon
       [Kotlin] Perfect Cube
       [Kotlin] Pirates
       [Kotlin] Piłeczka
+      [Kotlin] Positioning Peter’s Paintings
       [Kotlin] Pyramidbygge
       [Kotlin] Quadratics
       [Kotlin] Quick Estimates
