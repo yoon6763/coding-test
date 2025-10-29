@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-27 18:24:39 <br>
+Last Update : 2025-10-28 18:57:00 <br>
 
 
 ```
-3247 Solved
- - Kotlin : 2657
+3248 Solved
+ - Kotlin : 2658
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1411,6 +1411,7 @@ baekjoon
       [Kotlin] ПОДАРЪК
       [Kotlin] Ресторан
       [Kotlin] キャピタリゼーション (Capitalization)
+      [Kotlin] シンプルなエディタ
       [Kotlin] 分割 (Split)
       [Kotlin] 問題1
       [Kotlin] 希少な数 (Rare Number)
