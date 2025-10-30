@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-29 23:20:25 <br>
+Last Update : 2025-10-30 19:07:51 <br>
 
 
 ```
-3249 Solved
- - Kotlin : 2659
+3250 Solved
+ - Kotlin : 2660
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1736,6 +1736,7 @@ baekjoon
       [Kotlin] Canadians, eh
       [Kotlin] Chanukah Challenge
       [Kotlin] Chessboard
+      [Kotlin] Circus Tent
       [Kotlin] Coffee Cup Combo
       [Kotlin] Collatz Conjecture
       [Kotlin] Cornhusker
