@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-10-30 19:07:51 <br>
+Last Update : 2025-11-03 19:40:27 <br>
 
 
 ```
-3250 Solved
- - Kotlin : 2660
+3254 Solved
+ - Kotlin : 2664
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2282,6 +2282,7 @@ baekjoon
       [Kotlin] Divide the Cash
       [Kotlin] Do Not Touch Anything
       [Kotlin] Dog Treats
+      [Kotlin] Driving Dilemma
       [Kotlin] Easy-to-Solve Expressions
       [Kotlin] Electric Bill
       [Kotlin] Equality
@@ -2465,6 +2466,7 @@ baekjoon
       [Kotlin] 모비스
       [Kotlin] 모음의 개수
       [Kotlin] 미션 도네이션
+      [Kotlin] 민규의 서카디안 리듬
       [Kotlin] 민주주의
       [Kotlin] 베라의 패션
       [Kotlin] 별 찍기 - 3
@@ -2481,6 +2483,7 @@ baekjoon
       [Kotlin] 세수정렬
       [Kotlin] 수찬은 마린보이야!!
       [Kotlin] 수학은 체육과목 입니다 2
+      [Kotlin] 숭고한에 어서오세요
       [Kotlin] 스타워즈 로고
       [Kotlin] 시험 점수
       [Kotlin] 심부름 가는 길
@@ -2593,6 +2596,7 @@ baekjoon
       [Kotlin] Plane
       [Kotlin] Pyramids
       [Kotlin] Rats
+      [Kotlin] Roller Coaster Ride
       [Kotlin] Rook
       [Kotlin] SUAPC 2023 Summer
       [Kotlin] SUAPC 2024 Winter
