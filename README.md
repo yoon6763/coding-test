@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-03 19:40:27 <br>
+Last Update : 2025-11-04 20:11:59 <br>
 
 
 ```
-3254 Solved
- - Kotlin : 2664
+3255 Solved
+ - Kotlin : 2665
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1266,6 +1266,7 @@ baekjoon
       [Kotlin] 캠핑
       [Kotlin] 콘도 선정
       [Kotlin] 콘서트
+      [Kotlin] 크레이지 타임
       [Kotlin] 크로스워드 만들기
       [Kotlin] 탕수육
       [Kotlin] 택시 거리
