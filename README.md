@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-05 21:41:46 <br>
+Last Update : 2025-11-06 19:33:37 <br>
 
 
 ```
-3256 Solved
- - Kotlin : 2666
+3257 Solved
+ - Kotlin : 2667
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1204,6 +1204,7 @@ baekjoon
       [Kotlin] 세로읽기
       [Kotlin] 세준세비
       [Kotlin] 소가 길을 건너간 이유 1
+      [Kotlin] 소수가 아닌 수 2
       [Kotlin] 소인수분해
       [Kotlin] 수 정렬하기 3
       [Kotlin] 수열의 변화
