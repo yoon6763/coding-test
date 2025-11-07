@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-06 19:33:37 <br>
+Last Update : 2025-11-07 19:34:08 <br>
 
 
 ```
-3257 Solved
- - Kotlin : 2667
+3258 Solved
+ - Kotlin : 2668
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2498,6 +2498,7 @@ baekjoon
       [Kotlin] 엘리스 트랙 매칭
       [Kotlin] 연세대학교
       [Kotlin] 와글와글 숭고한
+      [Kotlin] 와우산 스탬프 투어
       [Kotlin] 왜 맘대로 예약하냐고
       [Kotlin] 욱 제
       [Kotlin] 이 대회는 이제 제 겁니다
