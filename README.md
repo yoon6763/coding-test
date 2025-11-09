@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-08 19:31:20 <br>
+Last Update : 2025-11-09 16:57:30 <br>
 
 
 ```
-3259 Solved
- - Kotlin : 2669
+3260 Solved
+ - Kotlin : 2670
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1878,6 +1878,7 @@ baekjoon
       [Kotlin] Shifty Sum
       [Kotlin] Ship Selection
       [Kotlin] Sim Card
+      [Kotlin] Simple Arithmetic
       [Kotlin] Simple Collatz Sequence
       [Kotlin] Since 1973
       [Kotlin] Snacks within 300 Yen
