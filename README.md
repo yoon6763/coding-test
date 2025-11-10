@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-09 16:57:30 <br>
+Last Update : 2025-11-10 23:30:44 <br>
 
 
 ```
-3260 Solved
- - Kotlin : 2670
+3261 Solved
+ - Kotlin : 2671
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1895,6 +1895,7 @@ baekjoon
       [Kotlin] Sum of Odd Sequence
       [Kotlin] Sumac Sequences
       [Kotlin] Sums
+      [Kotlin] Superlatives
       [Kotlin] TGN
       [Kotlin] Tarifa
       [Kotlin] Tawla
