@@ -9,7 +9,7 @@ fun main() {
         if (e <= a) {
             println("no drought")
         } else {
-            var factor = e.toDouble() s/ a
+            var factor = e.toDouble() / a
             if (factor <= 5) {
                 println("drought")
             } else {
