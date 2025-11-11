@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-10 23:30:44 <br>
+Last Update : 2025-11-11 23:06:25 <br>
 
 
 ```
-3261 Solved
- - Kotlin : 2671
+3262 Solved
+ - Kotlin : 2672
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1921,6 +1921,7 @@ baekjoon
       [Kotlin] Window on the Wall
       [Kotlin] Word Searching
       [Kotlin] Wykreślanka
+      [Kotlin] XMAS
       [Kotlin] ZAMKA
       [Kotlin] ZOAC 4
       [Kotlin] ZOAC 5
