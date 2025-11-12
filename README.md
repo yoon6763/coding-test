@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-11 23:06:25 <br>
+Last Update : 2025-11-12 20:07:02 <br>
 
 
 ```
-3262 Solved
- - Kotlin : 2672
+3263 Solved
+ - Kotlin : 2673
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1157,6 +1157,7 @@ baekjoon
       [Kotlin] 나는 학급회장이다
       [Kotlin] 나머지와 몫이 같은 수
       [Kotlin] 나무 조각
+      [Kotlin] 내가 살게, 아냐 내가 살게
       [Kotlin] 너의 핸들은
       [Kotlin] 논리학 교수
       [Kotlin] 다중 항목 선호도 조사 (Small)
