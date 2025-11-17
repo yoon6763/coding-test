@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-16 13:58:01 <br>
+Last Update : 2025-11-17 19:11:03 <br>
 
 
 ```
-3264 Solved
- - Kotlin : 2674
+3268 Solved
+ - Kotlin : 2678
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -680,6 +680,7 @@ baekjoon
       [Kotlin] Dynamic Grid (Large)
       [Kotlin] Dynamic Grid (Small)
       [Kotlin] Elephant Show
+      [Kotlin] Family Tree
       [Kotlin] Free food
       [Kotlin] Friends
       [Kotlin] Friends6847
@@ -1401,6 +1402,7 @@ baekjoon
       [Kotlin] The Cow-Signal
       [Kotlin] The Seven Percent Solution
       [Kotlin] Union Maplestory
+      [Kotlin] Virus Outbreak
       [Kotlin] Word Mix
       [Kotlin] Word Ratios
       [Kotlin] Words
@@ -1936,6 +1938,7 @@ baekjoon
       [Kotlin] Выражение
       [Kotlin] ДИНИ
       [Kotlin] Звездочки
+      [Kotlin] ИЗЛОЖЕНИЕ НА ПЧЕЛЕН МЕД
       [Kotlin] Изгороди
       [Kotlin] КУРИЕРИ
       [Kotlin] Клавиатура
@@ -2245,6 +2248,7 @@ baekjoon
       [Kotlin] AFC 윔블던
       [Kotlin] Abbey Courtyard
       [Kotlin] Absolutely
+      [Kotlin] Acquiring SW-IT Corn
       [Kotlin] Acres
       [Kotlin] Advance to Taoyuan Regional
       [Kotlin] Affischutskicket
