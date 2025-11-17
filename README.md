@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-12 20:07:02 <br>
+Last Update : 2025-11-16 13:58:01 <br>
 
 
 ```
-3263 Solved
- - Kotlin : 2673
+3264 Solved
+ - Kotlin : 2674
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1144,6 +1144,7 @@ baekjoon
       [Kotlin] 問題 ２
       [Kotlin] 가위 바위 보
       [Kotlin] 가장 큰 금민수
+      [Kotlin] 가지 교배
       [Kotlin] 가희야 거기서 자는 거 아니야
       [Kotlin] 경제학과 정원영
       [Kotlin] 고양이 사료
