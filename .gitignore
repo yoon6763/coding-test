@@ -6,8 +6,5 @@ Python/.idea/
 Python/파이썬 기말/
 Python/main.py
 kotlin-java/target/
-kotlin-java/.idea/
-kotlin-java/src/main/kotlin/Main.kt
-kotlin-java/src/main/kotlin/Practice.kt
-kotlin-java/src/main/kotlin/Main.java
-kotlin-java/src/main/kotlin/Practice.java
+kotlin_java/target/
+kotlin_java/.idea/
