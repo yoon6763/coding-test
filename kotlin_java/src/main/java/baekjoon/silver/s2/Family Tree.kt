@@ -1,4 +1,4 @@
-package silver.s2
+package baekjoon.silver.s2
 
 fun main() {
     val n = readln().toInt()

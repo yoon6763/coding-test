@@ -1,4 +1,4 @@
-package bronze.b3
+package baekjoon.bronze.b3
 
 fun main() {
     val prices = readln().split(" ").map { it.toLong() }
