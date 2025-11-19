@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-18 21:37:30 <br>
+Last Update : 2025-11-19 19:33:34 <br>
 
 
 ```
-3269 Solved
- - Kotlin : 2679
+3270 Solved
+ - Kotlin : 2680
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2116,6 +2116,7 @@ baekjoon
       [Kotlin] 앵그리 창영
       [Kotlin] 약수 구하기
       [Kotlin] 양수 개수 세기
+      [Kotlin] 어게인 포닉스
       [Kotlin] 얼룩말을 찾아라!
       [Kotlin] 얼마
       [Kotlin] 연길이의 이상형
