@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-19 19:33:34 <br>
+Last Update : 2025-11-20 20:04:18 <br>
 
 
 ```
-3270 Solved
- - Kotlin : 2680
+3271 Solved
+ - Kotlin : 2681
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1201,6 +1201,7 @@ baekjoon
       [Kotlin] 비밀편지
       [Kotlin] 비숍 투어
       [Kotlin] 사토르 마방진
+      [Kotlin] 새로운 언어 CC
       [Kotlin] 색종이
       [Kotlin] 선 그리기
       [Kotlin] 성 지키기
