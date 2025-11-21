@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-20 20:04:18 <br>
+Last Update : 2025-11-21 22:37:47 <br>
 
 
 ```
-3271 Solved
- - Kotlin : 2681
+3272 Solved
+ - Kotlin : 2682
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1866,6 +1866,7 @@ baekjoon
       [Kotlin] RICE SACK
       [Kotlin] Rating Problems
       [Kotlin] Ratownik
+      [Kotlin] Receptet
       [Kotlin] Rectangles
       [Kotlin] Reducing Improper Fractions
       [Kotlin] Report Card Time
