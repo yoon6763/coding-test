@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-21 22:37:47 <br>
+Last Update : 2025-11-22 21:58:25 <br>
 
 
 ```
-3272 Solved
- - Kotlin : 2682
+3273 Solved
+ - Kotlin : 2683
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1888,6 +1888,7 @@ baekjoon
       [Kotlin] Simple Arithmetic
       [Kotlin] Simple Collatz Sequence
       [Kotlin] Since 1973
+      [Kotlin] Smile with Similes
       [Kotlin] Snacks within 300 Yen
       [Kotlin] Some Sum
       [Kotlin] Sort 마스터 배지훈
