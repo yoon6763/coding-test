@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-22 21:58:25 <br>
+Last Update : 2025-11-23 17:53:11 <br>
 
 
 ```
-3273 Solved
- - Kotlin : 2683
+3274 Solved
+ - Kotlin : 2684
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2558,6 +2558,7 @@ baekjoon
       [Kotlin] 학식 사주기
       [Kotlin] 한글
       [Kotlin] 한글 2
+      [Kotlin] 할인이 필요해
       [Kotlin] 헛간 청약
       [Kotlin] 호반우가 학교에 지각한 이유 1
       [Kotlin] 히스토그램
