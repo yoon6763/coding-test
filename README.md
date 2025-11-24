@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-23 17:53:11 <br>
+Last Update : 2025-11-24 18:57:39 <br>
 
 
 ```
-3274 Solved
- - Kotlin : 2684
+3275 Solved
+ - Kotlin : 2685
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2476,6 +2476,7 @@ baekjoon
       [Kotlin] 뉴턴의 사과
       [Kotlin] 단순한 문제 (Small)
       [Kotlin] 당구 좀 치자 제발
+      [Kotlin] 대각선
       [Kotlin] 등교
       [Kotlin] 뜨거운 붕어빵
       [Kotlin] 럭비 클럽
