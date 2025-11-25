@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-24 18:57:39 <br>
+Last Update : 2025-11-25 21:37:58 <br>
 
 
 ```
-3275 Solved
- - Kotlin : 2685
+3276 Solved
+ - Kotlin : 2686
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2684,6 +2684,7 @@ baekjoon
       [Kotlin] 스위트콘 가격 구하기
       [Kotlin] 아!
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행
+      [Kotlin] 역사를 걸으면 동국이 보이고
       [Kotlin] 영수증
       [Kotlin] 오늘 날짜
       [Kotlin] 오늘의 날짜는
