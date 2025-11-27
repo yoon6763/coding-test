@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-25 21:37:58 <br>
+Last Update : 2025-11-27 20:15:36 <br>
 
 
 ```
-3276 Solved
- - Kotlin : 2686
+3278 Solved
+ - Kotlin : 2688
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1600,6 +1600,7 @@ baekjoon
       [Kotlin] 찍기
       [Kotlin] 창고지기
       [Kotlin] 창영마을
+      [Kotlin] 창영이와 버스
       [Kotlin] 창영이의 일기장
       [Kotlin] 첼시를 도와줘
       [Kotlin] 초6 수학
@@ -2657,6 +2658,7 @@ baekjoon
       [Kotlin] 長方形 (Rectangle)
       [Kotlin] 飴の袋詰め (Drops Packing)
       [Kotlin] 가희와 4시간의 벽 1
+      [Kotlin] 가희와 교통 요금
       [Kotlin] 개수 세기
       [Kotlin] 고려대는 사랑입니다
       [Kotlin] 과제 안 내신 분
