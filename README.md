@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-27 20:15:36 <br>
+Last Update : 2025-11-28 20:08:53 <br>
 
 
 ```
-3278 Solved
- - Kotlin : 2688
+3279 Solved
+ - Kotlin : 2689
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1190,6 +1190,7 @@ baekjoon
       [Kotlin] 문자메시지
       [Kotlin] 미역은 식물 아닌데요
       [Kotlin] 민균이의 비밀번호
+      [Kotlin] 바닥수
       [Kotlin] 바둑돌 게임
       [Kotlin] 박스
       [Kotlin] 반복
