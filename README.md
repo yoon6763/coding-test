@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-29 21:00:33 <br>
+Last Update : 2025-11-30 19:19:54 <br>
 
 
 ```
-3280 Solved
- - Kotlin : 2690
+3281 Solved
+ - Kotlin : 2691
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2603,6 +2603,7 @@ baekjoon
       [Kotlin] Football Scoring
       [Kotlin] Gum Gum for Jay Jay
       [Kotlin] HI-ARC=
+      [Kotlin] Hack-a-Holics
       [Kotlin] Hello World
       [Kotlin] Hook
       [Kotlin] Intercepting Information
