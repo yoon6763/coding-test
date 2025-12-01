@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-11-30 19:19:54 <br>
+Last Update : 2025-12-01 20:53:22 <br>
 
 
 ```
-3281 Solved
- - Kotlin : 2691
+3282 Solved
+ - Kotlin : 2692
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1576,6 +1576,7 @@ baekjoon
       [Kotlin] 자석 체인
       [Kotlin] 자작나무가 없소~
       [Kotlin] 작도하자! - ②
+      [Kotlin] 장보기
       [Kotlin] 재귀의 귀재
       [Kotlin] 저항
       [Kotlin] 전구
