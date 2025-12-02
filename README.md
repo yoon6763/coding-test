@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-01 20:53:22 <br>
+Last Update : 2025-12-02 22:04:10 <br>
 
 
 ```
-3282 Solved
- - Kotlin : 2692
+3283 Solved
+ - Kotlin : 2693
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1355,6 +1355,7 @@ baekjoon
       [Kotlin] Furiosa AI 영상 처리 가속
       [Kotlin] George Boole
       [Kotlin] Gorani Command
+      [Kotlin] Grading Exams
       [Kotlin] Happy Number
       [Kotlin] Hashing
       [Kotlin] Hay Bales
