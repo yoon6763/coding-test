@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-02 22:04:10 <br>
+Last Update : 2025-12-05 19:38:40 <br>
 
 
 ```
-3283 Solved
- - Kotlin : 2693
+3286 Solved
+ - Kotlin : 2696
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1839,6 +1839,7 @@ baekjoon
       [Kotlin] Matches
       [Kotlin] Mean Words
       [Kotlin] Meeting Near the Fountain
+      [Kotlin] Milk and Honey
       [Kotlin] Mini Fantasy War
       [Kotlin] Missing Numbers
       [Kotlin] Missing Runners
@@ -2588,6 +2589,7 @@ baekjoon
       [Kotlin] A+B
       [Kotlin] A+B - 9
       [Kotlin] AI 선도대학
+      [Kotlin] Above
       [Kotlin] Adding Trouble
       [Kotlin] An Easy-Peasy Problem
       [Kotlin] Arno's Sleep Schedule
@@ -2620,6 +2622,7 @@ baekjoon
       [Kotlin] Micromasters
       [Kotlin] Multiply
       [Kotlin] NFC West vs North
+      [Kotlin] Parking Pandemonium
       [Kotlin] Plane
       [Kotlin] Pyramids
       [Kotlin] Rats
