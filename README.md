@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-05 19:38:40 <br>
+Last Update : 2025-12-06 11:37:00 <br>
 
 
 ```
-3286 Solved
- - Kotlin : 2696
+3287 Solved
+ - Kotlin : 2697
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2484,6 +2484,7 @@ baekjoon
       [Kotlin] 당구 좀 치자 제발
       [Kotlin] 대각선
       [Kotlin] 등교
+      [Kotlin] 디딤돌 장학금
       [Kotlin] 뜨거운 붕어빵
       [Kotlin] 럭비 클럽
       [Kotlin] 레퓨닛의 덧셈
