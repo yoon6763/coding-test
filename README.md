@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-06 11:37:00 <br>
+Last Update : 2025-12-07 21:43:34 <br>
 
 
 ```
-3287 Solved
- - Kotlin : 2697
+3288 Solved
+ - Kotlin : 2698
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2443,6 +2443,7 @@ baekjoon
       [Kotlin] Файлы
       [Kotlin] ЧАСОВНИК
       [Kotlin] Шахматная доска
+      [Kotlin] Штангист
       [Kotlin] アイスクリーム (Ice Cream)
       [Kotlin] ハミング距離 (Hamming Distance)
       [Kotlin] 三連続 (Three Consecutive)
