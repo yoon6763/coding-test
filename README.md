@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-07 21:43:34 <br>
+Last Update : 2025-12-08 20:36:19 <br>
 
 
 ```
-3288 Solved
- - Kotlin : 2698
+3289 Solved
+ - Kotlin : 2699
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1723,6 +1723,7 @@ baekjoon
       [Kotlin] Angles
       [Kotlin] Animal King Election
       [Kotlin] Another Cow Number Game
+      [Kotlin] Ant Entrapment
       [Kotlin] Arm Coordination
       [Kotlin] Aron
       [Kotlin] Astrology
