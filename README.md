@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-09 21:08:40 <br>
+Last Update : 2025-12-10 19:10:21 <br>
 
 
 ```
-3290 Solved
- - Kotlin : 2700
+3291 Solved
+ - Kotlin : 2701
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1814,6 +1814,7 @@ baekjoon
       [Kotlin] ICONS
       [Kotlin] ID
       [Kotlin] ID Key
+      [Kotlin] In the Shower
       [Kotlin] Incomplete Book
       [Kotlin] Increasing Sublist
       [Kotlin] International Dates
