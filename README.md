@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-08 20:36:19 <br>
+Last Update : 2025-12-09 21:08:40 <br>
 
 
 ```
-3289 Solved
- - Kotlin : 2699
+3290 Solved
+ - Kotlin : 2700
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1198,6 +1198,7 @@ baekjoon
       [Kotlin] 반올림
       [Kotlin] 반올림4539
       [Kotlin] 배고픈 아리의 샌드위치 구매하기
+      [Kotlin] 벼락치기
       [Kotlin] 변수명
       [Kotlin] 불안정한 수열
       [Kotlin] 비밀편지
