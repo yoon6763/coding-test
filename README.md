@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-12 19:46:58 <br>
+Last Update : 2025-12-13 21:45:29 <br>
 
 
 ```
-3293 Solved
- - Kotlin : 2703
+3294 Solved
+ - Kotlin : 2704
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1271,6 +1271,7 @@ baekjoon
       [Kotlin] 초콜릿 자르기
       [Kotlin] 최대공약수와 최소공배수
       [Kotlin] 최소공배수
+      [Kotlin] 치매예방수칙 333
       [Kotlin] 캠핑
       [Kotlin] 콘도 선정
       [Kotlin] 콘서트
