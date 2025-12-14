@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-13 21:45:29 <br>
+Last Update : 2025-12-14 13:11:10 <br>
 
 
 ```
-3294 Solved
- - Kotlin : 2704
+3295 Solved
+ - Kotlin : 2705
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2551,6 +2551,7 @@ baekjoon
       [Kotlin] 체육은 수학과목 입니다
       [Kotlin] 체육은 코딩과목 입니다
       [Kotlin] 출석 이벤트
+      [Kotlin] 출제자가 몇 명
       [Kotlin] 치즈버거 만들기
       [Kotlin] 치킨 두 마리
       [Kotlin] 치킨댄스를 추는 곰곰이를 본 임스
