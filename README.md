@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-14 13:11:10 <br>
+Last Update : 2025-12-15 21:31:01 <br>
 
 
 ```
-3295 Solved
- - Kotlin : 2705
+3296 Solved
+ - Kotlin : 2706
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1740,6 +1740,7 @@ baekjoon
       [Kotlin] Balancing Weights
       [Kotlin] Balloons Colors
       [Kotlin] Baseball
+      [Kotlin] Basket
       [Kotlin] Baskets of Gold Coins
       [Kotlin] Bałwanek
       [Kotlin] Bedtime Reading, I
