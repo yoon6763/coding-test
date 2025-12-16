@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-15 21:31:01 <br>
+Last Update : 2025-12-16 21:08:20 <br>
 
 
 ```
-3296 Solved
- - Kotlin : 2706
+3297 Solved
+ - Kotlin : 2707
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1783,6 +1783,7 @@ baekjoon
       [Kotlin] Even or Odd
       [Kotlin] Explicit Formula
       [Kotlin] Extreme Temperatures
+      [Kotlin] Eye of Sauron
       [Kotlin] FBI
       [Kotlin] Fan Death
       [Kotlin] Federal Voting Age
