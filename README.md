@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-16 21:08:20 <br>
+Last Update : 2025-12-17 23:52:45 <br>
 
 
 ```
-3297 Solved
- - Kotlin : 2707
+3298 Solved
+ - Kotlin : 2708
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2342,6 +2342,7 @@ baekjoon
       [Kotlin] ISBN
       [Kotlin] IT Passport Examination
       [Kotlin] Identifying tea
+      [Kotlin] Innohorse
       [Kotlin] Is Y a Vowel
       [Kotlin] Judging Moose
       [Kotlin] Jumbled Scoreboards
