@@ -5,7 +5,7 @@ import kotlin.math.max
 import kotlin.math.min
 
 fun main() {
-    val (a, b) = readln().split(" ")
+    val (a, b) = List(2) { readln() }
 
     val x1 = a[0] - 'a' + 1
     val y1 = a[1] - '0'
