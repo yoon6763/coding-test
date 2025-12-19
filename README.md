@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-18 20:22:30 <br>
+Last Update : 2025-12-19 19:35:15 <br>
 
 
 ```
-3299 Solved
- - Kotlin : 2709
+3300 Solved
+ - Kotlin : 2710
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2691,6 +2691,7 @@ baekjoon
       [Kotlin] 단어 길이 재기
       [Kotlin] 달달함이 넘쳐흘러
       [Kotlin] 대소문자 바꾸기
+      [Kotlin] 대전과학고등학교를 사랑하십니까
       [Kotlin] 등록
       [Kotlin] 라면 공식
       [Kotlin] 마이크로소프트 로고
