@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-19 19:35:15 <br>
+Last Update : 2025-12-20 17:41:41 <br>
 
 
 ```
-3300 Solved
- - Kotlin : 2710
+3301 Solved
+ - Kotlin : 2711
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2327,6 +2327,7 @@ baekjoon
       [Kotlin] Fold the Paper Nicely
       [Kotlin] Football Team
       [Kotlin] Gahui and Soongsil University station
+      [Kotlin] Generalized FizzBuzz
       [Kotlin] Gnome Sequencing
       [Kotlin] Good Coin Denomination
       [Kotlin] Goodbye, Code Jam
