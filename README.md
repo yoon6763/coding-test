@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-20 17:41:41 <br>
+Last Update : 2025-12-21 12:37:59 <br>
 
 
 ```
-3301 Solved
- - Kotlin : 2711
+3302 Solved
+ - Kotlin : 2712
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2717,6 +2717,7 @@ baekjoon
       [Kotlin] 웰컴
       [Kotlin] 이 별은 무슨 색일까
       [Kotlin] 이상한 기호
+      [Kotlin] 이중 반복문
       [Kotlin] 정보보호학부 동아리 소개
       [Kotlin] 정보섬의 대중교통
       [Kotlin] 제리와 톰
