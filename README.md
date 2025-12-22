@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-21 12:37:59 <br>
+Last Update : 2025-12-22 20:14:19 <br>
 
 
 ```
-3302 Solved
- - Kotlin : 2712
+3303 Solved
+ - Kotlin : 2713
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1706,6 +1706,7 @@ baekjoon
       [Kotlin] 2025는 무엇이 특별할까
       [Kotlin] 2루수 이름이 뭐야
       [Kotlin] 2의 제곱인가
+      [Kotlin] 3 つの箱 (Three Boxes)
       [Kotlin] 369
       [Kotlin] 3n+1 수열
       [Kotlin] 3대 512
