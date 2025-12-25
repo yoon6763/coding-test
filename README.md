@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-24 18:33:33 <br>
+Last Update : 2025-12-25 23:18:30 <br>
 
 
 ```
-3304 Solved
- - Kotlin : 2714
+3305 Solved
+ - Kotlin : 2715
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2526,6 +2526,7 @@ baekjoon
       [Kotlin] 숭고한에 어서오세요
       [Kotlin] 스타워즈 로고
       [Kotlin] 시험 점수
+      [Kotlin] 신규 학과
       [Kotlin] 심부름 가는 길
       [Kotlin] 안밖 밖안 계단 역계단
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 2
