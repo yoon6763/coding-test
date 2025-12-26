@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-25 23:18:30 <br>
+Last Update : 2025-12-26 20:46:38 <br>
 
 
 ```
-3305 Solved
- - Kotlin : 2715
+3306 Solved
+ - Kotlin : 2716
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2535,6 +2535,7 @@ baekjoon
       [Kotlin] 양파 실험
       [Kotlin] 엘리스 트랙 매칭
       [Kotlin] 연세대학교
+      [Kotlin] 오름차순과 비내림차순
       [Kotlin] 와글와글 숭고한
       [Kotlin] 와우산 스탬프 투어
       [Kotlin] 왜 맘대로 예약하냐고
