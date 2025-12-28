@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-26 20:46:38 <br>
+Last Update : 2025-12-28 14:07:44 <br>
 
 
 ```
-3306 Solved
- - Kotlin : 2716
+3308 Solved
+ - Kotlin : 2718
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2420,6 +2420,7 @@ baekjoon
       [Kotlin] Which Alien
       [Kotlin] Winning Score
       [Kotlin] X に最も近い値 (The Nearest Value)
+      [Kotlin] YCPC 점수
       [Kotlin] Yalda
       [Kotlin] ZOAC 6
       [Kotlin] Zagubiona litera
@@ -2635,6 +2636,7 @@ baekjoon
       [Kotlin] Larger Sport Facility
       [Kotlin] Loteria Falha
       [Kotlin] Lucky 7
+      [Kotlin] M-Climb
       [Kotlin] Mathematics
       [Kotlin] Metronome
       [Kotlin] Micromasters
