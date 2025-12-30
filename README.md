@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-29 14:15:45 <br>
+Last Update : 2025-12-30 14:21:19 <br>
 
 
 ```
-3309 Solved
- - Kotlin : 2719
+3310 Solved
+ - Kotlin : 2720
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2104,6 +2104,7 @@ baekjoon
       [Kotlin] 세탁소 사장 동혁
       [Kotlin] 소금 폭탄
       [Kotlin] 소수가 아닌 수
+      [Kotlin] 소수가 아닌 수 3
       [Kotlin] 소음
       [Kotlin] 수도요금
       [Kotlin] 수박 게임
