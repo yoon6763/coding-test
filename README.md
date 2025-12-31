@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-30 14:21:19 <br>
+Last Update : 2025-12-31 20:49:04 <br>
 
 
 ```
-3310 Solved
- - Kotlin : 2720
+3311 Solved
+ - Kotlin : 2721
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2114,6 +2114,7 @@ baekjoon
       [Kotlin] 스키테일 암호
       [Kotlin] 스타후르츠
       [Kotlin] 스트릿 코딩 파이터
+      [Kotlin] 스티커 나눠주기
       [Kotlin] 승강장의 깊이
       [Kotlin] 시간과 날짜
       [Kotlin] 시계탑
