@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2025-12-31 20:49:04 <br>
+Last Update : 2026-01-01 21:53:03 <br>
 
 
 ```
-3311 Solved
- - Kotlin : 2721
+3312 Solved
+ - Kotlin : 2722
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1644,6 +1644,7 @@ baekjoon
       [Kotlin] 펫
       [Kotlin] 펭귄추락대책위원회
       [Kotlin] 포인트 카드
+      [Kotlin] 포지션 제로
       [Kotlin] 폭죽쇼
       [Kotlin] 풀만한문제
       [Kotlin] 풍선 놀이
