@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-01 21:53:03 <br>
+Last Update : 2026-01-02 19:51:07 <br>
 
 
 ```
-3312 Solved
- - Kotlin : 2722
+3313 Solved
+ - Kotlin : 2723
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1874,6 +1874,7 @@ baekjoon
       [Kotlin] Papier kamień nożyczki
       [Kotlin] Penalty calculation
       [Kotlin] Perfect Cube
+      [Kotlin] Perfection
       [Kotlin] Pirates
       [Kotlin] Piłeczka
       [Kotlin] Positioning Peter’s Paintings
