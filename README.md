@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-02 19:51:07 <br>
+Last Update : 2026-01-03 22:46:02 <br>
 
 
 ```
-3313 Solved
- - Kotlin : 2723
+3314 Solved
+ - Kotlin : 2724
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2608,6 +2608,7 @@ baekjoon
       [C] 포인터 공부
       [C] 햄버거 만들기
     b5
+      [Kotlin] 13 Floors
       [Kotlin] 2 桁の整数 (Two-digit Integer)
       [Kotlin] 2033년 밈 투표
       [Kotlin] A+B
