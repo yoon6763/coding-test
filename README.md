@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-03 22:46:02 <br>
+Last Update : 2026-01-04 14:22:41 <br>
 
 
 ```
-3314 Solved
- - Kotlin : 2724
+3315 Solved
+ - Kotlin : 2725
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -566,6 +566,7 @@ baekjoon
       [Kotlin] Red and Black
       [Kotlin] Secret Chamber at Mount Rushmore
       [Kotlin] Small World Network
+      [Kotlin] Subsets
       [Kotlin] Tetris
       [Kotlin] Thread Tree
       [Kotlin] Torn To Pieces
