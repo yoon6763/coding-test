@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-04 14:22:41 <br>
+Last Update : 2026-01-05 21:44:36 <br>
 
 
 ```
-3315 Solved
- - Kotlin : 2725
+3316 Solved
+ - Kotlin : 2726
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2541,6 +2541,7 @@ baekjoon
       [Kotlin] 양말 짝 맞추기
       [Kotlin] 양파 실험
       [Kotlin] 엘리스 트랙 매칭
+      [Kotlin] 연대 다음 고대
       [Kotlin] 연세대학교
       [Kotlin] 오름차순과 비내림차순
       [Kotlin] 와글와글 숭고한
