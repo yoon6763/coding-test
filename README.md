@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-06 21:55:52 <br>
+Last Update : 2026-01-07 20:11:20 <br>
 
 
 ```
-3316 Solved
- - Kotlin : 2726
+3318 Solved
+ - Kotlin : 2728
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -543,6 +543,7 @@ baekjoon
       [Kotlin] Far Far Away
       [Kotlin] Feeding Time
       [Kotlin] Fence Planning
+      [Kotlin] Field Navigation
       [Kotlin] Floor Plan
       [Kotlin] Hesthoppning
       [Kotlin] Holes
@@ -1409,6 +1410,7 @@ baekjoon
       [Kotlin] TV 크기
       [Kotlin] Tautogram
       [Kotlin] The Cow-Signal
+      [Kotlin] The Lost Cow
       [Kotlin] The Seven Percent Solution
       [Kotlin] Union Maplestory
       [Kotlin] Virus Outbreak
