@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-08 20:46:11 <br>
+Last Update : 2026-01-09 18:57:08 <br>
 
 
 ```
-3319 Solved
- - Kotlin : 2729
+3320 Solved
+ - Kotlin : 2730
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1747,6 +1747,7 @@ baekjoon
       [Kotlin] Baseball
       [Kotlin] Basket
       [Kotlin] Baskets of Gold Coins
+      [Kotlin] Batter Up
       [Kotlin] Bałwanek
       [Kotlin] Bedtime Reading, I
       [Kotlin] Bike Tour
