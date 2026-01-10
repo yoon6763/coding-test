@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-09 18:57:08 <br>
+Last Update : 2026-01-10 20:19:55 <br>
 
 
 ```
-3320 Solved
- - Kotlin : 2730
+3321 Solved
+ - Kotlin : 2731
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2015,6 +2015,7 @@ baekjoon
       [Kotlin] 공
       [Kotlin] 공 넣기
       [Kotlin] 공 바꾸기
+      [Kotlin] 공강 사수
       [Kotlin] 과 조사하기
       [Kotlin] 과민성 대장 증후군
       [Kotlin] 과자 사기
