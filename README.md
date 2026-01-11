@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-10 20:19:55 <br>
+Last Update : 2026-01-11 12:20:29 <br>
 
 
 ```
-3321 Solved
- - Kotlin : 2731
+3322 Solved
+ - Kotlin : 2732
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2701,6 +2701,7 @@ baekjoon
       [Kotlin] 가희와 교통 요금
       [Kotlin] 개수 세기
       [Kotlin] 고려대는 사랑입니다
+      [Kotlin] 공통교육과정
       [Kotlin] 과제 안 내신 분
       [Kotlin] 그대로출력하기
       [Kotlin] 꼬마 정민
