@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-12 20:54:39 <br>
+Last Update : 2026-01-13 21:12:12 <br>
 
 
 ```
-3323 Solved
- - Kotlin : 2733
+3324 Solved
+ - Kotlin : 2734
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2636,6 +2636,7 @@ baekjoon
       [Kotlin] Correct
       [Kotlin] Cupcake Party
       [Kotlin] Everyone is a winner
+      [Kotlin] Flatter Land
       [Kotlin] Football Scoring
       [Kotlin] Gum Gum for Jay Jay
       [Kotlin] HI-ARC=
