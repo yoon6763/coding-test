@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-13 21:12:12 <br>
+Last Update : 2026-01-14 21:32:24 <br>
 
 
 ```
-3324 Solved
- - Kotlin : 2734
+3325 Solved
+ - Kotlin : 2735
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2214,6 +2214,7 @@ baekjoon
       [Kotlin] 캥거루 세마리
       [Kotlin] 캥거루 세마리2
       [Kotlin] 컵라편 측정하기
+      [Kotlin] 코인의 신 건모
       [Kotlin] 쿠키애호가
       [Kotlin] 쿠폰
       [Kotlin] 크림빵
