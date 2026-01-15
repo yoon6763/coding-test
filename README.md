@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-14 21:32:24 <br>
+Last Update : 2026-01-15 18:51:12 <br>
 
 
 ```
-3325 Solved
- - Kotlin : 2735
+3326 Solved
+ - Kotlin : 2736
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1769,6 +1769,7 @@ baekjoon
       [Kotlin] Counting Swann’s Coins
       [Kotlin] Cuboids
       [Kotlin] Culture shock
+      [Kotlin] Dangerous Dive
       [Kotlin] Death Knight Hero
       [Kotlin] Decoder
       [Kotlin] Deficient, Perfect, and Abundant
