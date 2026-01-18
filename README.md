@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-18 20:48:09 <br>
+Last Update : 2026-01-18 21:34:33 <br>
 
 
 ```
-3329 Solved
- - Kotlin : 2739
+3330 Solved
+ - Kotlin : 2740
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -711,6 +711,7 @@ baekjoon
       [Kotlin] The Loathesome Hay Baler
       [Kotlin] The Settlers of Catan
       [Kotlin] Tractor Path
+      [Kotlin] Travel of alphabets
       [Kotlin] Twibet (Large)
       [Kotlin] Twibet (Small)
       [Kotlin] Your life
