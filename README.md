@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-15 18:51:12 <br>
+Last Update : 2026-01-18 20:48:09 <br>
 
 
 ```
-3326 Solved
- - Kotlin : 2736
+3329 Solved
+ - Kotlin : 2739
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -843,6 +843,7 @@ baekjoon
       [Kotlin] 다음 순열
       [Kotlin] 달팽이
       [Kotlin] 돌 게임 3
+      [Kotlin] 동전 게임
       [Kotlin] 두 수의 합
       [Kotlin] 로마 숫자 만들기
       [Kotlin] 먹을 것인가 먹힐 것인가
@@ -2369,6 +2370,7 @@ baekjoon
       [Kotlin] Left Beehind
       [Kotlin] Lots of Liquid
       [Kotlin] Lunacy
+      [Kotlin] M-Climb Road
       [Kotlin] MT 준비
       [Kotlin] Majestic 10
       [Kotlin] Malvika is peculiar about color of balloons
@@ -2637,6 +2639,7 @@ baekjoon
       [Kotlin] Copier
       [Kotlin] Correct
       [Kotlin] Cupcake Party
+      [Kotlin] E-Days Ore Cart Pull
       [Kotlin] Everyone is a winner
       [Kotlin] Flatter Land
       [Kotlin] Football Scoring
