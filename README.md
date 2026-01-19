@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-18 21:34:33 <br>
+Last Update : 2026-01-19 20:23:59 <br>
 
 
 ```
-3330 Solved
- - Kotlin : 2740
+3331 Solved
+ - Kotlin : 2741
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2142,6 +2142,7 @@ baekjoon
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 4
       [Kotlin] 알고리즘 수업 - 알고리즘의 수행 시간 5
       [Kotlin] 알파벳 뒤집기
+      [Kotlin] 알파벳 점수 계산기
       [Kotlin] 암호 만들기
       [Kotlin] 암호 제작
       [Kotlin] 앵그리 창영
