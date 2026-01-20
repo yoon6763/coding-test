@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-19 20:23:59 <br>
+Last Update : 2026-01-20 19:48:00 <br>
 
 
 ```
-3331 Solved
- - Kotlin : 2741
+3332 Solved
+ - Kotlin : 2742
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1537,6 +1537,7 @@ baekjoon
       [Kotlin] 숫자 놀이
       [Kotlin] 숫자 카드놀이
       [Kotlin] 숫자의 개수 2
+      [Kotlin] 스네이크
       [Kotlin] 스물셋
       [Kotlin] 스시
       [Kotlin] 스페셜 저지
