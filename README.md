@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-20 19:48:00 <br>
+Last Update : 2026-01-22 23:53:48 <br>
 
 
 ```
-3332 Solved
- - Kotlin : 2742
+3334 Solved
+ - Kotlin : 2744
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2540,6 +2540,7 @@ baekjoon
       [Kotlin] 선물
       [Kotlin] 선택 가능성이 가장 높은 자료형
       [Kotlin] 세수정렬
+      [Kotlin] 셔틀 탈래 말래 탈래 말래 애매하긴 해
       [Kotlin] 수찬은 마린보이야!!
       [Kotlin] 수학은 체육과목 입니다 2
       [Kotlin] 숭고한에 어서오세요
@@ -2753,6 +2754,7 @@ baekjoon
       [Kotlin] 제리와 톰
       [Kotlin] 진흥원 세미나
       [Kotlin] 찾아오시는 길
+      [Kotlin] 채플이 너무해
       [Kotlin] 체육은 수학과목 입니다 2
       [Kotlin] 초코바
       [Kotlin] 카드 게임
