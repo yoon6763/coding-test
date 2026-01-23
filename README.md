@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-22 23:53:48 <br>
+Last Update : 2026-01-23 20:04:09 <br>
 
 
 ```
-3334 Solved
- - Kotlin : 2744
+3335 Solved
+ - Kotlin : 2745
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2580,6 +2580,7 @@ baekjoon
       [Kotlin] 체스 초보 브실이
       [Kotlin] 체육은 수학과목 입니다
       [Kotlin] 체육은 코딩과목 입니다
+      [Kotlin] 추석은 언제나 좋아
       [Kotlin] 출석 이벤트
       [Kotlin] 출제자가 몇 명
       [Kotlin] 치즈버거 만들기
