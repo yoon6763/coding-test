@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-23 20:04:09 <br>
+Last Update : 2026-01-24 17:34:15 <br>
 
 
 ```
-3335 Solved
- - Kotlin : 2745
+3336 Solved
+ - Kotlin : 2746
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2277,6 +2277,7 @@ baekjoon
       [Kotlin] 2 番目に大きい整数 (The Second Largest Integer)
       [Kotlin] 2, 4, 6, 8
       [Kotlin] 2023은 무엇이 특별할까
+      [Kotlin] 2025
       [Kotlin] 3 つの整数 (Three Integers)
       [Kotlin] A Hero Named Magnus
       [Kotlin] A Simple Problem
