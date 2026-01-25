@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-24 17:34:15 <br>
+Last Update : 2026-01-25 13:09:02 <br>
 
 
 ```
-3336 Solved
- - Kotlin : 2746
+3337 Solved
+ - Kotlin : 2747
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2320,6 +2320,7 @@ baekjoon
       [Kotlin] Cookie Piles
       [Kotlin] Cornhole
       [Kotlin] Corona Virus Testing
+      [Kotlin] Count Vowels
       [Kotlin] Counting Antibodies
       [Kotlin] Counting Clauses
       [Kotlin] Covid-19
