@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-25 13:09:02 <br>
+Last Update : 2026-01-26 21:12:42 <br>
 
 
 ```
-3337 Solved
- - Kotlin : 2747
+3338 Solved
+ - Kotlin : 2748
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1938,6 +1938,7 @@ baekjoon
       [Kotlin] The King
       [Kotlin] The REAL Manhattan distance
       [Kotlin] The fellowship of the ring
+      [Kotlin] Time Limits
       [Kotlin] Transactions
       [Kotlin] Triangles
       [Kotlin] Trident
