@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-26 21:12:42 <br>
+Last Update : 2026-01-27 19:39:50 <br>
 
 
 ```
-3338 Solved
- - Kotlin : 2748
+3339 Solved
+ - Kotlin : 2749
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2404,6 +2404,7 @@ baekjoon
       [Kotlin] Quadrilateral
       [Kotlin] Quality-Adjusted Life-Year
       [Kotlin] R2
+      [Kotlin] RACI
       [Kotlin] Rainy Diary
       [Kotlin] Rectangles
       [Kotlin] Reverse
