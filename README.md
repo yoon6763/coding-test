@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-28 20:57:24 <br>
+Last Update : 2026-01-29 22:11:41 <br>
 
 
 ```
-3340 Solved
- - Kotlin : 2750
+3341 Solved
+ - Kotlin : 2751
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1706,6 +1706,7 @@ baekjoon
       [Kotlin] 10103 주사위 게임
       [Kotlin] 11월 11일
       [Kotlin] 17배
+      [Kotlin] 1교시 가정
       [Kotlin] 2 2K
       [Kotlin] 2017 아주대학교 프로그래밍 경시대회 (Small)
       [Kotlin] 2017 연세대학교 프로그래밍 경시대회
