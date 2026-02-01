@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-01-29 22:11:41 <br>
+Last Update : 2026-02-01 20:04:38 <br>
 
 
 ```
-3341 Solved
- - Kotlin : 2751
+3344 Solved
+ - Kotlin : 2754
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1284,6 +1284,7 @@ baekjoon
       [Kotlin] 탕수육
       [Kotlin] 택시 거리
       [Kotlin] 팀 이름 정하기
+      [Kotlin] 팬그램
       [Kotlin] 팰린드롬수
       [Kotlin] 평균은 넘겠지
       [Kotlin] 피보나치 수
@@ -1615,6 +1616,7 @@ baekjoon
       [Kotlin] 창영마을
       [Kotlin] 창영이와 버스
       [Kotlin] 창영이의 일기장
+      [Kotlin] 찾았다 악질
       [Kotlin] 첼시를 도와줘
       [Kotlin] 초6 수학
       [Kotlin] 추론
@@ -2286,6 +2288,7 @@ baekjoon
       [Kotlin] A+B-C
       [Kotlin] AFC 윔블던
       [Kotlin] Abbey Courtyard
+      [Kotlin] Abby's Absolutes
       [Kotlin] Absolutely
       [Kotlin] Acquiring SW-IT Corn
       [Kotlin] Acres
