@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-01 20:04:38 <br>
+Last Update : 2026-02-02 20:29:16 <br>
 
 
 ```
-3344 Solved
- - Kotlin : 2754
+3345 Solved
+ - Kotlin : 2755
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1342,6 +1342,7 @@ baekjoon
       [Kotlin] Adding Reversed Numbers
       [Kotlin] Affine Cipher
       [Kotlin] Anagram Checker
+      [Kotlin] Are They All Integers
       [Kotlin] Art
       [Kotlin] CTP공국으로 이민 가자
       [Kotlin] Caesar Cipher
