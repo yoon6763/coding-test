@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-04 20:00:04 <br>
+Last Update : 2026-02-05 20:17:06 <br>
 
 
 ```
-3347 Solved
- - Kotlin : 2757
+3348 Solved
+ - Kotlin : 2758
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1518,6 +1518,7 @@ baekjoon
       [Kotlin] 분해합
       [Kotlin] 브실이의 띠부띠부씰 컬렉션
       [Kotlin] 비교 연산자
+      [Kotlin] 비밀번호
       [Kotlin] 비밀번호 체크
       [Kotlin] 비슷한 전화번호 표시
       [Kotlin] 사각형 면적
