@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-07 20:58:29 <br>
+Last Update : 2026-02-08 20:47:00 <br>
 
 
 ```
-3350 Solved
- - Kotlin : 2760
+3351 Solved
+ - Kotlin : 2761
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1726,6 +1726,7 @@ baekjoon
       [Kotlin] 99 Problems
       [Kotlin] A Serious Reading Problem
       [Kotlin] A divide B - 3
+      [Kotlin] A simple task
       [Kotlin] A+B - 10 (제1편)
       [Kotlin] A+B - 6
       [Kotlin] ABC
