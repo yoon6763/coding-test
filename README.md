@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-08 20:47:00 <br>
+Last Update : 2026-02-09 21:44:15 <br>
 
 
 ```
-3351 Solved
- - Kotlin : 2761
+3352 Solved
+ - Kotlin : 2762
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1763,6 +1763,7 @@ baekjoon
       [Kotlin] Billing
       [Kotlin] Binary numbers
       [Kotlin] Birthday Graph
+      [Kotlin] Bridž
       [Kotlin] Broken Calculator
       [Kotlin] Buffoon
       [Kotlin] Cabin Baggage
