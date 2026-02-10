@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-09 21:44:15 <br>
+Last Update : 2026-02-10 19:34:50 <br>
 
 
 ```
-3352 Solved
- - Kotlin : 2762
+3353 Solved
+ - Kotlin : 2763
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1829,6 +1829,7 @@ baekjoon
       [Kotlin] Hawk eyes
       [Kotlin] Head or Tail
       [Kotlin] Heart Rate
+      [Kotlin] Heavy Numbers
       [Kotlin] Hissing Microphone
       [Kotlin] Holes
       [Kotlin] Hot Dogs
