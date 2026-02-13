@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-11 18:48:27 <br>
+Last Update : 2026-02-13 19:30:24 <br>
 
 
 ```
-3354 Solved
- - Kotlin : 2764
+3357 Solved
+ - Kotlin : 2767
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -33,8 +33,8 @@ Last Update : 2026-02-11 18:48:27 <br>
  - Go : 1
  - Fortran : 1
  - Algol68 : 1
- - Swift : 1
  - 아희 : 1
+ - Swift : 1
  - Visual Basic : 1
  - Ada : 1
  - GolfScript : 1
@@ -1906,6 +1906,7 @@ baekjoon
       [Kotlin] Reducing Improper Fractions
       [Kotlin] Report Card Time
       [Kotlin] Right Triangle
+      [Kotlin] Rogutės
       [Kotlin] Roll the Dice
       [Kotlin] Rotating letters
       [Kotlin] SAHUR & IMSA’
@@ -2393,6 +2394,7 @@ baekjoon
       [Kotlin] Majestic 10
       [Kotlin] Malvika is peculiar about color of balloons
       [Kotlin] Median
+      [Kotlin] Missed Alarm
       [Kotlin] Máquina de café
       [Kotlin] Next in line
       [Kotlin] No Brainer
@@ -2790,6 +2792,7 @@ baekjoon
       [Kotlin] 피갤컵
       [Kotlin] 피보나치 수 5
       [Kotlin] 학점계산
+      [Kotlin] 합
       [Kotlin] 홍익대학교
       [Python] 10926번
       [Python] 1998년생인 내가 태국에서는 2541년생
@@ -2836,9 +2839,9 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
+      [아희] A+B
       [Swift] A+B
       [JavaScript] A+B
-      [아희] A+B
       [C#] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
