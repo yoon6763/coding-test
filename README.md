@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-13 19:30:24 <br>
+Last Update : 2026-02-14 13:22:21 <br>
 
 
 ```
-3357 Solved
- - Kotlin : 2767
+3358 Solved
+ - Kotlin : 2768
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2304,6 +2304,7 @@ baekjoon
       [Kotlin] Affischutskicket
       [Kotlin] Alea Iacta Est
       [Kotlin] Amusement Park Adventure
+      [Kotlin] An Elephant Problem
       [Kotlin] Andando no tempo
       [Kotlin] Another Eruption
       [Kotlin] Archivist
