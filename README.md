@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-14 13:22:21 <br>
+Last Update : 2026-02-15 19:30:54 <br>
 
 
 ```
-3358 Solved
- - Kotlin : 2768
+3359 Solved
+ - Kotlin : 2769
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1912,6 +1912,7 @@ baekjoon
       [Kotlin] SAHUR & IMSA’
       [Kotlin] Sarah's Toys
       [Kotlin] Scale
+      [Kotlin] Scaling Recipe
       [Kotlin] Scavenger Hunt
       [Kotlin] Secret Location
       [Kotlin] Sequences
