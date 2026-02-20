@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-18 19:53:12 <br>
+Last Update : 2026-02-20 19:07:31 <br>
 
 
 ```
-3362 Solved
- - Kotlin : 2772
+3364 Solved
+ - Kotlin : 2774
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -33,8 +33,8 @@ Last Update : 2026-02-18 19:53:12 <br>
  - Go : 1
  - Fortran : 1
  - Algol68 : 1
- - 아희 : 1
  - Swift : 1
+ - 아희 : 1
  - Visual Basic : 1
  - Ada : 1
  - GolfScript : 1
@@ -1813,6 +1813,7 @@ baekjoon
       [Kotlin] Flat
       [Kotlin] Flower Festival
       [Kotlin] Forced Choice
+      [Kotlin] Fred’s Lotto Tickets
       [Kotlin] Frog Leaps
       [Kotlin] GIST 찍기
       [Kotlin] Game Show!
@@ -2208,6 +2209,7 @@ baekjoon
       [Kotlin] 중간계 전쟁
       [Kotlin] 중앙 이동 알고리즘
       [Kotlin] 지각
+      [Kotlin] 지금부터 완장 찬양을 시작하겠습니다
       [Kotlin] 지능형 기차
       [Kotlin] 지능형 기차 2
       [Kotlin] 지속
@@ -2844,9 +2846,9 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [아희] A+B
       [Swift] A+B
       [JavaScript] A+B
+      [아희] A+B
       [C#] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
