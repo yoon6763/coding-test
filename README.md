@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-20 19:07:31 <br>
+Last Update : 2026-02-21 20:16:40 <br>
 
 
 ```
-3364 Solved
- - Kotlin : 2774
+3365 Solved
+ - Kotlin : 2775
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1818,6 +1818,7 @@ baekjoon
       [Kotlin] GIST 찍기
       [Kotlin] Game Show!
       [Kotlin] Gauß
+      [Kotlin] General Election
       [Kotlin] Gift
       [Kotlin] Gift Expire Date
       [Kotlin] Golf
