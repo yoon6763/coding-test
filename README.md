@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-21 20:16:40 <br>
+Last Update : 2026-02-22 11:47:38 <br>
 
 
 ```
-3365 Solved
- - Kotlin : 2775
+3366 Solved
+ - Kotlin : 2776
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2449,6 +2449,7 @@ baekjoon
       [Kotlin] Sticky Keys
       [Kotlin] Sun and Moon
       [Kotlin] Take It or Double It
+      [Kotlin] Tall Enough
       [Kotlin] Telemarketer or not
       [Kotlin] Terms of Office
       [Kotlin] The Merchant of Venice
