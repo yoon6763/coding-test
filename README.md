@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-22 11:47:38 <br>
+Last Update : 2026-02-23 19:56:41 <br>
 
 
 ```
-3366 Solved
- - Kotlin : 2776
+3367 Solved
+ - Kotlin : 2777
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -1893,6 +1893,7 @@ baekjoon
       [Kotlin] PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네
       [Kotlin] POT
       [Kotlin] Papier kamień nożyczki
+      [Kotlin] Parity of Strings
       [Kotlin] Penalty calculation
       [Kotlin] Perfect Cube
       [Kotlin] Perfection
