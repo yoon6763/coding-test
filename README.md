@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-23 19:56:41 <br>
+Last Update : 2026-02-24 20:17:21 <br>
 
 
 ```
-3367 Solved
- - Kotlin : 2777
+3368 Solved
+ - Kotlin : 2778
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2355,6 +2355,7 @@ baekjoon
       [Kotlin] Divide the Cash
       [Kotlin] Do Not Touch Anything
       [Kotlin] Dog Treats
+      [Kotlin] Donut Shop
       [Kotlin] Driving Dilemma
       [Kotlin] Easy-to-Solve Expressions
       [Kotlin] Electric Bill
