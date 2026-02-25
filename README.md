@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-24 20:17:21 <br>
+Last Update : 2026-02-25 20:07:52 <br>
 
 
 ```
-3368 Solved
- - Kotlin : 2778
+3369 Solved
+ - Kotlin : 2779
  - Python : 276
  - Java : 150
  - SQL : 88
@@ -2256,6 +2256,7 @@ baekjoon
       [Kotlin] 폰 노이만
       [Kotlin] 퐁당퐁당 1
       [Kotlin] 플러그
+      [Kotlin] 피갤컵 들어왔으면 이 글부터 봐라
       [Kotlin] 피드백
       [Kotlin] 핑크빈 레이드
       [Kotlin] 한다 안한다
