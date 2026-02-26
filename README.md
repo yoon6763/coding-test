@@ -14,13 +14,13 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-25 20:07:52 <br>
+Last Update : 2026-02-26 19:12:04 <br>
 
 
 ```
-3369 Solved
+3370 Solved
  - Kotlin : 2779
- - Python : 276
+ - Python : 277
  - Java : 150
  - SQL : 88
  - C : 23
@@ -33,8 +33,8 @@ Last Update : 2026-02-25 20:07:52 <br>
  - Go : 1
  - Fortran : 1
  - Algol68 : 1
- - Swift : 1
  - 아희 : 1
+ - Swift : 1
  - Visual Basic : 1
  - Ada : 1
  - GolfScript : 1
@@ -1687,6 +1687,7 @@ baekjoon
       [Python] 주사위 게임
       [Python] 책 정리
       [Python] 캔디 구매
+      [Python] 큰 수 계산
       [Java] 간지干支
       [Java] 단어의 개수
       [Java] 블랙잭
@@ -2851,9 +2852,9 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
+      [아희] A+B
       [Swift] A+B
       [JavaScript] A+B
-      [아희] A+B
       [C#] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
