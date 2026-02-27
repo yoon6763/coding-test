@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-26 19:12:04 <br>
+Last Update : 2026-02-27 18:34:59 <br>
 
 
 ```
-3370 Solved
- - Kotlin : 2779
+3371 Solved
+ - Kotlin : 2780
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1445,6 +1445,7 @@ baekjoon
       [Kotlin] 가장 쉬운 문제를 찾는 문제
       [Kotlin] 감정이입
       [Kotlin] 강력한 비밀번호
+      [Kotlin] 강의실 예약 시스템
       [Kotlin] 개미
       [Kotlin] 거꾸로 구구단
       [Kotlin] 거리의 합
