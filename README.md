@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-02-28 22:26:27 <br>
+Last Update : 2026-03-01 22:06:29 <br>
 
 
 ```
-3372 Solved
- - Kotlin : 2781
+3373 Solved
+ - Kotlin : 2782
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1868,6 +1868,7 @@ baekjoon
       [Kotlin] Lobby
       [Kotlin] Long Division
       [Kotlin] Long Multiplication
+      [Kotlin] Lost Lineup
       [Kotlin] Manhattan
       [Kotlin] Matches
       [Kotlin] Mean Words
