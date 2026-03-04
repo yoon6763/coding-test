@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-03 21:36:46 <br>
+Last Update : 2026-03-04 18:28:10 <br>
 
 
 ```
-3375 Solved
- - Kotlin : 2784
+3376 Solved
+ - Kotlin : 2785
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1339,6 +1339,7 @@ baekjoon
       [Kotlin] 8진수, 10진수, 16진수
       [Kotlin] 9진수
       [Kotlin] ACM 대회 채점
+      [Kotlin] ANA는 회문이야
       [Kotlin] Adding Reversed Numbers
       [Kotlin] Affine Cipher
       [Kotlin] Anagram Checker
