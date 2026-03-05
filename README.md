@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-04 18:28:10 <br>
+Last Update : 2026-03-05 21:01:19 <br>
 
 
 ```
-3376 Solved
- - Kotlin : 2785
+3377 Solved
+ - Kotlin : 2786
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1473,6 +1473,7 @@ baekjoon
       [Kotlin] 나는 친구가 적다 (Large)
       [Kotlin] 나는 친구가 적다 (Small)
       [Kotlin] 나의 학점은
+      [Kotlin] 내비게이션
       [Kotlin] 냉동식품
       [Kotlin] 너의 이름은 몇 점이니
       [Kotlin] 노래 악보
