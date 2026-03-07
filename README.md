@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-06 20:48:05 <br>
+Last Update : 2026-03-07 19:47:07 <br>
 
 
 ```
-3378 Solved
- - Kotlin : 2787
+3379 Solved
+ - Kotlin : 2788
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1538,6 +1538,7 @@ baekjoon
       [Kotlin] 수 뒤집기
       [Kotlin] 수 이어 쓰기 3
       [Kotlin] 수빈이와 수열
+      [Kotlin] 수수수수퍼노바
       [Kotlin] 수열의 비밀 (Easy)
       [Kotlin] 수학은 비대면강의입니다
       [Kotlin] 순서쌍
