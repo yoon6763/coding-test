@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-07 19:47:07 <br>
+Last Update : 2026-03-08 12:29:19 <br>
 
 
 ```
-3379 Solved
- - Kotlin : 2788
+3380 Solved
+ - Kotlin : 2789
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -2267,6 +2267,7 @@ baekjoon
       [Kotlin] 플러그
       [Kotlin] 피갤컵 들어왔으면 이 글부터 봐라
       [Kotlin] 피드백
+      [Kotlin] 피막치
       [Kotlin] 핑크빈 레이드
       [Kotlin] 한다 안한다
       [Kotlin] 할로윈의 사탕
