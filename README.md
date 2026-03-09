@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-08 12:29:19 <br>
+Last Update : 2026-03-09 20:13:52 <br>
 
 
 ```
-3380 Solved
- - Kotlin : 2789
+3381 Solved
+ - Kotlin : 2790
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1603,6 +1603,7 @@ baekjoon
       [Kotlin] 점수 집계
       [Kotlin] 점심시간 레이스
       [Kotlin] 정수의 개수
+      [Kotlin] 정육면체의 네 꼭짓점
       [Kotlin] 좋은 자동차 번호판
       [Kotlin] 좋은놈 나쁜놈
       [Kotlin] 주사위
