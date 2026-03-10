@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-09 20:13:52 <br>
+Last Update : 2026-03-10 20:49:04 <br>
 
 
 ```
-3381 Solved
- - Kotlin : 2790
+3382 Solved
+ - Kotlin : 2791
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1155,6 +1155,7 @@ baekjoon
       [Kotlin] 경제학과 정원영
       [Kotlin] 고양이 사료
       [Kotlin] 고양이는 많을수록 좋다
+      [Kotlin] 골드 러시
       [Kotlin] 교수님 그림이 깨지는데요
       [Kotlin] 귀여운 수
       [Kotlin] 그림 비교
