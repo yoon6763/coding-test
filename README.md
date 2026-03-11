@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-10 20:49:04 <br>
+Last Update : 2026-03-11 21:40:18 <br>
 
 
 ```
-3382 Solved
- - Kotlin : 2791
+3384 Solved
+ - Kotlin : 2793
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1739,6 +1739,7 @@ baekjoon
       [Kotlin] A+B - 10 (제1편)
       [Kotlin] A+B - 6
       [Kotlin] ABC
+      [Kotlin] ABCD-код
       [Kotlin] Absolutely Flat
       [Kotlin] Academic Distance
       [Kotlin] Adding Commas
@@ -2883,6 +2884,7 @@ baekjoon
       [Kotlin] SHA-384
       [Kotlin] SHA-512
       [Kotlin] 占쏙옙
+      [Kotlin] 가위 바위 보 999
       [Kotlin] 구구
       [Kotlin] 더하기
       [Kotlin] 랜덤 게임~~~~~
