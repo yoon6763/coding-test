@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-11 21:40:18 <br>
+Last Update : 2026-03-12 23:27:46 <br>
 
 
 ```
-3384 Solved
- - Kotlin : 2793
+3385 Solved
+ - Kotlin : 2794
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1815,6 +1815,7 @@ baekjoon
       [Kotlin] Eye of Sauron
       [Kotlin] FBI
       [Kotlin] Fan Death
+      [Kotlin] Farma
       [Kotlin] Federal Voting Age
       [Kotlin] Fence Painting
       [Kotlin] Filling Out the Team
