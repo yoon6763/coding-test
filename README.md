@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-12 23:27:46 <br>
+Last Update : 2026-03-16 21:40:03 <br>
 
 
 ```
-3385 Solved
- - Kotlin : 2794
+3389 Solved
+ - Kotlin : 2798
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1168,6 +1168,7 @@ baekjoon
       [Kotlin] 내가 살게, 아냐 내가 살게
       [Kotlin] 너의 핸들은
       [Kotlin] 논리학 교수
+      [Kotlin] 다오의 경주 대회
       [Kotlin] 다중 항목 선호도 조사 (Small)
       [Kotlin] 단어 뒤집기
       [Kotlin] 단어 사다리
@@ -1744,6 +1745,7 @@ baekjoon
       [Kotlin] Academic Distance
       [Kotlin] Adding Commas
       [Kotlin] Ahmed Aly
+      [Kotlin] Airfare Grants
       [Kotlin] Alex Origami Squares
       [Kotlin] Alien
       [Kotlin] Always Follow the Rules in Zombieland
@@ -1871,6 +1873,7 @@ baekjoon
       [Kotlin] Knob
       [Kotlin] Koncert
       [Kotlin] Kortos
+      [Kotlin] Last One Standing
       [Kotlin] Leitura Ótica
       [Kotlin] License to Launch
       [Kotlin] Liczba
@@ -1959,6 +1962,7 @@ baekjoon
       [Kotlin] Sumac Sequences
       [Kotlin] Sums
       [Kotlin] Superlatives
+      [Kotlin] Szachy
       [Kotlin] TGN
       [Kotlin] Tarifa
       [Kotlin] Tawla
