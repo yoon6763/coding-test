@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-16 21:40:03 <br>
+Last Update : 2026-03-17 21:00:18 <br>
 
 
 ```
-3389 Solved
- - Kotlin : 2798
+3390 Solved
+ - Kotlin : 2799
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1112,6 +1112,7 @@ baekjoon
       [Kotlin] A divide B - 2
       [Kotlin] APC는 왜 서브태스크 대회가 되었을까
       [Kotlin] An Interactive Problem
+      [Kotlin] Block Game
       [Kotlin] Blocked Billboard
       [Kotlin] Cow Gymnastics
       [Kotlin] DNA 해독
