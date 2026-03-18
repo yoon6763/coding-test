@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-17 21:00:18 <br>
+Last Update : 2026-03-18 23:35:03 <br>
 
 
 ```
-3390 Solved
- - Kotlin : 2799
+3391 Solved
+ - Kotlin : 2800
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1889,6 +1889,7 @@ baekjoon
       [Kotlin] Meeting Near the Fountain
       [Kotlin] Milk and Honey
       [Kotlin] Mini Fantasy War
+      [Kotlin] Minigolf
       [Kotlin] Missing Numbers
       [Kotlin] Missing Runners
       [Kotlin] Monety
