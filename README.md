@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-19 20:10:09 <br>
+Last Update : 2026-03-20 21:37:43 <br>
 
 
 ```
-3392 Solved
- - Kotlin : 2801
+3393 Solved
+ - Kotlin : 2802
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1361,6 +1361,7 @@ baekjoon
       [Kotlin] Egg Drop
       [Kotlin] FUNGHI
       [Kotlin] Farm
+      [Kotlin] Forbidden Zero
       [Kotlin] Fraud Busters
       [Kotlin] Fridge of Your Dreams
       [Kotlin] From 1987 to 2013
