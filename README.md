@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-20 21:37:43 <br>
+Last Update : 2026-03-21 19:47:48 <br>
 
 
 ```
-3393 Solved
- - Kotlin : 2802
+3394 Solved
+ - Kotlin : 2803
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1720,6 +1720,7 @@ baekjoon
       [Go] 운동
     b3
       [Kotlin] 1 = cute
+      [Kotlin] 1, 2, 3, 많다
       [Kotlin] 10103 주사위 게임
       [Kotlin] 11월 11일
       [Kotlin] 17배
