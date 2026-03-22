@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-21 19:47:48 <br>
+Last Update : 2026-03-22 09:43:14 <br>
 
 
 ```
-3394 Solved
- - Kotlin : 2803
+3395 Solved
+ - Kotlin : 2804
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -2134,6 +2134,7 @@ baekjoon
       [Kotlin] 빅데이터 vs 정보보호 vs 인공지능
       [Kotlin] 빅데이터 정보보호
       [Kotlin] 빙고 막기
+      [Kotlin] 사각지대
       [Kotlin] 사과
       [Kotlin] 사나운 개
       [Kotlin] 사분면
