@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-22 09:43:14 <br>
+Last Update : 2026-03-23 21:23:49 <br>
 
 
 ```
-3395 Solved
- - Kotlin : 2804
+3396 Solved
+ - Kotlin : 2805
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1825,6 +1825,7 @@ baekjoon
       [Kotlin] Federal Voting Age
       [Kotlin] Fence Painting
       [Kotlin] Filling Out the Team
+      [Kotlin] Finding Forks
       [Kotlin] Finding Your Coach
       [Kotlin] FizzBuzz
       [Kotlin] Flat
