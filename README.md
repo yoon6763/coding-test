@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-24 21:16:01 <br>
+Last Update : 2026-03-25 20:55:52 <br>
 
 
 ```
-3397 Solved
- - Kotlin : 2806
+3398 Solved
+ - Kotlin : 2807
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1957,6 +1957,7 @@ baekjoon
       [Kotlin] Snacks within 300 Yen
       [Kotlin] Some Sum
       [Kotlin] Sort 마스터 배지훈
+      [Kotlin] Special Event
       [Kotlin] Speed Limit
       [Kotlin] Speed Limit2
       [Kotlin] Square
