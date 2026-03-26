@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-25 20:55:52 <br>
+Last Update : 2026-03-26 20:27:07 <br>
 
 
 ```
-3398 Solved
- - Kotlin : 2807
+3399 Solved
+ - Kotlin : 2808
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -33,8 +33,8 @@ Last Update : 2026-03-25 20:55:52 <br>
  - Go : 1
  - Fortran : 1
  - Algol68 : 1
- - 아희 : 1
  - Swift : 1
+ - 아희 : 1
  - Visual Basic : 1
  - Ada : 1
  - GolfScript : 1
@@ -2353,6 +2353,7 @@ baekjoon
       [Kotlin] Betygsättning
       [Kotlin] Bicycle
       [Kotlin] Big Number
+      [Kotlin] Blaster's Dash
       [Kotlin] Body Mass Index
       [Kotlin] Boiling Water
       [Kotlin] Buying in Bulk
@@ -2879,10 +2880,10 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [아희] A+B
+      [C#] A+B
       [Swift] A+B
       [JavaScript] A+B
-      [C#] A+B
+      [아희] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
       [GolfScript] Moo
