@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-26 20:27:07 <br>
+Last Update : 2026-03-27 18:12:21 <br>
 
 
 ```
-3399 Solved
- - Kotlin : 2808
+3400 Solved
+ - Kotlin : 2809
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -2103,6 +2103,7 @@ baekjoon
       [Kotlin] 루트
       [Kotlin] 리본 (Easy)
       [Kotlin] 맞았는데 왜 틀리죠
+      [Kotlin] 먼 카드
       [Kotlin] 멀티탭 충분하니
       [Kotlin] 명장 남정훈
       [Kotlin] 모음의 개수
