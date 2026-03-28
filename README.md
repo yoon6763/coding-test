@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-27 18:12:21 <br>
+Last Update : 2026-03-28 11:00:22 <br>
 
 
 ```
-3400 Solved
- - Kotlin : 2809
+3401 Solved
+ - Kotlin : 2810
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1917,6 +1917,7 @@ baekjoon
       [Kotlin] POT
       [Kotlin] Papier kamień nożyczki
       [Kotlin] Parity of Strings
+      [Kotlin] Pascal Library
       [Kotlin] Penalty calculation
       [Kotlin] Perfect Cube
       [Kotlin] Perfection
