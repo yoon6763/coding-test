@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-28 11:00:22 <br>
+Last Update : 2026-03-29 22:21:25 <br>
 
 
 ```
-3401 Solved
- - Kotlin : 2810
+3402 Solved
+ - Kotlin : 2811
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1786,6 +1786,7 @@ baekjoon
       [Kotlin] Cabin Baggage
       [Kotlin] Cakes
       [Kotlin] Canadians, eh
+      [Kotlin] Cat’s Age
       [Kotlin] Changing Strings
       [Kotlin] Chanukah Challenge
       [Kotlin] Chessboard
