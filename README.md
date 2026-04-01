@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-03-30 20:49:42 <br>
+Last Update : 2026-04-01 23:52:55 <br>
 
 
 ```
-3403 Solved
- - Kotlin : 2812
+3405 Solved
+ - Kotlin : 2814
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1789,6 +1789,7 @@ baekjoon
       [Kotlin] Cat’s Age
       [Kotlin] Changing Strings
       [Kotlin] Chanukah Challenge
+      [Kotlin] Checkerboard Rows
       [Kotlin] Chessboard
       [Kotlin] Circus Tent
       [Kotlin] Coffee Cup Combo
@@ -2637,6 +2638,7 @@ baekjoon
       [Kotlin] 재수강
       [Kotlin] 전자레인지
       [Kotlin] 전자레인지14470
+      [Kotlin] 제4회 디미고 프로그래밍 챌린지
       [Kotlin] 주사위 세개
       [Kotlin] 준영이의 등급
       [Kotlin] 줄번호
