@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-01 23:52:55 <br>
+Last Update : 2026-04-02 21:52:50 <br>
 
 
 ```
-3405 Solved
- - Kotlin : 2814
+3406 Solved
+ - Kotlin : 2815
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -2438,6 +2438,7 @@ baekjoon
       [Kotlin] Majestic 10
       [Kotlin] Malvika is peculiar about color of balloons
       [Kotlin] Median
+      [Kotlin] Memories of Passport Control
       [Kotlin] Missed Alarm
       [Kotlin] Máquina de café
       [Kotlin] Next in line
