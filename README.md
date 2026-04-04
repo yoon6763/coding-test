@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-03 20:15:16 <br>
+Last Update : 2026-04-04 13:14:56 <br>
 
 
 ```
-3407 Solved
- - Kotlin : 2816
+3408 Solved
+ - Kotlin : 2817
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1946,6 +1946,7 @@ baekjoon
       [Kotlin] Scale
       [Kotlin] Scaling Recipe
       [Kotlin] Scavenger Hunt
+      [Kotlin] Secret Instructions
       [Kotlin] Secret Location
       [Kotlin] Sequences
       [Kotlin] Serious Problem
