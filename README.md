@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-04 13:14:56 <br>
+Last Update : 2026-04-05 19:21:31 <br>
 
 
 ```
-3408 Solved
- - Kotlin : 2817
+3409 Solved
+ - Kotlin : 2818
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -2155,6 +2155,7 @@ baekjoon
       [Kotlin] 삼각형 분류
       [Kotlin] 삼각형과 세 변
       [Kotlin] 삼각형의 합
+      [Kotlin] 생수병 놓기
       [Kotlin] 생장점
       [Kotlin] 서버
       [Kotlin] 서울사이버대학을 다니고
