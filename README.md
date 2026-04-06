@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-05 19:21:31 <br>
+Last Update : 2026-04-06 21:52:25 <br>
 
 
 ```
-3409 Solved
- - Kotlin : 2818
+3410 Solved
+ - Kotlin : 2819
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1760,6 +1760,7 @@ baekjoon
       [Kotlin] Ant Entrapment
       [Kotlin] Arm Coordination
       [Kotlin] Aron
+      [Kotlin] Arrangement of Contest
       [Kotlin] Astrology
       [Kotlin] Attendance
       [Kotlin] Automated Checking Machine
