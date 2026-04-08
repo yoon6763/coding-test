@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-07 21:38:46 <br>
+Last Update : 2026-04-08 22:19:14 <br>
 
 
 ```
-3411 Solved
- - Kotlin : 2820
+3412 Solved
+ - Kotlin : 2821
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -2308,6 +2308,7 @@ baekjoon
       [Kotlin] 홀수일까 짝수일까
       [Kotlin] 홀짝 수열
       [Kotlin] 홀짝 칵테일
+      [Kotlin] 회전하지 않는 캘리퍼스
       [Python] FBI
       [Python] Zbiór
       [Python] 가지 한 두름 주세요
@@ -2892,9 +2893,9 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
+      [JavaScript] A+B
       [C#] A+B
       [Swift] A+B
-      [JavaScript] A+B
       [아희] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
