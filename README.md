@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-08 22:19:14 <br>
+Last Update : 2026-04-09 20:43:24 <br>
 
 
 ```
-3412 Solved
- - Kotlin : 2821
+3413 Solved
+ - Kotlin : 2822
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1983,6 +1983,7 @@ baekjoon
       [Kotlin] Tawla
       [Kotlin] Tax
       [Kotlin] Teleportation
+      [Kotlin] Test
       [Kotlin] The King
       [Kotlin] The REAL Manhattan distance
       [Kotlin] The fellowship of the ring
@@ -2893,9 +2894,9 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
-      [JavaScript] A+B
       [C#] A+B
       [Swift] A+B
+      [JavaScript] A+B
       [아희] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
