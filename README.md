@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-09 20:43:24 <br>
+Last Update : 2026-04-14 21:03:59 <br>
 
 
 ```
-3413 Solved
- - Kotlin : 2822
+3418 Solved
+ - Kotlin : 2827
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1573,6 +1573,7 @@ baekjoon
       [Kotlin] 야바위 대장
       [Kotlin] 양념 반 후라이드 반
       [Kotlin] 에어팟
+      [Kotlin] 엘프의 검
       [Kotlin] 연속구간
       [Kotlin] 영리한 아리의 포탈 타기
       [Kotlin] 영식이와 친구들
@@ -1800,7 +1801,9 @@ baekjoon
       [Kotlin] Counting Swann’s Coins
       [Kotlin] Cuboids
       [Kotlin] Culture shock
+      [Kotlin] Dalia
       [Kotlin] Dangerous Dive
+      [Kotlin] Das Blinkenlights
       [Kotlin] Death Knight Hero
       [Kotlin] Decoder
       [Kotlin] Deficient, Perfect, and Abundant
@@ -1839,6 +1842,7 @@ baekjoon
       [Kotlin] Frog Leaps
       [Kotlin] GIST 찍기
       [Kotlin] Game Show!
+      [Kotlin] Garbled Message
       [Kotlin] Gauß
       [Kotlin] General Election
       [Kotlin] Gift
@@ -2111,6 +2115,7 @@ baekjoon
       [Kotlin] 루미의 진정한™ 보라색 찾기
       [Kotlin] 루트
       [Kotlin] 리본 (Easy)
+      [Kotlin] 릴레이 가위바위보 게임
       [Kotlin] 맞았는데 왜 틀리죠
       [Kotlin] 먼 카드
       [Kotlin] 멀티탭 충분하니
@@ -2894,9 +2899,9 @@ baekjoon
       [C++] 별 찍기 - 1
       [C++] 큰 수 A+B
       [Text] 한별 찍기
+      [JavaScript] A+B
       [C#] A+B
       [Swift] A+B
-      [JavaScript] A+B
       [아희] A+B
       [Visual Basic] Helicopter
       [Ada] Livestock Count
