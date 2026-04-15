@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-14 21:03:59 <br>
+Last Update : 2026-04-15 23:15:24 <br>
 
 
 ```
-3418 Solved
- - Kotlin : 2827
+3419 Solved
+ - Kotlin : 2828
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1880,6 +1880,7 @@ baekjoon
       [Kotlin] Judging Olympia
       [Kotlin] Jumbled Compass
       [Kotlin] Just A Minim
+      [Kotlin] Just a Joystick
       [Kotlin] J박스
       [Kotlin] KUPC에 어서 오세요
       [Kotlin] Kathmandu
