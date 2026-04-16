@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-15 23:15:24 <br>
+Last Update : 2026-04-16 18:37:41 <br>
 
 
 ```
-3419 Solved
- - Kotlin : 2828
+3420 Solved
+ - Kotlin : 2829
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1901,6 +1901,7 @@ baekjoon
       [Kotlin] Matches
       [Kotlin] Mean Words
       [Kotlin] Meeting Near the Fountain
+      [Kotlin] Microwave Mishap
       [Kotlin] Milk and Honey
       [Kotlin] Mini Fantasy War
       [Kotlin] Minigolf
