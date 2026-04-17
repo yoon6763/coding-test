@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-16 18:37:41 <br>
+Last Update : 2026-04-17 20:12:09 <br>
 
 
 ```
-3420 Solved
- - Kotlin : 2829
+3421 Solved
+ - Kotlin : 2830
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -2047,6 +2047,7 @@ baekjoon
       [Kotlin] 文字列の反転 (Inversion of a String)
       [Kotlin] 次の文字 (Next Character)
       [Kotlin] 点数 (Score)
+      [Kotlin] 繰り返し文字列 (Repeating String)
       [Kotlin] 가뭄(Small)
       [Kotlin] 가변 배열
       [Kotlin] 가위 바위 보
