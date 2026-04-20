@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-19 17:07:09 <br>
+Last Update : 2026-04-20 20:23:08 <br>
 
 
 ```
-3423 Solved
- - Kotlin : 2832
+3424 Solved
+ - Kotlin : 2833
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1825,6 +1825,7 @@ baekjoon
       [Kotlin] Even Sum More Than Odd Sum
       [Kotlin] Even or Odd
       [Kotlin] Exactly Electrical
+      [Kotlin] Exercising
       [Kotlin] Explicit Formula
       [Kotlin] Extreme Temperatures
       [Kotlin] Eye of Sauron
