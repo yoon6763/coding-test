@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-20 20:23:08 <br>
+Last Update : 2026-04-21 19:45:58 <br>
 
 
 ```
-3424 Solved
- - Kotlin : 2833
+3425 Solved
+ - Kotlin : 2834
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -2117,6 +2117,7 @@ baekjoon
       [Kotlin] 등차수열에서 항 번호 찾기
       [Kotlin] 디미고에 가고 싶어
       [Kotlin] 디지털 루트
+      [Kotlin] 라면 끓여 먹자 야호
       [Kotlin] 레몬 따기
       [Kotlin] 루미의 진정한™ 보라색 찾기
       [Kotlin] 루트
