@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-21 19:45:58 <br>
+Last Update : 2026-04-22 21:41:59 <br>
 
 
 ```
-3425 Solved
- - Kotlin : 2834
+3426 Solved
+ - Kotlin : 2835
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1948,6 +1948,7 @@ baekjoon
       [Kotlin] Rectangles
       [Kotlin] Reducing Improper Fractions
       [Kotlin] Report Card Time
+      [Kotlin] Richard Hamming
       [Kotlin] Right Triangle
       [Kotlin] Rogutės
       [Kotlin] Roll the Dice
