@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-22 21:41:59 <br>
+Last Update : 2026-04-23 21:19:29 <br>
 
 
 ```
-3426 Solved
- - Kotlin : 2835
+3427 Solved
+ - Kotlin : 2836
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1749,6 +1749,7 @@ baekjoon
       [Kotlin] ABCD-код
       [Kotlin] Absolutely Flat
       [Kotlin] Academic Distance
+      [Kotlin] Acentuación del idioma español
       [Kotlin] Adding Commas
       [Kotlin] Ahmed Aly
       [Kotlin] Airfare Grants
