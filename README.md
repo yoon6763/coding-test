@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-24 20:15:57 <br>
+Last Update : 2026-04-25 16:32:02 <br>
 
 
 ```
-3428 Solved
- - Kotlin : 2837
+3429 Solved
+ - Kotlin : 2838
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1904,6 +1904,7 @@ baekjoon
       [Kotlin] Lost Lineup
       [Kotlin] Manhattan
       [Kotlin] Matches
+      [Kotlin] Max Volume
       [Kotlin] Mean Words
       [Kotlin] Meeting Near the Fountain
       [Kotlin] Microwave Mishap
