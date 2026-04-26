@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-25 16:32:02 <br>
+Last Update : 2026-04-26 22:35:02 <br>
 
 
 ```
-3429 Solved
- - Kotlin : 2838
+3430 Solved
+ - Kotlin : 2839
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1841,6 +1841,7 @@ baekjoon
       [Kotlin] Finding Your Coach
       [Kotlin] FizzBuzz
       [Kotlin] Flat
+      [Kotlin] Floppies
       [Kotlin] Flower Festival
       [Kotlin] Forced Choice
       [Kotlin] Fred’s Lotto Tickets
