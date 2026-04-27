@@ -14,12 +14,12 @@
 <br>
 
 ## Solved Problems<br>
-Last Update : 2026-04-26 22:35:02 <br>
+Last Update : 2026-04-27 20:58:21 <br>
 
 
 ```
-3430 Solved
- - Kotlin : 2839
+3431 Solved
+ - Kotlin : 2840
  - Python : 277
  - Java : 150
  - SQL : 88
@@ -1756,6 +1756,7 @@ baekjoon
       [Kotlin] Alex Origami Squares
       [Kotlin] Alien
       [Kotlin] Always Follow the Rules in Zombieland
+      [Kotlin] Ampelmännchen
       [Kotlin] Angles
       [Kotlin] Animal King Election
       [Kotlin] Another Cow Number Game
